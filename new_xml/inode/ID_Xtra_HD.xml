@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="ID Xtra HD">
+    <event id="0" start_time="2021-12-08 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Murder Comes to town">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qytete të ndryshme, vende të qeta dhe njerëz të respektuar e të ndershëm, që i bashkon një gjë. Papritur, një vrasje e tmerrshme prish qetësinë e të gjithëve. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-08 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I almost got away with it">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës, tregëtarë droge dhe grabites bankash me histori te ndryshme, por me të njëjtin motiv, u  duhet t'i shpëtojnë burgut me çdo kusht.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-08 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo familje ka sekretet e saj që mund të jenë edhe vrasje të fshehura mirë por për të cilat mund të dyshohet kushdo  dhe kurdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-08 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Evil Stepmother">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta të grave të vendosura për t'ua nxirë jetën gjithë anëtarëve të familjes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-08 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="In pursuit with John Walsh">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktivisti i te drejtave te viktimave Xhon Walsh ka nje mision: zbatimin e ligjit dhe futjen e krimineleve ne burg.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-08 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Finding Andrea: Local Mom">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vazhdojne kerkimet per Andrea Knabel. Ajo u zhduke ne vitin 2019, pasi doli nga shtepia e nenes se saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-08 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="When Philip Met Missy">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje grua zhduket gjate nje udhetimi ne Graceland dhe detektivet i fokusojne hetimet tek i shoqi, Philip</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Raw Terror ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="In pursuit with John Walsh">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktivisti i te drejtave te viktimave Xhon Walsh ka nje mision: zbatimin e ligjit dhe futjen e krimineleve ne burg.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil Stepmother">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta të grave të vendosura për t'ua nxirë jetën gjithë anëtarëve të familjes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-09 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Murder Comes to town">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qytete te ndryshme, vende të qeta dhe njerëz të respektuar e të ndershëm, që i bashkon një gjë. Papritur, një vrasje e frikshme prish qetësinë e të gjithëve. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-09 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I almost got away with it">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës, tregëtarë droge dhe grabitës bankash me histori të ndryshme, por me të njëjtin motiv, u  duhet t'i shpëtojnë burgut me çdo kusht.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-09 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo familje ka sekretet e saj që mund të jenë edhe vrasje të fshehura mirë por për të cilat mund të dyshohet kushdo  dhe kurdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-09 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Evil Stepmother">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta të grave të vendosura për t'ua nxirë jetën gjithë anëtarëve të familjes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-09 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Nightmare Next Door">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet misterioze mes fqinjëve që tronditën Amerikën e Mesme dhe një vështrim të ri mbi të keqen, që mund të jetë pranë gjithësecilit prej nesh.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-09 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The 1980s: The deadliest decad">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një serial mbi krimet më të dhunshme që tronditën Amerikën e viteve 1980'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-09 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo familje ka sekretet e saj që mund të jenë edhe vrasje të fshehura mirë por për të cilat mund të dyshohet kushdo  dhe kurdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-09 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Twisted Sisters">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori njerëzish nga e njëjta familje, të ngatërruar në situata dramatike dhe fatalepër të gjithë.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-09 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="American Monster">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përbindëshi amerikan mund të jetë kudo, i fshehur në çdo rrugë apo shtëpi, pas një buzëqeshjeje të sinqertë si baba, nënë apo njeri çfarëdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-09 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="In pursuit with John Walsh">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktivisti i te drejtave te viktimave Xhon Walsh ka nje mision: zbatimin e ligjit dhe futjen e krimineleve ne burg.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-09 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Reasonable Doubt">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy hetues rishqyrtojne rastet e vrasjeve te diskutueshme, per t'u ardhur ne ndihme familjeve te te denuarve,  nese ata duhet ta cojne ceshtjen ne apel ose te pranojne denimin perfundimtar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-09 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Cold Blooded Alaska: The Hunter">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne vitin 2016 nje seri krimesh por trondisnin qytetin Anchorage ne Alaske. Policia mendon se vrasesi serial po perndiqte qytetin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 00:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Twisted Sisters">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori njerëzish nga e njëjta familje, të ngatërruar në situata dramatike dhe fatalepër të gjithë.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Nightmare Next Door">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet misterioze mes fqinjëve që tronditën Amerikën e Mesme dhe një vështrim i ri mbi të keqen, që mund të jetë pranë gjithësecilit prej nesh...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The 1980s: The deadliest decad">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një serial mbi krimet më të dhunshme që tronditën Amerikën e viteve 1980'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo familje ka sekretet e saj që mund të jenë edhe vrasje të fshehura mirë por për të cilat mund të dyshohet kushdo  dhe kurdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Twisted Sisters">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori njerëzish nga e njëjta familje, të ngatërruar në situata dramatike dhe fatalepër të gjithë.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The Killer Beside Me">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës që janë shumë pranë njerëzve të cilët do të kthehen në viktimat e ardhshme me veprimet apo mosveprimet e tyre fatale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Six Degrees Of Murder">The happy Groom</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Reese eshte burre i mire dhe nje djale i dashur. Por kur e shoqja, Sindi e gjen te vdekur, policia zbulon disa sekrete qe cojne ne vrasjen e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Six Degrees Of Murder">The last shot</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje baba beqar, Richard Mannion bente gjithmone ate qe i thoshte zemra. Por kur gjendet i vrare, policia dyshon se ai e kerkonte dashurine ne vende te gabuara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo familje ka sekretet e saj që mund të jenë edhe vrasje të fshehura mirë por për të cilat mund të dyshohet kushdo  dhe kurdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bad Blood">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serite paraqesin krimin brenda familjes. Familjare qe tradhetojne dhe vrasin te dashurit e tyre</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-10 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Finding Andrea: Local Mom">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vazhdojne kerkimet per Andrea Knabel. Ajo u zhduke ne vitin 2019, pasi doli nga shtepia e nenes se saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-10 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Secrets, lies and private eyes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-10 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Doctor's Orders">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-10 22:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Evil Stepmother">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta të grave të vendosura për t'ua nxirë jetën gjithë anëtarëve të familjes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-11 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Secrets, lies and private eyes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Bad Blood">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serite paraqesin krimin brenda familjes. Familjare qe tradhetojne dhe vrasin te dashurit e tyre</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The Killer Beside Me">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës që janë shumë pranë njerëzve të cilët do të kthehen në viktimat e ardhshme me veprimet apo mosveprimet e tyre fatale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="People Magazine investigates">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zbuloni te verteten duke degjuar historite e disa prej personazheve me te famshem</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Signs Of A Psychopath">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje veshtrim mbi vrasesit me brutale te koheve te sotme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Killer instict with C. Hansen">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Emmy, gazetari investigativ Chris Hansen, fale aftesive te tij gazetareske, na sjell histori te frikshme vrasjesh ne Amerike, sjelljen dhe motivin qe i shtyne keta kriminele drejt krimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Body Cam">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ofron nje portretizim te jetes ne rruge.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Still A Mystery ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse nje ceshtje mbyllet nuk do te thote qe e verteta eshte zbuluar. Vrasje apo vetvrasje? Arratisje apo rrembim? Cdo episod ekzaminon raste krimesh per te cilat ka ende shume pikepyetje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The wives did it">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentari fokusohet ne histori krimesh shokuese te kryera nga gra qe vijne nga martesa poligamie</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil-in-Law">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe martesat e zgjatura në vite shkatërrohen, kur një maniake ndërhyn duke i tejkaluar kufijtë e saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Fog of Murder">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-11 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Secrets, lies and private eyes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-11 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="American Monster">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përbindëshi amerikan mund të jetë kudo, i fshehur në çdo rrugë apo shtëpi, pas një buzëqeshjeje të sinqertë si baba, nënë apo njeri çfarëdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-11 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil-in-Law">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe martesat e zgjatura në vite shkatërrohen, kur një maniake ndërhyn duke i tejkaluar kufijtë e saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-12 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil-in-Law">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe martesat e zgjatura në vite shkatërrohen, kur një maniake ndërhyn duke i tejkaluar kufijtë e saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-12 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil Kin">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tregon hetimet e krimeve qe jane kryer nga vrases seriale mizor.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-12 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Killer instict with C. Hansen">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Emmy, gazetari investigativ Chris Hansen, fale aftesive te tij gazetareske, na sjell histori te frikshme vrasjesh ne Amerike, sjelljen dhe motivin qe i shtyne keta kriminele drejt krimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-12 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Family Man, Family murder">An ID Murder Mystery</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur nje grua shtatzene dhe dy femijet e saj gjendet te vrare, i shoqi dhe babai i femijeve pranon qe ka kryer krimin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-12 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Body Cam">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ofron nje portretizim te jetes ne rruge.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-12 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Murder Comes Home: The Sicknes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-12 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Murder Comes Home: He Made Me ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lila Warwick eshte gjyshe dhe dera e saj eshte e hapur per te gjithe. Por mos ndoshta ajo ia hapi deren edhe nje perbindeshi???</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-12 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Nightmare Next Door">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasjet misterioze mes fqinjëve që tronditën Amerikën e Mesme dhe një vështrim i ri mbi të keqen, që mund të jetë pranë gjithësecilit prej nesh...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-12 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I almost got away with it">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës, tregëtarë droge dhe grabitës bankash me histori të ndryshme, por me të njëjtin motiv, u  duhet t'i shpëtojnë burgut me çdo kusht.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-12 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The 1980s: The deadliest decad">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një serial mbi krimet më të dhunshme që tronditën Amerikën e viteve 1980'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-12 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Evil Stepmother">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të vërteta të grave të vendosura për t'ua nxirë jetën gjithë anëtarëve të familjes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-12 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Twisted Sisters">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori njerëzish nga e njëjta familje, të ngatërruar në situata dramatike dhe fatalepër të gjithë.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-12 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-12 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil Lives Here">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një serial që tregon njerëz që kanë jetuar në familje me vrasës pa e ditur se kë kishin pranë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-12 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Broken Harts">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aksidenti me pasoje vdekjen e Sarah dhe Jennnifer Harts si dhe 6 femijeve te adoptuar rezulton te jete nje vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-12 22:00:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Reasonable Doubt">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy hetues rishqyrtojne rastet e vrasjeve te diskutueshme, per t'u ardhur ne ndihme familjeve te te denuarve,  nese ata duhet ta cojne ceshtjen ne apel ose te pranojne denimin perfundimtar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-12 23:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Evil Kin">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tregon hetimet e krimeve qe jane kryer nga vrases seriale mizor.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-13 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Broken Harts">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aksidenti me pasoje vdekjen e Sarah dhe Jennnifer Harts si dhe 6 femijeve te adoptuar rezulton te jete nje vrasje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-13 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Body Cam">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ofron nje portretizim te jetes ne rruge.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-13 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I almost got away with it">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës, tregëtarë droge dhe grabites bankash me histori te ndryshme, por me të njëjtin motiv, u  duhet t'i shpëtojnë burgut me çdo kusht.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-13 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Six Degrees Of Murder">The happy groom</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Reese eshte bashkeshkort dhe djale i shkelqyer. Kur e shoqja e gjen te vdekur ne shtepi, policia duhet te zbuloje sekretin qe do te zgjidhe vrasjen</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-13 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Six Degrees Of Murder">The last shot</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje baba beqar, Richard Mannion bente gjithmone ate qe i thoshte zemra. Por kur gjendet i vrare, policia dyshon se ai e kerkonte dashurine ne vende te gabuara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-13 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-13 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bad Blood">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Serite paraqesin krimin brenda familjes. Familjare qe tradhetojne dhe vrasin te dashurit e tyre</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-13 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="People Magazine investigates">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zbuloni te verteten duke degjuar historite e disa prej personazheve me te famshem</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-13 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Atlanta Justice">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-13 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-13 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood runs cold">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur humbet nje njeri te shtrenjte, dhimbja eshte e madhe. Por kur krimi mbetet i pazgjidhur dhe autori i pandeshkuar...pikellimi rendohet edhe me shume.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-13 19:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="American Monster">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përbindëshi amerikan mund të jetë kudo, i fshehur në çdo rrugë apo shtëpi, pas një buzëqeshjeje të sinqertë si baba, nënë apo njeri çfarëdo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-13 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Fog of Murder">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-13 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="I almost got away with it">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës, tregëtarë droge dhe grabitës bankash me histori të ndryshme, por me të njëjtin motiv, u  duhet t'i shpëtojnë burgut me çdo kusht.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-14 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Evil Kin">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tregon hetimet e krimeve qe jane kryer nga vrases seriale mizor.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-14 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Blood runs cold">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur humbet nje njeri te shtrenjte, dhimbja eshte e madhe. Por kur krimi mbetet i pazgjidhur dhe autori i pandeshkuar...pikellimi rendohet edhe me shume.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-14 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="I almost got away with it">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasës, tregëtarë droge dhe grabites bankash me histori te ndryshme, por me të njëjtin motiv, u  duhet t'i shpëtojnë burgut me çdo kusht.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-14 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Atlanta Justice">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-14 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-14 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood runs cold">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur humbet nje njeri te shtrenjte, dhimbja eshte e madhe. Por kur krimi mbetet i pazgjidhur dhe autori i pandeshkuar...pikellimi rendohet edhe me shume.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-14 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Signs Of A Psychopath">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje veshtrim mbi vrasesit me brutale te koheve te sotme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-14 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Body Cam">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ofron nje portretizim te jetes ne rruge.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-14 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Blood Relatives">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo familje ka sekretet e saj qe mund te jene edhe vrasje te fshehura mire por per te cilat mund te dyshohet kushdo dhe kurdo...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-14 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The wives did it">Dokumentari</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentari fokusohet ne histori krimesh shokuese te kryera nga gra qe vijne nga martesa poligamie</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-14 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Evil Kin">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tregon hetimet e krimeve qe jane kryer nga vrases seriale mizor.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-14 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Secrets, lies and private eyes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-14 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Cold Blooded Alaska: The Hunter">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne vitin 2016 nje seri krimesh por trondisnin qytetin Anchorage ne Alaske. Policia mendon se vrasesi serial po perndiqte qytetin.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

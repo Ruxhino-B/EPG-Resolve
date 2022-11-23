@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Komedi">
+    <event id="0" start_time="2021-12-09 15:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="S'ka më 2 pa ty">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fabio Troiano, Dino Abbrescia, Belen Rodriguez. Moreno dhe Alfonso, jetojnë të lumtur së bashku prej vitesh. Deri kur njëri prej tyre papritur, zbulon se i pëlqejnë femrat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 17:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Luftë baballarësh">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2015. Will Ferrell, Mark Wahlberg. Edhe pse është njerku i tyre Bred Uitakër, kërkon të jetë babai më i mirë për 2 fëmijët e gruas së tij. Por planet e tij kthehen përmbys kur papritur vjen për vizitë babai i tyre i vërtetë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 18:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mamin apo babin?">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2017. Antonio Albanese, Paola Cortellesi. Një çift që po divorcohet fillon një betejë të ashpër për tre fëmijët. Por kjo nuk është një betejë dosido sepse të dy po luftojnë që të mos e marrin kujdestarinë e tyre.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 20:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="10 gjërat që urrej tek ty">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Julia Stiles, Heath Ledget. Një djalë dhe një vajzë që konsiderohen nga shoqëria si të çuditshëm bien në dashuri me njëri-tjetrin për shkak të një basti.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 22:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Makina lufte">Komedi, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brad Pitt, Ben Kingsley. Kur një gjeneral krenar ngarkohet të përfundojë me qetësi një luftë 8-vjeçare që nuk gëzon përkrahje popullore, ai vendos të bëjë mision të tij fitimin e luftës, por nuk dyshon se mendjemadhësia mund të jetë armiku i tij më i keq.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-10 00:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pottersville">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Shannon, Judy Greer. Një biznesmen i dashur vendas, padashje, tërheq vëmendjen mediatike në qytezën e tij të harruar, kur e ngatërrojnë për Këmbëmadhin legjendar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-10 01:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Zgjedhja e duhur">Komedi, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një don zhuan që kërkon t'u vërtetojë miqëve të tij se është imun ndaj dashurisë, pranon të lidhet me një vajzë për një muaj. Por sa më shumë kohë kalon me të dashurën e tij të re, aq më tepër veniten parimet e tij...  
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 03:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pushime në Parajsë">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy adoleshentë ftohen për fundjavë në një vendpushim në Florida. Sigurisht që qëllimi i tyre është që të njohin sa më shumë vajza, por fati ka plane shumë më të mëdha për to...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 04:30:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Lojë e dyfishtë">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Antonio Banderas, Melanie Griffith. Art Dodge, pronari mashtrues i një galerie pikturash bie në dashuri me dy motra. Për t'i dhënë zgjidhje problemit vendos të shpikë vëllanë e tij binjak.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 06:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Komikët">Komedia Italiane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Paolo Villaggio Renato Pozzetto. Dy komedianë modestë dhe ngatërrestarë, si për çudi dalin nga ekrani i kinemasë në jetën e vërtetë, por edhe këtu aventurat dhe të qeshurat nuk do të kenë të sosur... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 08:10:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Agjenti sekret">Parodi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Leslie Nielsen, Nicollette Sheridan. Parodi e filmave të "James Bond". Një agjent sekret i paaftë dhe ndihmësja e tij bukuroshe, përpiqen të ndalin planin djallëzor të një njeriu për nënshtrimin e botës... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 09:35:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Vafsh në djall, Gëte 3">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Studentët e gjimnazit Gëte janë gati të diplomohen, por mbarimi i shkollës nuk përkon me përfundimin e telasheve. Kur ata vendosin të rebelohen kundër sistemit arsimor, i mbetet profesorit të tyre të gjejë një zgjidhje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 11:40:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Çfarë duan burrat">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2019. Taraji P. Henson. Ali Devis është një agjente e suksesshme sporti. Kur i refuzohet ngritja e merituar në detyre, ajo nis të pyes veten se ç'mund të bëjë për të ecur përpara në botën e meshkujve, deri kur fillon të dëgjojë mendimet e burrave.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 13:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dasmë përrallore">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2016. Ricky Memphis, Adriano Giannini, Giorgio Pasotti. Me rastin e dasmës së njërit prej tyre, pesë shokë të ngushtë gjimnazi, takohen 20 vjet pas maturës në Zyrih. Por të papriturat që do t'ju dalin, nuk do lejojnë të argëtohen ashtu sic duan. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 15:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Leksione dashurie">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pierce Brosnan, Salma Hayek, Jessica Alba. Beqari i fundit në Angli është i hapur ndaj të gjitha alternativave, deri kur një ditë, planet i prishen përgjithmonë! Ai bëhet baba, e më pas, bie në dashuri.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 16:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Gjashtë qesharakët">Komedi, uestern</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Adam Sandler. Kur babai i tij i jashtëligjshëm rrëmbehet, Tomi Stokbërn niset drejt Perëndimit në një mision shpëtimi, që do ta njohë me pesë vëllezërit që nuk dinte që i kishte...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 18:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Dekorimet e Krishtlindjeve">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matthew Broderick, Danny DeVito. Dy fqinj gjithmonë xhelozë për njëri tjetrin, fillojnë një garë si kurrë më parë, kur njëri prej tyre dekoron shtëpinë e tij me aq shumë drita sa mund të duket nga hapësira...  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 20:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shoqëruese për Majkun e Dejvin">Komedi, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2016. Zac Efron, Adam Devine. Dy vëllezër që e kanë mendjen vetëm tek festat, nxjerrin një lajmërim për dy shoqëruese për dasmën e motrës. Duke shpresuar për një fundjavë të çmendur, shumë shpejt ata kuptojnë se vajzat janë të papërmbajtshme.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 22:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Janë thjesht fantazma">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christian De Sica. Tre vëllezër të mbetur trokë, vendosin të shfrytëzojnë bestytninë e fortë të italianëve jugorë për të bërë para, duke u shtirur si gjuetarë fantazmash. Por telashet nisin kur shfaqet fantazma e babait të tyre, që di vetëm të shpërdorjë paratë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 23:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Një natë prej amatori">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jason Biggs. Në pamundësi për të punuar në profesionin e tij, një baba i ardhshëm pranon të punojë si shofer. Pa e ditur se duhet të shoqërojë prostituta luksi, ai përfshihet në situata të çmendura ku do ta kete të vështirë të mbetet baba model.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-11 01:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Tekniku i çmendur">Jim Carrey</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per Stiven Kovaks tarifa e televizorit kabllor arriti majat. Tani ai ka nje shok qe i ka dale jashte kontrollit, nje mik qe nuk pranon ta lesh pas dore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-11 02:45:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Mr. Bean bën vetë çdo gjë">Serial komik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rowan Atkinson, në rolin e tij më të pëlqyer nga publiku. Jeta për Mr. Bean, është një sfidë dhe kudo ku ai shkon gjithçka kthehet përmbys. E megjithë këto, falë këmbënguljes së tij, ai gjithmonë gjen një zgjidhje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-11 03:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Mr. Bean rikthehet në shkollë">Serial komik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rowan Atkinson, në rolin e tij më të pëlqyer nga publiku. Jeta për Mr. Bean, është një sfidë dhe kudo ku ai shkon gjithçka kthehet përmbys. E megjithë këto, falë këmbënguljes së tij, ai gjithmonë gjen një zgjidhje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-11 03:40:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Dy asët">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Woody Harrelson, Randy Quaid. Një lojtar i famshëm i lojes buling, karriera e të cilit pritet papritur në mes, shpreson të çoje një të panjohur drejt suksesit dhe fames, por aventurat që do të përjetojnë janë të panumerta.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-11 05:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Profesori i marrosur">Eddie Murphy</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje profesor teper i shendoshe bie ne dashuri me nje femer shume te bukur. Por permasat e trupit e vene ne siklet, ndaj vendos te pije nje substance kimike qe e ka shpikur vete dhe shnderrohet ne nje djale simpatik e te hedhur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-11 07:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Katër gradë nën zero">Komedi, sport</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në historinë e vërtetë të skuadrës së parë Xhamajkiane, të rrëshqitjes me slitë, të cilët me ndihmën e një trajneri që askush nuk e donte, morën pjesë në Lojërat Olimpike Dimërore.  
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-11 08:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Skuadra ime">Komedi, sport</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jim Bellushi. Bazuar në histori të vërtetë. I përgatitur për karrierë premtuese në bejsboll, ëndrra e John Mazetti coptohet kur lihet jashtë Liges së Bejsbollit. Por një lojë me skuadrën e tij të padisiplinuar, mund të ndryshojë gjithçka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 10:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Aspirant për vejan">Komedia Italiane </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fabio De Luigi, Luciana Littizzetto. Kur merr lajmin se gruaja e tij pasanike dhe shpirtkeqe ka vdekur në një aksident ajror, Alberto fillon festën, derisa kuptohet se ajo nuk hipi kurrë në avion... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 12:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Dëbora le të bjerë">Komedi, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në prag të Krishtlindjes, një stuhi e papritur dëbore mbulon një qytet të vogël duke nxitur një zinxhir ngjarjesh që do të ndryshoje në mënyrën më të papritur jetët e një grupi të rinjsh.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 13:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Femrat kundër meshkujve">Komedia Italiane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Claudio Bisio, Nancy Brilli, Salvatore Ficarra. Pas suksesit të filmit 'Meshkujt kundër femrave', vjen radha e femrave, për të kërkuar dëshpërimisht burrin ideal... Por a do munden dot?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 15:10:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Dita e Nënës">Komedi, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2016. Jennifer Aniston, Kate Hudson. Nga regjisori i Gruaja e bukur, vjen një komedi frymëzuese rreth katër familjeve, hisoritë e të cilave ndërthuren gjatë një jave kaotike që kulminon me 'Ditën e nënës'...
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 17:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Princi abuzues">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Sarah Felberbaum, Christian De Sica, Alessandro Siani. Antonio, i cili punon si nje 'kavie' vullnetare nëpër firmat farmaceutike, do ta gjejë veten të dashuruar pas Princeshës Leticia. Por a do mundet dot ai të fitojë zemrën e saj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 18:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Si Fëmijë 2">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2013. Kasti i jashtëzakonshëm i 'Si Fëmijë', rikthehet me ca shtesa që do ta bëjnë këtë film akoma më zbavitës. Pas fundjavës së paharruar vite më parë, Leni vendos që të shpërngulë familjen në qytezën e lindjes, për të qënë afër miqve.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 20:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ritëm i përsosur">Komedi, muzikë, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A.Kendrick. Beka sapo ka filluar universitetin. Kur talenti i saj në te kënduar zbulohet, ajo detyrohet t'i bashkohet grupit muzikor të vajzave. Me stilin e saj, ajo do ta ndryshojë ritmin e grupit dhe së bashku do të jenë të pandalshme...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-11 22:20:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Fundi i botës">Komedi, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Simon Pegg, Nick Frost.20 vite pasi dështojnë të vizitojnë gjithë baret e qytetit, pesë miq e provojnë sërish, por shumë shpejt zbulojnë se janë shpresa e fundit e njerëzimit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-12 00:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Skuadra speciale e policise">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alice Pol, Dany Boon. Edhe pse nuk ia thote shume si police, nje vajze ben te pamunduren t'i bashkohet skuadres speciale te policise.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-12 01:50:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Ka diçka tek Meri">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cameron Diaz, Ben Stiller, Matt Dillon. Edhe pse takimi i parë ishte një katastrofë dhe kanë kaluar 13 vjet, Tedi ka ende ndjenja për Merin, prandaj ka punësuar një hetues për ta gjetur. Por ai nuk është i vetmi që ndjen diçka për Merin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-12 03:55:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ushtari Megan">Bjonde dhe e rrezikshme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jessica Simpson, Vivica Fox, Steve Guttenberg. Një aktore e famshme, humbet pothuajse gjithçka brenda ditës. Në përpjekje për të ndryshuar jetën e saj, ajo regjistrohet në ushtri. Por në kampin e stërvitjes, fama nuk të hyn aspak në punë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-12 05:35:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Uragani Sharline">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>S.Martin, Q.Latifah. Një avokat i divorcuar njeh një grua në nje chat room online qe ndodhej ne burg. Ajo arratiset për ta takuar dhe fillon te shkaktoje trazira ne jeten e tij. Por te dy do te zbulojne se kane nevoje per njeri-tjetrin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-12 07:20:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Një zgjim i lavdishëm">Komedi </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rachel McAdams, Harrison Ford, Diane Keaton. Një producente televizive, pranon sfidën për të bërë sa më popullor një emision mëngjesor, duke bashkuar dy drejtues që nuk shkojnë fare me njëri-tjetrin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-12 09:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Holmsi dhe Uatsoni">Komedi, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Will Ferrell, John C. Reilly. Detektivi legjendar Sherlok Holmes dhe asistenti i tij besnik Doktor Uatsoni i kanë minutat e numëruara për të zbardhur vrasjen në "Buckingham Palace", në të kundërt, viktima e rradhës do të jetë Mbretëresha.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-12 10:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shefi, receta e lumturisë">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jean Reno, Michael Youn. Një shef kuzhine me eksperiencë, puna e të cilit rrezikohet nga pronari i ri i restorantit, bashkon forcat me një kuzhinier amator, në përpjekje për të shpëtuar karrierat e të dyve...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-12 12:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Krishtlindje '91">Komedia Italiane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christian De Sica, Massimo Boldi. Familjet shumëngjyrëshe, këtë herë do të takohen në një hotel luksoz në Zvicër dhe sigurisht që  aventurat dhe situatat qesharake nuk do të mungojnë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-12 13:55:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pushimet e Pi Uisë">Komedi, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Paul Reubens, Joe Manganiello. Pas një takimi fatal me një të huaj misterioz, Pi Ui Hermani, një i rritur që sillet ende si fëmijë dhe që nuk është larguar kurrë nga qyteza e Fairville-it, frymëzohet të bëjë pushimet e para të jetës së tij...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-12 15:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Bekuar qoftë injoranca">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2017. Marco Giallini, Alessandro Gassman. Dy profesorë rivalë fillojnë mes tyre një luftë të hapur: njëri duhet të dalë nga rrjetet sociale në internet pa të cilat nuk bën dot, e tjetri duhet të futet në to edhe pse nuk ia ka idenë fare.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-12 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Krishtlindjet më të bukura">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur miqtë e vjetër të universitetit, ribashkohen 15 vjet pas Krishtlindjes së fundit te kaluar bashkë, zbulojnë se sa e lehtë është të ringjallen rivalitetet apo dashuritë e harruara prej kohësh. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-12 19:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Takimi i përkryer">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Noah Centineo. Për të paguar studimet e kolegjit, një nxënës i shkollës së mesme krijon një aplikacion, ku i ofron kujtdo shërbimet e tij si shoqërues me qira për çdo lloj eventi.
+
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-12 20:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mendo si burrë ">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Chris Brown, Gabrielle Union. Balanca e sekseve për 4 çifte do të prishet. Gratë po përdorin një libër për të menduar si burra, por kur partnerët zbulojnë sekretin, fillon edhe beteja e vërtetë. Kush do të fitojë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-12 22:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Lojëra shokësh">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Josh Duhamel. Pas një shkëputjeje pesëvjeçare, Bobi ribashkon pesë miqtë e tij për "Lojërat e shokëve", një garë e çmendur sfidash absurde fizike dhe mendore ku fituesi do të fusë në xhep 150,000 dollarë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-13 00:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Xheku dhe Xhilli">Komedi </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e një biznesmeni (Adam Sandler) të suksesshëm e të lumtur kthehet në një kaos të pashmangshëm, kur motra e tij binjake (gjithashtu Adam Sandler), por shumë ndryshe nga ai vjen për vizitën e përvitshme të festës së Falenderimeve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-13 01:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Detektivi Mindhorn">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një aktori të rënë nga lavdia, i jepet mundësia të rigjallërojë karrieren e tij, kur një kriminel psikopat beson se personazhi i tij është real dhe kërkon të flasë vetëm me të. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-13 03:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Udhëtim me një rok star">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jonah Hill, Russell Brand. Një asistent i ri i një kompanie muzikore dërgohet në Londër, për të bindur një legjendë roku të shthurur, që të japë koncert në Los Anxhelos... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-13 04:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="U diplomova...Po tani?">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alexis Bledel, Zach Gilford, Jane Lynch. Një vajzë e sapo diplomuar, detyrohet të rikthehet në shtëpi dhe të jetojë me nënën e saj, ndërkohë që përpiqet të gjejë një punë, njeriun dhe rrugën e duhur në jetë... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-13 06:20:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Mafia">Parodi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jay Mohr, Christina Applegate, Lloyd Bridges. Parodi e sagës 'Kumbari'. Djali i një mafiozi që erdhi nga hiçi merr në dorë 'biznesin' e familjes, sigurisht me situata nga më qesharaket. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-13 07:45:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Meshkujt kundër femrave">Komedia Italiane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Paola Cortellesi, Fabio De Luigi, Sarah Felberbaum, Chiara Francini, Lucia Ocone. Një sërë ngjarjesh që ndërthuren me njëra tjetrën, në 'luftën' e përjetshme mes meshkujve dhe femrave...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-13 09:35:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Si të bësh para pa punuar">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Whoopi Goldberg. Ajo është një agjente e aftë burse. Përballë refuzimit të radhës për ngritje në detyrë, ajo vendos të braktisë punën dhe të hyjë në biznes me klientët në emër të një partneri imagjinar, Z.Robert Kati duke patur sukses. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-13 11:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Bodyguards: Truprojat">Komedia Italiane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christian De Sica, Massimo Boldi, Biagio Izzo. Pasi pushohen nga puna për paaftësinë e tyre, tre policë vendosin të fillojnë punë si truproja. Por edhe në këtë profesion, telashet dhe keqkuptimet nuk do t'ju ndahen... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-13 13:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Më pëlqen ky ritëm">Parodi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parodi e filmave: Ruaje vallëzimin e fundit, Një hap, Djemtë që tundin pistën, Fama. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-13 14:25:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Spanglisht">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A.Sandler, T.Leoni. Flor mbërrin bashkë me të bijën nga Meksika në SHBA për një jetë me të mirë. Takon kuzhinierin Klaski, një shef me nam që e punëson në shtëpinë e tij. Por, si të merret vesh për të thënë ato që do? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-13 16:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Krishtlindje plot dashuri">Komedia Italiane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christian De Sica, Sabrina Ferilli, Massimo Boldi, Danny De Vito. Tre çifte shumë të ndryshëm nga njëri tjetri, rastësisht takohen në të njëjtin vend ku po festojnë Krishtlindjen. Një takim plot ngatërresa, të qeshura dhe. plot dashuri.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-13 18:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Makina lufte">Komedi, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brad Pitt, Ben Kingsley. Kur një gjeneral krenar ngarkohet të përfundojë me qetësi një luftë 8-vjeçare që nuk gëzon përkrahje popullore, ai vendos të bëjë mision të tij fitimin e luftës, por nuk dyshon se mendjemadhësia mund të jetë armiku i tij më i keq.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-13 20:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Super krishtlindjet Italiane">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një film që përmbledh skenat më gazmore të komedive italiane për krishtlindje ndër vite, me interpretuesit kryesorë: Massimo Boldi, Christian De Sica, Sabrina Ferilli, Claudio Bisio etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-13 21:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Hot fuzz">Komedi, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 2007. Simon Pegg, Nick Frost. Polici më i mirë i Londrës, transferohet në një fshat ku krimi nuk ekziston, por shumë shpejt bashkë me partnerin e tij, zbulojnë se aksidentet vekjeprurëse çuditësisht ndodhin shpesh.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-13 23:55:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Doxhboll">Komedi/Sport</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ben Stiller, Vince Vaughn. Loja 'Topa Djegës' në Amerikë quhet Doxhboll. Madje është disiplinë sportive dhe një skuadër e përbërë nga njerëz të zakonshëm po lufton me mish e me shpirt që ta fitojë, sepse palestra e tyre është në rrezik.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

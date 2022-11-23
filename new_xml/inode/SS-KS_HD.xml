@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SS-KS HD">
+    <event id="0" start_time="2021-12-06 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-07 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-07 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-08 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-08 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 07:00:00" duration="38700">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 17:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Conference League - Golat Direkt">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa dhe Conference League, sezoni 2021-2022. Lidhje direkte me cdo sfide te mbremjes, gola, raste, kartona, episode dhe gjithcka tjeter qe ofron ky kompeticion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 19:45:00" duration="40500">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-11 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-11 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-12 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-12 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-13 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-13 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-14 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-14 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-15 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-15 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-16 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-16 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-17 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-17 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-18 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-18 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-19 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-19 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-20 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-20 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-21 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-21 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-22 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-22 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-23 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-23 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-24 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-24 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-25 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-25 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-26 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-26 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-27 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-27 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-28 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-28 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-29 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-29 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-30 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-30 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-31 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-31 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacion rreth programit te Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

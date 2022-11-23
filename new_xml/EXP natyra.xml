@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="EXP natyra">
+    <event id="0" start_time="2021-12-09 12:25:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Tropiku i Gaforres 4">India</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sajmon Riv ndërmerr një aventurë emocionuese me një qëllim të qartë: të eksplorojë skajin verior të Tropikëve, rajonin më të rëndësishëm, të bukur, të turbulluar, të rrezikuar e të dhunshëm të botës sonë. Udhëtimi nis nga Meksika</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 13:25:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Fundjava të gjata, në shoqërin">e Rik Stain-Selanik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rik Stein vjen me një udhëtim të ri. Këtë rradhë ai do të na tregojë 
+eksplrorimin kulinar që i bën Bordosë në Francë, Rejkjavikut në Islandë , Berlinit në Gjërmani, Vienës në Austri dhe Bolonjës në Itali .
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 14:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mongolia-Vendet më tërheqëse ">te peshkimit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Robson Grin, aktor dhe peshkatar ekstrem. Ndiqeni atë, në aventurat e tij të peshkimit. Ai do të udhëtojë në disa nga vendet më ekstreme dhe emocionuese në planet, për të kapur peshkun më të madh, më agresiv dhe më të pazakontë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 15:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gjirafat, Gjigantët e butë te Afrikes">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Është një kafshë të cilën je i detyruar ta shohësh nga poshtë. Por çfarë dimë në të vërtet për gjirafat? Është e vërtetë që këta gjigantë të butë janë anashkaluar. Por jo nga një njeri. Dr. Xhulian Fenesi i njeh gjirafat më mirë se kushdo. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 16:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Një aventurë epike nëpër Greqi">Natyre-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky cikël dokumentar do të na shëtisë në Greqi. Do të studiojmë gjithçka greke, si të lashtë edhe moderne, përmes një udhëtimi në historinë e saj, jashtëzakonisht të pasur. Le të kuptojmë Greqinë moderne, përmes të shkuarës së saj, që i ka dhënë formë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 17:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal V">Dokumentar-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 18:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mes shijeve te Frances">Natyre-11</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirë se erdhët në Francë! Ndiqni Xhejms Martin tek përshkon këtë vend magjepsës dhe eksploron më të mirën e kuzhinës franceze. Ai do te rizbulojë destinacione që kanë gatime dhe verë fantastike...
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mrekullitë e Kroacisë ">Gjiri i Kvarnerit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Kroaci mbizotëron moda, historia dhe tifozët e sportit. Kjo tokë evropiane strehon fisnikërinë të rrethuar nga bukuritë e natyrës. Njihuni me traditën e këtij vendi përmes këngëve dhe kërcimeve...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kafshët me kamera">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A nuk do të ishte e pabesueshme sikur të mund ta shihnim botën nga këndvështrimi i kafshëve? Pikërisht kjo është ajo që do të bëjmë në këtë cikël. Janë vetë kafshët që do të bëjnë filmimet...
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 21:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gjuetia 4-Uri në det ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Strategjitë që përdorin balenat blu, peshkaqenët, luanët e detit, fregatat dhe delfinët për të ndjekur gjahun.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-09 21:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Toka dhe njerëzimi ">Zjarri-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në historinë e të kaluarës tonë, një faktor shumë i rëndësishëm, ende ka mbetur një mister: Toka. Profesor Ian Stjuart, do të na tregojë sesi gjeologjia, gjeografia dhe klima, kanë influencuar mbi njerëzimin.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-09 23:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Të fshehtat e Mesdheut ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim për të zbuluar të papriturën dhe të harruarën, të jashtëzakonshmen dhe të çuditshmen. Italia, Turqia dhe Riviera Franceze, do të jenë protagonistet në këtë udhëtim të mahnitshëm.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-09 23:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Forcat e natyrës">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni profesorin Brajan Koks, i cili kombinon dhe analizon disa nga pamjet më spektakolare në Tokë dhe do të zbulojë se si krijohet bukuria e planetit,
+falë ligjeve të fshehta të natyrës.
+ 
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 00:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kafshët trazovaçe ">Telashe të dyfishta sez 2 Ep.3 </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kafshë e egërsuar shtëpiake të lodh shumë, por kur ke dy që mësojnë nga njëri-tjetri, telashet janë të dyfishta...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 01:45:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 02:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Misteret nënujore">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë të fshehura nën sipërfaqen e oqeaneve të botës, shkëmbinjtë koralorë, po zhduken me një rritëm shumë të shpejtë. Një grup shkencëtarësh dhe kineastësh, po luftojnë për ta ndaluar këtë katastrofë. Një aventurë drithëruese oqeanike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 03:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Një udhëtim në kulinarinë Britanike">Natyre-7,8</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeni të dhënë pas gatimit? Ndiqni udhëtimin tonë në gjithë Britaninë për të takuar kuzhinierë dhe prodhues, që bëjnë maksimumin për ta bërë ushqimin britanik një nga më të mirët në botë. Përjetoni një aventurë ushqimore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 04:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Ditarët e tokës">Kercimet me spektakolare-9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim, në kërkim të ritualeve fetare më të mrekullueshme në botë. Do të njihemi me vende dhe kultura të jashtëzakonshme dhe shumë intriguese. Aty ku njerëzit kanë krijuar ritualë për të përmbushur nevojat e tyre shpirtërore...  
+
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 05:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere VI">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 06:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 07:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Forcat e natyrës">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni profesorin Brajan Koks, i cili kombinon dhe analizon disa nga pamjet më spektakolare në Tokë dhe do të zbulojë se si krijohet bukuria e planetit,
+falë ligjeve të fshehta të natyrës.
+ 
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 08:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Aktivitete te dyshimta">Kafshet trazovace sez 3. ep.4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur bëhet fjalë për anëtarët me katër këmbë të familjes, ajo është pak a shumë dashuri pa kushte, pavarësisht se çfarë bëjnë ata. Por cilët janë qentë më mistrecë? Ne i kemi ardhur globit vërdallë në kërkim të kafshës më trazovaçe.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 08:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Misteret nënujore">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë të fshehura nën sipërfaqen e oqeaneve të botës, shkëmbinjtë koralorë, po zhduken me një rritëm shumë të shpejtë. Një grup shkencëtarësh dhe kineastësh, po luftojnë për ta ndaluar këtë katastrofë. Një aventurë drithëruese oqeanike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 09:45:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere VI">Natyre-3-Norvegjia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 10:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Milfontes-Aromë Tregu">Natyre-12</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 11:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Nju Orlins- Misisipi i madh">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim eksplorues prej mbi 3000 kilometrash përgjatë një lumi - Missisipi, për të treguar pse ky lumë është më i rëndësishem në Shtetet e Bashkuara të Amerikës... 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 12:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Tropiku i Gaforres 5">Nga Bangladeshi ne Burna</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sajmon Riv ndërmerr një aventurë emocionuese me një qëllim të qartë: të eksplorojë skajin verior të Tropikëve, rajonin më të rëndësishëm, të bukur, të turbulluar, të rrezikuar e të dhunshëm të botës sonë. Udhëtimi nis nga Meksika</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 13:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Fundjava të gjata, në shoqërin">e Rik Stain-Palermo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rik Stein vjen me një udhëtim të ri. Këtë rradhë ai do të na tregojë 
+eksplrorimin kulinar që i bën Bordosë në Francë, Rejkjavikut në Islandë , Berlinit në Gjërmani, Vienës në Austri dhe Bolonjës në Itali .
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 14:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Madagaskar-Vendet më tërheqës ">te peshkimit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Robson Grin, aktor dhe peshkatar ekstrem. Ndiqeni atë, në aventurat e tij të peshkimit. Ai do të udhëtojë në disa nga vendet më ekstreme dhe emocionuese në planet, për të kapur peshkun më të madh, më agresiv dhe më të pazakontë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 15:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Ju prezantojmë familjen">Planeti i majmunëve 1 </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në botën e primatëve. Nga tarsieri ninxha, një grabitqar sa një top tenisi, deri te kopetë madhështore të xheladave në malet e Etiopisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 16:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fushëbeteja: Lufta për rinocerontet">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Afrikën e Jugut vriten 18 rinocerontë çdo orë. Katër anëtarë të forcave speciale të marinës amerikane ndërmarrin një mision, që më vonë do kthehet në nevojë: të ndalojnë gjuetinë pa leje të rinocerontëve. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 17:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Sfida ekstreme ">Nje ngjitje e pamundur</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I xhiruar përgjatë dy vite dhe në 5 kontinente, ky dokumentar ka ndjekur më të mëdhenjtë e alpinizmit, teksa tentojnë të ngjisin malet dhe shkëmbinjtë më të vështirë, të bukur dhe spektakolarë në planet.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-10 17:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal V">Dokumentar-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-10 18:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mes shijeve te Frances">Natyre-12</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirë se erdhët në Francë! Ndiqni Xhejms Martin tek përshkon këtë vend magjepsës dhe eksploron më të mirën e kuzhinës franceze. Ai do te rizbulojë destinacione që kanë gatime dhe verë fantastike...
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-10 19:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kafshët me kamera">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A nuk do të ishte e pabesueshme sikur të mund ta shihnim botën nga këndvështrimi i kafshëve? Pikërisht kjo është ajo që do të bëjmë në këtë cikël. Janë vetë kafshët që do të bëjnë filmimet...
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-10 20:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Ishujt e Amerikës">Natyre-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur themi Amerikë, të gjithë përfytyrojmë ndërtesa të larta, autostrada pa fund apo dyqane super të mëdhenj. Por ekziston edhe një Amerikë tjetër, të cilën Martin Kluns ka vendosur ta zbulojë. Ju ftojmë të shijoni ishujt e Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-10 20:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gjuetia 5-Asnjë vend për t'u fshehur">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pothuajse gjysma e sipërfaqes së tokës në botë, mbulohet nga shkretëtira ose nga djerrina.
+Këto janë habitatet më të ekspozuara në planetin tonë. Në asnjë vend tjetër s'është më i dukshëm tensioni mes grabitqarit dhe presë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-10 21:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Toka dhe njerëzimi ">Planeti yne-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në historinë e të kaluarës tonë, një faktor shumë i rëndësishëm, ende ka mbetur një mister: Toka. Profesor Ian Stjuart, do të na tregojë sesi gjeologjia, gjeografia dhe klima, kanë influencuar mbi njerëzimin.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-10 22:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Të fshehtat e Mesdheut ">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në jug të Francës, Trevori do të kaubojë, ndërsa në Afrikën e Veriut, mongolin karizmatik të filmave, që çoi filmin "Lufta e Yjeve" në Tunizi. Por fillimisht, udhëtimi do të nisë në Greqi, në një nga 6 000 ishujt e saj më të bukur, Santorinin.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-10 23:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Forcat e natyrës">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni profesorin Brajan Koks, i cili kombinon dhe analizon disa nga pamjet më spektakolare në Tokë dhe do të zbulojë se si krijohet bukuria e planetit,
+falë ligjeve të fshehta të natyrës.
+ 
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 00:45:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Misteret nënujore">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë të fshehura nën sipërfaqen e oqeaneve të botës, shkëmbinjtë koralorë, po zhduken me një rritëm shumë të shpejtë. Një grup shkencëtarësh dhe kineastësh, po luftojnë për ta ndaluar këtë katastrofë. Një aventurë drithëruese oqeanike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 01:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 02:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Aktivitete te dyshimta">Kafshet trazovace sez 3. ep.4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur bëhet fjalë për anëtarët me katër këmbë të familjes, ajo është pak a shumë dashuri pa kushte, pavarësisht se çfarë bëjnë ata. Por cilët janë qentë më mistrecë? Ne i kemi ardhur globit vërdallë në kërkim të kafshës më trazovaçe.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 03:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Nju Orlins- Misisipi i madh">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim eksplorues prej mbi 3000 kilometrash përgjatë një lumi - Missisipi, për të treguar pse ky lumë është më i rëndësishem në Shtetet e Bashkuara të Amerikës... 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 04:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Jeta e Nuselalës  ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shpesh anëtarët e familjes së nuselalës portretizohen si të këqij. Por, a e meritojnë ato këtë reputacion të keq? Tani, me shkencën novatore do të futemi në botën e nuselalave dhe do të zbulojnë natyrën e tyre të vërtetë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 05:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere VI">Natyre-3-Norvegjia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 06:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 07:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Forcat e natyrës">Natyre-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni profesorin Brajan Koks, i cili kombinon dhe analizon disa nga pamjet më spektakolare në Tokë dhe do të zbulojë se si krijohet bukuria e planetit,
+falë ligjeve të fshehta të natyrës.
+ 
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-11 08:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kafshët Trazovaçe III">Qente e papare-8</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur bëhet fjalë për anëtarët me katër këmbë të familjes, ajo është pak a shumë dashuri pa kushte, pavarësisht se çfarë bëjnë ata. Por cilët janë qentë më mistrecë? Ne i kemi ardhur globit vërdallë në kërkim të kafshës më trazovaçe.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-11 09:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Kopshtet e Parajsës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një eksplorim i kopshteve islamike, që kanë lindur nga shkretëtira. Kopshte që shikohen si simbole të pushtetit, që rrethojnë varre madhështore apo të ndërtuara thjesht për kënaqësi. Njihuni me historinë e tyre. Cfarë i bën ata kaq të veçantë?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-11 10:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere VI">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-11 11:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Memfis- Misisipi i madh">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim eksplorues prej mbi 3000 kilometrash përgjatë një lumi - Missisipi, për të treguar pse ky lumë është më i rëndësishem në Shtetet e Bashkuara të Amerikës... 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-11 11:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Tropiku i Gaforres 6">Nga Laosi ne Havane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sajmon Riv ndërmerr një aventurë emocionuese me një qëllim të qartë: të eksplorojë skajin verior të Tropikëve, rajonin më të rëndësishëm, të bukur, të turbulluar, të rrezikuar e të dhunshëm të botës sonë. Udhëtimi nis nga Meksika</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-11 12:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Arinjtë e dëborës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e një nëne, një arushë polare dhe këlyshëve të saj, që tentojnë të mbietojnë në botën e tyre të akullt.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-11 14:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Borneo-Vendet më tërheqëse ">te peshkimit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Robson Grin, aktor dhe peshkatar ekstrem. Ndiqeni atë, në aventurat e tij të peshkimit. Ai do të udhëtojë në disa nga vendet më ekstreme dhe emocionuese në planet, për të kapur peshkun më të madh, më agresiv dhe më të pazakontë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-11 14:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Çështje familjare ">Planeti i majmunëve 2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çelësi për suksesin e primave është se, si ne, shumica e specieve jetojnë në grupe familjare të ngushta. Në Peru, tamarini perandor, kujdeset për fëmijët, ndërsa majmunët  vervet në Afrikën e Jugut kanë një sistem alarmi të sofistikuar</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-11 15:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fushëbeteja: Lufta për rinocerontet">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Afrikën e Jugut vriten 18 rinocerontë çdo orë. Katër anëtarë të forcave speciale të marinës amerikane ndërmarrin një mision, që më vonë do kthehet në nevojë: të ndalojnë gjuetinë pa leje të rinocerontëve. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-11 16:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sfida ekstreme">Patagonia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I xhiruar përgjatë dy vite dhe në 5 kontinente, ky dokumentar ka ndjekur më të mëdhenjtë e alpinizmit, teksa tentojnë të ngjisin malet dhe shkëmbinjtë më të vështirë, të bukur dhe spektakolarë në planet.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-11 17:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtime ne kanal V">Dokumentar-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prunela Skejls dhe Timoti Uest janë burrë e grua prej më shumë se 5 dekadash. Pasioni i tyre më i madh janë kanalet. Atje, ata ruajnë shumë kujtime të vyera. Le ti ndjekim tek lundrojnë në shtigje të reja...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-11 18:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mes shijeve te Frances">Natyre-13</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirë se erdhët në Francë! Ndiqni Xhejms Martin tek përshkon këtë vend magjepsës dhe eksploron më të mirën e kuzhinës franceze. Ai do te rizbulojë destinacione që kanë gatime dhe verë fantastike...
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-11 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kafshët me kamera">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A nuk do të ishte e pabesueshme sikur të mund ta shihnim botën nga këndvështrimi i kafshëve? Pikërisht kjo është ajo që do të bëjmë në këtë cikël. Janë vetë kafshët që do të bëjnë filmimet...
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-11 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Një rrëfenjë për dhelprat">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato gjenden në thuajse çdo kontinent në Tokë. Nga skajet më të largëta të zonave rurale deri në thellësi të zemrës së qyteteve. Por mos u mashtroni nga sharmi i tyre! Këto krijesa rivalizojnë me njeriun për nga dëshira për të dominuar peizazhin. Pyej</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-11 21:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gjuetia 6:Gara kundër kohës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bregu është i vetmi vend ku gjuetarët nga deti takojnë ata nga toka dhe ajri. Delfinët, që lënë sigurinë e detit për të peshkuar, majmunët, të cilët i kanë shtuar dietës së tyre ushqime deti, ujqërit, skifterët, balenat vrasëse. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-11 21:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mbretëresha e peshkaqenëve">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zhana është peshkaqeni i bardhë më i madh i matur deri më sot. 6 metra e gjatë ajo njihet si Mbretëresha e oqeaneve. Tani një ekip ekspertësh të peshkaqenëve zhytet në thellësitë e oqeanit, për ta gjetur para se të jetë tepër vonë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-11 22:45:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Të fshehtat e Mesdheut ">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim për të zbuluar të papriturën dhe të harruarën, të jashtëzakonshmen dhe të çuditshmen. Tri vende, Italia dhe brigjet e saj perëndimore, Barcelona dhe Maroku, ku për disa, mbijetesa bazë është e pasigurt. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-11 23:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Forcat e natyrës">Natyre-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni profesorin Brajan Koks, i cili kombinon dhe analizon disa nga pamjet më spektakolare në Tokë dhe do të zbulojë se si krijohet bukuria e planetit,
+falë ligjeve të fshehta të natyrës.
+ 
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-12 00:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Kopshtet e Parajsës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një eksplorim i kopshteve islamike, që kanë lindur nga shkretëtira. Kopshte që shikohen si simbole të pushtetit, që rrethojnë varre madhështore apo të ndërtuara thjesht për kënaqësi. Njihuni me historinë e tyre. Cfarë i bën ata kaq të veçantë?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-12 01:45:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hebridet: Ishujt buzë kontinen">Natyre-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje e jetës natyre të ishujve Hebride në bregdetin perëndimor të Skocisë, ku shihet nga afër bashkëveprimi i gjallesave dhe natyrës me banorët e këtyre ishujve që kanë mësuar të përshtaten më së miri me fqinjët e egër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-12 02:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Qentë dembelë ">Kafshët trazovaçe Sezoni 2 Ep.5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aftësia e tij për të fjetur kudo dhe në çdo pozicion, nuk ka rivale në botën e qenve. Bulldogu Tedi është një anëtar i dashur në familje, po kur vjen puna te gjumi...
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-12 03:40:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Reguengos-Aromë Tregu">Natyre-16</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-12 04:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Memfis- Misisipi i madh">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim eksplorues prej mbi 3000 kilometrash përgjatë një lumi - Missisipi, për të treguar pse ky lumë është më i rëndësishem në Shtetet e Bashkuara të Amerikës... 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-12 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere VI">Natyre-Johanesburg</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-12 06:00:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Përbindësha fluturues         ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në të shkuarën, për të zbuluar se kush ishin zvarranikë e parë që fluturuan? Ata që me një fluturim, mund të përshkonin gjysmën e botës? Por pse u ngritën në ajër?
+Si fluturuan?  Dhe përse u zhdukën më pas? 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-12 07:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Misteri i maleve të Italisë">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy ekipe shkencëtarësh do shqyrtojnë historinë interesante gjeologjike të Italisë. Ata duan t'i përgjigjen pyetjes që i ka munduar prej vitesh: Po lartësohen akoma Apeninet, apo disa pjesë të tyre nuk janë më aktive?
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-12 08:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Tekanjozët - Kafshët trazovaçe">Sezoni 2 Ep.6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Disa e përçmojnë ushqimin e qenve, disa parapëlqejnë gatimet e shtëpisë dhe disa e përgatisin vetë. Ka të tjerë që i zbukurojnë vetë dhomat e gjumit.Por kush do ta fitojë kurorën "Kafsha më trazovaçe"?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-12 08:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kopshtet e Parajsës">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një eksplorim i kopshteve islamike, që kanë lindur nga shkretëtira. Kopshte që shikohen si simbole të pushtetit, që rrethojnë varre madhështore apo të ndërtuara thjesht për kënaqësi. Njihuni me historinë e tyre. Cfarë i bën ata kaq të veçantë?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-12 09:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere VI">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-12 10:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Shen Luis- Misisipi i madh">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim eksplorues prej mbi 3000 kilometrash përgjatë një lumi - Missisipi, për të treguar pse ky lumë është më i rëndësishem në Shtetet e Bashkuara të Amerikës... 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-12 11:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lule-Aromë Tregu">Natyre-27</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-12 12:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Santarem-Aromë Tregu">Natyre-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-12 12:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Shtatë mrekullitë e Brazilit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I famshëm për pyjet tropikale, diellin, detin, sambën, Brazili ka një larmi të pabesueshme shpirtërore. Një vizitë në 7 mrekullitë braziliane për të kuptuar të shkuarën e Brazilit dhe përbërësit kryesorë që ndikojnë në natyrën unike.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-12 13:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Partnerët e përsosur të natyrë">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Suksesi në natyrë shpesh varet nga puna në skuadër. Miqtë e mirë mund të vijnë në forma nga më befasueset. Ndonjëherë është ai aleati i çuditshëm që mund të ta lehtësojë shumë jetën.  Pra puna në grup është çelësi i mbijetesës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-12 14:25:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Madagaskar-Vendet më tërheqës ">te peshkimit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Robson Grin, aktor dhe peshkatar ekstrem. Ndiqeni atë, në aventurat e tij të peshkimit. Ai do të udhëtojë në disa nga vendet më ekstreme dhe emocionuese në planet, për të kapur peshkun më të madh, më agresiv dhe më të pazakontë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-12 15:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Një mendje mjeshtërore">Planeti i majmunëve 3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primatët janë shumë më të mençur sesa mund të imagjinojmë. Ashtu si ne, ata përdorin mjete, zgjidhin probleme dhe madje kanë emocione.Në këtë episod del qartë se pse fuqia e trurit është thelbësore për mbijetesën e primatëve...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-12 16:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fushëbeteja: Lufta për rinocerontet">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Afrikën e Jugut vriten 18 rinocerontë çdo orë. Katër anëtarë të forcave speciale të marinës amerikane ndërmarrin një mision, që më vonë do kthehet në nevojë: të ndalojnë gjuetinë pa leje të rinocerontëve. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-12 17:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Zogu i dëborës, Rrëfenjë pinguinesh">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mesi i dimrit në Antarktidë. Pinguinët kanë ngrohur vezët. Por rritja e tyre në mjedisin më ekstrem të botës do të jetë sfidë e madhe. Në 6 muaj kohë, ata duhet të ketë mësuar mjaftueshëm për t'ia dalë mbanë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-12 18:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mes shijeve te Frances">Natyre-14</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirë se erdhët në Francë! Ndiqni Xhejms Martin tek përshkon këtë vend magjepsës dhe eksploron më të mirën e kuzhinës franceze. Ai do te rizbulojë destinacione që kanë gatime dhe verë fantastike...
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-12 19:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Europa e parë nga lart-Hollanda ">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh, do të bëjmë një turne ajror përmes Evropës. Do të shohim vendet nga një perspektivë tërësisht e re. Duke filmuar nga lart dhe gjatë një viti të vetëm, ndërsa peizazhi transformohet me stinët që ndryshojnë, ne do të zbulojmë kulturën, historinë dhe inxhinierinë që ndërtoi kombet e mëdha evropiane që shohim sot.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-12 19:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="F është për fajkua">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në romanin me të njëjtin titull të Helen Macdonald-it. Një udhëtim personal i vet autores. Pas humbjes së babait, Helena vendos të ndjekë gjurmët e tij për rritjen e një prej racave me të vecanta të Fajkuajve - Gjeraqinën...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-12 20:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Gjuetia 7-Jetesa me grabitqarë">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Grabitqarët na japin një kontroll dramatik shëndetësor për vendet e egra të planetit tonë. Me rritjen e popullsisë njerëzore, konflikti mes njerëzve dhe kafshëve të egra është shtuar. Më shumë se 75% e grabitqarëve më të mirë në botë, po zvogëlohen. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-12 21:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kopshti i mbretëreshës  ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pallati Bakingam në Londër është një nga godinat më të famshme në botë. Por çka fshihet pas kësaj fasade madhështore është një nga sekretet e ruajtura më mirë në Britani... Le të njihemi  me 'Kopshtet e pallatit Bakingam'...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-12 22:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Të fshehtat e Mesdheut ">Natyre-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim për të zbuluar të papriturën dhe të harruarën, të jashtëzakonshmen dhe të çuditshmen. Tri vende, Italia dhe brigjet e saj perëndimore, Barcelona dhe Maroku, ku për disa, mbijetesa bazë është e pasigurt. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-12 23:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sfida ekstreme">Vetem ne mur</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I xhiruar përgjatë dy vite dhe në 5 kontinente, ky dokumentar ka ndjekur më të mëdhenjtë e alpinizmit, teksa tentojnë të ngjisin malet dhe shkëmbinjtë më të vështirë, të bukur dhe spektakolarë në planet.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-13 00:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Misteri i maleve të Italisë">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy ekipe shkencëtarësh do shqyrtojnë historinë interesante gjeologjike të Italisë. Ata duan t'i përgjigjen pyetjes që i ka munduar prej vitesh: Po lartësohen akoma Apeninet, apo disa pjesë të tyre nuk janë më aktive?
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-13 01:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Tekanjozët - Kafshët trazovaçe">Sezoni 2 Ep.6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Disa e përçmojnë ushqimin e qenve, disa parapëlqejnë gatimet e shtëpisë dhe disa e përgatisin vetë. Ka të tjerë që i zbukurojnë vetë dhomat e gjumit.Por kush do ta fitojë kurorën "Kafsha më trazovaçe"?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2021-12-13 02:05:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Përbindësha fluturues         ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në të shkuarën, për të zbuluar se kush ishin zvarranikë e parë që fluturuan? Ata që me një fluturim, mund të përshkonin gjysmën e botës? Por pse u ngritën në ajër?
+Si fluturuan?  Dhe përse u zhdukën më pas? 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2021-12-13 03:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Kopshtet e Parajsës">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një eksplorim i kopshteve islamike, që kanë lindur nga shkretëtira. Kopshte që shikohen si simbole të pushtetit, që rrethojnë varre madhështore apo të ndërtuara thjesht për kënaqësi. Njihuni me historinë e tyre. Cfarë i bën ata kaq të veçantë?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2021-12-13 04:25:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Shen Luis- Misisipi i madh">Natyre-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim eksplorues prej mbi 3000 kilometrash përgjatë një lumi - Missisipi, për të treguar pse ky lumë është më i rëndësishem në Shtetet e Bashkuara të Amerikës... 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2021-12-13 05:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhëtime aventuriere VI">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i keni parë në ekran. Do vizitojmë Perunë, Kanadanë, Islandën, Portugalinë, Spanjën, Korenë. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2021-12-13 06:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Nje Planet, planeti yne">Natyre-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e marrëdhënieve të njeriut, qenies më të evoluar, me botën natyrore.Tetë histori të rrëfyera kurrë ndonjeherë, sesi njeriu gjeti mënyrat dhe rrugët, për t'u përshtatur në vende të egra e të pa imagjinueshme.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2021-12-13 06:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Forca e jetes II">Çarja Albertine-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim nga njëri cep i planetit në tjetrin për të parë se si kafshët u janë përshtatur mjediseve me klimë armiqësore duke zhvilluar aftësi të vecanta, por jo vetem....
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2021-12-13 07:45:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gosti në lëvizje II">Kulinari</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shefi Australian Pete Evans në një udhëtim mes Amerikës, për të na njohur me receta të paprovuara më parë... Të ftuar të ndryshëm, shefat më të veçantë në Amerikë, të cilët do të ndajnë me ne eksperiencat e tyre unike...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2021-12-13 08:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Reguengos-Aromë Tregu">Natyre-16</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2021-12-13 09:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Delfinët, të maskuar në tufë 1">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Delfinët, krijesat më të zgjuara në oqean. Mund të duken të njohur, por jeta e tyre nën ujë është një mister. Krijesa spiune eksplorojnë botën e tyre të fshehtë,  duke treguar marrëdhëniet e tyre intime, gjithashtu edhe konfliktet mes tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2021-12-13 10:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Amerika e veriut me Simon Riv ">Natyre-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni Simon Riv në një udhëtim përmes 2 kontinenteve, nëpër disa nga peizazhet më madhështore të botës. Do të shohim klimën që po ndryshon. Nëpër tropikun e mahnitshëm dhe të plagosur deri në zemër të betejës për të shpëtuar planetin.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2021-12-13 11:25:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Njeriu dhe bota e egër">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Marrëdhëniet e njeriut me botën e egër janë marrëdhënie që kanë ndryshuar cdo dhjetëvejcar. Teksa hapësirat e botës së egër zvogëlohen gjithnjë e më shumë, teknologjia bën të mundur depërtimin thellë e më thellë në misteret e kësaj bote.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2021-12-13 12:25:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Rik Stein: Rruga për në Meksike">Natyre-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Udhëtimet të ndryshojnë si njeri, po ashtu edhe ushqimi. Këtë herë Rik Stain do të niset drejt Meksikë. Ku do të shijojë qindra receta shumë të veçanta... Le të zbulojmë sekretet e kuzhinës Meksikane.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2021-12-13 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Udhetime aventuriere sez 1 ">Qyteti i Meksikes-10</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i kemi parë në ekran. Do vizitojmë Ekuadorin, Trinidad, Kolumbinë, Argjentinën, Uruguain, Meksikën. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2021-12-13 14:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Udhetime aventuriere sez 1 ">Nikaragua-11</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga një udhëtim, mëson më shumë se nga dhjetra libra, ndaj njihuni me vende, të cilat rrallë i kemi parë në ekran. Do vizitojmë Ekuadorin, Trinidad, Kolumbinë, Argjentinën, Uruguain, Meksikën. Gjëra interesante, shumica të panjohura...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2021-12-13 14:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Ekuador-Vendet më tërheqëse ">te peshkimit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me Robson Grin, aktor dhe peshkatar ekstrem. Ndiqeni atë, në aventurat e tij të peshkimit. Ai do të udhëtojë në disa nga vendet më ekstreme dhe emocionuese në planet, për të kapur peshkun më të madh, më agresiv dhe më të pazakontë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2021-12-13 15:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Një kafshë më shpëtoi jetën ">Dokumentar-1, 2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Histori të jashtëzakonshme të miqësisë mes njeriut dhe kafshëve. Ngjarje të vërteta, sesi jeta e njeriut është shpëtuar prej kafshëve... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2021-12-13 16:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Arrati në ishujt Hebride">Natyre 1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Biologu detar dhe zhytësi profesionist Monti Hall, vendos të trasferohet në ishullin Hebride për 6 muajt e ardhshëm. Ai do të jetë në kontakt me një flora dhe fauna të mrekullueshme, në disa nga ishujt më të largët të Britanisë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2021-12-13 17:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Aventura mesdhetare">Italia e jugut</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy motorristë, njëri me mjekër të bardhë dhe tjetri me mjekër të zezë, njëri me emrin Dave dhe tjetri me emrin Si, kanë marrë përsipër të na tregojnë me pamje dhe biseda, udhëtimin e tyre të mrekullueshëm nëpër disa vende shumë të bukura.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2021-12-13 18:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mes shijeve te Frances">Natyre-15</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirë se erdhët në Francë! Ndiqni Xhejms Martin tek përshkon këtë vend magjepsës dhe eksploron më të mirën e kuzhinës franceze. Ai do te rizbulojë destinacione që kanë gatime dhe verë fantastike...
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2021-12-13 19:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Krokodili-Brenda gjigantëve   ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kolegjin mbretëror të veterinarisë do kryehet një hetim mbi jetën dhe vdekjen e një krokodili Nili 280 kg. Përveç gjetjes së shkakut të ngordhjes, ekipi do analizojë edhe një jetë
+e cila ka ndryshuar shumë pak që nga koha e dinosaurëve.
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2021-12-13 19:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Ne uje-Amerika e pare nga lart">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në qytezat më të mira të Amerikës, në vendet historike në Misisipi,në Teksasin Perëndimor, në bregun e Oregonit dhe në Virgjinian Perëndimore;vende që kanë lindur heronj, kanë frymëzuar artistë e kanë emocionuar eksplorues...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2021-12-13 20:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Shimpanzete-Dinastitë në zhdukje">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Familja - një nga forcat më të mëdha të natyrës. Do të vëzhgojmë nga afër speciet më të rrezikuara mbi tokë. I jemi bashkuar çdo familjeje në një çast vendimtar të jetës, kur po luftonin kundër fatit. Në luftë për mbijetesë, kundër forcave të natyrës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2021-12-13 21:45:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Ishujt Grekë me xhulia Bredbër">Kreta, Korfuzi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të famshëm për turizmin, detin e kristaltë, jetën e hareshme dhe uzon. Ju ftojmë në një xhiro të jashtëzakonshme nëpër ishujt grek, ashtu sic nuk i keni vizituar kurrë më parë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2021-12-13 22:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Errësira-Bota e natës e natyre">Bota e kafsheve-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekspeditë në skajet më të largëta të Amerikës Qendrore e Jugore, në zbulim të një bote për të cilën nuk dimë thuajse asgjë... Jeta e kafshëve në errësirën e natës. 
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

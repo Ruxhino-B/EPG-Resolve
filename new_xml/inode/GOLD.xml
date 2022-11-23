@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="GOLD">
+    <event id="0" start_time="2021-10-27 14:35:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Vajza nga Stillouter">Krim, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matt Damon, Camille Cottin, Abigail Breslin. Një baba i dëshpëruar përballet me dallimet kulturore dhe një sistem të komplikuar juridik, kur udhëton në Francë për të shfajësuar vajzën e tij, për një vrasje që ajo pretendon se nuk e ka kryer.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-10-27 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sytë e gjarprit: G.I. Joe - Zanafilla">Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Henry Golding. Aventura e mbushur me aksion zbulon origjinën e Heroit 'G.I. Joe Sytë e gjarprit'. Për të mposhtur grupin terrorist Kobra, G.I Joe bëhet luftëtari i fundit ninxha, por kur zbulohet e kaluara e tij, ai rrezikon gjithçka për të cilën ka luftuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-10-27 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dosjet Uorren 3: Me ngasjen e Djallit">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vera Farmiga, Patrick Wilson. Bazuar në një nga çështjet më të bujshme teehetuesve paranormalë Ed dhe Lorraine Warren. Gjithçka nis me luftën per të shpëtuar shpirtin e nje djali të ri, por do të përfundojë me enigmën më të madhe që ata janë përballur ndonjëherë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-10-27 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sa vlen jeta">Biografi, Dramë, Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Keaton, Amy Ryan, Stanley Tucci. Bazuar në ngjarje të vërteta. Një avokat në Uashington, do të ballafaqohet me detyrën më të vështirë të jetës së tij: Të vendosë se si do të llogaritet kompensimi i familjeve të prekura nga sulmet terroriste të 11 Shtatorit 2001.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-10-27 23:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Truproja e gruas së vrasësit">Komedi , Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse ai ka dhënë dorëheqjen nga detyra, truproja Michael Bryce (Ryan Reynolds), vazhdon miqësinë e tij me vrasësin Darius Kincaid (Samuel L. Jackson).  Ndërkohë, ata të dy po përpiqen të shpëtojnë gruan e Dariusit -Sonian, nga një njeri i çmendur, hakmarrës dhe i fuqishëm (Antonio Banderas).</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-10-28 00:35:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Vajza nga Stillouter">Krim, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matt Damon, Camille Cottin, Abigail Breslin. Një baba i dëshpëruar përballet me dallimet kulturore dhe një sistem të komplikuar juridik, kur udhëton në Francë për të shfajësuar vajzën e tij, për një vrasje që ajo pretendon se nuk e ka kryer.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-10-28 03:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Sytë e gjarprit: G.I. Joe - Zanafilla">Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Henry Golding. Aventura e mbushur me aksion zbulon origjinën e Heroit 'G.I. Joe Sytë e gjarprit'. Për të mposhtur grupin terrorist Kobra, G.I Joe bëhet luftëtari i fundit ninxha, por kur zbulohet e kaluara e tij, ai rrezikon gjithçka për të cilën ka luftuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-10-28 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dosjet Uorren 3: Me ngasjen e Djallit">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vera Farmiga, Patrick Wilson. Bazuar në një nga çështjet më të bujshme të hetuesve paranormalë Ed dhe Lorraine Warren. Gjithçka nis me luftën per të shpëtuar shpirtin e një djali të ri, por do të përfundojë me enigmën më të madhe që ata janë përballur ndonjëherë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-10-28 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Truproja e gruas së vrasësit">Komedi , Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse ai ka dhënë dorëheqjen nga detyra, truproja Michael Bryce (Ryan Reynolds), vazhdon miqësinë e tij me vrasësin Darius Kincaid (Samuel L. Jackson).  Ndërkohë, ata të dy po përpiqen të shpëtojnë gruan e Dariusit -Sonian, nga një njeri i çmendur, hakmarrës dhe i fuqishëm (Antonio Banderas).</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-10-28 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sa vlen jeta">Biografi, Dramë, Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Keaton, Amy Ryan, Stanley Tucci. Bazuar në ngjarje të vërteta. Një avokat në Uashington, do të ballafaqohet me detyrën më të vështirë të jetës së tij: Të vendosë se si do të llogaritet kompensimi i familjeve të prekura nga sulmet terroriste të 11 Shtatorit 2001.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-10-28 11:00:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Vajza nga Stillouter">Krim, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matt Damon, Camille Cottin, Abigail Breslin. Një baba i dëshpëruar përballet me dallimet kulturore dhe një sistem të komplikuar juridik, kur udhëton në Francë për të shfajësuar vajzën e tij, për një vrasje që ajo pretendon se nuk e ka kryer.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-10-28 13:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Sytë e gjarprit: G.I. Joe - Zanafilla">Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Henry Golding. Aventura e mbushur me aksion zbulon origjinën e Heroit 'G.I. Joe Sytë e gjarprit'. Për të mposhtur grupin terrorist Kobra, G.I Joe bëhet luftëtari i fundit ninxha, por kur zbulohet e kaluara e tij, ai rrezikon gjithçka për të cilën ka luftuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-10-28 15:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Dosjet Uorren 3: Me ngasjen e Djallit">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vera Farmiga, Patrick Wilson. Bazuar ne nje nga çështjet më të bujshme të hetuesve paranormalë Ed dhe Lorraine Warren. Gjithçka nis me luftën per të shpëtuar shpirtin e një djali të ri, por do të përfundojë me enigmën më të madhe që ata janë përballur ndonjëherë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-10-28 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Truproja e gruas së vrasësit">Komedi , Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse ai ka dhënë dorëheqjen nga detyra, truproja Michael Bryce (Ryan Reynolds), vazhdon miqësinë e tij me vrasësin Darius Kincaid (Samuel L. Jackson).  Ndërkohë, ata të dy po përpiqen të shpëtojnë gruan e Dariusit -Sonian, nga një njeri i çmendur, hakmarrës dhe i fuqishëm (Antonio Banderas).</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-10-28 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sa vlen jeta">Biografi, Dramë, Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Keaton, Amy Ryan, Stanley Tucci. Bazuar në ngjarje të vërteta. Një avokat në Uashington, do të ballafaqohet me detyrën më të vështirë të jetës së tij: Të vendosë se si do të llogaritet kompensimi i familjeve të prekura nga sulmet terroriste të 11 Shtatorit 2001.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-10-28 21:00:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Vajza nga Stillouter">Krim, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matt Damon, Camille Cottin, Abigail Breslin. Një baba i dëshpëruar përballet me dallimet kulturore dhe një sistem të komplikuar juridik, kur udhëton në Francë për të shfajësuar vajzën e tij, për një vrasje që ajo pretendon se nuk e ka kryer.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-10-28 23:10:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Sytë e gjarprit: G.I. Joe - Zanafilla">Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Henry Golding. Aventura e mbushur me aksion zbulon origjinën e Heroit 'G.I. Joe Sytë e gjarprit'. Për të mposhtur grupin terrorist Kobra, G.I Joe bëhet luftëtari i fundit ninxha, por kur zbulohet e kaluara e tij, ai rrezikon gjithçka për të cilën ka luftuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-10-29 01:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Dosjet Uorren 3: Me ngasjen e Djallit">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vera Farmiga, Patrick Wilson. Bazuar në një nga çështjet më të bujshme të hetuesve paranormalë Ed dhe Lorraine Warren. Gjithçka nis me luftën per të shpëtuar shpirtin e një djali të ri, por do të përfundojë me enigmën më të madhe që ata janë përballur ndonjëherë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-10-29 03:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Truproja e gruas së vrasësit">Komedi , Aventurë, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse ai ka dhënë dorëheqjen nga detyra, truproja Michael Bryce (Ryan Reynolds), vazhdon miqësinë e tij me vrasësin Darius Kincaid (Samuel L. Jackson).  Ndërkohë, ata të dy po përpiqen të shpëtojnë gruan e Dariusit -Sonian, nga një njeri i çmendur, hakmarrës dhe i fuqishëm (Antonio Banderas).</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-10-29 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sa vlen jeta">Biografi, Dramë, Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Keaton, Amy Ryan, Stanley Tucci. Bazuar në ngjarje të vërteta. Një avokat në Uashington, do të ballafaqohet me detyrën më të vështirë të jetës së tij: Të vendosë se si do të llogaritet kompensimi i familjeve të prekura nga sulmet terroriste të 11 Shtatorit 2001.
+ </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

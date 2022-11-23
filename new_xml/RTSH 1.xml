@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTSH 1">
+    <event id="0" start_time="2021-12-08 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gjeniu Malkolm V">Serial-20</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Familja bën një udhëtim në Las Vegas ku Hal ëndërron sikur ka fituar çmimin e madh, ndërkohë që Lois takohet me këngëtaren e saj të preferuar në prapaskenë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-08 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-08 12:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Publikisht">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në fushën politike çdo lëvizje është e studiuar, çdo betejë e ka një qëllim! Pyetje, debat, lëvizje, sepse e vërteta nuk është pronë e askujt. Me Blerta Tafanin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-08 13:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bota sekrete e pemeve">Episodi 4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Malet, lumenjtë, liqenet janë gjithçka që e bën të mahnitshme natyrën dhe peizazhet që ajo na ofron. Pemët janë elementi i natyrës që ndryshon bashkë me stinët e vitit. Kjo është historia e magjishme e pemëve të Irlandës.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-08 14:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Një mënyrë për të dashuruar ">Episodi 79</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një histori dashurie plot të papritura dhe momente argëtuese. Lule dhe Claudio bien në dashuri me shikim të parë. Ata janë të dy të rinj, tërheqës dhe plot energji për jetën. Por ajo që nis si një përrallë romantike, ku gjithçka shkon vaj, kalon nëpër peripeci e incidente gazmore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-08 15:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-08 15:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-08 17:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="AAUTOR - PETRIT QENDRO ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Petrit Qendro, trajneri dhe olimpisti i njohur që ka përgatitur breza të tërë atletësh, vjen në një rrëfim për "Autor". Si ishte të stërvisje sportistët para viteve '90? Vështirësitë dhe sfidat që u kthyen në forcë për të mobilizuar një gjeneratë të tërë të rinjsh</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-08 17:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="RRUGËTIMI DREJT KATAR 2022  ">TELEREVISTA</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në episodin e katërt do të takojmë ish-kapitenin e Marokut Med'hi Benatia; do të kalojmë një ditë te garat për të parë devetë më të shpejta në tokë si dhe do të vrapojmë nëpër shkretëtirën e Katarit duke ndjekur një nga udhëtimet ekstremisht më të vështira në botë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-08 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="ShendetSI?">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A është popullsia rurale e nënshërbyer? Në ç'gjendje janë qendrat që ofrojnë shërbime të tilla në këto zona? Si ndikon gjendja e kujdesit shëndetësor rural në mirëqenien e popullsisë rurale?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-08 19:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-08 19:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Prag Champions League ">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Komente, analiza dhe pritshmëritë, në pritje të ndeshjes Bayern Munchen vs Barcelona, e vlefshme për javën e gjashtë të kompeticionit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-08 19:55:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Bayern Munchen-Barcelona ">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fussball Arena Munchen" - Mynih, Gjermani. Java e gjashtë dhe e fundit e fazës së grupeve të "UEFA Champions League". Bajern dhe Levandovski kërkojnë rekorde ndaj Barcelonës, e cila, nën drejtimin e Xavit synon fitoren si rezultat të vetëm për të arritur kualifikimin. Në koment: Kristo Thoma.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-08 21:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Post Champions League ">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Komente dhe analiza pas mbarimit të ndeshjes Bayern Munchen vs Barcelona, e vlefshme për javën e gjashtë të kompeticionit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-08 22:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-08 23:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="SFIDA 2">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2016. Regjisor:  Hallvard Bræin. Aktorë: Anders Baasmo Christiansen, Ida Husøy, Otto Jespersen. Aksion, komedi. Pasi bën 2 vite burg për pjesëmarrje në një garë të paligjshme me makina, Roy refuzon të marrë pjesë sërish në një tjetër garë të paligjshme që do zhvillohet nga Bergen i Norvegjisë deri në Murmansk të Rusisë. Por, pasi merr vesh se e bija e tij do të marrë pjesë në garë me të dashurin e saj, Roy detyrohet të ndryshojë mendim.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-09 00:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="ELENA">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i dhjetëra çmimeve kinematografike, bazuar në jetën e aktores braziliane Elena Andrade. Shumë e re ajo udhëton në New York, duke lënë pas fëmijërinë e saj, të kaluar gjatë diktaturës ushtarake. Dy dekada më vonë, e motra, Petra, do të bëhet aktore dhe shkon në New York në kërkim të Elenës. Me vete ka pak të dhëna për të: filmime të kohës, një ditar dhe disa letra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-09 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-09 03:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="ShendetSI?">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A është popullsia rurale e nënshërbyer? Në ç'gjendje janë qendrat që ofrojnë shërbime të tilla në këto zona? Si ndikon gjendja e kujdesit shëndetësor rural në mirëqenien e popullsisë rurale?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-09 04:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="AAUTOR - PETRIT QENDRO ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Petrit Qendro, trajneri dhe olimpisti i njohur që ka përgatitur breza të tërë atletësh, vjen në një rrëfim për "Autor". Si ishte të stërvisje sportistët para viteve '90? Vështirësitë dhe sfidat që u kthyen në forcë për të mobilizuar një gjeneratë të tërë të rinjsh</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-09 04:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="CIRKU I DIELLIT - KRISTAL ">CIRKU I DIELLIT - KRISTAL </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Numrat më të bukur qiellorë nga trupa e famshme e Cirkut të Diellit, ku gërshetohet muzika, sporti, akrobacia dhe paradat shumëngjyrëshe të kostumeve.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-09 05:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="RRUGËTIMI DREJT KATAR 2022  ">TELEREVISTA</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në episodin e katërt do të takojmë ish-kapitenin e Marokut Med'hi Benatia; do të kalojmë një ditë te garat për të parë devetë më të shpejta në tokë si dhe do të vrapojmë nëpër shkretëtirën e Katarit duke ndjekur një nga udhëtimet ekstremisht më të vështira në botë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-09 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Miremengjes Shqiperi">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", programi i parë i ditës në RTSH1, prej orës 07:00-10:00 në RTSH1. Elsa Ymeri dhe Endri Kaçaçi janë kapitenët e anijes së parë që e nisin ditën shkurt, shpejt, qartë dhe saktë. Një program bashkëkohor që do të shoqërojë kafen tuaj të parë të ditës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-09 09:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-09 09:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Korteo">Cirk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Numrat më të bukur qiellorë nga trupa e famshme e Cirkut të Diellit, ku gërshetohet muzika, sporti, akrobacia dhe paradat shumëngjyrëshe të kostumeve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-09 10:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kohe moderne">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dueli mësues-prind përballë fëmijës. Ky i fundit cilin duhet "të dëgjojë". 2. Modë: Dimri në veshje. 3. Të rejat e teknologjisë, pajisjet robotike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-09 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gjeniu Malkolm V">Serial-21</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur e dashura e Reese-it, Beth, e tradhton me Malcolm-in, ai ikën për kryer shërbimin ushtarak. Ndërkohë, Hal është arrestuar për nxjerrjen e një skeme të tërë kriminale në punën e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-09 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-09 12:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="NOTING HILL ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor: Roger Michell. Aktorë: Hugh Grant, Julia Roberts. Një nga komeditë më të bukura romantike, kandidat për 3 Golden Globes dhe fitues i dhjetëra çmimeve. William Thacker, pronar i pasuksesshëm i një librarie në Notting Hill, mrekullohet kur Anna Scott, aktorja më e pëlqyer në botë, hyn në dyqanin e tij. Romanca që lind mes tyre është sa magjike aq edhe e pabesueshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-09 14:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Një mënyrë për të dashuruar ">Episodi 80</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një histori dashurie plot të papritura dhe momente argëtuese. Lule dhe Claudio bien në dashuri me shikim të parë. Ata janë të dy të rinj, tërheqës dhe plot energji për jetën. Por ajo që nis si një përrallë romantike, ku gjithçka shkon vaj, kalon nëpër peripeci e incidente gazmore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-09 15:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-09 15:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-09 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="KUNDËR EKSTREMIZMIT TË DHUNSHËM ">Episodi 1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shqipëria përballë një sfide të re: koordinimi i luftës ndaj radikalizmit. Në këtë episod do të njihemi me punën për parandalimin e ekstremizmit të dhunshëm që kryhet nga Qendra e Koordinimit kundër Ekstremizmit të dhunshëm.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-09 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bota sekrete e pemeve">Episodi 5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Malet, lumenjtë, liqenet janë gjithçka që e bën të mahnitshme natyrën dhe peizazhet që ajo na ofron. Pemët janë elementi i natyrës që ndryshon bashkë me stinët e vitit. Kjo është historia e magjishme e pemëve të Irlandës.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-09 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="BIBLIOTEKË - MIRANDA HAXHIA ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për ngjarje që nuk konsumohen kurrë; për vizatime jetësh të mundimshme; për kalvarin e një familjeje të përndjekur nga tragjedia; për Riza Alizotin, paraardhësit dhe pasardhësit që vuajtën ferrin mbi tokë. Nisur nga libri "Vaji i gurit", me autoren, Miranda Haxhia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-09 19:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-09 19:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="PENG NË KAFENE ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2017. Komedi, horror, thriller. Regjia: Álex de la Iglesia. Aktorë: Blanca Suárez, Mario Casas, Carmen Machi. Gjatë një sulmi në qendër të Madridit, disa të panjohur e gjejnë veten të bllokuar në një bar, mes ankthit dhe nevojës për të shpëtuar gjallë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-09 21:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-09 22:05:00" duration="2400">
+      <short_event_descriptor lang="alb" name="ShendetSI?">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A është popullsia rurale e nënshërbyer? Në ç'gjendje janë qendrat që ofrojnë shërbime të tilla në këto zona? Si ndikon gjendja e kujdesit shëndetësor rural në mirëqenien e popullsisë rurale?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-09 22:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="ZHIGOLO NË LOS ANXHELOS ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2009. Regjisor: David Mackenzie. Aktorë: Ashton Kutcher, Anne Heche, Margarita Levieva. Komedi, dramë, romancë. Nikki, një djalë i pashëm afër të tridhjetave, është i pastrehë dhe i papunë, por ai ka gjetur mënyrën më origjinale për të mbijetuar: duke u bërë i dashuri i grave të pasura të Los Anxhelosit. Jeta e tij duket si një aventurë derisa bie në dashuri me një vajzë të re e cila do i kthejë përmbys jetën që ka krijuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-10 00:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="MARINA ABRAMOVIÇ ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një film dokumentar që ndjek performancën e artistes serbe teksa përgatitet për një retrospektivë të punës së saj në Muzeun e Artit Modern në Nju Jork.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-10 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-10 03:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="BIBLIOTEKË - MIRANDA HAXHIA ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për ngjarje që nuk konsumohen kurrë; për vizatime jetësh të mundimshme; për kalvarin e një familjeje të përndjekur nga tragjedia; për Riza Alizotin, paraardhësit dhe pasardhësit që vuajtën ferrin mbi tokë. Nisur nga libri "Vaji i gurit", me autoren, Miranda Haxhia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-10 04:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="KUNDËR EKSTREMIZMIT TË DHUNSHËM ">Episodi 1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shqipëria përballë një sfide të re: koordinimi i luftës ndaj radikalizmit. Në këtë episod do të njihemi me punën për parandalimin e ekstremizmit të dhunshëm që kryhet nga Qendra e Koordinimit kundër Ekstremizmit të dhunshëm.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-10 05:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Korteo">Cirk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Numrat më të bukur qiellorë nga trupa e famshme e Cirkut të Diellit, ku gërshetohet muzika, sporti, akrobacia dhe paradat shumëngjyrëshe të kostumeve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-10 05:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Bota sekrete e pemeve">Episodi 5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Malet, lumenjtë, liqenet janë gjithçka që e bën të mahnitshme natyrën dhe peizazhet që ajo na ofron. Pemët janë elementi i natyrës që ndryshon bashkë me stinët e vitit. Kjo është historia e magjishme e pemëve të Irlandës.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-10 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Miremengjes Shqiperi">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri", programi i parë i ditës në RTSH1, prej orës 07:00-10:00 në RTSH1. Elsa Ymeri dhe Endri Kaçaçi janë kapitenët e anijes së parë që e nisin ditën shkurt, shpejt, qartë dhe saktë. Një program bashkëkohor që do të shoqërojë kafen tuaj të parë të ditës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-10 09:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-10 09:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Debora e Slaves">Cirk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Numra spektakolarë akrobacie...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-10 10:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kohe moderne">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-10 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gjeniu Malkolm V">Serial-22</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Stevie tronditet kur i thonë se Kitty është divorcuar. Reese rrëmbehet nga disa shënime në një ditar, pa ditur se i përkasin Lois-it. Otto dhe Francis duhet t'i bëjnë eutanazi një kali të vjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-10 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-10 12:20:00" duration="7500">
+      <short_event_descriptor lang="alb" name="BARDHEZI">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti: 2014. Regjisor: Mike Binder. Aktorë: Kevin Costner, Octavia Spencer, Gillian Jacobs. Dramë. Një burrë i ve, në kulmin e dëshpërimit të humbjes së madhe duhet të përballet dhe me sfidën për të fituar kujdestarinë e mbesës së tij, të cilën e ka rritur vetë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-10 14:25:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Një mënyrë për të dashuruar ">Episodi 81</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një histori dashurie plot të papritura dhe momente argëtuese. Lule dhe Claudio bien në dashuri me shikim të parë. Ata janë të dy të rinj, tërheqës dhe plot energji për jetën. Por ajo që nis si një përrallë romantike, ku gjithçka shkon vaj, kalon nëpër peripeci e incidente gazmore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-10 15:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-10 15:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-10 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trupi dhe shendeti">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni kult ië shëndetit në RTSH, në takimin e përjavshëm me mjekësinë; këshilla mbi shëndetin, biseda me mjekë të ftuar dhe gjithë përgjigjet e pyetjeve tuaja mbi mirëqenien fizike.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-10 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="The Island Project-Sfida e Emes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-10 19:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-10 19:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="FESTIVALI I 58-TË I KËNGËS NË RTSH ">Muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore me këngë nga "Festivali i 58-të i Këngës" në Radio Televizionin Shqiptar.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-10 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Publikisht">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në fushën politike çdo lëvizje është e studiuar, çdo betejë e ka një qëllim! Pyetje, debat, lëvizje, sepse e vërteta nuk është pronë e askujt. Me Blerta Tafanin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-10 21:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-10 22:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Arratisja">Dramë, Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Frank Perry është dënuar me burgim të përjetshëm.  Kur vajza e tij sëmuret, ai vendos të bëjë paqe me të, para se të jetë tepër vonë. Për këtë arsye pla nifikon një arratisje nga burgu...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-10 23:45:00" duration="3000">
+      <short_event_descriptor lang="alb" name="The Island Project-Sfida e Emes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-11 00:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="FESTIVALI I 58-TË I KËNGËS NË RTSH ">Muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përmbledhje muzikore me këngë nga "Festivali i 58-të i Këngës" në Radio Televizionin Shqiptar.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-11 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="DITË PAS DITE ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emision i përditshëm informativo-argëtues, ku në sallonin e Fjodora Fjorës çdo ditë do takoheni me disa personazhe të përhershëm dhe të ftuar nga të gjitha fushat.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-11 03:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trupi dhe shendeti">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni kult ië shëndetit në RTSH, në takimin e përjavshëm me mjekësinë; këshilla mbi shëndetin, biseda me mjekë të ftuar dhe gjithë përgjigjet e pyetjeve tuaja mbi mirëqenien fizike.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-11 04:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Debora e Slaves">Cirk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Numra spektakolarë akrobacie...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-11 05:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Paul Virilio">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Që prej 40 vjetësh, Pol Virilio po përpunon teorinë e tij mbi shpejtësinë dhe aksidentet. Nëse çdo progres ka edhe të kundërtën e tij, atëherë hyrja e tij në shkallë planetare, përgatit terrenin për aksidentin integral, e plote</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport HD 6ott">
+    <event id="0" start_time="2018-02-11 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2018-02-12 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2018-02-12 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2018-02-13 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2018-02-13 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2018-02-14 07:00:00" duration="16200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2018-02-14 11:30:00" duration="36000">
+      <short_event_descriptor lang="alb" name="ATP World Tour Roterdam">Tenis-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>ATP World Tour 2018, nga Roterdami i Holandes vjen Masters 500 me pjesemarrjen e Federer, Wawrinka, Dimitrov, Tsonga etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2018-02-14 21:30:00" duration="34200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2018-02-15 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2018-02-15 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2018-02-15 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Golat Direkt ">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, lidhje direkte me cdo sfide te mbremjes, gola, raste, kartona, episode dhe gjithshka tjeter qe ofron kompeticioni I kampioneve. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2018-02-15 22:00:00" duration="32400">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2018-02-16 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2018-02-16 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2018-02-17 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2018-02-17 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2018-02-18 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2018-02-18 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2018-02-19 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2018-02-19 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2018-02-20 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2018-02-20 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2018-02-21 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2018-02-21 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2018-02-22 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2018-02-22 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2018-02-23 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2018-02-23 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2018-02-24 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2018-02-24 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2018-02-25 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2018-02-25 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2018-02-26 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2018-02-26 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2018-02-27 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2018-02-27 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2018-02-28 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2018-02-28 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport-7">
+    <event id="0" start_time="2020-07-26 06:00:00" duration="32400">
+      <short_event_descriptor lang="alb" name="INFO">INFO</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione mbi programet dhe eventet e SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2020-07-26 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Man.City-Norwich Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League 2019-2020, sfide e vlefshme per javen e 38-te, nga stadiumi "Etihad" ne Manchester. Komenti: Elvi Luzi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2020-07-26 17:00:00" duration="46800">
+      <short_event_descriptor lang="alb" name="INFO">INFO</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione mbi programet dhe eventet e SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

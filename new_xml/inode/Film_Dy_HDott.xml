@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Dy HDott">
+    <event id="0" start_time="2021-10-14 14:40:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lepurushja e Shtëpisë">Komedi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Anna Faris, Emma Stone. Jeta e Shellit, lepurushes së Playboy-it, trazohet nga shfaqja e një rivaleje. Pasi e përzënë nga Playboy Mansion, ajo takohet me simotrat e Zeta Alfa Zetas, të cilat kanë po aq nevojë për të sa edhe ajo për ato.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-10-14 16:25:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Përtej kufijve">Dramë romantike-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A. Jolie, C.Owen. Sara, një grua e re që bën jetë mondane në Londër. Rastësisht njihet me Nikun, doktorin që ndihmon të varfërit e prekur nga lufta. Sara rrezikon gjithçka, edhe martesën për hir të ndjenjës për Nikun. Titra shqip-anglisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-10-14 18:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Tempulli">Horror-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grup gazetarësh të rinj, fillojnë një hetim mbi një kult, që flitet se bën sakrifica njerëzore. Por hetimi i tyre, do t'i kthejë në viktimat e radhës dhe terrori që do të përjetojnë do të jetë i paimagjinueshëm.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-10-14 20:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Filmi i frikshëm 2">Parodi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parodi e filmave: Ekzorcisti, The haunting, Horror në Amityville, Hanibal, Njeriu i padukshëm, Të vërtetat e fshehura.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-10-14 21:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Agimi i të vdekurve">Horror-Sub. ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sarah Polley. Brenda natës, bota është përfshirë në kaos, popullsia e planetit është goditur nga një epidemi e pashpjegueshme, dhe të vdekurit s'po vdesin më. Kufoma të uritura enden rrugëve duke bërë kërdinë. Titra shqip-anglisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-10-14 23:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Adami i ringjallur">Drame-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff Goldblum, Willem Dafoe. Historia e dhimbshme e Adamit, një artist hebre, që pas torturash të shumta, ka përfunduar në një azil për të mbijetuarit e Holokaustit...
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-10-15 01:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Nga bankier në gangster">Komedi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>José Garcia. Një bankier i qetë, detyrohet të marrë pamjen e një gangsteri të regjur, për të ndihmuar policinë në eliminimin e një bande kriminelësh. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-10-15 02:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Sëpata III">Horror-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Legjenda e Viktor Kraulit, vazhdon ende. Ndërkohë që disa njerëz shkojnë në moçalin vdekjeprurës për të tërhequr viktimat, Meribethi vajza që i mbijetoi sulmit makabër, përpiqet të zbulojë sekretin që do t'i japë fund përgjithmonë masakrës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-10-15 04:05:00" duration="7500">
+      <short_event_descriptor lang="alb" name="E para gjë e bukur">Kinemaja Italiane-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Paolo Virzi. 30 vjet pasi një nënë e re u zgjodh si femra më e bukur e plazhit, gjë që shkaktoi xhelozinë e të shoqit dhe dramë në familje, i biri kthehet për t'i qëndruar pranë në momentet e fundit të jetës. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-10-15 06:10:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Betejë në det të hapur">Aventurë-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Russell Crowe, Paul Bettany. Në kohën e luftërave të Napoleonit, një kapiten britanik e shtyn anijen dhe ekuipazhin deri në limit, në ndjekje të një anijeje franceze përgjatë brigjeve të Amerikës së Jugut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-10-15 08:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Bar Sport">Komedi Italiane-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Claudio Bisio, Giuseppe Battiston. Në Bar Sport mund të gjesh personazhe nga më të ndryshmit. Por mbi të gjitha Bar Sport, është një kryqëzim jetësh, personazhesh, rrëfimesh, sfidash, dashurish dhe rivalitetesh...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-10-15 10:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Futboll Shaolin">Arte Marciale-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas një gabimi që i kushton karrierën, një ish futbollist takon një student kung-fuje shaolin që po përpiqet të përhapë artin e kung-fusë. Ish futbollisti bashkohet me 5 vëllezërit e tij dhe u mëson atyre futbollin dhe kung-funë shaoline.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-10-15 12:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Film katastrofë">Parodi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parodi e filmave: Batman, Kalorësi i Zi, Unë jam legjendë, Njeriu i Hekurt, 10.000 BC, Superbad, Zohan: Liçensë për të krehur, Seksi dhe qyteti.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-10-15 13:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="E Zhdukura">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Amanda Seyfried. Pasi motra e saj zhduket pa asnjë gjurmë, një vajzë e re beson se vrasësi, të cilit ajo i shpëtoi është kthyer sërish. Me policinë që nuk i beson asnjë fjalë, ajo nis të kërkojë të motrën, përpara se të jetë shumë vonë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-10-15 15:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Kushtrimi">Histori e vërtetë-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tim Robbins, Derek Luke. Historia e një të riu afrikan, që jeta e shtyu të linte familjen dhe me heroizmat e tij t'i kundërvihej regjimit që po torturonte një popull të tërë...   
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-10-15 16:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shfaqje pasioni ">Dramë romantike-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mickey Rourke, Megan Fox, Bill Murray. Një gangster i pashpirt, mban nën kontroll një engjëll, dhe i vetmi njeri që mund ta shpëtojë është një muzikant, të cilit fati nuk i ka buzëqeshur prej kohësh...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-10-15 18:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Të paprekshme nga vdekja ">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kurt Russell. Një grup vajzash seksi bëhen objektivi i një dublanti psikopat i cili vihet në ndjekje të tyre. Por shpejt do të kuptojë se është ngatërruar me grupin e gabuar. Dy prej tyre do ta sfidojnë në një garë marramendëse makinash.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-10-15 20:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Shtëpia e fundit në të majtë ">Horror, thriller-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi rrëmbejnë dhe dhunojnë brutalisht dy vajza, një bandë kriminelësh gjen strehim në një shtëpi pushimi që i përket prindërve të njërës prej vajzve, të cilët thurin një plan hakmarrjeje të tmerrshëm.
+  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-10-15 21:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mësuesi i keq">Komedi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jack Whitehall, Nikki Runeckles. Një mësues i paaftë dhe nxënësit e pandreqshëm të klasës së tij, ndërmarrin një udhëtim që nuk dihet ç'do të sjellë apo si do të përfundojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-10-15 23:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shtegu i tmerrit">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff Roop, Missy Peregrym. Një çift shkon për kamping në një pyll dhe bie pre e një ariu të egër që i ndjek kudo ku shkojnë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-10-16 01:05:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Para gjaku">Aksion, arte marciale-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2012. Një vrasës tepër i aftë me një të kaluar të errët, e gjen veten në mes të një lufte të egër midis grupeve kriminale sekrete të Hong Kongut dhe tregtarëve të mëdhenj kolumbianë të drogës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-10-16 02:55:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shkojmë në burg">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dax Shepard, Will Arnett. Kur plani i një krimineli të regjur për t'u hakmarrë prishet, ai gjen një mënyrë për të çuar në burg djalin e 'viktimës' me qëllim që të futet edhe vetë për t'ia vështirësuar jetën sa më shumë. Titra shqip-anglisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-10-16 04:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Dragon Ball Z: Beteja e Zotave">Film per femije-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Goku rikthehet, me një film të ri. Në aventurën e tij më të re,  ai duhet të luftojë kundër Zotit të Shkatërrimit. Por si do të përfundojë kjo luftë?
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-10-16 06:10:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Prindër e fëmijë: Manuali i përdorimit">Komedia Italiane-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Luciana Littizzetto, Silvio Orlando, Michele Placido, Elena Sofia Ricci. Një përballje midis brezave. Bota e të rriturve dhe e adoleshentëve, parë përmes syve të 14 vjeçares Nina...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-10-16 08:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kurth në fund të detit">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Paul Walker, Jessica Alba. Katër zhytës amatorë gjejnë një anije të mbytur me një sasi ari me vlere miliona dollarësh. Kur mendojnë se ëndrra po u bëhet realitet, zbulojnë një mister akoma më të rrezikshëm. Titra shqip-anglisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-10-16 10:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Perrieri do hakmarrje">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cillian Murphy, Brendan Gleeson, Jim Broadbent. Një batakçi, babai i tij i sëmurë dhe fqinja e tyre bukuroshe, përpiqen t'i shmangen një gangsteri me emër, i cili kërkon hakmarrje për vrasjen e një prej ushtarëve të tij...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-10-16 11:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ndodhi për të qeshur ">Dramë-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>17 vjeçari Kreig, në gjendje depresioni, sapo ka mbërritur vullnetarisht në spital, në repartin psikiatrik për të rritur. Aty njihet me një grup pacientësh të marrë, por gazmorë, plot kurajë dhe energji që e ndihmojnë të gjejë vetëveten.   </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-10-16 13:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Heroi">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shume kohe perpara mbreterimit te Perandorit te Pare, grupe kundershtaresh ane e mbane Mbreterise se te Gjashteve, thurnin komplote per te vrare sundimtarin me te fuqishem. Vetem Nje Hero do ta sfidoje Perandorine e do bashkoje kombin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-10-16 15:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Zanafilla e Njerëzve X: Ulvërin">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>H.Jackman. Një rikthim në zanafillën e mistershme të Ulvërinit, që nga e shkuara e tij e dhunshme dhe romantike deri tek marrëdhëniet e ndërlikuara me vëllanë e tij Dhëmbëshpatën dhe programin ogurzi të Armëve X. Titra shqip-anglisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-10-16 16:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Unë dhe im vëlla">Komedi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Raoul Bova, Luca Argentero. Dy vëllezër të natyrave krejt të ndryshme, janë të datyruar të jetojnë me njëri tjetrin, pasi njëri prej tyre humbet kujtesën në një aksident. Kjo është mundësi e dytë për tu njohur me nj - tj.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-10-16 18:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Armiq të betuar">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>James McAvoy. Ish krimineli Sternud, detyrohet të braktisë fshehjen e tij dhe të kthehet në Londër, për të vizituar djalin e plagosur. Kjo është edhe mundësia e fundit për detektivin Levinski, që të kapë njeriun që e kërkon prej vitesh. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-10-16 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pengu">Thriller-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bruce Willis, Kevin Pollak. Një ish-ndërmjetës për lirimin e pengjeve, detyrohet t'i rikthehet detyrës kur dy adoleshentë marrin peng një familje të pasur.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-10-16 22:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Adoleshentja rebele">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Juno Temple, Jeremy Dozier, Milla Jovovich. E shoqëruar nga shoku i saj homoseksual, një adoleshente rebele vihet në kërkim të babait që nuk e ka takuar kurrë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-10-16 23:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shenjtorë të drejtësisë II-Kthimi">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një film kult rikthehet me kapitullin e tij të dytë! 10 vjet më pas, vëllezërit MekManus po bëjnë një jetë të qetë në Irlandë, por kur ata mësojnë për vrasjen e një prifti në Boston, do të lënë gjithçka për të vënë edhe një herë drejtësinë në vend...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-10-17 01:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mes pyllit të errët">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Timothy Hutton, Sharon Stone, Dylan Baker. Historia e disa njerëzve me karakter vetëshkatërrues, të cilët rendin pas një ideali që u rrëshqet dhe ndonëse realizojnë shumicën e dëshirave, dëshpërimi mund t'i bëjë të humbasin gjithçka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-10-17 03:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Viti '66">Biografi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>C.Clark. Për Bernie Reuben-in vera e '66 është e rëndësishme: do të marrë 'Bar Mitzvah-un dhe do të konsiderohet i rritur. Por hallet e prindërve të tij dhe finalja e boterorit do ta prishin magjine e ditës më të rëndësishme të jetes së tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-10-17 04:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mirësia e Krishtlindjes">Familjar-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përgjatë viteve, ndërkohë që pronarët e dy dyqaneve lodrash konkurrojnë me njëri-tjetrin, mirësia e Krishtlindjes ndryshon jetët e tyre në mënyra të paparashikuara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-10-17 06:20:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ekuilibri">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>C.Bale. Në një të ardhme fashiste ku çdo lloj emocioni është i ndaluar, librat, arti, muzika s'duhet të ekzistojne, dhe kush ndien dënohet me vdekje, një nga anëtarët më të lartë te qeverise do të ngrihet në lufte kundër vete sistemit. Titra shqip-an</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-10-17 08:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Vullkani">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tommy Lee Jones, Anne Heche. Në botë ka mbi 1500 vullkane aktivë për të cilët jemi në dijeni dhe të paktën një, për të cilin nuk dime gjë. Pikërisht ky kërcënon të marrë jetë njerëzish e të shkatërrojë një qytet të tërë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-10-17 10:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mysafire në Qytet">Komedi romantike-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Renée Zellweger, Harry Connick Jr. Një drejtuese biznesi ambicioze nga Majemi, e cila adhuron jetën në shoqërinë e lartë, shkon në një qytezë në Minesota dhe përballet me ndryshime, që do të ndryshojnë gjithçka...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-10-17 11:35:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Legjenda e mjeshtrit të madh  ">Sub. ang-II</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Donnie Yen, Lynn Hung. Në Hong Kongun e vitit 1949, mjeshtri i madh Ip Man, vendos të hapë një shkollë për të mësuar stilin e tij të arteve marciale 'Wing Chun'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-10-17 13:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Paranoja">Sub. Ang       </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shia Labeouf. Një adoleshent në arrest shtëpie bindet se fqinji i tij është një vrasës serial. Bashkë me miqtë e tij ai përpiqet të zbulojë të vërtetën mbi të ftuarit e fqinjit të cilët hyjnë, por nuk dalin kurrë nga apartamenti. Titra shqip-anglisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-10-17 15:10:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Dublantja e nuses">Komedi romantike-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kelly Macdonald, David Tennant, Alice Eve. Një aktore e famshme, e cila do të martohet në një fshat skocez, punëson një grua vendase për të tërhequr vëmendjen e medias që nuk e lë të qetë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-10-17 16:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Max Payne ">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mark Wahlberg në rolin e policit rebel i cili vihet në ndjekje të vrasësit që i mori jetën familjarëve dhe ortakut të tij. I betuar për hakmarrje, ai do të ndeshet me shumë armiq dhe do të përballet me një tradhti të paimagjinueshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-10-17 18:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kubi 2: Hiperkubi">Rubrika: Nightmares</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tetë të panjohur, zgjohen brenda një dhome në formë kubi, pa asnjë ide se si kanë arritur aty, por shumë shpejt zbulojnë se ndodhen në një dimension tjetër të mbushur plot kurthe vdekjeprurës nga ku ndoshta s'do të dalin gjallë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-10-17 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Surrogatët ">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bruce Willis. Në të ardhmen, njerëzit jetojnë dhe ndërveprojnë nëpërmjet 'surrogatëve', riprodhime të përkryera të vetvetes. Një agjent i FBI-së, përpiqet të gjejë një paisje që nëse vret surrogatin, vdes edhe i zoti...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-10-17 21:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dashnorë në Nju Jork">Drame romantike-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Josh Radnor, Malin Akerman, Zoe Kazan. Të rinj të ndryshëm në Nju Jork, përpiqen të gjejnë rrugën e tyre në jetë dhe në dashuri...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-10-17 23:10:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Porta e së kaluarës">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>(2009)Mads Mikkelsen, Jessica Schwarz. Një artist i sukesshëm i shkatërruar nga vdekja e vajzës së tij, gjen një mënyrë për t'u rikthyer në ditën e tragjedisë. Por kjo mundësi e dytë nuk është aspak ashtu siç duket.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-10-18 00:55:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Hakmarrje në Oak Hill">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Casper Van Dien, Bruce Boxleitner. Një ish sherif dhe një fermer, rrëmbejnë armët dhe i kundërvihen një biznemseni famëkeq, i cili më anë të ushtrisë së vrasësve që ka me vete, kërkon të marrë tokat e tyre për të ndërtuar një hekurudhë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-10-18 02:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Lidhja e Zotërinjve">Komedi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Banorët e një qyteti imagjinar rrezikohen nga një ngjarje apokaliptike. Tani shpresa e vetme është që disa karaktere qesharake të dalin në botën e vërtetë dhe të kërkojnë ndihmën e krijuesve të tyre komikë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-10-18 04:00:00" duration="9600">
+      <short_event_descriptor lang="alb" name="Avatar">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një film nga James Cameron. Me Sam Worthington. Fitues i 3 çmime Oskar. Një ish marins, dërgohet në Pandora për një mision të veçantë. Por sa më shumë njeh vendasit, aq më shumë vë në dyshim qëllimin e vërtetë të kësaj ekspedite... 
+
+              </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-10-18 06:40:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Përtej hijeve">Fantazi, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2019. Olivia Thirlby, Alan Ritchson, Megan Fox. Një vajzë e re që është venitur gradulisht deri në atë pike sa është bërë e padukshme, zbulon se ka një mundësi për t'iu rikthyer jetës së mëparëshme, pasi takon të vetmin person që mund ta shohë atë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-10-18 08:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Taksia">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Queen Latifah, Jimmy Fallon, Gisele Bündchen. Një polic, kërkon ndihmën e shoferes së taksisë më fantastike të Nju Jorkut. Misioni i tyre është të vihen në ndjekje të katër hajduteve seksi, që po grabisin bankat më të mëdha të qytetit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-10-18 10:15:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Saga Twilight: Agim i ri - 2">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>K.Stewart, R.Pattinson. Kapitulli i 5 dhe i fundit i sagës 'Twilight', do të jetë i paharrueshëm! Pas lindjes së vajzës, Eduart dhe Bella po shijojnë jetën e tyre dhe fuqitë e saj të reja. Por një rrezik i ri, kërcënon t'i shkatërrojë të gjithë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-10-18 12:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Ngritja e Planetit të Majmunëv">Aksion, Fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>James Franco. Një ilaç eksperimental, që mendohet si nje arritje për njerëzimin, do të ketë pasoja mbi majmunin që janë kryer eksperimentet. Ai fiton aftësi njerëzore, krijon një ushtri majmunësh dhe fillon një revolucion kundër njerëzve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-10-18 13:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Zbavitje me Dikun dhe Xhejnin">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jim Carrey, Tea Leoni. Çifti Dik dhe Xhejn Harper jetojnë në dashuri dhe bollëk, por kur kompania ku punon Diku do të ngatërrohet në një skandal, ai do të mbetet pa punë dhe familja Harper do ta shohë veten në pikë të hallit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-10-18 15:25:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Kodi i Da Vinçit">Mister, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>T.Hanks, A.Tautou. Eksperti i simbologjise fetare dr. Robert Langdon-i thirret në Luver nga kapiteni Fache. Emri i tij u gjet në axhenden e drejtorit të Muzeut të famshëm, i vrarë barbarisht pranë Xhokondes së Da Vinçit. Titra shqip-anglisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-10-18 17:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Luftanija">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Taylor Kitsch, Brooklyn Decker, Liam Neeson. Bazuar në lojën mjaft popullore të betejave në det. Një flotë ndërkombëtare në mision trajnimi, zbulon disa qënie jashtëtokësore që kanë si qëllim shfarrosjen e jetës mbi tokë...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-10-18 20:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Vdekja e Stalinit">Satirë politike, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me regji të Armando Ianucci-t. Stalini vdiq dhe miqtë e tij parazitë nisin një luftë pushteti për t'u bërë lideri i rradhës i Bashkimit Sovjetik. Por ndërsa ata grinden dhe i ngulin thika pas shpine njëri-tjetrit, kush e drejton qeverinë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-10-18 21:50:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Njeriu prej dëbore">Krim, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Fassbender, Rebecca Ferguson. Një detektiv, heton zhdukjen e një gruaje, shalli i së cilës është gjetur në një njeri prej dëbore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-10-18 23:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Masakra e Teksasit 7">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alexandra Daddario, Scott Eastwood. Shumë vite pas masakrës së Teksasit, një vajzë e re dhe miqtë e saj shkojnë në një shtëpi që ajo sapo e ka trashëguar, pa e ditur se aty i pret një tmerr i vërtetë dhe tortura çnjerëzore. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-10-19 01:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Sozia">Komedi e zezë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jesse Eisenberg, Mia Wasikowska. Bazuar në romanin e F.Dostojevskit. Jeta e Simonit, një djali shumë të turpshëm, do të ndryshojë me ardhjen e një kolegu të ri në punë. Ata ngjajnë shumë nga pamja, por janë krejt të kundërt në karakter. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-10-19 03:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Pakti i tmerrshëm">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Caity Lotz, Kathleen Rose Perkins. Pas vdekjes së nënës së tyre, dy motra rikthehen në shtëpinë ku janë rritur dhe përgjatë natës përjetojnë ngjarje të frikshme dhe zbulojnë një pakt të tmerrshëm të bërë vite më parë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

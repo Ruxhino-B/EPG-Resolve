@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport-4">
+    <event id="0" start_time="2019-10-19 06:00:00" duration="21600">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2019-10-19 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Flamurtari-Drenica">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ipko Superliga e Kosoves 2019-2020, ndeshje e vlefshme per javen e 10-te, nga stadiumi "Fadil Vokrri" ne Prishtine. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2019-10-19 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2019-10-19 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Skenderbeu-Kukesi">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2019-2020, ndeshje e vlefshme per javen e 8-te, nga stadiumi "Skenderbeu" ne Korce. Komenti, Elvis Rexha. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2019-10-19 17:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2019-10-19 18:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Utrecht-PSV">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivise 2019-2020, ndeshje e vlefshme per javen e 10-te, nga stadiumi "Galgenwaard" ne Utrecht. Komenti, Elvi Luzi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2019-10-19 20:45:00" duration="33300">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2019-10-20 06:00:00" duration="21600">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2019-10-20 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ferizaj-Prishtina">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ipko Superliga e Kosoves 2019-2020, ndeshje e vlefshme per javen e 10-te, nga stadiumi i qytetit ne Ferizaj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2019-10-20 14:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2019-10-20 14:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Feyenoord-Heracles">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivise 2019-2020, ndeshje e vlefshme per javen e 10-te, nga stadiumi "Feijenoord" ne Roterdam. Komenti, Elvi Luzi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2019-10-20 16:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2019-10-20 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

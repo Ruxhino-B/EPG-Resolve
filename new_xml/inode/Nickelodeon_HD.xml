@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Nickelodeon HD">
+    <event id="0" start_time="2019-04-15 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2019-04-16 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2019-04-16 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2019-04-16 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2019-04-17 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2019-04-17 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2019-04-17 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2019-04-18 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2019-04-18 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2019-04-18 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2019-04-19 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2019-04-19 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2019-04-19 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2019-04-20 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2019-04-20 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2019-04-20 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2019-04-21 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2019-04-21 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2019-04-21 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2019-04-22 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2019-04-22 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2019-04-22 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2019-04-23 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2019-04-23 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Nickelodeon." />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

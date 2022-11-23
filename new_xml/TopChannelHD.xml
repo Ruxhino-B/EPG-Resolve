@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Top Channel HD">
+    <event id="0" start_time="2021-12-07 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Per'Puthen">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për'Puthen është njE talk show dashurie, i cili sjell histori të vërteta dhe të gjalla të njohjeve mes të rinjve .</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-07 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-07 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-07 20:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Big Brother Albania VIP ">Reality show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-07 23:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-07 23:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Big Brother VIP">Lidhje direkte me shtepine</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-08 00:20:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-08 00:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-08 02:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-08 02:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-08 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-08 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-08 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Wake Up">Program argetues</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-08 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Toke e eger">Serial-107,108</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-08 11:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-08 11:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-08 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-08 14:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-08 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Big Brother Albania VIP">Permbledhje ditore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-08 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-08 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Per'Puthen">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për'Puthen është njE talk show dashurie, i cili sjell histori të vërteta dhe të gjalla të njohjeve mes të rinjve .</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-08 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-08 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-08 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Open">Talk show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-08 21:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Top story IV">Ngjarja kryesore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje cikel dokumentaresh investigativ aty ku kamera s'ka mberritur ende per te sjelle ne vemendje fenomene e veprimtari korruptive e te paligjshme, probleme sociale nga cdo cep i vendit... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-08 22:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="SNOB">Serial-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Snob shtë një përplasje nivelesh, klasash, por gjithmonë duke ju referuar Shqipërisë se stome. Në qendër janë të rinj rreth të 20-ave, me prindërve të pasur dhe të varfër. Janë të lindur të viteve 2000, të cilët s'kanë parë shumë gjëra që kanë ndodhur më parë dhe s'e kanë perjetuar ndërrimin e sistemeve. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-08 23:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-09 00:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-09 00:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-09 01:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Kujdesu per mua">Pjesa 36</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse duket se s'ka më asnjë shpresë për të jetuar, Alfredi dhe Dr.Bejden përpiqen të bëjnë gjithçka, derisa e kthejnë në jetë. Pasi përmendet, Xhulia pyet se ç'ka ndodhur, por Xheku preferon t'ia fshehë të vërtetën,për sigurinë e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-09 02:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-09 02:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-09 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-09 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-09 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Wake Up">Program argetues</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-09 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Toke e eger">Serial-109,110</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-09 11:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-09 11:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-09 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-09 14:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-09 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Big Brother Albania VIP">Permbledhje ditore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-09 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-09 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Per'Puthen">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për'Puthen është njE talk show dashurie, i cili sjell histori të vërteta dhe të gjalla të njohjeve mes të rinjve .</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-09 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-09 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-09 20:00:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Open">Talk show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-09 22:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Artkand II">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per gjithe ata qe jane te apasionuar pas artit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-09 23:15:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-09 23:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-10 00:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-10 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Kujdesu per mua">Pjesa 37</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhulia vendos t'i thotë Majkëllit që do të ndahen, por Xheku i mëson që po ta bëjë këtë, jeta e saj rrezikohet seriozisht. Natalia vendos të largohet nga shtëpia e Erikut, për t'i shkuar deri në fund qëllimit të saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-10 02:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-10 02:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-10 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-10 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-10 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Wake Up">Program argetues</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-10 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Toke e eger">Serial-111,112</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-10 11:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-10 11:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-10 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-10 14:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-10 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Big Brother Albania VIP">Permbledhje ditore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-10 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-10 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Per'Puthen">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për'Puthen është njE talk show dashurie, i cili sjell histori të vërteta dhe të gjalla të njohjeve mes të rinjve .</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-10 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-10 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-10 20:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Big Brother Albania VIP ">Reality show-16</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-10 23:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-10 23:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Big Brother VIP">Lidhje direkte me shtepine</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-11 00:20:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-11 00:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-11 02:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-11 02:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-11 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-11 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-11 06:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-11 06:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Nder dhe respekt II">Pjesa e gjashte</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në atentat vdes dhe Nikolasi i vogël, i biri i Tonios. I tronditur nga dhembja, Tonio pranon të bashkëpunojë me prokuroren e re, Françeska De Santis dhe kthehet në Siçili për të kapur vrasësin e të birit dhe vëllait.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-11 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Transformuesit Prime">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për të gjithë adhuruesit e robotëve dhe sidomos atyre që transformohen. Bëhuni gati çdo ditë, të jetoni aventura të paharrueshme dhe mbi të gjitha, bëhuni gati të trasformoheni.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-11 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Vetem per dashurine">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-11 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Artkand II">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per gjithe ata qe jane te apasionuar pas artit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-11 11:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-11 11:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="G&amp;G - Goca dhe Gra">Talk Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Mendon se më njeh? Ne gjetëm një mënyrë për të treguar se çfarë mendojmë, çfarë dëshirojmë dhe si dashurojmë. Si do ta bëjmë këtë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-11 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Balkan Project">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Balkan Project një emision që do të flasë shqip në të gjithë Ballkanin</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-11 14:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-11 14:25:00" duration="2400">
+      <short_event_descriptor lang="alb" name="N'Shtepi T'Re">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Ne Shtëpi te Re' është një program i cili i dedikohet sektorit te pasurive te patundshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-11 15:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Big Brother Albania VIP">Permbledhje ditore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-11 15:55:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Hipokrati">Program Mjekesor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një program mbi shëndetin tonë, për mënyrën tonë të jetesës por edhe për risitë e mjekësisë. Fuqia po zhvendoset nga mjeku, tek pacienti. Shëndeti e duam të gjithë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-11 17:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Me thuaj nje deshire II">Reality show 14</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një reality show që do t'ju prezantojë javë pas jave dëshirat më të pabesueshme të fëmijëve shqiptarë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-11 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-11 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Gjurmët Shqiptare VIII">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje cikel mbi historine e perhumbur ne vite nga Marin Mema</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-11 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Per'Puthen Prime">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për'Puthen është një talk show dashurie, i cili sjell histori të vërteta dhe të gjalla të njohjeve mes të rinjve .</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-11 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="G&amp;G - Goca dhe Gra">Talk Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Mendon se më njeh? Ne gjetëm një mënyrë për të treguar se çfarë mendojmë, çfarë dëshirojmë dhe si dashurojmë. Si do ta bëjmë këtë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-11 23:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-12 00:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Artkand II">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per gjithe ata qe jane te apasionuar pas artit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-12 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Balkan Project">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Balkan Project një emision që do të flasë shqip në të gjithë Ballkanin</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2021-12-12 02:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2021-12-12 02:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="E zhdukura">Seria 64,65</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Feliksi zbulon se Arnaldo Andrade i dërgonte para Emës, nëpërmjet Salgados. 
+Patriku i flet Marselës për ngjashmërinë e madhe mes Emës e Olivias, gje që e vë agjenten  në dyshime.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2021-12-12 04:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="5 vitet e fundit">Muzike, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Anna Kendrick, Jeremy Jordan. Ekranizim i veprës së kompozitorit dhe poetit të njohur Xhejson Robert Braun. Një zbërthim muzikor i një lidhjeje dashurie dhe martese që ndodh gjatë pesë viteve...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2021-12-12 06:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2021-12-12 06:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Nder e Respekt III">Pjesa 1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje ngjarje tragjike i kthen Tonios makthin e hakmarrjes ndonese kishte vendosur te bashkepunonte me drejtesine. Carmela, edhe nje here, ne te mire e ne te keqe, per faj te Tonios.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2021-12-12 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Me thuaj nje deshire II">Reality show 14</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një reality show që do t'ju prezantojë javë pas jave dëshirat më të pabesueshme të fëmijëve shqiptarë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2021-12-12 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Top List">Show muzikor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues muzikor qe te con drejt eventit te madh te vitit, ne garen e muzikes shqiptare "Top Awards". Cdo te diel do te ndiqni klsifikimin e 20 hiteve muzikore me te suksesshme te javes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2021-12-12 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2021-12-12 11:20:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Fans' Club BBAV">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aty ku banoret e shtepise  behen pjese e te gjitheve! Fansat, familjaret dhe miqte, gazetaret dhe shtypi i shkruar,  debatet dhe te eleminuarit e shtepise, per karakteret, situatat, historite, thashethemet e dashurite, per sekretet e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2021-12-12 12:45:00" duration="14700">
+      <short_event_descriptor lang="alb" name="E Diell">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne show-n familjar maratone, ne studion me diell: bisede, te qeshura, lote, gare, muzike, balet, VIP-a, lojera, intervista, emocione, fitues. E gjitha surprize!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2021-12-12 16:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="E Diell">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne show-n familjar maratone, ne studion me diell: bisede, te qeshura, lote, gare, muzike, balet, VIP-a, lojera, intervista, emocione, fitues. E gjitha surprize!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2021-12-12 18:30:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2021-12-12 18:50:00" duration="900">
+      <short_event_descriptor lang="alb" name="Vitrina e librit">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2021-12-12 19:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="SNOB">Serial-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Snob shtë një përplasje nivelesh, klasash, por gjithmonë duke ju referuar Shqipërisë se stome. Në qendër janë të rinj rreth të 20-ave, me prindërve të pasur dhe të varfër. Janë të lindur të viteve 2000, të cilët s'kanë parë shumë gjëra që kanë ndodhur më parë dhe s'e kanë perjetuar ndërrimin e sistemeve. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2021-12-12 20:10:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Portokalli">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjyra e vetme e humorit shqiptar rreth asaj qe perjetojme cdo dite, kenge e kercime. Nje mbremje unike per t'u argetuar se bashku.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2021-12-12 22:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Balkan Project">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Balkan Project një emision që do të flasë shqip në të gjithë Ballkanin</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2021-12-12 23:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2021-12-13 00:05:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Top List">Show muzikor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues muzikor qe te con drejt eventit te madh te vitit, ne garen e muzikes shqiptare "Top Awards". Cdo te diel do te ndiqni klsifikimin e 20 hiteve muzikore me te suksesshme te javes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2021-12-13 01:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Me thuaj nje deshire II">Reality show 14</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një reality show që do t'ju prezantojë javë pas jave dëshirat më të pabesueshme të fëmijëve shqiptarë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2021-12-13 02:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2021-12-13 02:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="E zhdukura">Seria 66,67</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Selena tmerrohet kur zbulon se Kristina është përgjegjëse për letrat anonime. Olivia çon Fransikon te Arnaldoja, ta shohë me sytë e tij që s'është ai vrasësi i Hulietës, Lupes e Huanës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2021-12-13 04:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Klik">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>S'ke ndonjehere ndjesine sikur dita nuk te mjafton? Apo. S'te duket sikur jeta te ka dale jashte kontrollit? Po sikur te zgjidhesh gjithcka. Me nje te shtypur te butonit?!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2021-12-13 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Wake Up">Program argetues</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2021-12-13 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Toke e eger">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2021-12-13 11:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2021-12-13 11:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2021-12-13 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2021-12-13 14:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2021-12-13 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Big Brother Albania VIP">Permbledhje ditore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Personazhet e jetës publike në vend, ata më të famshmit për të cilët shkruajnë portalet çdo ditë, e të cilët janë shpesh pjesë e intervistave në televizione dhe median e shkruar, do të jenë bashkë brenda shtëpisë më të vëzhguar në Shqipëri për një super sfidë të përditshme 24 orë në 24.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2021-12-13 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2021-12-13 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Per'Puthen">Program TV</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për'Puthen është një talk show dashurie, i cili sjell histori të vërteta dhe të gjalla të njohjeve mes të rinjve .</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2021-12-13 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2021-12-13 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2021-12-13 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Open">Talk show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. Prezantuar nga Eni Vasili</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2021-12-13 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Proçesi sportiv">Talk show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Analiza, komente, reagime, problematike dhe mbi te gjitha, pasqyrimi i evenimenteve sportive brenda e jashte vendit.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2021-12-13 23:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2021-12-14 00:05:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Top Talk">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Top Talk është i mbështetur në konceptin e intervistimit të një personazhi të vetëm për temën më të rëndësishme ditës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2021-12-14 00:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2021-12-14 01:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Kujdesu per mua">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="134" start_time="2021-12-14 02:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajmet, moti">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="135" start_time="2021-12-14 02:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shqiperia Live">Programi i Mengjesit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cdo ditë në një transmetim live do të vinë ngjarje të aktualitet, fenomene histori njerëzore, por edhe ngjarje të bujshme, ku programi do të thellohet në to për të sjellë ekskluzive protagonistët e tyre. Lidhje direkte nga e gjithë Shqipëria. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="136" start_time="2021-12-14 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ftese ne Pese">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshte nje program informues dhe argetues qe nxit debatin. Ngjarje kulturore, ndodhi ne jeten e celebrities, fokusim mbi marredheniet familjare te personave publike, pasqyrim te historive te prodhuara nga reality dhe talent show te ndryshem, bashkepun</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="137" start_time="2021-12-14 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i pare investigativ ne median shqiptare fokusuar ne korrupsionin e padrejtesite, trafikimin e abuzimet me pushtetin te cdo qeverie ne pushtet, problemet ekonomike, sociale, hallet e ndryshme te njerezve, etj. Prezantuar nga Devis Muka dhe Do</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

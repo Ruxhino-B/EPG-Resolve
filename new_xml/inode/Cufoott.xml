@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Cufoott">
+    <event id="0" start_time="2021-12-09 14:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ponio">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Djaloshi Soske, gjen një peshk me emrin Ponio, që ka aftësinë të kthehet në njeri. Soske dhe Ponio, nisin një udhëtim fantastik miqësie dhe eksplorimi. Por Ponio duhet të zgjedhë: të qëndrojë peshk apo të kthehet përgjithmonë në njeri?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 16:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Një pasdite në kopësht">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo natë, me një ninullë të ëmbël, një fëmijë i vogël bie në gjumë dhe mes ëndrrash gjendet në një kopësht të gjelbër e të mrekullueshëm, me personazhe fantastike që kanë shumë për t'u treguar, duke ua bërë gjumin shumë të ëmbël.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 17:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Shimer dhe Shajn">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shimeri dhe Shajni janë 2 xhinde binjake, që realizojnë cdo dëshirë. Ato do të vijnë në botën tonë me qëlimin e tyre fluturues, për të na mësuar që të ëndërrojmë dhe se me besim, cdo gjë zgjidhet më së miri.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 17:50:00" duration="900">
+      <short_event_descriptor lang="alb" name="Pokojo">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Spanja e bukur me diell, vjen Pokoja, miku më i ri dhe me i ëmbël i vogëlushëve! Pokojo është shumë kureshtar, i pëlqen të argëtohet, është shumë miqësor dhe gjithmonë kërkon të zbulojë dicka të re.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 18:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dragonjtë: Kalorësit e berkut">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vikingët dhe dragonjtë kanë vendosur të jetojnë në paqe mes njëri - tjetrit... Por kjo sigurisht nuk është dhe aq e lehtë, ndaj Berku bashkë me shokët e tij - hapin një shkollë për Zbutjen e Dragonjve... Por a do tja dalin?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 18:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Doraemon: Nobita dhe heronjtë ">e hapësirës </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeni gati për një aventurë të re të Doraemon-it? Ai dhe miqtë e tij, kanë vendosur të xhirojnë një film. Por nëse doni të zbuloni se cfarë do të ndodhë aty, ndiqni aventurën e tij të rradhës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 20:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Piratët e vegjël ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>17 vjeçari Raberi, vendos të bëhet një pirat, të vihet në kërkim të 'Thesarit të famshëm' dhe të bëhet 'Mbreti i ardhshëm i piratëve'. Por a do t'ja dale ai ti realizojë ëndrrat e tij?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 21:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente ninxha">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i 2012. Ata u krijuan rastësisht dhe u trajnuan për të luftuar. Adoleshentët Leonardo, Donatelo, Rafaelo, Mikelanxhelo, janë një vllazëri e pathyeshme dhe të vetmit që mund ta shpëtojnë qytetin e tyre nga rreziqet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 22:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Prindër të cuditshëm ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e 1o vjeçrit Timi dhe dy prindërve të tij, shumë të çuditshëm. 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 22:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Qenushi Kiper">Film për fëmije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e qenushit Kiper dhe mikut te tij derrkuc nuk kane fund. Ai mendon si nje i rritur dhe ka nje imagjinate te shkelqyer. Se bashku, kalojne aventura nga me te bukurat dhe mesojne te argetohen duke qeshur e mesuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 00:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Natyra e eger">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje luan, nje ketrush llafazan, nje xhirafe e hutuar, nje anakonde tinezare, dhe nje kaole argetuese, arratisen nga kopshti zoologjik dhe perballen me aventura te pabesueshme ne nje qytet si Nju Jorku dhe me pas ne natyren e eger.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 01:35:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Emoji: Bota sekrete e emocioneve">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhini, një emoji që shpreh shumë emocione, fillon një aventurë fantastike për t'u bërë si gjithë të tjerët...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 02:55:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ponio">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Djaloshi Soske, gjen një peshk me emrin Ponio, që ka aftësinë të kthehet në njeri. Soske dhe Ponio, nisin një udhëtim fantastik miqësie dhe eksplorimi. Por Ponio duhet të zgjedhë: të qëndrojë peshk apo të kthehet përgjithmonë në njeri?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 04:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Doraemon: Nobita dhe heronjtë ">e hapësirës </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeni gati për një aventurë të re të Doraemon-it? Ai dhe miqtë e tij, kanë vendosur të xhirojnë një film. Por nëse doni të zbuloni se cfarë do të ndodhë aty, ndiqni aventurën e tij të rradhës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 06:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Një pasdite në kopësht">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo natë, me një ninullë të ëmbël, një fëmijë i vogël bie në gjumë dhe mes ëndrrash gjendet në një kopësht të gjelbër e të mrekullueshëm, me personazhe fantastike që kanë shumë për t'u treguar, duke ua bërë gjumin shumë të ëmbël.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 07:10:00" duration="900">
+      <short_event_descriptor lang="alb" name="Pokojo">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Spanja e bukur me diell, vjen Pokoja, miku më i ri dhe me i ëmbël i vogëlushëve! Pokojo është shumë kureshtar, i pëlqen të argëtohet, është shumë miqësor dhe gjithmonë kërkon të zbulojë dicka të re.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 07:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vogëlushja Ebi">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ebi ishte një vajzë si gjithë të tjerat, deri ditën, që zbulon një krijesë të vecanta me emrin Bozli. Tani Ebi, falë orës së saj magjike dhe ndihmës së Bozlit, do ti shkojë në ndihmë të gjithë atyre që do të kenë nevojë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 07:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Flakerima e makinat përbindësh">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me AJ dhe makinën e tij Bleiz. Ata dhe miqtë e tyre, do t'ju  mësojnë shumë gjëra të reja,mbi teknologjinë , shkencën, matematiken.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 08:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Shimer dhe Shajn">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shimeri dhe Shajni janë 2 xhinde binjake, që realizojnë cdo dëshirë. Ato do të vijnë në botën tonë me qëlimin e tyre fluturues, për të na mësuar që të ëndërrojmë dhe se me besim, cdo gjë zgjidhet më së miri.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 09:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Karuseli magjik">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qenushi Dugali niset me miqtë e tij në një udhëtim të rrezikshëm që të burgosë sunduesin mizor Magjistarin e Lig Zibad. Dugali dhe miqtë duhet të marrin 3 diamantet që duhet për ta ndalur. A do të munden miqtë tanë të gjejnë diamantet?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 10:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Mbretëria e dëborës 3 ">Zjarr dhe flakë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi mundi heroikisht Mbretin dhe Mbretëreshën e Dëborës, Gerta ende nuk gjen paqe. Ëndrra e saj është të gjej prindërit, të cilët u rrëmbyen dikur prej tyre. A do mundet ajo me ndihmën e miqëve të ribashkojë familjen e saj të dashur?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 11:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dragonjtë: Kalorësit e berkut">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vikingët dhe dragonjtë kanë vendosur të jetojnë në paqe mes njëri - tjetrit... Por kjo sigurisht nuk është dhe aq e lehtë, ndaj Berku bashkë me shokët e tij - hapin një shkollë për Zbutjen e Dragonjve... Por a do tja dalin?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 12:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vogëlushja e ëmbël Remi ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Remi, nuk i njeh prindërit dhe jeton me Zotit Vital, i cili zbulon talentin e saj për te kënduar dhe vendos ta marrë në trupën e tij artistike. Së bashku nisin një turne, të cilin Remi do ta shfrytëzojë për të kërkuar prindërit.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 12:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Prindër të cuditshëm ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e 1o vjeçrit Timi dhe dy prindërve të tij, shumë të çuditshëm. 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 13:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Piratët e vegjël ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>17 vjeçari Raberi, vendos të bëhet një pirat, të vihet në kërkim të 'Thesarit të famshëm' dhe të bëhet 'Mbreti i ardhshëm i piratëve'. Por a do t'ja dale ai ti realizojë ëndrrat e tij?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 14:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente ninxha">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i 2012. Ata u krijuan rastësisht dhe u trajnuan për të luftuar. Adoleshentët Leonardo, Donatelo, Rafaelo, Mikelanxhelo, janë një vllazëri e pathyeshme dhe të vetmit që mund ta shpëtojnë qytetin e tyre nga rreziqet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 15:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Shtëpia e zhurmshme: Filmi">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Familja më e zhurmshme në botë vjen me një aventurë të re. Këtë herë ata do të nisen drejt Skocisë, për tu njohur me historinë e tyre familjare. Kështjella, dragonj, mbretër dhe argëtim I paharrueshëm...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 16:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Një pasdite në kopësht">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo natë, me një ninullë të ëmbël, një fëmijë i vogël bie në gjumë dhe mes ëndrrash gjendet në një kopësht të gjelbër e të mrekullueshëm, me personazhe fantastike që kanë shumë për t'u treguar, duke ua bërë gjumin shumë të ëmbël.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 17:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vogëlushja Ebi">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ebi ishte një vajzë si gjithë të tjerat, deri ditën, që zbulon një krijesë të vecanta me emrin Bozli. Tani Ebi, falë orës së saj magjike dhe ndihmës së Bozlit, do ti shkojë në ndihmë të gjithë atyre që do të kenë nevojë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 18:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Pokojo">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Spanja e bukur me diell, vjen Pokoja, miku më i ri dhe me i ëmbël i vogëlushëve! Pokojo është shumë kureshtar, i pëlqen të argëtohet, është shumë miqësor dhe gjithmonë kërkon të zbulojë dicka të re.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 18:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dragonjtë: Kalorësit e berkut">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vikingët dhe dragonjtë kanë vendosur të jetojnë në paqe mes njëri - tjetrit... Por kjo sigurisht nuk është dhe aq e lehtë, ndaj Berku bashkë me shokët e tij - hapin një shkollë për Zbutjen e Dragonjve... Por a do tja dalin?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 19:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Dragonjtë, epoka e arte">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është një histori magjike. Aty ku një forcë e panjohur ka nisur të shkatërrojë gjithçka.. Por kush do ta fitojë luftën mes të mirës dhe të keqes?
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-10 20:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Piratët e vegjël ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>17 vjeçari Raberi, vendos të bëhet një pirat, të vihet në kërkim të 'Thesarit të famshëm' dhe të bëhet 'Mbreti i ardhshëm i piratëve'. Por a do t'ja dale ai ti realizojë ëndrrat e tij?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-10 21:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente ninxha">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i 2012. Ata u krijuan rastësisht dhe u trajnuan për të luftuar. Adoleshentët Leonardo, Donatelo, Rafaelo, Mikelanxhelo, janë një vllazëri e pathyeshme dhe të vetmit që mund ta shpëtojnë qytetin e tyre nga rreziqet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-10 21:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Prindër të cuditshëm ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e 1o vjeçrit Timi dhe dy prindërve të tij, shumë të çuditshëm. 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-10 22:40:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Laki Luk">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e kaubojsit fatlum Luk dhe bandes se Daltoneve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-10 23:55:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Karuseli magjik">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qenushi Dugali niset me miqtë e tij në një udhëtim të rrezikshëm që të burgosë sunduesin mizor Magjistarin e Lig Zibad. Dugali dhe miqtë duhet të marrin 3 diamantet që duhet për ta ndalur. A do të munden miqtë tanë të gjejnë diamantet?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 01:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Mbretëria e dëborës 3 ">Zjarr dhe flakë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi mundi heroikisht Mbretin dhe Mbretëreshën e Dëborës, Gerta ende nuk gjen paqe. Ëndrra e saj është të gjej prindërit, të cilët u rrëmbyen dikur prej tyre. A do mundet ajo me ndihmën e miqëve të ribashkojë familjen e saj të dashur?
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 02:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Shtëpia e zhurmshme: Filmi">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Familja më e zhurmshme në botë vjen me një aventurë të re. Këtë herë ata do të nisen drejt Skocisë, për tu njohur me historinë e tyre familjare. Kështjella, dragonj, mbretër dhe argëtim I paharrueshëm...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 04:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Dragonjtë, epoka e arte">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është një histori magjike. Aty ku një forcë e panjohur ka nisur të shkatërrojë gjithçka.. Por kush do ta fitojë luftën mes të mirës dhe të keqes?
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 05:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Laki Luk">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e kaubojsit fatlum Luk dhe bandes se Daltoneve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 06:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Superkrahët">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e avionit më të shpejtë që keni parë ndonjëherë Xhetit. Ai udhëton në të gjithë botën dhe shpërndan pako për fëmijët. Por Xheti është edhe një Hero, sepse ai zgjidh të gjithë problemet, që i dalin gjatë rrugës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 07:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Pegi dhe macja">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e Pegit dhe maces së saj, e cila flet. Ajo e ka shumë qejf Matematikën, ndaj cdo problem që i del përpara, Pegi e zgjidh duke u bazuar në konceptet themelore të matematikës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 07:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Aventure polare">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në polin e veriut plot borë dhe paqe, fshihet një sekret i madh. Cfarë të jetë vallë? Tani një grup miqsh duhet ta zbulojnë dhe të shpëtojnë tokën ku ata jetojnë. Guximi dhe miqësia e tyre, do ti bëjë më të fortë se kurrë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 09:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Pinguinët e Madagaskarit ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kovalsi, Riko, Ushtari dhe Skiper janë katër pinguinë shumë të ndryshëm nga njëri - tjetri por me një të përbashkët: zgjuarsinë. Ata kanë një mision: mbarvajtjen e rendit , brenda shtëpisë së tyre,  kopështit zeoologjik.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 09:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Forcat e vogla">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me heronjtë e rinj: I shpejti marramendës, Volti. Hedhësi i mrekullueshëm, Semi. Mistikja magjike, Lusi. I plotfusqishmi Maks. Me fuqitë e tyre të jashtëzakonshme dhe me teknologjinë e përparuar, ata luftojnë për paqen në botë.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 10:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Legjenda e Çimës ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ju ftojmë të njiheni me botën e Çimës . Mbretëria magjike, e kafshëve luftëtarëve, me në krye princin Laval. Qëllimi i tyre i vetëm: Paqja dhe harmonia.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 11:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Dinozauri i Krishtlindjeve ">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Vigjilje të Krishtlindjeve, një vogëlush i shpreh dëshirën babagjyshit për dhuratën e preferuar: një dinosaur prej lodre, kafsha e tij e preferuar. Por ai habitet shumë kur në mëngjes, gjen poshtë pemës një vezë të vërtetë dinozauri.që çel.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-11 11:50:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mbretëria e dëborës 4">Toka e pasqyrave</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një mbret i lig vendos të rrëmbejë të gjithë magjistarët e botës dhe ti burogosë në tokën e pasqyrave. E vetmja që mund ta ndalojë mbretin, është Gerda. Ajo nuk ka asnjë fuqi magjike, por forca e saj është besimi në mirësi dhe miqësi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-11 13:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dragonjtë Vampire">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është aventura e katër miqëve, që do të ndërrmarin një udhëtim në të shkuarën, aty ku dragonjtë, ekzistojnë ende. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-11 14:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Skuadra e Superheronjve ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Batmani shkon me pushime, ndërkohë që pjesa tjetër e Superheronjve kujdeset për qytetin e Gotamit. Por gjatë udhëtimit, ai përballet me 2 armiq të vjetër ndërkohë që heronjtë e tjerë zbulojnë vështirësitë për t'u  kujdesur për qytetin.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-11 14:50:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Parku i mrekullive">Animacion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një Park mrekullish, i krijuar në imagjinatën e shfrenuar te një vajze të qujtur Xhun, befas vjen në jetë. Por çfarë ndodh me krijesat dhe aventurat e krijuara prej saj kur Xhuni vendos të mos fantazojë më?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-11 16:10:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Superkrahët">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e avionit më të shpejtë që keni parë ndonjëherë Xhetit. Ai udhëton në të gjithë botën dhe shpërndan pako për fëmijët. Por Xheti është edhe një Hero, sepse ai zgjidh të gjithë problemet, që i dalin gjatë rrugës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-11 16:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bredhi i vogël i Vitit të Ri">Film për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Na ishte njëherë një bredh i vogël, me një dëshirë të madhe: të ishte i dekoruar bukur dhe në mes të shtëpisë, mes festës, fëmijëve dhe dhuratave pa fund.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-11 17:20:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pegi dhe macja">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e Pegit dhe maces së saj, e cila flet. Ajo e ka shumë qejf Matematikën, ndaj cdo problem që i del përpara, Pegi e zgjidh duke u bazuar në konceptet themelore të matematikës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-11 17:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Legjenda e Çimës ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ju ftojmë të njiheni me botën e Çimës . Mbretëria magjike, e kafshëve luftëtarëve, me në krye princin Laval. Qëllimi i tyre i vetëm: Paqja dhe harmonia.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-11 18:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Planeti i thesarit">Film për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga krijuesit e 'Aladin' dhe 'Sirena e vogel', vjen një tjetër përrallë e mrekullueshme për kurajon, miqësine dhe zbulimet e mëdha. Një aventure fantastike në kërkim të një ishulli thesari dhe një jete prej piratesh.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-11 20:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dragonjtë Vampire">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është aventura e katër miqëve, që do të ndërrmarin një udhëtim në të shkuarën, aty ku dragonjtë, ekzistojnë ende. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-11 20:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Skuadra e Superheronjve ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Batmani shkon me pushime, ndërkohë që pjesa tjetër e Superheronjve kujdeset për qytetin e Gotamit. Por gjatë udhëtimit, ai përballet me 2 armiq të vjetër ndërkohë që heronjtë e tjerë zbulojnë vështirësitë për t'u  kujdesur për qytetin.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-11 21:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Breshka hero">Serial vizatimor per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në mbretërinë e detit, Mbreti helmohet nga Imogeni i lig. Lepurushja Emi dhe breshka Hero ngarkohen me misionin e rëndësishëm, por shumë të vështirë, që të shkojnë në Malin 
+e Mrekullive dhe të gjejnë kurën për mbretin.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-11 22:30:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Fatlumi Luke: Balada e Daltoneve">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e kaubojsit fatlum Luk dhe bandes se Daltoneve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-11 23:50:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mbretëria e dëborës 4">Toka e pasqyrave</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një mbret i lig vendos të rrëmbejë të gjithë magjistarët e botës dhe ti burogosë në tokën e pasqyrave. E vetmja që mund ta ndalojë mbretin, është Gerda. Ajo nuk ka asnjë fuqi magjike, por forca e saj është besimi në mirësi dhe miqësi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-12 01:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Parku i mrekullive">Animacion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një Park mrekullish, i krijuar në imagjinatën e shfrenuar te një vajze të qujtur Xhun, befas vjen në jetë. Por çfarë ndodh me krijesat dhe aventurat e krijuara prej saj kur Xhuni vendos të mos fantazojë më?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-12 02:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Bredhi i vogël i Vitit të Ri">Film për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Na ishte njëherë një bredh i vogël, me një dëshirë të madhe: të ishte i dekoruar bukur dhe në mes të shtëpisë, mes festës, fëmijëve dhe dhuratave pa fund.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-12 03:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Planeti i thesarit">Film për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga krijuesit e 'Aladin' dhe 'Sirena e vogel', vjen një tjetër përrallë e mrekullueshme për kurajon, miqësine dhe zbulimet e mëdha. Një aventure fantastike në kërkim të një ishulli thesari dhe një jete prej piratesh.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-12 04:50:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Fatlumi Luke: Balada e Daltoneve">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e kaubojsit fatlum Luk dhe bandes se Daltoneve</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-12 06:10:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Superkrahët">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e avionit më të shpejtë që keni parë ndonjëherë Xhetit. Ai udhëton në të gjithë botën dhe shpërndan pako për fëmijët. Por Xheti është edhe një Hero, sepse ai zgjidh të gjithë problemet, që i dalin gjatë rrugës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-12 06:35:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Xhuliusi i vogël">Serial vizatimor </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Këto janë aventurat e Xhuliusit të vogël, një majmuni gazmor që e ka mendjen vetëm tek shpikjet. Në aventurat që bën me miqtë e tij, ai na tregon çdo ditë se shpikjet më të mira janë ato që ndihmojnë shokët.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-12 07:25:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Në kërkim të Babagjyshit">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Diku, shumë shumë larg, jetojnë dy motra, princesha Kristal dhe Lusinda. Pasi gjejnë një zile të veçantë, ato vendosin të nisen në polin e Veriut, ku shpresojnë të gjejnë Babagjyshin dhe ta pysesin nëse ajo zile i përket drerëve të tij. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-12 08:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Pinguinët e Madagaskarit ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kovalsi, Riko, Ushtari dhe Skiper janë katër pinguinë shumë të ndryshëm nga njëri - tjetri por me një të përbashkët: zgjuarsinë. Ata kanë një mision: mbarvajtjen e rendit , brenda shtëpisë së tyre,  kopështit zeoologjik.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-12 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Forcat e vogla">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me heronjtë e rinj: I shpejti marramendës, Volti. Hedhësi i mrekullueshëm, Semi. Mistikja magjike, Lusi. I plotfusqishmi Maks. Me fuqitë e tyre të jashtëzakonshme dhe me teknologjinë e përparuar, ata luftojnë për paqen në botë.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-12 10:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Legjenda e Çimës ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ju ftojmë të njiheni me botën e Çimës . Mbretëria magjike, e kafshëve luftëtarëve, me në krye princin Laval. Qëllimi i tyre i vetëm: Paqja dhe harmonia.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-12 10:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Aventurat e reja te Lesit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për vite me rradhë, qeni i bukur Lesi, ka qënë një nga personazhet më të dashur për miliona shikues. Tani Lesi rikthehet, me një serial për fëmijë, bashkë më plot miq të tjerë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-12 11:30:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Pokemon:Kyremi kundër shpatës">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të gjithë adhuruesit e Pokemonëve  do të kenë mundësinë të ndjekin një aventurë të re. Për të shpëtuar shokët e tij, një pokemon i vogël dhe shumë i dashur, do të mposhtë frikën dhe do të sfidojë legjendar Kjurem. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-12 12:40:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dragonjtë Vampire">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është aventura e katër miqëve, që do të ndërrmarin një udhëtim në të shkuarën, aty ku dragonjtë, ekzistojnë ende. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-12 13:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Skuadra e Superheronjve ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Batmani shkon me pushime, ndërkohë që pjesa tjetër e Superheronjve kujdeset për qytetin e Gotamit. Por gjatë udhëtimit, ai përballet me 2 armiq të vjetër ndërkohë që heronjtë e tjerë zbulojnë vështirësitë për t'u  kujdesur për qytetin.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-12 14:20:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Familja Adams">Vizatimor, komedi, horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Familja Adams transferohen në Nju Xhërsi. Kur fqinja e tyre, që synon te krijojë lagjen e përkryer i kërkon të ndryshojnë mënyrat e tyre makabre, Adamsat I vërtetojnë qetësisht se mund të jenë pjesë e komunitetit pa ndryshuar asgjë nga vetja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-12 15:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Superkrahët">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e avionit më të shpejtë që keni parë ndonjëherë Xhetit. Ai udhëton në të gjithë botën dhe shpërndan pako për fëmijët. Por Xheti është edhe një Hero, sepse ai zgjidh të gjithë problemet, që i dalin gjatë rrugës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-12 16:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Xhuliusi i vogël">Serial vizatimor </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Këto janë aventurat e Xhuliusit të vogël, një majmuni gazmor që e ka mendjen vetëm tek shpikjet. Në aventurat që bën me miqtë e tij, ai na tregon çdo ditë se shpikjet më të mira janë ato që ndihmojnë shokët.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-12 16:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurat e reja te Lesit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për vite me rradhë, qeni i bukur Lesi, ka qënë një nga personazhet më të dashur për miliona shikues. Tani Lesi rikthehet, me një serial për fëmijë, bashkë më plot miq të tjerë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-12 17:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Legjenda e Çimës ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ju ftojmë të njiheni me botën e Çimës . Mbretëria magjike, e kafshëve luftëtarëve, me në krye princin Laval. Qëllimi i tyre i vetëm: Paqja dhe harmonia.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-12 18:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Toy Story">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e dy lodrave rivale: Udi dhe Baz. Ata janë të detyruar të jetojnë në të njëjtën shtëpi. Por kur gabimisht përfundojnë në rrugë, ata vendosin të bashkëpunojnë, për të gjetur rrugën e kthimit. Ndiqni një aventurë të paharrueshme, në botë e vërtetë të lodrave...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-12 19:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dragonjtë Vampire">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është aventura e katër miqëve, që do të ndërrmarin një udhëtim në të shkuarën, aty ku dragonjtë, ekzistojnë ende. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-12 20:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Skuadra e Superheronjve ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Batmani shkon me pushime, ndërkohë që pjesa tjetër e Superheronjve kujdeset për qytetin e Gotamit. Por gjatë udhëtimit, ai përballet me 2 armiq të vjetër ndërkohë që heronjtë e tjerë zbulojnë vështirësitë për t'u  kujdesur për qytetin.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-12 21:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Breshka hero">Serial vizatimor per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në mbretërinë e detit, Mbreti helmohet nga Imogeni i lig. Lepurushja Emi dhe breshka Hero ngarkohen me misionin e rëndësishëm, por shumë të vështirë, që të shkojnë në Malin 
+e Mrekullive dhe të gjejnë kurën për mbretin.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-12 22:20:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Milo shkon në Mars">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Milo, një 9-të vjeçar që nuk dëgjon këshillat e nënës së tij, do të zbulojë se sa e rëndësishme është ajo, kur jashtëtokësorë nga Marsi, e rrëmbejnë me qëllim që ta përdorin për të rritur fëmijët e tyre... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-12 23:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Në kërkim të Babagjyshit">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Diku, shumë shumë larg, jetojnë dy motra, princesha Kristal dhe Lusinda. Pasi gjejnë një zile të veçantë, ato vendosin të nisen në polin e Veriut, ku shpresojnë të gjejnë Babagjyshin dhe ta pysesin nëse ajo zile i përket drerëve të tij. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-13 01:05:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Pokemon:Kyremi kundër shpatës">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të gjithë adhuruesit e Pokemonëve  do të kenë mundësinë të ndjekin një aventurë të re. Për të shpëtuar shokët e tij, një pokemon i vogël dhe shumë i dashur, do të mposhtë frikën dhe do të sfidojë legjendar Kjurem. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-13 02:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Familja Adams">Vizatimor, komedi, horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Familja Adams transferohen në Nju Xhërsi. Kur fqinja e tyre, që synon te krijojë lagjen e përkryer i kërkon të ndryshojnë mënyrat e tyre makabre, Adamsat I vërtetojnë qetësisht se mund të jenë pjesë e komunitetit pa ndryshuar asgjë nga vetja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-13 03:35:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Toy Story">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e dy lodrave rivale: Udi dhe Baz. Ata janë të detyruar të jetojnë në të njëjtën shtëpi. Por kur gabimisht përfundojnë në rrugë, ata vendosin të bashkëpunojnë, për të gjetur rrugën e kthimit. Ndiqni një aventurë të paharrueshme, në botë e vërtetë të lodrave...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-13 04:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Milo shkon në Mars">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Milo, një 9-të vjeçar që nuk dëgjon këshillat e nënës së tij, do të zbulojë se sa e rëndësishme është ajo, kur jashtëtokësorë nga Marsi, e rrëmbejnë me qëllim që ta përdorin për të rritur fëmijët e tyre... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-13 06:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Një pasdite në kopësht">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo natë, me një ninullë të ëmbël, një fëmijë i vogël bie në gjumë dhe mes ëndrrash gjendet në një kopësht të gjelbër e të mrekullueshëm, me personazhe fantastike që kanë shumë për t'u treguar, duke ua bërë gjumin shumë të ëmbël.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-13 07:15:00" duration="900">
+      <short_event_descriptor lang="alb" name="Pokojo">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Spanja e bukur me diell, vjen Pokoja, miku më i ri dhe me i ëmbël i vogëlushëve! Pokojo është shumë kureshtar, i pëlqen të argëtohet, është shumë miqësor dhe gjithmonë kërkon të zbulojë dicka të re.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-13 07:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vogëlushja Ebi">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ebi ishte një vajzë si gjithë të tjerat, deri ditën, që zbulon një krijesë të vecanta me emrin Bozli. Tani Ebi, falë orës së saj magjike dhe ndihmës së Bozlit, do ti shkojë në ndihmë të gjithë atyre që do të kenë nevojë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-13 07:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Flakerima e makinat përbindësh">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me AJ dhe makinën e tij Bleiz. Ata dhe miqtë e tyre, do t'ju  mësojnë shumë gjëra të reja,mbi teknologjinë , shkencën, matematiken.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2021-12-13 08:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Shimer dhe Shajn">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shimeri dhe Shajni janë 2 xhinde binjake, që realizojnë cdo dëshirë. Ato do të vijnë në botën tonë me qëlimin e tyre fluturues, për të na mësuar që të ëndërrojmë dhe se me besim, cdo gjë zgjidhet më së miri.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2021-12-13 09:05:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Bazil Miu Dedektiv">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Miu Bazil perpiqet te kape te ligjte qe kerkojne te vjedhin mbreterine duke rrembyer miun shkencetar bashke me shpikjen e tij. Duke ndihmuar miushen te bijen e shkencetarit dhe banoret e qytetit. Bazili e shpetoi qytetin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2021-12-13 10:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Princesha mjelme">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dikur, ne nje mbreteri te madhe, mbretit Vilhelm i lind nje vajze qe quhet Odete. Mikja e tij, Uberta ka nje djale dhe te dy prinderit vendosin qe ata te rriten bashke e me pas te dashuroheshin, por magjistari Rot Bart ka plane te tjera.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2021-12-13 11:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dragonjtë: Kalorësit e berkut">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vikingët dhe dragonjtë kanë vendosur të jetojnë në paqe mes njëri - tjetrit... Por kjo sigurisht nuk është dhe aq e lehtë, ndaj Berku bashkë me shokët e tij - hapin një shkollë për Zbutjen e Dragonjve... Por a do tja dalin?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2021-12-13 12:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vogëlushja e ëmbël Remi ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Remi, nuk i njeh prindërit dhe jeton me Zotit Vital, i cili zbulon talentin e saj për te kënduar dhe vendos ta marrë në trupën e tij artistike. Së bashku nisin një turne, të cilin Remi do ta shfrytëzojë për të kërkuar prindërit.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2021-12-13 12:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Prindër të cuditshëm ">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni aventurat e 1o vjeçrit Timi dhe dy prindërve të tij, shumë të çuditshëm. 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2021-12-13 13:35:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Piratët e vegjël ">Serial per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>17 vjeçari Raberi, vendos të bëhet një pirat, të vihet në kërkim të 'Thesarit të famshëm' dhe të bëhet 'Mbreti i ardhshëm i piratëve'. Por a do t'ja dale ai ti realizojë ëndrrat e tij?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2021-12-13 14:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Bob Sfungjeri">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ju ftojmë të ndiqni: Aventurat dhe bëmat e SfungjeriBobit dhe miku i tij, Yllit të detit Patrik . Në çudirat më të pabesueshme të botës së tyre nën ujore, bashkë me miqtë e tjerë të detit... 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2021-12-13 15:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Legjenda e pinguinit">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është aventura emocionuese e Kokos së vogël, e cila cdo ditë shëtit e veshur si pinguin, duke ëndërruar që një ditë të fluturojë. Koko bashkë me dy miqtë e saj të rinj dhe të cuditshëm do të nis një udhëtim të paimagjinueshëm.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2021-12-13 16:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Një pasdite në kopësht">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo natë, me një ninullë të ëmbël, një fëmijë i vogël bie në gjumë dhe mes ëndrrash gjendet në një kopësht të gjelbër e të mrekullueshëm, me personazhe fantastike që kanë shumë për t'u treguar, duke ua bërë gjumin shumë të ëmbël.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2021-12-13 17:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Vogëlushja Ebi">Serial </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ebi ishte një vajzë si gjithë të tjerat, deri ditën, që zbulon një krijesë të vecanta me emrin Bozli. Tani Ebi, falë orës së saj magjike dhe ndihmës së Bozlit, do ti shkojë në ndihmë të gjithë atyre që do të kenë nevojë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2021-12-13 18:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Pokojo">Serial për fëmijë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Spanja e bukur me diell, vjen Pokoja, miku më i ri dhe me i ëmbël i vogëlushëve! Pokojo është shumë kureshtar, i pëlqen të argëtohet, është shumë miqësor dhe gjithmonë kërkon të zbulojë dicka të re.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2021-12-13 18:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dragonjtë: Kalorësit e berkut">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vikingët dhe dragonjtë kanë vendosur të jetojnë në paqe mes njëri - tjetrit... Por kjo sigurisht nuk është dhe aq e lehtë, ndaj Berku bashkë me shokët e tij - hapin një shkollë për Zbutjen e Dragonjve... Por a do tja dalin?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2021-12-13 19:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Njerëzit Ujq">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vajzë e re e cila dëshiron të bëhet gjuetare, udhëton drejt Irlandës bashkë me babain, për të shfarosur tufën e fundit të ujqërve. Por gjithçka do të ndryshojë, kur ajo miqësohet me një vajzë, që thuhet se natën shndërrohet në ulkonjë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

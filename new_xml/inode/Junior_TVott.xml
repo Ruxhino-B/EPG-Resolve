@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Junior TVott">
+    <event id="0" start_time="2021-12-09 13:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Xhuli dhe grupi muzikor">Seria-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhuli, pas humbjes së nënës, humb dhe pasionin e saj për muzikën. Por një ditë papritur, në dhomën e saj shfaqjen fantazmat e 3 muzikantëve ëndrrimtar nga viti 1995... Ata do ta ndihmojnë Xhulin të gjejë zërin e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 14:15:00" duration="1500">
+      <short_event_descriptor lang="alb" name="K. C. Agjentja sekrete ">Sezoni I-24</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me spiunen më të re, e cila punon në fshehtësi. Ajo i bën ballë cdo detyre. Ajo quhet Zendija - një agjente sekrete shumë e zonja. E rritur në një familje spiunësh, të cilët zgjidhin sëbashku cdo mision...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 14:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Victorious 4">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ajo është e bukur... Ajo është e talentuar... Dhe ajo riktheht në Junior...Tori - vjen për t'ju shoqëruar cdo ditë me avetura të reja...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 15:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Lusi dhe Princi i Paqes">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është miqësia e pazakontë e një vajze të vogël dhe një të burgosuri, të cilët janë të dy të shtruar në të njëjtin spital. Magjia e Krishtlindjeve do ti ndihmojë të dy , për të gjetur rrezen e shpresës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 16:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Medalioni i Humbur">Aventurë, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një njeri që shkon në një jetimore për të lënë disa dhurata, iu tregon fëmijëve një histori mbi dy miq adoleshentë që zbulojnë një medalion të humbur që i kthen pas në kohë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 18:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Lizi Mekguajer">Komedi.Regjia Jim Fall</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lizzie Mcguire së bashku me shokët e saj për te festuar mbarimin e shkolles nisen për udhetim ne Rome. Atje Lizzi-n e ngaterrojne me kengetaren e famshme te popit italian.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 19:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Vajza rebele">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje adoleshente me karakter te padisiplinuar, qe jetonte mes luksit ne L.A. dergohet nga I ati ne nje kolegj te rrepte ne Angli. Aty do te perballet me nje realitet krejt te ndryshem qe do ta detyroje te nxjerre ne pah ane te tjera te karakterit te s</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 21:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Herri Hill: Filmi">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur Herri zbulon se brejtësi i tij është sëmurë, ai bën gjithcka për ta shëruar. Por punët do të vështirësohen, kur në lojë hyjn Oto,  vëllai i tij binjak i cili do të rrëmbejë brejtësin me cdo kusht.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 22:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shpirt i lire">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kejl Brajan ëndërronte dicka e paarritëshme. Por kur në derë i troket mundësia që kishe  pritur  gjithmonë, ai do të zbulojë , se familja, miqtë dhe dashuria, janë rruga e duhur për realizimin e ëndrrave. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 00:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mbresëlënës!  ">Komedi, muzike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi pjestarët e grupit të tij e përzënë, Niko mendjemadhi, të vetmen rrugë për të vazhduar ëndrrën e tij si këngëtarë, ka korin e shkollës. Atje ai do të mësojë se: 'Që të bëhesh një yll, duhet të kesh një arsyje për të shkëlqyer'.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 01:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Kampi i baballareve">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Baballaret me shembullore te qytetit do te vendosin te blejne nje kamp veror nga ku do te zene fill edhe aventurat e reja te femijeve te kopshtit te tyre. Gara me nje kamp kundershtar do te vere perballe proves edhe prinderit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 03:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Lusi dhe Princi i Paqes">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është miqësia e pazakontë e një vajze të vogël dhe një të burgosuri, të cilët janë të dy të shtruar në të njëjtin spital. Magjia e Krishtlindjeve do ti ndihmojë të dy , për të gjetur rrezen e shpresës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 04:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Medalioni i Humbur">Aventurë, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një njeri që shkon në një jetimore për të lënë disa dhurata, iu tregon fëmijëve një histori mbi dy miq adoleshentë që zbulojnë një medalion të humbur që i kthen pas në kohë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 06:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Rrugaçet">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndodhemi ne Bruklin. Femijet qe do te tregojne gnjarjen jane banore te asaj lagjeje dhe ritmi muzikor eshte pikerisht stili i tyre. D-Rock eshte nje femije qe per momentin ka vetem nje deshire; te bleje atlete te reja qe kushtojne 150 dollare. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 07:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Xhuli dhe grupi muzikor">Seria-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhuli, pas humbjes së nënës, humb dhe pasionin e saj për muzikën. Por një ditë papritur, në dhomën e saj shfaqjen fantazmat e 3 muzikantëve ëndrrimtar nga viti 1995... Ata do ta ndihmojnë Xhulin të gjejë zërin e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 07:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="K. C. Agjentja sekrete ">Sezoni I-25</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me spiunen më të re, e cila punon në fshehtësi. Ajo i bën ballë cdo detyre. Ajo quhet Zendija - një agjente sekrete shumë e zonja. E rritur në një familje spiunësh, të cilët zgjidhin sëbashku cdo mision...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 07:55:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Victorious III">Serial-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Trina, është një adoleshente vërtetë e çuditshme. Ndërsa Tori, është kundërshtarja e saj. Kur fati do ta vendosë Torin përball Trinas, jeta e saj do të kthehet përmbys. Që nga ai çast, ajo duhet të zbulojë se cfarë i mungon.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 08:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Njeriu prej teneqeje">Aventure-Fantazi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e Doroti Geil ne qytetin e OZ-it, ne nje histori te mbushur plot fantazi. Vajza do te shpetoje motren e saj Azkadelia, duke nxjerre shtrigen brenda saj e duke bere qe dielli te ndriçoje serish mbi OZ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 09:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Akademia e superheronjve ">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse duken si fëmijë të zakonshëm, ata nuk janë si gjithë të tjerët. Ata janë Superheronj dhe identiteti i tyre është sekret. Por edhe pse janë ende fëmijë, ata janë të vetmit që mund ta shpëtojnë botën.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 11:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Historia e një vajze Amerikane">Dashuria duhet të fitojë  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e Melody Ellison, një vajzë 10 vjeçare afrikano-amerikane e papërmbajtshme dhe shumë krijuese. Ajo jeton bashkë me familjen e saj në Detroitin e 1960-tës, gjatë 'Lëvizjes për të Drejtat Civile'. Edhe pse jeton në mes të trazirave, ajo e gjen forcën për të rikthyer shpresën për një botë më të mirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 12:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Violeta">Serial-50</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Violeta, pasi ka jetuar për vite të tëra në Europë, kthehet në qytetin e lindjes Buenos Aires. Atje nis një jetë të re, një shkollë të re, zë miq të rinj. Por gjëja më speciale, bën realitet pasionin e saj për muzikën, kërcimin, këngën.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 12:55:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Xhuli dhe grupi muzikor">Seria-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhuli, pas humbjes së nënës, humb dhe pasionin e saj për muzikën. Por një ditë papritur, në dhomën e saj shfaqjen fantazmat e 3 muzikantëve ëndrrimtar nga viti 1995... Ata do ta ndihmojnë Xhulin të gjejë zërin e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 13:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="K. C. Agjentja sekrete ">Sezoni I-25</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me spiunen më të re, e cila punon në fshehtësi. Ajo i bën ballë cdo detyre. Ajo quhet Zendija - një agjente sekrete shumë e zonja. E rritur në një familje spiunësh, të cilët zgjidhin sëbashku cdo mision...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 13:50:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Victorious 5">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Trina, është një adoleshente vërtetë e çuditshme. Ndërsa Tori, është kundërshtarja e saj. Kur fati do ta vendosë Torin përball Trinas, jeta e saj do të kthehet përmbys. Që nga ai çast, ajo duhet të zbulojë se cfarë i mungon.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 14:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ndihma e delfinit">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë pushimeve në një ishull tropikal, miqësia e një djali të ri me një delfin të këndshëm dhe miqësor, do ta ndihmojë atë të gjejë guximin të futet përsëri në ujë, pas humbjes së papritur të nënës së tij.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 15:45:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Nëntëvjeçarja: Viti më i keq">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Adoleshenti i heshtur dhe plot imagjinatë Raf Kaçadorian, është i lodhur nga rregullat e rrepta të shkollës së tij që nuk lejojnë kreativitetin të zhvillohet, prandaj edhe ai ka një plan për të thyer çdo rregull dhe të gjithë të bëjnë ç'të duan.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 17:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Superqeni">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shushajn mendonte se ishte nje qen i zakonshem, por nje dite nje shkencetar do ta shnderroje ne nje super qen me fuqi te jashtezakonshme dhe jeta e tij do te ndryshoje njehere e pergjithmone.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 18:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Programi i mbrojtjes se princeshave">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur vendi i saj pushtohet, princeshë Rozalinda, ndërron emrin dhe shkon për të jetuar në  Louisiana, ku i duhet të mësojë të jetojë, si një adoleshente e zakonshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 20:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Borëbardha në Kolegj">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 2007. Një përshtatje moderne e historisë së mrekullueshme. E vendosur për të ndjekur në hapat e nënës, një vajzë e re futet në të njëjtën shoqëri studentore, por shume shpejt kupton se sa ndryshe janë vajzat e sotme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 21:45:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Dafi - Macja që flet">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dafi, një mace shumë e vecantë, e cila ka dhuntinë e të folurit, do të bëjë gjithcka që 
+të shuajë problemet midis dy familjeve. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 23:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Akademia e superheronjve ">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse duken si fëmijë të zakonshëm, ata nuk janë si gjithë të tjerët. Ata janë Superheronj dhe identiteti i tyre është sekret. Por edhe pse janë ende fëmijë, ata janë të vetmit që mund ta shpëtojnë botën.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 00:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Njeriu prej teneqeje">Aventure-Fantazi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e Doroti Geil ne qytetin e OZ-it, ne nje histori te mbushur plot fantazi. Vajza do te shpetoje motren e saj Azkadelia, duke nxjerre shtrigen brenda saj e duke bere qe dielli te ndriçoje serish mbi OZ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 02:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Historia e një vajze Amerikane">Dashuria duhet të fitojë  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e Melody Ellison, një vajzë 10 vjeçare afrikano-amerikane e papërmbajtshme dhe shumë krijuese. Ajo jeton bashkë me familjen e saj në Detroitin e 1960-tës, gjatë 'Lëvizjes për të Drejtat Civile'. Edhe pse jeton në mes të trazirave, ajo e gjen forcën për të rikthyer shpresën për një botë më të mirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 02:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Ndihma e delfinit">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë pushimeve në një ishull tropikal, miqësia e një djali të ri me një delfin të këndshëm dhe miqësor, do ta ndihmojë atë të gjejë guximin të futet përsëri në ujë, pas humbjes së papritur të nënës së tij.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-11 04:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Nëntëvjeçarja: Viti më i keq">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Adoleshenti i heshtur dhe plot imagjinatë Raf Kaçadorian, është i lodhur nga rregullat e rrepta të shkollës së tij që nuk lejojnë kreativitetin të zhvillohet, prandaj edhe ai ka një plan për të thyer çdo rregull dhe të gjithë të bëjnë ç'të duan.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-11 05:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Superqeni">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shushajn mendonte se ishte nje qen i zakonshem, por nje dite nje shkencetar do ta shnderroje ne nje super qen me fuqi te jashtezakonshme dhe jeta e tij do te ndryshoje njehere e pergjithmone.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-11 07:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Eloiza në hotel Plaza">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eloiza, një vajzë e vogël ,jeton në katin e fundit të Hotel "Plaz-ës", bashkë me dadon e saj. Kur merr vesh që princi Leon do të vij në hotel - vendos të bëhet mikja e tij..</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 08:25:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Njeriu prej teneqeje 2">Aventure-Fantazi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e Doroti Geil ne qytetin e OZ-it, ne nje histori te mbushur plot fantazi. Vajza do te shpetoje motren e saj Azkadelia, duke nxjerre shtrigen brenda saj e duke bere qe dielli te ndriçoje serish mbi OZ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 09:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Qyteti i Emberit">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per shekuj me radhe kishte ekzistuar kjo mrekulli e nendheshme me emrin Ember. Nje qytet me drita te zbehta, te cilat nje dite shuhen. Dy adoleshente do te perpiqen te shpetojne qytetin nga erresira e perjetshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 11:25:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Të kundërt për një ditë">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cfarë do të ndodhte, sikur një ditë, papritur të gjithë fëmijët të zinin vendin e të rriturve ? Të bënin punën e tyre dhe të silleshin njësojë si ta, dhe të rriturit të bëheshin fëmijë?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 12:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Magjistaret e sheshit Uejverli">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për familjen Russo duhet të ishin, pushimet perfekte familjare. Por, një mallkim aksidental, nga ana e vajzës së tyre Aleks, do t'i çojë ata në aventurën më të madhe të jetës.. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 14:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="DUMBO">Aventurë, Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2019.Eva Green, Colin Farrell. Një elefant i vogël që arrin të fluturojë më veshët e tij gjigantë, ndihmon një cirk në vështirësi të rimëkëmbet. Por kur cirku e çon në një park të ri të madh, ai dhe miqtë e tij zbulojnë sekrete nën fasadën argëtuese.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 16:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Të njihesh ne Alpe">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kim, dikur ishte një kampjone skejtbordi, por sot duhet të punojë për të ndihmuar familjen... Fati e do, që puna e saj të jetë në Alpe, pranë dëborës... Vendi perfekt për t'ju rikthyer pasionit të vjetër por dhe për të gjetur emocione të reja...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 17:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Histori sirenash">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>12-vjeçarja Ryan dhe babai i saj transferohen në një qytet të qetë bregdetar. Një ditë papritur Ryan, takon Coral një sirenë mitike. Vajzat bëhen shpejt shoqe të ngushta dhe zbulojnë një sekret që do ti ndihmojë të shpëtjnë qytetin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 19:05:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Skot Pilgrim kundër botës     ">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në mënyrë që të fitojë zemrën e mikeshës së tij të re, Skot, duhet të luftojë  me 7-të  ish të dashurit e saj djallëzorë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 20:55:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ishulli i Dinosaurëve">Aventurë, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi avioni në të cilin ndodhej, futet në një stuhi të furishme, një djalë përfundon në një ishull të çuditshëm dinosaurësh që 'mbledh' krijesa dhe objekte  nga kohëra të ndryshme. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 22:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Eloiza në hotel Plaza">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eloiza, një vajzë e vogël ,jeton në katin e fundit të Hotel "Plaz-ës", bashkë me dadon e saj. Kur merr vesh që princi Leon do të vij në hotel - vendos të bëhet mikja e tij..</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 23:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Njeriu prej teneqeje 2">Aventure-Fantazi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e Doroti Geil ne qytetin e OZ-it, ne nje histori te mbushur plot fantazi. Vajza do te shpetoje motren e saj Azkadelia, duke nxjerre shtrigen brenda saj e duke bere qe dielli te ndriçoje serish mbi OZ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-12 01:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Qyteti i Emberit">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Per shekuj me radhe kishte ekzistuar kjo mrekulli e nendheshme me emrin Ember. Nje qytet me drita te zbehta, te cilat nje dite shuhen. Dy adoleshente do te perpiqen te shpetojne qytetin nga erresira e perjetshme. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-12 02:35:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Të kundërt për një ditë">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cfarë do të ndodhte, sikur një ditë, papritur të gjithë fëmijët të zinin vendin e të rriturve ? Të bënin punën e tyre dhe të silleshin njësojë si ta, dhe të rriturit të bëheshin fëmijë?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-12 03:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Magjistaret e sheshit Uejverli">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për familjen Russo duhet të ishin, pushimet perfekte familjare. Por, një mallkim aksidental, nga ana e vajzës së tyre Aleks, do t'i çojë ata në aventurën më të madhe të jetës.. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-12 05:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Të njihesh ne Alpe">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kim, dikur ishte një kampjone skejtbordi, por sot duhet të punojë për të ndihmuar familjen... Fati e do, që puna e saj të jetë në Alpe, pranë dëborës... Vendi perfekt për t'ju rikthyer pasionit të vjetër por dhe për të gjetur emocione të reja...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-12 07:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Rikthim ne qytetin e Hallouini">Aventure, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Marni eshte nje vajze me fuqi te mbinatyrshme. Ajo pret te shkoje ne Universitetin e Shtrigave, ku do te mesoje te vere ne zbatim fuqite e saj. Shpejt do te kuptoje se eshte 'e perzgjedhura', qe mund te hape kutine ku fshihet nje profeci e lashte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-12 08:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Njeriu prej teneqeje 3">Aventure-Fantazi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e Doroti Geil ne qytetin e OZ-it, ne nje histori te mbushur plot fantazi. Vajza do te shpetoje motren e saj Azkadelia, duke nxjerre shtrigen brenda saj e duke bere qe dielli te ndriçoje serish mbi OZ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-12 09:55:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Një verë plot surpriza">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhudi, është një vajzë shumë e veçantë. Tani që shkolla mbaroi, ajo pret të kalojë një verë si gjithë të tjerat. Por një surprizë e papritur, do bëj që Xhudi, të kalojë verën më të bukur të jetës së saj...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-12 11:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Polici dhe qenushja">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qenushja Princeshë , një qen polic, do të ndihmojë Dancer, një polic në karrierë, për të kapur nje kriminel të rrezikshëm. Po për ata bërë këtë, ata fillimisht duhet të bashkëpunojnë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-12 12:55:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Dragonball Evolucioni ">Aksion, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2009. Aventurat e  Gokut, djaloshit të vendosur të përmbushë dëshirën e fundit të gjyshit Gohan, që pak para vdekjes i dhuroi një nga Sferat e Dragoit duke i kërkuar të vihet në gjurmë të 6 të tjerave, përpara se të bien në duart e lordit të lig Pikolo.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-12 14:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Hallouin i çmendur">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Plani i një adoleshenteje, që natën e Hallouinit të shkojë në festën më të mirë në qytet prishet kur nëna e saj i kërkon, që të kujdeset për vëllain më të vogël. Por pikërisht kur mendonte se asgjë s'mund të shkonte më keq, ai zhduket... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-12 15:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Vajza ideale">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viola, është një vajzë me dëshira paksa të veçanta. Ajo ëndërron të bëhet futbolliste edhe pse rregulloria e shkollës s'e lejon. Por ëndrrat s'njohin rregulla, ndaj Viola transformoheti si vëllai i saj binjak, Sebastiani... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-12 17:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Charlie St. Cloud">Dramë, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ëndrrat e Çarlit do të shuhen, kur vëllai i tij i vogël humb jetën.Vite më pas, ende i mbyllur në vetvete, ai bie në dashuri me një vjazë dhe tani ndodhet në dilemë:midis romancës dhe një premtimi, që e bëri të braktiste gjithçka tjetër.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-12 18:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Persi Xhekson 2-Deti i përbindeshave">Aksion, familjar, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në perpjekje për të ruajtur të sigurt vendin e tyre, Persi Xhekson, i biri i Poseidonit dhe miqtë e tij nisen në një udhëtim në Detin e përbindëshave për të ndaluar një të keqe që e ka zanafillën nga lashtësia..</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-12 20:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Grejsi - Endrra ime më e madhe">Drama, sport, familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Carly Schroeder, Dermot Mulroney, Elisabeth Shue. Greisi, një adoleshente që e adhuron futbollin, do të përballet me një betejë të vështirë për t'u dhënë femrave, mundësi ta luajnë këtë sport kaq mashkullor...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-12 22:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Vallëzo për të!">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një studente e talentuar duhet të zgjedhë midis ëndrrës së saj për t'u bërë një kërcimtare apo dëshirave të familjes së saj, për të...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-12 23:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Njeriu prej teneqeje 3">Aventure-Fantazi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat e Doroti Geil ne qytetin e OZ-it, ne nje histori te mbushur plot fantazi. Vajza do te shpetoje motren e saj Azkadelia, duke nxjerre shtrigen brenda saj e duke bere qe dielli te ndriçoje serish mbi OZ.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-13 00:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Një verë plot surpriza">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhudi, është një vajzë shumë e veçantë. Tani që shkolla mbaroi, ajo pret të kalojë një verë si gjithë të tjerat. Por një surprizë e papritur, do bëj që Xhudi, të kalojë verën më të bukur të jetës së saj...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-13 02:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Rikthim ne qytetin e Hallouini">Aventure, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Marni eshte nje vajze me fuqi te mbinatyrshme. Ajo pret te shkoje ne Universitetin e Shtrigave, ku do te mesoje te vere ne zbatim fuqite e saj. Shpejt do te kuptoje se eshte 'e perzgjedhura', qe mund te hape kutine ku fshihet nje profeci e lashte.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-13 03:55:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Polici dhe qenushja">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qenushja Princeshë , një qen polic, do të ndihmojë Dancer, një polic në karrierë, për të kapur nje kriminel të rrezikshëm. Po për ata bërë këtë, ata fillimisht duhet të bashkëpunojnë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-13 05:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Vajza ideale">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viola, është një vajzë me dëshira paksa të veçanta. Ajo ëndërron të bëhet futbolliste edhe pse rregulloria e shkollës s'e lejon. Por ëndrrat s'njohin rregulla, ndaj Viola transformoheti si vëllai i saj binjak, Sebastiani... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-13 07:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Xhuli dhe grupi muzikor">Seria-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhuli, pas humbjes së nënës, humb dhe pasionin e saj për muzikën. Por një ditë papritur, në dhomën e saj shfaqjen fantazmat e 3 muzikantëve ëndrrimtar nga viti 1995... Ata do ta ndihmojnë Xhulin të gjejë zërin e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-13 07:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="K. C. Agjentja sekrete ">Sezoni I-25</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me spiunen më të re, e cila punon në fshehtësi. Ajo i bën ballë cdo detyre. Ajo quhet Zendija - një agjente sekrete shumë e zonja. E rritur në një familje spiunësh, të cilët zgjidhin sëbashku cdo mision...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-13 07:55:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Victorious 6">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ajo është e bukur... Ajo është e talentuar... Dhe ajo riktheht në Junior...Tori - vjen për t'ju shoqëruar cdo ditë me avetura të reja...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-13 08:20:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Flaka: Shpirti i egër">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nëse nuk e mban kokën pas nga e shkuara dhe e lë shpirtin tënd të lirë, e ardhmja mund të të japë një mundësi të dytë... Një film emocionues për të gjithë familjen...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-13 09:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Doktor Dulitell 1">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1998. Kur ishte i vogël, Xhon Dulitell kishte një dhunti, por jo të gjithë mund ta vlerësonin. 30 vjet më vonë, dhuntia është rikthyer. Këtu nis aventura e doktorit të kafshëve që rrezikoi gjithçka për të shpëtuar tigrin e cirkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-13 11:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kërkimi i ishullit imagjinar">Dramë familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e shkrimtarit që krijoi Piter Panin, Uendin dhe ishullin imagjinar që është bërë vendi më i dashur për femijet. Që këtu nisi aventura e jashtëzakonshme e djaloshit që s'donte te rritej kurre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-13 12:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Violeta">Serial-51</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Violeta, pasi ka jetuar për vite të tëra në Europë, kthehet në qytetin e lindjes Buenos Aires. Atje nis një jetë të re, një shkollë të re, zë miq të rinj. Por gjëja më speciale, bën realitet pasionin e saj për muzikën, kërcimin, këngën.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-13 13:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Xhuli dhe grupi muzikor">Seria-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhuli, pas humbjes së nënës, humb dhe pasionin e saj për muzikën. Por një ditë papritur, në dhomën e saj shfaqjen fantazmat e 3 muzikantëve ëndrrimtar nga viti 1995... Ata do ta ndihmojnë Xhulin të gjejë zërin e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-13 14:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="K. C. Agjentja sekrete ">Sezoni I-25</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me spiunen më të re, e cila punon në fshehtësi. Ajo i bën ballë cdo detyre. Ajo quhet Zendija - një agjente sekrete shumë e zonja. E rritur në një familje spiunësh, të cilët zgjidhin sëbashku cdo mision...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-13 14:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Victorious 6">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ajo është e bukur... Ajo është e talentuar... Dhe ajo riktheht në Junior...Tori - vjen për t'ju shoqëruar cdo ditë me avetura të reja...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-13 14:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Familja Adams 1">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gomesi, Mortisia, Uensdey, Pagslei dhe Festeri janë pjestaret e familjes më të çuditshme në botë. Nëse do ti njihni, mos humbisni aventurat e Familjes Adams..
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-13 16:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Djali i Rambos">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy djem do të vendosin të bëjnë filmin më të jashtëzakonshëm në histori dhe do të bëhen të famshëm pavarësisht nga frika e prindërve, por një ditë do të ndeshen me nxënësin e ardhur nga franca, Didierin dhe gjithcka do të marrë të tatëpjetën.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-13 18:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Sekreti i Krishtlindjeve">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një gjest i thjesht mirësie, ndaj të panjohurve apo familjarëve të tu, mund të të ndryshojë jetën përgjithmonë... Kjo është një histori Krishtlindjeje dhe sesi magjia e festave mund të prek këdo që beson vërtetë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-13 19:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Xhumanxhi">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Loja Mos u Nxeh me e çuditshme ne bote do te bjere ne duart e dy femijeve te cilet do te fillojne te luajne me te pa e ditur se çfare i pret. Ata do te hyjne ne boten magjike te lojes e do te perballen me shume rreziqe..</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-13 21:05:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Jemi në telashe! ">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me ndihmën e qenit të tyre, dy fëmijë, motër dhe vëlla, do të bëjnë të pamundurën, për të kthyer sërish prindrit e tyre të ndarë, së bashku.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-13 22:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Qeni mafioz">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur Soni, qeni i një kapoje mafioz, i gëlltit atij unazën, gjithë familja mafioze i vihet nga pas për t'ia marrë, por situate ndërlikohet kur Soni adoptohet nga një familje tjetër.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-13 23:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Flaka: Shpirti i egër">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nëse nuk e mban kokën pas nga e shkuara dhe e lë shpirtin tënd të lirë, e ardhmja mund të të japë një mundësi të dytë... Një film emocionues për të gjithë familjen...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-14 01:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Doktor Dulitell 1">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1998. Kur ishte i vogël, Xhon Dulitell kishte një dhunti, por jo të gjithë mund ta vlerësonin. 30 vjet më vonë, dhuntia është rikthyer. Këtu nis aventura e doktorit të kafshëve që rrezikoi gjithçka për të shpëtuar tigrin e cirkut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-14 02:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kërkimi i ishullit imagjinar">Dramë familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e shkrimtarit që krijoi Piter Panin, Uendin dhe ishullin imagjinar që është bërë vendi më i dashur për femijet. Që këtu nisi aventura e jashtëzakonshme e djaloshit që s'donte te rritej kurre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-14 04:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Familja Adams 1">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gomesi, Mortisia, Uensdey, Pagslei dhe Festeri janë pjestaret e familjes më të çuditshme në botë. Nëse do ti njihni, mos humbisni aventurat e Familjes Adams..
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-14 05:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Sekreti i Krishtlindjeve">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2014. Një gjest i thjesht mirësie, ndaj të panjohurve apo familjarëve të tu, mund të të ndryshojë jetën përgjithmonë... Kjo është një histori Krishtlindjeje dhe sesi magjia e festave mund të prek këdo që beson vërtetë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-14 07:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Xhuli dhe grupi muzikor">Seria-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhuli, pas humbjes së nënës, humb dhe pasionin e saj për muzikën. Por një ditë papritur, në dhomën e saj shfaqjen fantazmat e 3 muzikantëve ëndrrimtar nga viti 1995... Ata do ta ndihmojnë Xhulin të gjejë zërin e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-14 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="K. C. Agjentja sekrete ">Sezoni I-26</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me spiunen më të re, e cila punon në fshehtësi. Ajo i bën ballë cdo detyre. Ajo quhet Zendija - një agjente sekrete shumë e zonja. E rritur në një familje spiunësh, të cilët zgjidhin sëbashku cdo mision...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-14 08:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Victorious 7">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Trina, është një adoleshente vërtetë e çuditshme. Ndërsa Tori, është kundërshtarja e saj. Kur fati do ta vendosë Torin përball Trinas, jeta e saj do të kthehet përmbys. Që nga ai çast, ajo duhet të zbulojë se cfarë i mungon.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-14 08:20:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Vrasësi i fundit i dragonjve">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një aventurë mbresëlënëse që nuk duhet humbur. Në një botë me fantazi,
+një adoleshente jetime zbulon fatin e saj, për t'u bërë gjuetare dragonjsh.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-14 10:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Doktor Dulitell 2">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kësaj here, aftësia e tij për të komunikuar me kafshët, do ta çojë Dr.Dulitellin në aventura të padëgjuara. Ai duhet të shpëtojë pyllin e banorët e tij nga disa keqbërës. E ardhmja e një specieje të rrallë arinjsh është në dorë të doktorit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-14 11:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Në gjueti për lodrën e të ardhmes">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një eksperiment për të udhëtuar në kohë, do të na cojë në të ardhmen. Një grup miqsh kanë për qëllim të  rrëmbejnë atje, një armë... Por në vend të teknologjisë së avancuar, ata do të gjejnë diçka tjetër... Por çfarë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2021-12-14 12:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Violeta">Serial-52</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Violeta, pasi ka jetuar për vite të tëra në Europë, kthehet në qytetin e lindjes Buenos Aires. Atje nis një jetë të re, një shkollë të re, zë miq të rinj. Por gjëja më speciale, bën realitet pasionin e saj për muzikën, kërcimin, këngën.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2021-12-14 13:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Xhuli dhe grupi muzikor">Seria-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhuli, pas humbjes së nënës, humb dhe pasionin e saj për muzikën. Por një ditë papritur, në dhomën e saj shfaqjen fantazmat e 3 muzikantëve ëndrrimtar nga viti 1995... Ata do ta ndihmojnë Xhulin të gjejë zërin e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2021-12-14 14:15:00" duration="1500">
+      <short_event_descriptor lang="alb" name="K. C. Agjentja sekrete ">Sezoni I-26</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me spiunen më të re, e cila punon në fshehtësi. Ajo i bën ballë cdo detyre. Ajo quhet Zendija - një agjente sekrete shumë e zonja. E rritur në një familje spiunësh, të cilët zgjidhin sëbashku cdo mision...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2021-12-14 14:40:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Victorious 7">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ajo është e bukur... Ajo është e talentuar... Dhe ajo riktheht në Junior...Tori - vjen për t'ju shoqëruar cdo ditë me avetura të reja...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2021-12-14 15:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Familja Adams 2">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me familjen më të çuditëshme në botë... Në aveturën e rradhës, familjes do ti shtohen 2 pjestarë të rinjë - i porsalinduri Pubert dhe dadoja Debi, e cila do të sjellë shumë telashe.Cfarë plani djallëzor po përgatit ajo?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2021-12-14 16:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Fjalët magjike: Historia e J.K. Rowling">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e shkrimtares së romanit 'best-seller' për fëmijë 'Harry Potter', e njohur si J.K.Rowling. Si lindi ideja dhe nga u frymezua shkrimtarja e njohur nga fëmijët e gjithë botës?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2021-12-14 18:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Shokë të pandarë">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas një aksidenti pothuajse tragjik, një kalorëse dhe kali i saj, vendosin ti vërtetojnë të gjithëve, që me besim dhe vullnet, mund t'ja nisësh nga e para, madje të jesh edhe Fitimtar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

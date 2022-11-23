@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Klan TV HD">
+    <event id="0" start_time="2021-12-08 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-08 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Osmani">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali turk me i kushtueshem i te gjitha koherave me veshje dhe skenografi mbreselenese. Me aktorin me te famshem dhe me te paguar Burak Ozcivit. Shifra rekord shikueshmerie ne cdo episod te tij si seriali me e ndjekur ne Turqi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-08 21:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik me i ndjekur dhe me i preferuar ne ekranet shqiptare nga Blendi Fevziu. Arena e politikes shqiptare qe prej 31 gushtit 1997. Komente, analiza, debate, personazhe, deshmi dhe fakte konkrete. Ngjarjet me te fundit dhe me te rendesishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-08 22:35:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-08 23:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali per jeten e vrasesit me te famshem dhe krahu i djathte i Pablo Eskobarit. Teksa karteli Medellin shkaterrohet, John Jairo Velásquez me nofken JJ ose Popey, dorezohet para drejtesise ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt ne hierarkine e burgut. Nje padron ne burg duke vazhduar mbreterine e terrorit dhe nje trafikant droge i rrezikshem edhe brenda hekurave. Velásquez ka pohuar se ka vrare me shume 300 njerez dhe ka qene i per</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 00:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>emision special satiro-investigativ nga Saimir Kodra dhe Gentian Zenelaj LIVE (Një takim special me te qeshura pafund)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 00:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Osmani">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali turk me i kushtueshem i te gjitha koherave me veshje dhe skenografi mbreselenese. Me aktorin me te famshem dhe me te paguar Burak Ozcivit. Shifra rekord shikueshmerie ne cdo episod te tij si seriali me e ndjekur ne Turqi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 01:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 02:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision-Rit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga gazetari dhe analisti Blendi Fevziu. Emision politik i perjavshem. Çdo javë në studion e Tv Klan, debate, intervista, dëshmi dhe fakte konkrete.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rudina ">Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-09 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-09 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Aldo Morning Show">Emisioni i mengjesit Live.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dielli lind ndryshe në TVKLAN, në 7 pa 1 minutë! Të lodhur apo të palodhur nga gjumi i natës, nga e djeshmja me halle e strese, Aldo ju fton të zgjohemi me buzeqeshje, me qeshje, me nënqeshje, dhe më kryesorja. me një adrenaline të paparë për ta nisu</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-09 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtepie">Emision.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues, informues &amp; argetues me zj.Vjollca dhe Katerina Trungu. Cdo ditë me recetat e thjeshta dhe mbi te gjitha ekonomike te Zj.Vjollca duke edukuar amvisat si te ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. Argetim, me muzikë dhe quiz, lojëra gjithëperfshirëse qe te japin atë dëshirën për të luajtur dhe per te komunikuar live me Katerinen dhe te ftuarit e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-09 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-09 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Gylperi">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nene e cila do vetem te jete me femijet e saj! Nje avokat qe kerkon ta ndihmoje ate... Ajo burgoset per vetembrojtje, viktime e nje perdhunimi ...Vetem urrejtja e femijeve mund ta "vrase" nje nene...Lufta e nje vejushe per te rifituar dashurine e 3 femijeve, te vere nderin e saj ne vend dhe te shkeputet nga familja e bashkeshortit qe e fajesojne per gjithcka. Nje drame rrenqethese me aktoren e fashme Nurgyl Yesilcay.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-09 12:20:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-09 13:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-09 14:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-09 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Talk Love Story">Talk Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Talk show me 4 personazhet kryesore te spektaklit "Love Story", si dhe konkurentët në garë për të fituar zemrat e dy princeshave dhe dy princave. Prapaskenat e ngjarjeve dhe historive që lindin në spektaklin e mbrëmjes në "Love Story". Nen prezantimin e Eni Shehu dhe me praninë e dy opinionisteve, Zhaklinë Lekatari dhe Xhensila Pere.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-09 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-09 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-09 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-09 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-09 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik me i ndjekur dhe me i preferuar ne ekranet shqiptare nga Blendi Fevziu. Arena e politikes shqiptare qe prej 31 gushtit 1997. Komente, analiza, debate, personazhe, deshmi dhe fakte konkrete. Ngjarjet me te fundit dhe me te rendesishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-09 22:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-09 22:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali per jeten e vrasesit me te famshem dhe krahu i djathte i Pablo Eskobarit. Teksa karteli Medellin shkaterrohet, John Jairo Velásquez me nofken JJ ose Popey, dorezohet para drejtesise ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt ne hierarkine e burgut. Nje padron ne burg duke vazhduar mbreterine e terrorit dhe nje trafikant droge i rrezikshem edhe brenda hekurave. Velásquez ka pohuar se ka vrare me shume 300 njerez dhe ka qene i per</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 00:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>emision special satiro-investigativ nga Saimir Kodra dhe Gentian Zenelaj LIVE (Një takim special me te qeshura pafund)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 00:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Osmani">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali turk me i kushtueshem i te gjitha koherave me veshje dhe skenografi mbreselenese. Me aktorin me te famshem dhe me te paguar Burak Ozcivit. Shifra rekord shikueshmerie ne cdo episod te tij si seriali me e ndjekur ne Turqi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 01:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 02:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik me i ndjekur dhe me i preferuar ne ekranet shqiptare nga Blendi Fevziu. Arena e politikes shqiptare qe prej 31 gushtit 1997. Komente, analiza, debate, personazhe, deshmi dhe fakte konkrete. Ngjarjet me te fundit dhe me te rendesishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rudina ">Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="STOP">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-10 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Aldo Morning Show">Emisioni i mengjesit Live.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dielli lind ndryshe në TVKLAN, në 7 pa 1 minutë! Të lodhur apo të palodhur nga gjumi i natës, nga e djeshmja me halle e strese, Aldo ju fton të zgjohemi me buzeqeshje, me qeshje, me nënqeshje, dhe më kryesorja. me një adrenaline të paparë për ta nisu</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-10 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtepie">Emision.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues, informues &amp; argetues me zj.Vjollca dhe Katerina Trungu. Cdo ditë me recetat e thjeshta dhe mbi te gjitha ekonomike te Zj.Vjollca duke edukuar amvisat si te ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. Argetim, me muzikë dhe quiz, lojëra gjithëperfshirëse qe te japin atë dëshirën për të luajtur dhe per te komunikuar live me Katerinen dhe te ftuarit e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-10 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-10 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Gylperi">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nene e cila do vetem te jete me femijet e saj! Nje avokat qe kerkon ta ndihmoje ate... Ajo burgoset per vetembrojtje, viktime e nje perdhunimi ...Vetem urrejtja e femijeve mund ta "vrase" nje nene...Lufta e nje vejushe per te rifituar dashurine e 3 femijeve, te vere nderin e saj ne vend dhe te shkeputet nga familja e bashkeshortit qe e fajesojne per gjithcka. Nje drame rrenqethese me aktoren e fashme Nurgyl Yesilcay.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-10 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-10 13:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-10 14:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-10 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Talk Love Story">Talk Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Talk show me 4 personazhet kryesore te spektaklit "Love Story", si dhe konkurentët në garë për të fituar zemrat e dy princeshave dhe dy princave. Prapaskenat e ngjarjeve dhe historive që lindin në spektaklin e mbrëmjes në "Love Story". Nen prezantimin e Eni Shehu dhe me praninë e dy opinionisteve, Zhaklinë Lekatari dhe Xhensila Pere.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-10 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-10 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-10 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-10 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-10 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Zonë e lirë">Talk-Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Talk-show nga Arian Cani. Aktualiteti i javes, politike, sociale dhe eventet kulturore, lokale dhe ndërkombetare. Politikanë, artistë, shkrimtarë, gazetarë, shkencëtarë janë çdo të premte protagonistë, autorë, apo "viktima" të ngjarjeve apo ndodhive.. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-10 22:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-10 22:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Zonë e lirë">Talk-Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Talk-show nga Arian Cani. Aktualiteti i javes, politike, sociale dhe eventet kulturore, lokale dhe ndërkombetare. Politikanë, artistë, shkrimtarë, gazetarë, shkencëtarë janë çdo të premte protagonistë, autorë, apo "viktima" të ngjarjeve apo ndodhive.. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 00:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-11 00:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-11 01:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-11 02:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-11 03:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gylperi">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nene e cila do vetem te jete me femijet e saj! Nje avokat qe kerkon ta ndihmoje ate... Ajo burgoset per vetembrojtje, viktime e nje perdhunimi ...Vetem urrejtja e femijeve mund ta "vrase" nje nene...Lufta e nje vejushe per te rifituar dashurine e 3 femijeve, te vere nderin e saj ne vend dhe te shkeputet nga familja e bashkeshortit qe e fajesojne per gjithcka. Nje drame rrenqethese me aktoren e fashme Nurgyl Yesilcay.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-11 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rudina ">Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-11 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>emision special satiro-investigativ nga Saimir Kodra dhe Gentian Zenelaj LIVE (Një takim special me te qeshura pafund)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-11 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Aldo Morning Show">Emisioni i mengjesit Live.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dielli lind ndryshe në TVKLAN, në 7 pa 1 minutë! Të lodhur apo të palodhur nga gjumi i natës, nga e djeshmja me halle e strese, Aldo ju fton të zgjohemi me buzeqeshje, me qeshje, me nënqeshje, dhe më kryesorja. me një adrenaline të paparë për ta nisu</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-11 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtepie">Emision.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues, informues &amp; argetues me zj.Vjollca dhe Katerina Trungu. Cdo ditë me recetat e thjeshta dhe mbi te gjitha ekonomike te Zj.Vjollca duke edukuar amvisat si te ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. Argetim, me muzikë dhe quiz, lojëra gjithëperfshirëse qe te japin atë dëshirën për të luajtur dhe per te komunikuar live me Katerinen dhe te ftuarit e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-11 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-11 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Gylperi">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nene e cila do vetem te jete me femijet e saj! Nje avokat qe kerkon ta ndihmoje ate... Ajo burgoset per vetembrojtje, viktime e nje perdhunimi ...Vetem urrejtja e femijeve mund ta "vrase" nje nene...Lufta e nje vejushe per te rifituar dashurine e 3 femijeve, te vere nderin e saj ne vend dhe te shkeputet nga familja e bashkeshortit qe e fajesojne per gjithcka. Nje drame rrenqethese me aktoren e fashme Nurgyl Yesilcay.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-11 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Jo vetem mode">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithçka përtej modës nga Orinda Huta. Nje zbulim i vazhdueshëm i gjithçkaje të bukur që na rrethon. Një takim me artizanë, artistë, arkitektë, historianë, politikanë, sportistë, stilistë vjen plot hijeshi nëpërmjet objektivit të "Jo vetëm modë". Kushdo që ka diçka për të thënë, mund të jetë pjesë e këtij programi, mjafton të frymëzojë me historinë e tij për një jetë më të bukur e me stil. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-11 13:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-11 14:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-11 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Check-in">Check-in</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një destinacion i huaj i pakonsumuar, por me interes të madh turistik, duke u bazuar  në  historinë e kulturën e tij, tërheqjet më të rëndësishme turistike, si dhe kulinarinë, shopping e argëtimin. Një rrëfim televiziv përmes dialogut të ekspertes së turizmit Albana Nanaj dhe një gazetari simpatik dhe ngacmues. Një program mbi të gjitha shumë utilitar dhe edukues.... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-11 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-11 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-11 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-11 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Çukur">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cukur nuk eshte thjesht emri i nje lagjeje, por emri i nje "mbreterie". Nje nga lagjet me te rrezikshme, drejtohet nga familja mafioze Koçovali. Ata mendojne se "Cukur" eshte nje lagje e Stambollit, por ne fakt nuk e dine se Stambolli eshte ne Cukur. Historia e nje te riu, Jamaç, qe rikthehet ne vendlindje dhe shnderrohet "koka" e klanit te krimit. Nga kompania dhe regjisori i "Ezel apo "I infiltruari", vjen seriali me i mire i vitit "Cukur". Drame, aksion, thriller, romance!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-11 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Klanifornia">Comedy-show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Spektakel humori kabare nga Turjan Hysko. Me aktoret me te mire dhe me te dashur ne produksionin me te madh te humorit! Humor, personazhe te paperseritshem, batuta, situata komike, muzike, te qeshura pa fund...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-11 22:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-11 22:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Check-in">Check-in</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një destinacion i huaj i pakonsumuar, por me interes të madh turistik, duke u bazuar  në  historinë e kulturën e tij, tërheqjet më të rëndësishme turistike, si dhe kulinarinë, shopping e argëtimin. Një rrëfim televiziv përmes dialogut të ekspertes së turizmit Albana Nanaj dhe një gazetari simpatik dhe ngacmues. Një program mbi të gjitha shumë utilitar dhe edukues. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-11 23:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali per jeten e vrasesit me te famshem dhe krahu i djathte i Pablo Eskobarit. Teksa karteli Medellin shkaterrohet, John Jairo Velásquez me nofken JJ ose Popey, dorezohet para drejtesise ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt ne hierarkine e burgut. Nje padron ne burg duke vazhduar mbreterine e terrorit dhe nje trafikant droge i rrezikshem edhe brenda hekurave. Velásquez ka pohuar se ka vrare me shume 300 njerez dhe ka qene i per</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-12 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Çukur">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cukur nuk eshte thjesht emri i nje lagjeje, por emri i nje "mbreterie". Nje nga lagjet me te rrezikshme, drejtohet nga familja mafioze Koçovali. Ata mendojne se "Cukur" eshte nje lagje e Stambollit, por ne fakt nuk e dine se Stambolli eshte ne Cukur. Historia e nje te riu, Jamaç, qe rikthehet ne vendlindje dhe shnderrohet "koka" e klanit te krimit. Nga kompania dhe regjisori i "Ezel apo "I infiltruari", vjen seriali me i mire i vitit "Cukur". Drame, aksion, thriller, romance!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-12 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-12 02:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-12 03:15:00" duration="10500">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-12 06:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-12 07:10:00" duration="10200">
+      <short_event_descriptor lang="alb" name="LOVE STORY 2">Reality Dating Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni 2 nga Vera Grabocka &amp; Alketa Vejsiu. Ne fron 4 protagoniste, 2 vajza dhe 2 djem dhe 10 kandidate per secilin qe garojne mes tyre per te fituar zemren e protagonsitit te "Love Story". Famë, sukses apo rrugëtim drejt dashurisë së vërtetë? Pasion, romancë, dashuri, xhelozi, sfidë! Është koha e dashurive të mëdha në sytë e të gjithëve!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-12 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Jo vetem mode">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithçka përtej modës nga Orinda Huta. Nje zbulim i vazhdueshëm i gjithçkaje të bukur që na rrethon. Një takim me artizanë, artistë, arkitektë, historianë, politikanë, sportistë, stilistë vjen plot hijeshi nëpërmjet objektivit të "Jo vetëm modë". Kushdo që ka diçka për të thënë, mund të jetë pjesë e këtij programi, mjafton të frymëzojë me historinë e tij për një jetë më të bukur e me stil. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-12 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-12 11:20:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Histori shqiptare.">Reportazh.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Reportazh nga Alma Cupi. Histori per njerezit qe punojne, kontribuojne per komunitetin, ngrene biznese, ruajne, traditen, kulturen si dhe ndihmojne ne zhvillimin e turizmit. Historite vine nepermjet xhirimeve ne terren, duke treguar ne detaje gjithe.... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-12 12:20:00" duration="7800">
+      <short_event_descriptor lang="alb" name="E diela shqiptare">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i te dieles tuaj nga Ardit Gjebrea, me dashuri dhe surpriza, me emocione gezimi, por edhe trishtimi. Fati, dikujt i ndryshon edhe jeten. argetim dhe spektakel! Mosmarreveshje qe gjejne zgjidhje. kujdesi per veten. dhe te panjohur qe te mberthejne pas ekranit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-12 14:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-12 15:05:00" duration="8700">
+      <short_event_descriptor lang="alb" name="E diela shqiptare">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i te dieles tuaj nga Ardit Gjebrea, me dashuri dhe surpriza, me emocione gezimi, por edhe trishtimi. Fati, dikujt i ndryshon edhe jeten. argetim dhe spektakel! Mosmarreveshje qe gjejne zgjidhje. kujdesi per veten. dhe te panjohur qe te mberthejne pas ekranit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-12 17:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="E diela shqiptare">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programi i te dieles tuaj nga Ardit Gjebrea, me dashuri dhe surpriza, me emocione gezimi, por edhe trishtimi. Fati, dikujt i ndryshon edhe jeten. argetim dhe spektakel! Mosmarreveshje qe gjejne zgjidhje. kujdesi per veten. dhe te panjohur qe te mberthejne pas ekranit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-12 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-12 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="H.O.T">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Humans of Tirana", nje serial nga Ermal Mamaqi. Dani, një regjisor që ëndërron të realizojë filmin e parë shqiptar me superheronj, bëhet peng I një realiteti më të ndërlikuar se cdo skenar që imagjinata e tij mund të prodhojë: I ngecur ne nje katerkendesh dashurie dhe pre e nje rrjeti intrigash te rrezikshme. Kush do të jetë femra e jetës së Danit?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-12 20:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Çukur">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cukur nuk eshte thjesht emri i nje lagjeje, por emri i nje "mbreterie". Nje nga lagjet me te rrezikshme, drejtohet nga familja mafioze Koçovali. Ata mendojne se "Cukur" eshte nje lagje e Stambollit, por ne fakt nuk e dine se Stambolli eshte ne Cukur. Historia e nje te riu, Jamaç, qe rikthehet ne vendlindje dhe shnderrohet "koka" e klanit te krimit. Nga kompania dhe regjisori i "Ezel apo "I infiltruari", vjen seriali me i mire i vitit "Cukur". Drame, aksion, thriller, romance!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-12 22:05:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-12 22:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Histori shqiptare.">Reportazh.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Reportazh nga Alma Cupi. Histori per njerezit qe punojne, kontribuojne per komunitetin, ngrene biznese, ruajne, traditen, kulturen si dhe ndihmojne ne zhvillimin e turizmit. Historite vine nepermjet xhirimeve ne terren, duke treguar ne detaje gjithe.... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-12 23:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali per jeten e vrasesit me te famshem dhe krahu i djathte i Pablo Eskobarit. Teksa karteli Medellin shkaterrohet, John Jairo Velásquez me nofken JJ ose Popey, dorezohet para drejtesise ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt ne hierarkine e burgut. Nje padron ne burg duke vazhduar mbreterine e terrorit dhe nje trafikant droge i rrezikshem edhe brenda hekurave. Velásquez ka pohuar se ka vrare me shume 300 njerez dhe ka qene i per</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-13 01:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Çukur">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cukur nuk eshte thjesht emri i nje lagjeje, por emri i nje "mbreterie". Nje nga lagjet me te rrezikshme, drejtohet nga familja mafioze Koçovali. Ata mendojne se "Cukur" eshte nje lagje e Stambollit, por ne fakt nuk e dine se Stambolli eshte ne Cukur. Historia e nje te riu, Jamaç, qe rikthehet ne vendlindje dhe shnderrohet "koka" e klanit te krimit. Nga kompania dhe regjisori i "Ezel apo "I infiltruari", vjen seriali me i mire i vitit "Cukur". Drame, aksion, thriller, romance!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-13 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Osmani">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali turk me i kushtueshem i te gjitha koherave me veshje dhe skenografi mbreselenese. Me aktorin me te famshem dhe me te paguar Burak Ozcivit. Shifra rekord shikueshmerie ne cdo episod te tij si seriali me e ndjekur ne Turqi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-13 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rudina ">Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-13 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Aldo Morning Show">Emisioni i mengjesit Live.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dielli lind ndryshe në TVKLAN, në 7 pa 1 minutë! Të lodhur apo të palodhur nga gjumi i natës, nga e djeshmja me halle e strese, Aldo ju fton të zgjohemi me buzeqeshje, me qeshje, me nënqeshje, dhe më kryesorja. me një adrenaline të paparë për ta nisu</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-13 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtepie">Emision.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues, informues &amp; argetues me zj.Vjollca dhe Katerina Trungu. Cdo ditë me recetat e thjeshta dhe mbi te gjitha ekonomike te Zj.Vjollca duke edukuar amvisat si te ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. Argetim, me muzikë dhe quiz, lojëra gjithëperfshirëse qe te japin atë dëshirën për të luajtur dhe per te komunikuar live me Katerinen dhe te ftuarit e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-13 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2021-12-13 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Gylperi">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nene e cila do vetem te jete me femijet e saj! Nje avokat qe kerkon ta ndihmoje ate... Ajo burgoset per vetembrojtje, viktime e nje perdhunimi ...Vetem urrejtja e femijeve mund ta "vrase" nje nene...Lufta e nje vejushe per te rifituar dashurine e 3 femijeve, te vere nderin e saj ne vend dhe te shkeputet nga familja e bashkeshortit qe e fajesojne per gjithcka. Nje drame rrenqethese me aktoren e fashme Nurgyl Yesilcay.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2021-12-13 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2021-12-13 13:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2021-12-13 14:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2021-12-13 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2021-12-13 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2021-12-13 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2021-12-13 18:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2021-12-13 19:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2021-12-13 19:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="LOVE STORY 2">Reality Dating Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edicioni 2 nga Vera Grabocka &amp; Alketa Vejsiu. Ne fron 4 protagoniste, 2 vajza dhe 2 djem dhe 10 kandidate per secilin qe garojne mes tyre per te fituar zemren e protagonsitit te "Love Story". Famë, sukses apo rrugëtim drejt dashurisë së vërtetë? Pasion, romancë, dashuri, xhelozi, sfidë! Është koha e dashurive të mëdha në sytë e të gjithëve!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2021-12-13 21:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik me i ndjekur dhe me i preferuar ne ekranet shqiptare nga Blendi Fevziu. Arena e politikes shqiptare qe prej 31 gushtit 1997. Komente, analiza, debate, personazhe, deshmi dhe fakte konkrete. Ngjarjet me te fundit dhe me te rendesishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2021-12-13 22:35:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2021-12-13 23:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali per jeten e vrasesit me te famshem dhe krahu i djathte i Pablo Eskobarit. Teksa karteli Medellin shkaterrohet, John Jairo Velásquez me nofken JJ ose Popey, dorezohet para drejtesise ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt ne hierarkine e burgut. Nje padron ne burg duke vazhduar mbreterine e terrorit dhe nje trafikant droge i rrezikshem edhe brenda hekurave. Velásquez ka pohuar se ka vrare me shume 300 njerez dhe ka qene i per</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2021-12-14 00:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>emision special satiro-investigativ nga Saimir Kodra dhe Gentian Zenelaj LIVE (Një takim special me te qeshura pafund)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2021-12-14 00:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2021-12-14 01:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2021-12-14 02:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision-Rit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga gazetari dhe analisti Blendi Fevziu. Emision politik i perjavshem. Çdo javë në studion e Tv Klan, debate, intervista, dëshmi dhe fakte konkrete.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2021-12-14 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rudina ">Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2021-12-14 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="STOP">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2021-12-14 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Aldo Morning Show">Emisioni i mengjesit Live.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dielli lind ndryshe në TVKLAN, në 7 pa 1 minutë! Të lodhur apo të palodhur nga gjumi i natës, nga e djeshmja me halle e strese, Aldo ju fton të zgjohemi me buzeqeshje, me qeshje, me nënqeshje, dhe më kryesorja. me një adrenaline të paparë për ta nisu</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2021-12-14 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtepie">Emision.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues, informues &amp; argetues me zj.Vjollca dhe Katerina Trungu. Cdo ditë me recetat e thjeshta dhe mbi te gjitha ekonomike te Zj.Vjollca duke edukuar amvisat si te ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. Argetim, me muzikë dhe quiz, lojëra gjithëperfshirëse qe te japin atë dëshirën për të luajtur dhe per te komunikuar live me Katerinen dhe te ftuarit e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2021-12-14 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2021-12-14 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Gylperi">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nene e cila do vetem te jete me femijet e saj! Nje avokat qe kerkon ta ndihmoje ate... Ajo burgoset per vetembrojtje, viktime e nje perdhunimi ...Vetem urrejtja e femijeve mund ta "vrase" nje nene...Lufta e nje vejushe per te rifituar dashurine e 3 femijeve, te vere nderin e saj ne vend dhe te shkeputet nga familja e bashkeshortit qe e fajesojne per gjithcka. Nje drame rrenqethese me aktoren e fashme Nurgyl Yesilcay.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2021-12-14 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2021-12-14 13:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2021-12-14 14:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2021-12-14 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Talk Love Story">Talk Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Talk show me 4 personazhet kryesore te spektaklit "Love Story", si dhe konkurentët në garë për të fituar zemrat e dy princeshave dhe dy princave. Prapaskenat e ngjarjeve dhe historive që lindin në spektaklin e mbrëmjes në "Love Story". Nen prezantimin e Eni Shehu dhe me praninë e dy opinionisteve, Zhaklinë Lekatari dhe Xhensila Pere.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2021-12-14 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2021-12-14 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2021-12-14 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2021-12-14 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2021-12-14 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Osmani">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali turk me i kushtueshem i te gjitha koherave me veshje dhe skenografi mbreselenese. Me aktorin me te famshem dhe me te paguar Burak Ozcivit. Shifra rekord shikueshmerie ne cdo episod te tij si seriali me e ndjekur ne Turqi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2021-12-14 21:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Opinion">Emision-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga gazetari dhe analisti Blendi Fevziu. Emision politik i perjavshem. Çdo javë në studion e Tv Klan, debate, intervista, dëshmi dhe fakte konkrete.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2021-12-14 22:35:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2021-12-14 23:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali per jeten e vrasesit me te famshem dhe krahu i djathte i Pablo Eskobarit. Teksa karteli Medellin shkaterrohet, John Jairo Velásquez me nofken JJ ose Popey, dorezohet para drejtesise ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt ne hierarkine e burgut. Nje padron ne burg duke vazhduar mbreterine e terrorit dhe nje trafikant droge i rrezikshem edhe brenda hekurave. Velásquez ka pohuar se ka vrare me shume 300 njerez dhe ka qene i per</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2021-12-15 00:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2021-12-15 00:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Osmani">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali turk me i kushtueshem i te gjitha koherave me veshje dhe skenografi mbreselenese. Me aktorin me te famshem dhe me te paguar Burak Ozcivit. Shifra rekord shikueshmerie ne cdo episod te tij si seriali me e ndjekur ne Turqi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2021-12-15 01:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2021-12-15 02:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision-Rit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga gazetari dhe analisti Blendi Fevziu. Emision politik i perjavshem. Çdo javë në studion e Tv Klan, debate, intervista, dëshmi dhe fakte konkrete.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="134" start_time="2021-12-15 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rudina ">Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="135" start_time="2021-12-15 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="STOP">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="136" start_time="2021-12-15 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Aldo Morning Show">Emisioni i mengjesit Live.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dielli lind ndryshe në TVKLAN, në 7 pa 1 minutë! Të lodhur apo të palodhur nga gjumi i natës, nga e djeshmja me halle e strese, Aldo ju fton të zgjohemi me buzeqeshje, me qeshje, me nënqeshje, dhe më kryesorja. me një adrenaline të paparë për ta nisu</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="137" start_time="2021-12-15 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shije Shtepie">Emision.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision edukues, informues &amp; argetues me zj.Vjollca dhe Katerina Trungu. Cdo ditë me recetat e thjeshta dhe mbi te gjitha ekonomike te Zj.Vjollca duke edukuar amvisat si te ushqehemi shëndetshëm. Rubrika te ndryshme me te ftuar speciale me këshilla te thjeshta praktike, të kuptueshme nga te gjithë, për cdo aspekt të të përditshmes. Argetim, me muzikë dhe quiz, lojëra gjithëperfshirëse qe te japin atë dëshirën për të luajtur dhe per te komunikuar live me Katerinen dhe te ftuarit e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="138" start_time="2021-12-15 11:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="139" start_time="2021-12-15 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Gylperi">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nene e cila do vetem te jete me femijet e saj! Nje avokat qe kerkon ta ndihmoje ate... Ajo burgoset per vetembrojtje, viktime e nje perdhunimi ...Vetem urrejtja e femijeve mund ta "vrase" nje nene...Lufta e nje vejushe per te rifituar dashurine e 3 femijeve, te vere nderin e saj ne vend dhe te shkeputet nga familja e bashkeshortit qe e fajesojne per gjithcka. Nje drame rrenqethese me aktoren e fashme Nurgyl Yesilcay.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="140" start_time="2021-12-15 12:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="141" start_time="2021-12-15 13:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amaneti">Serial turk</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seher duhet te coje deri ne fund amanetin e motres se saj dhe te kujdeset per nipin, Jusufin e vogel. Te dy bashke e gjene veten te zene "peng" brenda viles luksoze ku mungon dashuria dhe lumturia. I zoti i shtepise, Jamani, nje biznesmen i fuqishem,</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="142" start_time="2021-12-15 14:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="143" start_time="2021-12-15 15:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Talk Love Story">Talk Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Talk show me 4 personazhet kryesore te spektaklit "Love Story", si dhe konkurentët në garë për të fituar zemrat e dy princeshave dhe dy princave. Prapaskenat e ngjarjeve dhe historive që lindin në spektaklin e mbrëmjes në "Love Story". Nen prezantimin e Eni Shehu dhe me praninë e dy opinionisteve, Zhaklinë Lekatari dhe Xhensila Pere.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="144" start_time="2021-12-15 16:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="145" start_time="2021-12-15 17:20:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Babil">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zgjedhja - Drama e nje babai qe duhet te shpetoje jeten e djalit te tij te semure. Teksa dyert i mbyllen nje pas nje, ai duhet te beje nje zgjedhje. Se bashku me shokun e tij te ngushte Irfani, arrin te krijoje skemen me te famshme piramidale qe menjehere behet mashtrimi me i madh financiar ne vend. A do te mundet Irfani te dale jashte aventures se erret ku eshte futur? Paraja nuk eshte cdo gje, ajo eshte vetmja gje. Seriali dramatik me kastin me te jashtezakonshem te aktoreve, si asnjehere me p</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="146" start_time="2021-12-15 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="147" start_time="2021-12-15 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>emision special satiro-investigativ nga Saimir Kodra dhe Gentian Zenelaj LIVE (Një takim special me te qeshura pafund)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="148" start_time="2021-12-15 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Opinion">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emisioni politik me i ndjekur dhe me i preferuar ne ekranet shqiptare nga Blendi Fevziu. Arena e politikes shqiptare qe prej 31 gushtit 1997. Komente, analiza, debate, personazhe, deshmi dhe fakte konkrete. Ngjarjet me te fundit dhe me te rendesishme...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="149" start_time="2021-12-15 22:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="150" start_time="2021-12-15 22:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="I mbijetuari i Eskobarit">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali per jeten e vrasesit me te famshem dhe krahu i djathte i Pablo Eskobarit. Teksa karteli Medellin shkaterrohet, John Jairo Velásquez me nofken JJ ose Popey, dorezohet para drejtesise ne 1992. I vetmi i mbijetuar i kartelit famekeq, ne luften per te mundur armiqte dhe te fitoje respekt ne hierarkine e burgut. Nje padron ne burg duke vazhduar mbreterine e terrorit dhe nje trafikant droge i rrezikshem edhe brenda hekurave. Velásquez ka pohuar se ka vrare me shume 300 njerez dhe ka qene i per</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="151" start_time="2021-12-16 00:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>emision special satiro-investigativ nga Saimir Kodra dhe Gentian Zenelaj LIVE (Një takim special me te qeshura pafund)</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="152" start_time="2021-12-16 00:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Osmani">Serial.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali turk me i kushtueshem i te gjitha koherave me veshje dhe skenografi mbreselenese. Me aktorin me te famshem dhe me te paguar Burak Ozcivit. Shifra rekord shikueshmerie ne cdo episod te tij si seriali me e ndjekur ne Turqi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="153" start_time="2021-12-16 01:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dashuria eshte ne ajer">Drame, romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali me i mire i vitit, fenomeni i mediave sociale, me ciftin e aktoreve Hande Erçel (Eda) dhe Kerem Bursin (Serkan). Cifti me i paimagjinueshem e gjen veten pre e nje marreveshjeje. Eda do te shtiret si e fejuara e Serkanit dhe ai do ti rijape asaj bursen e studimit. Marreveshja do te zgjase 2 muaj, por te jesh e fejuara e beqarit me te kerkuar dhe me te pasur te Stambollit, nuk eshte aq e lehte. Ajo qe nisi si dicka e lehte, nuk eshte e tille pas disa oresh...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="154" start_time="2021-12-16 02:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Opinion">Emision-Rit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga gazetari dhe analisti Blendi Fevziu. Emision politik i perjavshem. Çdo javë në studion e Tv Klan, debate, intervista, dëshmi dhe fakte konkrete.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

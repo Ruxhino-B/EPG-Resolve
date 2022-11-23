@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Discovery HD">
+    <event id="0" start_time="2020-12-24 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2020-12-24 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2020-12-24 22:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2020-12-24 22:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2020-12-24 23:35:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2020-12-25 00:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2020-12-25 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2020-12-25 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2020-12-25 02:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2020-12-25 03:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2020-12-25 03:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2020-12-25 05:00:00" duration="9600">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2020-12-25 07:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2020-12-25 08:40:00" duration="10200">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2020-12-25 11:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2020-12-25 12:20:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2020-12-25 14:05:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2020-12-25 16:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2020-12-25 17:50:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2020-12-25 19:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magic of Science ">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Billy Kidd shows off her sword skills by slicing a basketball clean in two, and Nate uses the same sword in a terrifying stunt that puts his life on the line. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2020-12-25 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="How It's Made">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>More everyday items go under microscope. How are objects including aircraft cabinets and motorcycle brake locks produced? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2020-12-25 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2020-12-25 22:05:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Murder Shift">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeremy Swift is shot during a drug related robbery. Detective Lesia Moore has to figure out who is responsible, and a search warrant results in more than she bargained for.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2020-12-26 00:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2020-12-26 01:45:00" duration="10200">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2020-12-26 04:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Kitchen Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Buddy cooks up a delicious seafood supper of clams and chorizo, breadcrumb-stuffed jumbo shrimp and Sicilian fish soup. Uncle Larry drops by to sample the selections.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2020-12-26 05:00:00" duration="9600">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2020-12-26 07:40:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2020-12-26 08:40:00" duration="9600">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2020-12-26 11:20:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2020-12-26 12:20:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2020-12-26 15:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2020-12-26 16:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2020-12-26 17:50:00" duration="7200">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2020-12-26 19:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="extreme couponing">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Extreme couponing is an activity that combines shopping skills with couponing in an attempt to save as much money as possible while accumulating the most groceries. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2020-12-26 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2020-12-26 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magic of Science ">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Billy Kidd shows off her sword skills by slicing a basketball clean in two, and Nate uses the same sword in a terrifying stunt that puts his life on the line. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2020-12-26 22:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2020-12-26 23:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2020-12-27 01:45:00" duration="10200">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2020-12-27 04:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Kitchen Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Buddy cooks up a delicious seafood supper of clams and chorizo, breadcrumb-stuffed jumbo shrimp and Sicilian fish soup. Uncle Larry drops by to sample the selections.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2020-12-27 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2020-12-27 05:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2020-12-27 06:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2020-12-27 07:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2020-12-27 07:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2020-12-27 08:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2020-12-27 09:25:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2020-12-27 10:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2020-12-27 10:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2020-12-27 11:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2020-12-27 12:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2020-12-27 13:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>For centuries, the tattoo industry has been dominated by men. In this new series, the glass ceiling is shattered as 3 of the most respected female tattoo artists, along with one legendary male artist, come together to work at the newest and hottest t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2020-12-27 13:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2020-12-27 14:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2020-12-27 15:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2020-12-27 16:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2020-12-27 16:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2020-12-27 17:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>For centuries, the tattoo industry has been dominated by men. In this new series, the glass ceiling is shattered as 3 of the most respected female tattoo artists, along with one legendary male artist, come together to work at the newest and hottest t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2020-12-27 18:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2020-12-27 19:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2020-12-27 19:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magic of Science ">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Billy Kidd shows off her sword skills by slicing a basketball clean in two, and Nate uses the same sword in a terrifying stunt that puts his life on the line. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2020-12-27 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2020-12-27 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2020-12-27 22:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2020-12-27 22:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2020-12-27 23:35:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2020-12-28 00:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2020-12-28 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2020-12-28 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magic of Science ">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Billy Kidd shows off her sword skills by slicing a basketball clean in two, and Nate uses the same sword in a terrifying stunt that puts his life on the line. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2020-12-28 02:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>For centuries, the tattoo industry has been dominated by men. In this new series, the glass ceiling is shattered as 3 of the most respected female tattoo artists, along with one legendary male artist, come together to work at the newest and hottest t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2020-12-28 03:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2020-12-28 03:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2020-12-28 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2020-12-28 05:45:00" duration="3000">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2020-12-28 06:35:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2020-12-28 07:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2020-12-28 07:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magic of Science ">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Billy Kidd shows off her sword skills by slicing a basketball clean in two, and Nate uses the same sword in a terrifying stunt that puts his life on the line. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2020-12-28 08:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2020-12-28 09:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2020-12-28 10:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2020-12-28 10:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2020-12-28 11:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2020-12-28 12:45:00" duration="1200">
+      <short_event_descriptor lang="alb" name="How It's Made">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>More everyday items go under microscope. How are objects including aircraft cabinets and motorcycle brake locks produced? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2020-12-28 13:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2020-12-28 13:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2020-12-28 14:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2020-12-28 15:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2020-12-28 16:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2020-12-28 16:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Magic of Science ">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Billy Kidd shows off her sword skills by slicing a basketball clean in two, and Nate uses the same sword in a terrifying stunt that puts his life on the line. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2020-12-28 17:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2020-12-28 18:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2020-12-28 19:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2020-12-28 19:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="How do they do it?">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Julianne Moore, Mark Ruffalo. Një epidemi e tmerrshme, po verbon njerëzit e një qyteti. I vetmi njeri që mund të shohë ende është gruaja e një doktori, e cila po bën të pamundurën për të gjetur një zgjidhje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2020-12-28 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2020-12-28 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2020-12-28 22:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2020-12-28 22:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2020-12-28 23:35:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2020-12-29 00:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2020-12-29 01:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2020-12-29 02:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2020-12-29 03:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2020-12-29 03:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2020-12-29 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Corwin's Quest">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff comes face to face with a great white shark. Along the way he encounters a black widow spider, a giant centipede and a tarantula. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2020-12-29 05:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2020-12-29 06:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2020-12-29 07:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2020-12-29 07:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="How do they do it?">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Julianne Moore, Mark Ruffalo. Një epidemi e tmerrshme, po verbon njerëzit e një qyteti. I vetmi njeri që mund të shohë ende është gruaja e një doktori, e cila po bën të pamundurën për të gjetur një zgjidhje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2020-12-29 08:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2020-12-29 09:25:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2020-12-29 10:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Corwin's Quest">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff comes face to face with a great white shark. Along the way he encounters a black widow spider, a giant centipede and a tarantula. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2020-12-29 10:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2020-12-29 11:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2020-12-29 12:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="How do they do it?">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Julianne Moore, Mark Ruffalo. Një epidemi e tmerrshme, po verbon njerëzit e një qyteti. I vetmi njeri që mund të shohë ende është gruaja e një doktori, e cila po bën të pamundurën për të gjetur një zgjidhje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2020-12-29 13:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>For centuries, the tattoo industry has been dominated by men. In this new series, the glass ceiling is shattered as 3 of the most respected female tattoo artists, along with one legendary male artist, come together to work at the newest and hottest t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2020-12-29 13:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2020-12-29 14:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2020-12-29 15:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2020-12-29 16:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2020-12-29 16:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="How do they do it?">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Julianne Moore, Mark Ruffalo. Një epidemi e tmerrshme, po verbon njerëzit e një qyteti. I vetmi njeri që mund të shohë ende është gruaja e një doktori, e cila po bën të pamundurën për të gjetur një zgjidhje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2020-12-29 17:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2020-12-29 18:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2020-12-29 19:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2020-12-29 19:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2020-12-29 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Corwin's Quest">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff comes face to face with a great white shark. Along the way he encounters a black widow spider, a giant centipede and a tarantula. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2020-12-29 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2020-12-29 22:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2020-12-29 22:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2020-12-29 23:35:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2020-12-30 00:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2020-12-30 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2020-12-30 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2020-12-30 02:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="134" start_time="2020-12-30 03:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="135" start_time="2020-12-30 03:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="136" start_time="2020-12-30 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Kitchen Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Buddy cooks up a delicious seafood supper of clams and chorizo, breadcrumb-stuffed jumbo shrimp and Sicilian fish soup. Uncle Larry drops by to sample the selections.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="137" start_time="2020-12-30 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Corwin's Quest">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff comes face to face with a great white shark. Along the way he encounters a black widow spider, a giant centipede and a tarantula. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="138" start_time="2020-12-30 05:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="139" start_time="2020-12-30 06:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="140" start_time="2020-12-30 07:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="141" start_time="2020-12-30 07:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="142" start_time="2020-12-30 08:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="143" start_time="2020-12-30 09:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="144" start_time="2020-12-30 10:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Corwin's Quest">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff comes face to face with a great white shark. Along the way he encounters a black widow spider, a giant centipede and a tarantula. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="145" start_time="2020-12-30 10:55:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="146" start_time="2020-12-30 11:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="147" start_time="2020-12-30 12:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="148" start_time="2020-12-30 13:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="149" start_time="2020-12-30 13:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="150" start_time="2020-12-30 14:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="151" start_time="2020-12-30 15:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="152" start_time="2020-12-30 16:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="153" start_time="2020-12-30 16:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="154" start_time="2020-12-30 17:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>For centuries, the tattoo industry has been dominated by men. In this new series, the glass ceiling is shattered as 3 of the most respected female tattoo artists, along with one legendary male artist, come together to work at the newest and hottest t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="155" start_time="2020-12-30 18:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="156" start_time="2020-12-30 19:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="157" start_time="2020-12-30 19:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="extreme couponing">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Extreme couponing is an activity that combines shopping skills with couponing in an attempt to save as much money as possible while accumulating the most groceries165</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="158" start_time="2020-12-30 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Corwin's Quest">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeff comes face to face with a great white shark. Along the way he encounters a black widow spider, a giant centipede and a tarantula. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="159" start_time="2020-12-30 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="160" start_time="2020-12-30 22:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="161" start_time="2020-12-30 22:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="162" start_time="2020-12-30 23:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="163" start_time="2020-12-31 00:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="164" start_time="2020-12-31 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Dark Matters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Noble exposes some of history's most bizarre experiments, including surgeon William Scoville's radical procedure to cure epilepsy that left his patient with permanent amnesia.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="165" start_time="2020-12-31 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="extreme couponing">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Extreme couponing is an activity that combines shopping skills with couponing in an attempt to save as much money as possible while accumulating the most groceries165</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="166" start_time="2020-12-31 02:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="La INK">La INK</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kat gets to work on a portrait for her boyfriend, Mötley Crüe bassist Nikki Sixx. Kat's team also have the time of their lives watching Nikki's band in action at a gig.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="167" start_time="2020-12-31 03:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="168" start_time="2020-12-31 03:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Bakery Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Friendly Bake Shop in Frankfort, New York, is a family legacy at risk of closing its doors. It's up to Cake Boss Buddy Valastro to give the bakery a much-needed makeover.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="169" start_time="2020-12-31 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Kitchen Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Buddy cooks up a delicious seafood supper of clams and chorizo, breadcrumb-stuffed jumbo shrimp and Sicilian fish soup. Uncle Larry drops by to sample the selections.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="170" start_time="2020-12-31 05:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="171" start_time="2020-12-31 05:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team attempt to make a bike for Mark Buehrle of the Chicago White Sox baseball team while Paul Jr works hard to get his new company off the ground</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="172" start_time="2020-12-31 06:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="173" start_time="2020-12-31 07:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="174" start_time="2020-12-31 07:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Arctic Rescue">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fairbanks, Alaska, is home to some of the harshest weather conditions in North America. When motorists become stranded, three towing companies are called to pull them to safety...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="175" start_time="2020-12-31 08:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Breaking Amish">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The series revolves around 5young Anabaptist adults who move to New York City in order to experience a different life and decide whether to return to their communities or remain outside their communities and face potential ostracism by their family a</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="176" start_time="2020-12-31 09:25:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="177" start_time="2020-12-31 10:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="178" start_time="2020-12-31 10:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="179" start_time="2020-12-31 11:40:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="180" start_time="2020-12-31 12:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Arctic Rescue">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fairbanks, Alaska, is home to some of the harshest weather conditions in North America. When motorists become stranded, three towing companies are called to pull them to safety...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="181" start_time="2020-12-31 13:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Breaking Amish">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The series revolves around 5young Anabaptist adults who move to New York City in order to experience a different life and decide whether to return to their communities or remain outside their communities and face potential ostracism by their family a</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="182" start_time="2020-12-31 13:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="183" start_time="2020-12-31 14:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="American Chopper ">American Chopper </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The agency built a chopper for medical transport, but hard to design a sidecar that can accommodate a stretcher, as would an ambulance.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="184" start_time="2020-12-31 15:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Treehouse Masters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pete finds the perfect treehouse spot for a couple seeking a meditation space. Plus, six-metres up in a twisting pair of maples, the team creates an energy-infused retreat.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="185" start_time="2020-12-31 16:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="186" start_time="2020-12-31 16:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Arctic Rescue">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fairbanks, Alaska, is home to some of the harshest weather conditions in North America. When motorists become stranded, three towing companies are called to pull them to safety...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="187" start_time="2020-12-31 17:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Breaking Amish">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The series revolves around 5young Anabaptist adults who move to New York City in order to experience a different life and decide whether to return to their communities or remain outside their communities and face potential ostracism by their family a</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="188" start_time="2020-12-31 18:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="189" start_time="2020-12-31 19:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="190" start_time="2020-12-31 20:35:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Animal Cops Philadelphia">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The team help a dog who has been abandoned in a backyard in freezing temperatures and a cat trapped in a sewer drain.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="191" start_time="2020-12-31 21:20:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="192" start_time="2020-12-31 22:05:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Murder Shift">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeremy Swift is shot during a drug related robbery. Detective Lesia Moore has to figure out who is responsible, and a search warrant results in more than she bargained for.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="193" start_time="2020-12-31 22:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="194" start_time="2020-12-31 23:35:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Treehouse Masters">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pete finds the perfect treehouse spot for a couple seeking a meditation space. Plus, six-metres up in a twisting pair of maples, the team creates an energy-infused retreat.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="195" start_time="2021-01-01 00:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="196" start_time="2021-01-01 01:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Murder Shift">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeremy Swift is shot during a drug related robbery. Detective Lesia Moore has to figure out who is responsible, and a search warrant results in more than she bargained for.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="197" start_time="2021-01-01 01:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gold Rush">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>GOLD RUSH follows miners who have risked it all for a chance at the American Dream.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="198" start_time="2021-01-01 02:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Breaking Amish">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The series revolves around 5young Anabaptist adults who move to New York City in order to experience a different life and decide whether to return to their communities or remain outside their communities and face potential ostracism by their family a</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="199" start_time="2021-01-01 03:10:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Extreme enginnering">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The program featured futuristic and ongoing engineering projects.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="200" start_time="2021-01-01 03:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Cake Boss">Cake Boss</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The show focuses on how they make their edible art cakes, and the interpersonal relationships among the various family members and other employees who work at the shop.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="201" start_time="2021-01-01 04:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Kitchen Boss">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Buddy cooks up a delicious seafood supper of clams and chorizo, breadcrumb-stuffed jumbo shrimp and Sicilian fish soup. Uncle Larry drops by to sample the selections.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

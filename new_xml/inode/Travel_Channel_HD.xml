@@ -1,0 +1,978 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Travel Channel HD">
+    <event id="0" start_time="2021-12-09 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Strofka e fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nga ekipet paranormale me te apasionuara ne Amerike, Gjahtaret e fantazmave te Tenesise jane ne Mizuri per te hetuar nje azil te perhumbur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në hotel ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pse FBI bastisi një dhomë hoteli në Nju Jork ku jetonte një shpikës i famshëm? Dhe, si u tradhtua një bandit nga anëtarët e bandës së tij?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-09 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Portale për në ferr ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhek Osburn dhe Katrina Uidman udhëtojnë për në Junau, Alaska. Ata kryejnë hetimin e parë në një hotel të lidhur me aktivitetin demonik.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një të dhënë thelbësore në Ishullin e Gjarpërinjve e çon ekipin në xhunglën e rrezikshme paraguajane. Një artifakt historik i afron me thesarin - dhe takime kërcënuese për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Strofka e fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nga ekipet paranormale me te apasionuara ne Amerike, Gjahtaret e fantazmave te Tenesise jane ne Mizuri per te hetuar nje azil te perhumbur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dosjet Holzer ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët paranormalë rihapin dosjen e çështjes së Hans Holzer në shtëpinë Peck në Rye, NY. Ata synojnë të zbulojnë nëse shpirtrat e torturuar brenda saj kanë ikur përfundimisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një të dhënë thelbësore në Ishullin e Gjarpërinjve e çon ekipin në xhunglën e rrezikshme paraguajane. Një artifakt historik i afron me thesarin - dhe takime kërcënuese për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Strofka e fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nga ekipet paranormale me te apasionuara ne Amerike, Gjahtaret e fantazmave te Tenesise jane ne Mizuri per te hetuar nje azil te perhumbur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përndjekja në Heartland">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Stiv Shippy shkon në Merrill, Michigan, për të hetuar raportet e një qenieje të ligë. Me ndihmën e një historiani lokal, ai zbulon të kaluarën traumatike të qytetit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Osbournes duan të besojnë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ozi dhe Sharona ulen për të parë pamjet e dyshuara të poltergeistëve, kukullave të përndjekura dhe UFO-ve. A mundet Xheku të bindë prindërit se këto forca mbinatyrore ekzistojnë?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-10 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në hotel ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pse FBI bastisi një dhomë hoteli në Nju Jork ku jetonte një shpikës i famshëm? Dhe, si u tradhtua një bandit nga anëtarët e bandës së tij?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një të dhënë thelbësore në Ishullin e Gjarpërinjve e çon ekipin në xhunglën e rrezikshme paraguajane. Një artifakt historik i afron me thesarin - dhe takime kërcënuese për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-11 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Strofka e fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nga ekipet paranormale me te apasionuara ne Amerike, Gjahtaret e fantazmave te Tenesise jane ne Mizuri per te hetuar nje azil te perhumbur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-11 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dosjet Holzer ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët paranormalë rihapin dosjen e çështjes së Hans Holzer në shtëpinë Peck në Rye, NY. Ata synojnë të zbulojnë nëse shpirtrat e torturuar brenda saj kanë ikur përfundimisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-11 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Osbournes duan të besojnë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ozi dhe Sharona ulen për të parë pamjet e dyshuara të poltergeistëve, kukullave të përndjekura dhe UFO-ve. A mundet Xheku të bindë prindërit se këto forca mbinatyrore ekzistojnë?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 10:00:00" duration="21600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kombi i fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhejson, Stivi, Dejvi dhe Shari shkojnë në Waynesville, Ohajo, për të hetuar pretendimet për veprimtari agresive paranormale te një ish-kishe. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Autostrada e alienëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një seri vrojtimesh të kohëve të fundit UFO sjell ekipin e Çak Zukowskit në Misuri, shtëpia e incidentit të dritave të Piedmontit 1973. A po përsëritet historia?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kode dhe komplote ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shumica e etërve themelues dhe katërmbëdhjetë presidentë ishin masonë. Disa thonë se Uashington DC është ndërtuar si një kod masonik. Çfarë sekretesh të tjera fshihen nga masonët?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dosjet e të vdekurve ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emi Allen dhe detektivi në pension Stivi DiSkiavi eksplorojnë një legjendë të tmerrshme dhe pretendime aktiviteti paranormal në një vendpushim tropikal në gjirin Montego, Xhamajka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmat e qytetit Morgan ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një skuadër hetuesish ekspertë të aktiviteteve paranormale thirren nga departamenti i policisë së qytetit Morgan, Luiziana.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kode dhe komplote ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shumica e etërve themelues dhe katërmbëdhjetë presidentë ishin masonë. Disa thonë se Uashington DC është ndërtuar si një kod masonik. Çfarë sekretesh të tjera fshihen nga masonët?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-12 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kombi i fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhejson, Stivi, Dejvi dhe Shari shkojnë në Waynesville, Ohajo, për të hetuar pretendimet për veprimtari agresive paranormale te një ish-kishe. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-12 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dosjet Holzer ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët paranormalë rihapin dosjen e çështjes së Hans Holzer në shtëpinë Peck në Rye, NY. Ata synojnë të zbulojnë nëse shpirtrat e torturuar brenda saj kanë ikur përfundimisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-12 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-12 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-12 05:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Ushqimet e pazakonta     ">Ne Amerike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kurioziteti si dhe sistemi i forte i tretjes e çon  Andrew Zimmern ne gjithe boten, ne kerkim te gatimeve te vecanta dhe te pazakonta te zonave.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-12 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-12 10:00:00" duration="21600">
+      <short_event_descriptor lang="alb" name="Burri, gruaja, mbijetesë ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mykel dhe Ruth kthehen me shumë skenarë mbijetese, në të cilët gjenden thellë në shkretëtirën e lartë malore të Kalifornisë Jugore, ku duhet të darkojnë në merimanga dhe akrepa. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-12 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-12 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kombi i fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhejson, Stivi, Dejvi dhe Shari shkojnë në Waynesville, Ohajo, për të hetuar pretendimet për veprimtari agresive paranormale te një ish-kishe. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-12 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kode dhe komplote ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shumica e etërve themelues dhe katërmbëdhjetë presidentë ishin masonë. Disa thonë se Uashington DC është ndërtuar si një kod masonik. Çfarë sekretesh të tjera fshihen nga masonët?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-12 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frika e destinacionit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekipi mblidhet në Tenesi për të hetuar një burg të braktisur me të kaluar brutale dhe të burgosur famëkeq. Çfarë do të zbulojnë në Petros</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-12 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frika e destinacionit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekipi mblidhet në Tenesi për të hetuar një burg të braktisur me të kaluar brutale dhe të burgosur famëkeq. Çfarë do të zbulojnë në Petros</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-12 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Paranormale e deklasifikuar">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pol Beban kërkon të vërtetën e përbindëshave të detit. Ai shkon në liqenin Champlain në Vermont për të parë nëse një krijesë e paklasifikuar </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-12 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kode dhe komplote ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shumica e etërve themelues dhe katërmbëdhjetë presidentë ishin masonë. Disa thonë se Uashington DC është ndërtuar si një kod masonik. Çfarë sekretesh të tjera fshihen nga masonët?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-13 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kombi i fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhejson, Stivi, Dejvi dhe Shari shkojnë në Waynesville, Ohajo, për të hetuar pretendimet për veprimtari agresive paranormale te një ish-kishe. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-13 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dosjet e të vdekurve ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emi Allen dhe detektivi në pension Stivi DiSkiavi eksplorojnë një legjendë të tmerrshme dhe pretendime aktiviteti paranormal në një vendpushim tropikal në gjirin Montego, Xhamajka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-13 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Dosjet Holzer ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët paranormalë rihapin dosjen e çështjes së Hans Holzer në shtëpinë Peck në Rye, NY. Ata synojnë të zbulojnë nëse shpirtrat e torturuar brenda saj kanë ikur përfundimisht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-13 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-13 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-13 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-13 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-13 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-13 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-13 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-13 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-13 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-13 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-13 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-13 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-13 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-13 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-13 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmë përsëritëse">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjahtarët e Shpirtrave mbërrijnë në Palatka, Florida të ndihmojnë një nënë që frikësohet se një qenie e panjohur zvarritet në dhomat e gjumit të fëmijëve. Çfarë do të zbulojnë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-13 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Osbournes duan të besojnë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ozi dhe Sharona ulen për të parë pamjet e dyshuara të poltergeistëve, kukullave të përndjekura dhe UFO-ve. A mundet Xheku të bindë prindërit se këto forca mbinatyrore ekzistojnë?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-13 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frika e destinacionit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekipi mblidhet në Tenesi për të hetuar një burg të braktisur me të kaluar brutale dhe të burgosur famëkeq. Çfarë do të zbulojnë në Petros</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-13 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përndjekja në Heartland">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Stiv Shippy shkon në Merrill, Michigan, për të hetuar raportet e një qenieje të ligë. Me ndihmën e një historiani lokal, ai zbulon të kaluarën traumatike të qytetit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-13 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Osbournes duan të besojnë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ozi dhe Sharona ulen për të parë pamjet e dyshuara të poltergeistëve, kukullave të përndjekura dhe UFO-ve. A mundet Xheku të bindë prindërit se këto forca mbinatyrore ekzistojnë?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-14 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-14 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Strofka e fantazmave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje nga ekipet paranormale me te apasionuara ne Amerike, Gjahtaret e fantazmave te Tenesise jane ne Mizuri per te hetuar nje azil te perhumbur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-14 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-14 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-14 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-14 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-14 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-14 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-14 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-14 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-14 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-14 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2021-12-14 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një të dhënë thelbësore në Ishullin e Gjarpërinjve e çon ekipin në xhunglën e rrezikshme paraguajane. Një artifakt historik i afron me thesarin - dhe takime kërcënuese për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2021-12-14 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2021-12-14 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2021-12-14 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2021-12-14 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmë përsëritëse">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjahtarët e Shpirtrave mbërrijnë në Palatka, Florida të ndihmojnë një nënë që frikësohet se një qenie e panjohur zvarritet në dhomat e gjumit të fëmijëve. Çfarë do të zbulojnë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2021-12-14 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspedita e Këmbëmadhit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip specialistësh, të armatosur me teknologjinë më të fundit, përpiqen të lokalizojnë Këmbëmadhin e përrallave. Fillimi i kërkimit të tyre i çon në pyjet e Oregonit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2021-12-14 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Në kërkim të përbindëshave ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët diskutojnë teoritë që lidhen me qenien e mbinatyrshme më të famshme në botë, Këmbëmadhin. Dëshmitë e zbuluara kohët e fundit zbulojnë një krijesë shumë më të egër sesa besohej më parë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2021-12-14 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Osbournes duan të besojnë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ozi dhe Sharona ulen për të parë pamjet e dyshuara të poltergeistëve, kukullave të përndjekura dhe UFO-ve. A mundet Xheku të bindë prindërit se këto forca mbinatyrore ekzistojnë?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2021-12-14 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Frika e destinacionit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekipi mblidhet në Tenesi për të hetuar një burg të braktisur me të kaluar brutale dhe të burgosur famëkeq. Çfarë do të zbulojnë në Petros</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2021-12-15 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një të dhënë thelbësore në Ishullin e Gjarpërinjve e çon ekipin në xhunglën e rrezikshme paraguajane. Një artifakt historik i afron me thesarin - dhe takime kërcënuese për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2021-12-15 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmë përsëritëse">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjahtarët e Shpirtrave mbërrijnë në Palatka, Florida të ndihmojnë një nënë që frikësohet se një qenie e panjohur zvarritet në dhomat e gjumit të fëmijëve. Çfarë do të zbulojnë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2021-12-15 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2021-12-15 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2021-12-15 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2021-12-15 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2021-12-15 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Trekëndëshi i Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët hetojnë raportet e një baze sekrete të huaj, thellë brenda malit më të lartë të Alaskës. Dëshmitë me video sugjerojnë veprimtari jashtëtokësore në Fairbanks.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2021-12-15 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2021-12-15 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2021-12-15 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2021-12-15 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2021-12-15 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2021-12-15 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Jashtëtokësorë në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hetim për vrojtimet e UFO-ve, rrëmbimeve të pretenduara dhe takimeve me jashtëtokësore në të gjithë peizazhin e egër të kufirit të fundit të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2021-12-15 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2021-12-15 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspedita e Këmbëmadhit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip specialistësh, të armatosur me teknologjinë më të fundit, përpiqen të lokalizojnë Këmbëmadhin e përrallave. Fillimi i kërkimit të tyre i çon në pyjet e Oregonit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2021-12-15 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2021-12-15 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2021-12-15 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmë përsëritëse">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjahtarët e Shpirtrave mbërrijnë në Palatka, Florida të ndihmojnë një nënë që frikësohet se një qenie e panjohur zvarritet në dhomat e gjumit të fëmijëve. Çfarë do të zbulojnë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2021-12-15 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Portale për në ferr ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhek Osburn dhe Katrina Uidman udhëtojnë për në Junau, Alaska. Ata kryejnë hetimin e parë në një hotel të lidhur me aktivitetin demonik.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2021-12-15 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2021-12-15 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Në kërkim të përbindëshave ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertët diskutojnë teoritë që lidhen me qenien e mbinatyrshme më të famshme në botë, Këmbëmadhin. Dëshmitë e zbuluara kohët e fundit zbulojnë një krijesë shumë më të egër sesa besohej më parë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2021-12-16 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2021-12-16 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmë përsëritëse">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjahtarët e Shpirtrave mbërrijnë në Palatka, Florida të ndihmojnë një nënë që frikësohet se një qenie e panjohur zvarritet në dhomat e gjumit të fëmijëve. Çfarë do të zbulojnë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2021-12-16 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2021-12-16 03:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2021-12-16 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2021-12-16 05:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2021-12-16 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Jashtëtokësorë në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hetim për vrojtimet e UFO-ve, rrëmbimeve të pretenduara dhe takimeve me jashtëtokësore në të gjithë peizazhin e egër të kufirit të fundit të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2021-12-16 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="133" start_time="2021-12-16 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një të dhënë thelbësore në Ishullin e Gjarpërinjve e çon ekipin në xhunglën e rrezikshme paraguajane. Një artifakt historik i afron me thesarin - dhe takime kërcënuese për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="134" start_time="2021-12-16 10:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="135" start_time="2021-12-16 11:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspedita e Këmbëmadhit ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip specialistësh, të armatosur me teknologjinë më të fundit, përpiqen të lokalizojnë Këmbëmadhin e përrallave. Fillimi i kërkimit të tyre i çon në pyjet e Oregonit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="136" start_time="2021-12-16 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ndërtimi në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Individë guximtarë përballen me kushte ekstreme dhe me elemente të ashpra për të ndërtuar pronat e tyre të ëndrrave në zonat më të largëta e të shkreta të Alaskës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="137" start_time="2021-12-16 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Jashtëtokësorë në Alaskë">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një hetim për vrojtimet e UFO-ve, rrëmbimeve të pretenduara dhe takimeve me jashtëtokësore në të gjithë peizazhin e egër të kufirit të fundit të Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="138" start_time="2021-12-16 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një të dhënë thelbësore në Ishullin e Gjarpërinjve e çon ekipin në xhunglën e rrezikshme paraguajane. Një artifakt historik i afron me thesarin - dhe takime kërcënuese për jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="139" start_time="2021-12-16 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="140" start_time="2021-12-16 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gjetja e Kembemadhit">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ekspertet e Këmbëmadhit janë thirrur në ishullin Princi i Uellsit, Alaska për të hetuar një zgjim të kohëve të fundit të aktivitetit. Por a mund ta gjurmojnë bishën e pakapshme?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="141" start_time="2021-12-16 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Ekspeditë e panjohur ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhosh Gejts heton histori të pazgjidhura anembanë globit. Ai interviston dëshmitarët kryesorë okularë dhe zbulon zhvillimet e fundit para se të eksplorojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="142" start_time="2021-12-16 19:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmë përsëritëse">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjahtarët e Shpirtrave mbërrijnë në Palatka, Florida të ndihmojnë një nënë që frikësohet se një qenie e panjohur zvarritet në dhomat e gjumit të fëmijëve. Çfarë do të zbulojnë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="143" start_time="2021-12-16 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="144" start_time="2021-12-16 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mistere në hotel ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pse FBI bastisi një dhomë hoteli në Nju Jork ku jetonte një shpikës i famshëm? Dhe, si u tradhtua një bandit nga anëtarët e bandës së tij?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="145" start_time="2021-12-16 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Portale për në ferr ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhek Osburn dhe Katrina Uidman udhëtojnë për në Junau, Alaska. Ata kryejnë hetimin e parë në një hotel të lidhur me aktivitetin demonik.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="146" start_time="2021-12-17 00:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kërkimi i thesarit: Ishulli i ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një krokodil kajman vdekjeprurës synon Mehgan, por një aksident potencialisht gjymtues çon në një zbulim tronditës - një mesazh të koduar nga e kaluara </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="147" start_time="2021-12-17 01:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Fantazmë përsëritëse">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjahtarët e Shpirtrave mbërrijnë në Palatka, Florida të ndihmojnë një nënë që frikësohet se një qenie e panjohur zvarritet në dhomat e gjumit të fëmijëve. Çfarë do të zbulojnë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="148" start_time="2021-12-17 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Përbindëshat e Alaskës ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një ekip po bën sfidën e eksplorimit të Trekëndëshit të Alaskës për të zbuluar prova të krijesave lakonike që mendohet se jetojnë atje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="149" start_time="2021-12-17 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mistere në muze">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo episod është përqendruar në objekte interesante dhe të pazakontë të mbajtur në muze. Shfaqja prezantohet nga Don Wildman. </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

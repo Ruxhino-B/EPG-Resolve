@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTV 21">
+    <event id="0" start_time="2021-08-10 06:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e RTV-21">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit RTV-21</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-08-10 18:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e RTV-21">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit RTV-21</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

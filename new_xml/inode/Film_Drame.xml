@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Drame">
+    <event id="0" start_time="2021-12-09 12:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Zonja e erëzave">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aishwarya Rai. Tilo është mjeshtre e erëzave dhe hap një dyqan në San Francisko. Ajo arrin të lexojë jetën dhe deshirat e klienteve të saj dhe u jep atyre erëza të ndryshme për t'i ndihmuar që të realizoje dëshirat e tyre. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 13:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ndeshja më e madhe e Muhamed Ali">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në vitin 1967, kampioni i boksit, Muhammed Ali refuzoi të luftonte në Vietnam, bazuar në bindjet e tij fetare. Çështja e tij do të shqyrtohet nga Gjykata e Lartë dhe përballja e tij më e madhe do të jetë me qeverinë amerikane.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 15:30:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Pasioni i mendjes">Dramë, mister, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Demi Moore, Eloise Eonnet. Një dramë psikologjike mbi një grua të ve, e cila fillon të ëndërrojë për një jetë tjetër dhe shumë shpejt realiteti nga fantazia bëhen të padallueshëm. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 17:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Kohë moderne">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>E.Perkins, G.Paltrow, W.Goldberg. 4 gra që e duan njëra tjetrën, e torturojnë njëra tjetrën dhe ndajnë sekretet më të fshehta, ndërkohë që njëra prej tyre, ende në zi për vdekjen e të shoqit, gjen ngushëllim tek një djalë i pashëm.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dashuri dhe mëshirë">Biografi, dramë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Cusack, Elizabeth Banks. Historia e vërtetë e Brian Wilson, këngëtarit te grupit legjendar 'Beach Boys'. Një pasqyrim i problemeve të tij mendore dhe takimit me Melinda Ledbetter, gruas që e ndihmoi të përballej me këto probleme.
+ 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dhurata e fundit">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në romanin me të njëjtin titull. Kur gjyshi miliarder ndërron jetë, nipi i llastuar pret të trashëgojë një pjesë të pasurisë. Por para se të mësojë "dhuratën" që ai ka menduar për të, i riu duhet të kryejë 12 detyra të çuditshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 23:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Martesa">Portret familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e Herrit ndodhet në udhëkryq. Gruan e tij besnike, por të ftohtë e ka të pamundur ta dashurojë. I marrosur pas një tjetre dhe për t'ia kursyer së shoqes poshtërimin e divorcit, ai vendos t'i japë fund martesës në një mënyrë tjetër. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 00:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="I dashur Xhon">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Channing Tatum, Amanda Seyfried. Në shtëpi me leje nga ushtria, një i ri bie në dashuri me një studente dhe në vitet që pasojnë, ndërkohë që ai ndodhet në misione, ata fillojnë një korrespondencë me letra, që do t'ju ndryshojë jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 02:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Foto çasti">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Piper Laurie. Kur e kaluara e sekrete e një gjysheje përplaset me të ardhmen e fshehtë të mbesës dhe të tashmen e zemëruar të së bijës, a mund të jetë e mjaftueshme dashuria e tre brezave për të pranuar dekada mashtrimi?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 03:40:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Njerka">Dramë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Julia Roberts, Susan Sarandon. Drama prekëse e dy grave, njëra nënë e dy fëmijëve dhe tjetra njerka e tyre. Një marrdhënie e trazuar, që ndryshon vetëm kur njëra prej tyre merr lajmin se është sëmurë rëndë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 05:45:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kalëruesi i dallgëve">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gerard Butler, Jonny Weston. Historia e 15 vjeçarit Xhei Moriariti që kërkon ndihmën një serfisti legjendar për të kaluar dallgën më të famshme të oqeaneve, Maveriks...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 07:40:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Palo Alto">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emma Roberts, James Franco. Në mungesë të vëmendjes e kontrollit nga prindërit, disa adoleshentë nga qyteza e njohur Palo Alto në Kaliforni, rebelohen ndaj tyre duke përdorur drogë dhe duke përjetuar eksperienca të ndryshme seksuale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 09:25:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Rregullat e Xhorxhas">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jane Fonda, Lindsay Lohan. Kur sheh se s'ia del dot me të bijën, adoleshente rebele, Lili vendos ta çojë në shtëpinë e nënës së saj, ku ishte betuar se s'do kthehej kurrë. Tri femra krejt te ndryshme, do jetojnë me rregullat e Xhorxhas.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 11:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dallimet që na afrojnë">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Greg Kinnear, Renée Zellweger, Djimon Hounsou. Bazuar në historinë e vërtetë te një tregtuesi veprash arti, i cili detyrohet të miqësohet me një njeri të pastrehë, në dukje të rrezikshëm, vetëm për të shpëtuar martesën e tij...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 13:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Romancë në Kajro">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Patricia Clarkson, Alexander Siddig. Ndërkohë që ndodhet me pushime në Kajro, një grua e suksesshme, fillon një romancë të bukur dhe të papritur me një mikun e burrit të saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 15:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Buzëkuqi nën perçe">Dramë, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Katër gra shpirtlira nga një qytet i vogël i Indisë, ndjekin në fshehtësi ëndrrat e tyre. Me vepra të vogla, por të guximshme, ato rebelohen kundër ligjeve dhe traditave që diktojnë jetët e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 16:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Fama">Dramë, muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 2009. Një riprodhim i filmit kult me të njëjtin titull të viteve 80-të. Një grup të rinjsh në një shkollë arti, përjetojnë gjithçka që sjell jeta, ndërkohë që përpiqen të arrijnë majat e suksesit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ithtaria">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2017. Një film nga Maggie Betts. Në fillimin e viteve 1960, gjatë periudhës së Vatikanit II, një vajzë e re në rrugëtimin për t'u bërë murgeshë e ka të vështirë të përballet me besimin, ndryshimet e kishës dhe seksualitetin e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pranverë në Romë">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Helen Mirren, Olivier Martinez. Një aktore në fundin e karierës, bie në dashuri me një të ri që në dukje i dhuron gjithçka që i mungonte. Por, pa e kutpuar ajo bie në një botë të rrezikshme mashtrimi dhe kaosi...
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 23:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Klubi i nënave beqare">Drame</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nia Long, Wendi McLendon-Covey, Amy Smart. Kur pesë nëna beqare vendosin të organizohen në një klub, ato gjejnë frymëzim e hare tek shoqëria e tyre e re dhe e ndihmojnë njëra tjetrën për të kapërcyer pengesat që iu dalin.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-11 00:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Lule prej çeliku">Dramë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2012.Queen Latifah, Alfre Woodard. Një riprodhim mjaft i pëlqyer i filmit me të njëjtin titull të vitit 1989. Disa gra, takohen përditë në sallonin e bukurisë për të diskutuar mbi jetën, problemet dhe gëzimet e tyre...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-11 02:20:00" duration="9600">
+      <short_event_descriptor lang="alb" name="Princesha e dashuruar">Romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Barbara Snellenburg, Raoul Bova. Pasi refuzon burrin që i gjetën prindërit për martesë, një princeshë bukuroshe dashurohet me një instruktor noti...  
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-11 05:00:00" duration="9300">
+      <short_event_descriptor lang="alb" name="Emri im është Khan">Një histori Indie</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 2010. Shah Rukh Khan, Kajol. Një njeri me probleme autizmi, ndërmerr një udhëtim të jashtëzakonshëm, në emër të dashurisë dhe dinjitetit, duke frymëzuar miliona njerëz.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-11 07:35:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Jeta s'ka udhëzime">Dramë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eugenio Derbez, Loreto Peralta. Një Don Zhuan i pandreqshëm duhet të ndryshojë shumë shpejt, kur një nga ish të dashurat i lë në derën e shtëpisë vajzën e tij të vogël dhe ai detyrohet ta rritë i vetëm...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-11 09:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="E bija e mikut tim">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hugh Laurie, Oliver Platt, Leighton Meester. Romanca e një njeriu, me vajzën shumë më të re të mikut të tij më të mirë, do të hapë një mal me telashe për të dyja familjet.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-11 11:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Deni Kollins">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Al Pacino, Annette Bening. Frymëzuar nga një histori e vërtetë. Një muzikant me një karrierë të gjatë vendos të ndryshojë drejtim në jetë, pasi merr një letër të shkruar rreth 4 dekada më përpara nga Xhon Lenon...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-11 13:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Udhëtimi i fundit në Oregon">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Frank Langella, Billy Crudup. Një njeri merr përsipër të çojë vjehrrin e tij 80 vjeçar në Oregon për të kryer ligjërisht eutanazinë, ndërkohë që gjatë rrugës e ndihmon të gjejë një arsye për të jetuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 14:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pasione të papritura">Dramë, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një gazetare ambicioze që po heton një skandal, e gjen veten në një dileme të madhe kur fillon të ketë ndjenja për djalin e pashëm, me të cilin u afrua vetëm sepse e sheh si të dyshuarin kryesor të çështjes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 16:05:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Baroni i druvarëve">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një kohë kur tregtia e drurit ishte një industri në lulëzim, një burrë kthehet në shtëpi për të shpëtuar biznesin e lakmuar të familjes, të zbulojë me tepër për vdekjen e papritur të babait të tij dhe të shmangë rrënimin financiar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 18:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Perandori">Dramë, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matthew Fox, Tommy Lee Jones. Menjëherë pas kapitullimit të perandorisë Japoneze në Luftën e Dytë Botërore, gjenerali Fellers, duhet të vendosë nëse perandori Japonez Hirohito, duhet të ndëshkohet apo shpëtohet... 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 19:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Pesha e një ëndrre">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një aktore dikur e famshme në filmat komercialë, përpiqet dëshpërimisht të mbijetojë në biznesin e kinemasë. Pranë të 40-tave dhe me një karrierë në rënie, ajo lufton pa u dorëzuar për të fituar role të reja, por me çfarë kostoje?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 21:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Dashuria të gjen vetë">Dramë, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi një vazje të re e sektit fetar me rregulla strikte, Amish, i jepet mundësia të vizitojë botën jashtë qytezës së saj, ajo e gjen veten përballë një zgjedhjeje të vështirë dhe një njohjeje që mund t'i ndryshojë jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 22:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Të vdesësh i ri">Dramë sentimentale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>J.Roberts, C.Scott. Ka nga ata që shijojnë një jetë të tere dhe s'dashurojnë kurrë kështu. Hilari kishte pak përvojë. Viktor kishte çdo gjë që mund t'i ofronte jeta, përveç njërës. Për të dy, ilaçi më i mirë ne jetë, është të dinë që ka shpresë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-12 00:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Helena">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ashley Judd, Goran Visnjic. Një profesore e talentuar, e cila në pamje të parë duket se ka gjithçka, detyrohet të përballet me depresionin e saj, që rrezikon të rrënojë çdo gjë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-12 02:20:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Per Elenen">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Paul Dano. Xhobi nuk e ka takur kurrë të bijën 6-vjeçare pasi ndoqi ëndrrën për t'u bërë yll rroku. Tani që e ëma kërkon divorcin dhe të drejtat e prindërimit, ai niset të takojë vajzën për të kuptuar në mund të jetë baba, apo është vonë?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-12 03:55:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Devdas">Një histori Indie</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 2002. Shahrukh Khan, Aishwarya Rai. Ngjarjet zhvillohen në Indinë e viteve 1900 dhe portretizojnë dashurinë a pakrahasueshme të dy të rinjve, të cilët u ndanë për shkak të diferencave në klasën  shoqërore.
+
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-12 06:55:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Nusja e përkryer">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Molli dhe Niku janë gati të hedhin hapin e madh të martesës, por disa ndërlikime të përziera me organizimin e dasmës, e vështirësojnë rrugën e tyre drejt altarit. A do t'ia arrijë çifti i përkryer ta çojë deri në fund planin e dasmës?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-12 08:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Beqare në Majemi">Dramë, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Amy, një vajzë e re tërheqëse dhe beqare, e prirur për të vlerësuar me shumë paratë se dashurinë në një lidhje, bie viktime e botës materialiste të Majemit.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-12 09:55:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Receta për dashurinë">Dramë, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2019. Një infermiere e re bllokohet ne ashensor me një djalë të ri sharmant dhe të dy ndjejnë një tërheqje të menjëhershme. Ata nuk arrijnë të shkëmbejnë kontaktet dhe vihen në kërkim të njëri-tjetrit pa e ditur se ndodhen fare pranë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-12 11:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Shëruesja Beatrizë">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Salma Hayek, John Lithgow. Kur Beatriz, një shëruese shpirtërore, takon biznesmenin e pashpirt  Dag Strati gjatë një darke, botët e tyre do të përplasen dhe asnjëri nuk do të jetë më njësoj.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-12 12:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mendim gjenial">Histori e vërtetë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Greg Kinnear, Lauren Graham, Dermot Mulroney. Bazuar në historinë e shpikësit Robert Kearns. Beteja e gjatë juridike, morale dhe shpirtërore, kundër industrisë amerikane të automobilave për njohjen e shpikjes së tij...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-12 14:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Herri dhe Megan, një romancë mbretërore">Biografi, romancë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e dashurisë së Princit Harry dhe Meghan Markle, nga takimi i tyre i parë, i nxitur nga miqtë e përbashkët, tek vëmendja e lartë mediatike mbi lidhjen e tyre dhe mbi jetën e Meghan-it, si një aktore amerikane e divorcuar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-12 16:40:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Katër fazat e Glorias">Biografi, dramë, histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2020. Bazuar në librin me kujtime të gruas, aktivistes dhe gazetares së patrembur Gloria Steinem, nga fëmijëria e saj në vitet 1940 Ohajo, deri tek roli i saj në lëvizjen revolucionare të grave.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-12 19:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Të magjepsësh zemrat e burrave">Dramë, romancë, histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në fillim të viteve '60, një grua e divorcuar kthehet në vendlindje, në jug të Shteteve të Bashkuara dhe kupton se gratë, pa mbeshtjetjen e burrave, nuk kanë asnjë fuqi. E vendosur të ndryshojë situatën, me ndihmën e një aleati të kongresit, ajo do të ndryshojë historinë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-12 21:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Një mendje brilante">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Asa Butterfield. Frymëzuar nga ngjarje të vërteta. Nje adoleshent me autizëm, por që është gjeni në matematikë, gjen vetëbesim dhe miqësi të reja kur i bashkohet një skuadre pjesëmarrëse në 'Olimpiadën Ndërkombëtare të Matematikës'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-12 22:50:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Çmimi i besimit">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse 18-vjeçari Brendan Kings përpiqet të hedhë pas krahëve jetën e trazuar në një bandë, e kaluara vazhdon të kërcënojë besimin e sapogjetur, familjen dhe të ardhmen e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-13 00:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Sunshine cleaning">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prodhim i vitit 2008. Amy Adams, Emily Blunt, Alan Arkin, etj. E vendosur për të dërguar djalin e saj në një shkollë private, një nënë beqare bashkë me motrën, hapin një biznes për të pastruar skenat e krimit. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-13 02:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Romantikët">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Katie Holmes, Josh Duhamel, Anna Paquin. Rivalitete të vjetra do të rishfaqen në prag të dasmës së një vajze, e cila do të martohet me ish të dashurin e shoqërueses së saj.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-13 03:45:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Z. Askushi">Dramë romantike, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jared Leto, Sarah Polley, Diane Kruger. Në vitin 2092, një njeri 118 vjeçar i tregon jetën e tij një reporteri, duke u fokusuar në 3 momente vendimtare dhe rrugët e ndryshme që ai mund të kishte zgjedhur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-13 06:10:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Mbahu tek Piti">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Chloë Sevigny, Steve Buscemi, Charlie Plummer. 15-vjeçari Çarli punon në një pistë garash për kuaj. Kur mëson se kali për të cilin kujdeset nuk garon dot më, ndaj do theret, ai merr masa ekstreme për t'i shpëtuar jetën mikut të tij të ri</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-13 08:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Në rini">Dramë, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ben Stiller, Naomi Watts. Ndërkohë që përballen me ndryshimet që vijnë me moshën e mesme, jeta dhe karriera e një producenti dokumentarësh dhe gruas së tij, do të ripërtërihet nga takimi me një çift rreth të 25-ave... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-13 09:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Ndërsa jemi këtu">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kate Bosworth. Shkrimtarja Xhejn shoqëron bashkëshortin muzikant për një koncert në Napoli, me shpresën se ky udhëtimi do ta ndihmojë martesën e tyre të trazuar. Por atje do të provojë një tjetër romancë, më një djalë më të ri se ajo</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-13 11:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="1 Javë për të ndryshuar">Romance</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>J.Bateman, O.Wilde. I dëbuar nga hoteli luksoz ku jeton, një 40 vjeçar detyrohet të shkojë të jetojë me shokun e tij më të mirë. Gjithçka shkon mirë, derisa ai bie në dashuri me të dashurën e shokut dhe fillon një trekëndësh dashurie...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-13 12:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Botë të rriturish ">Dramë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emma Roberts, John Cusack. Një vajzë që sapo ka mbaruar universitetin dhe beson se do të bëhet poete e famshme, pranon të punojë në një dyqan erotik ndërkohë që përpiqet t'i mbushë mendjen shkrimtarit të preferuar që ta marrë nën kujdes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-13 14:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Brenda dhimbjes">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Olivia Wilde, Luke Wilson. Një vit pas rrëmbimit të djalit të tyre, një polic dhe gruaja e tij sa vijnë e zhyten më shumë në dhimbjen dhe ndjenjën e fajësisë që i ka pushtuar...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-13 16:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ç'të pret kur pret një fëmijë">Dramë, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Elizabeth Banks, Jennifer Lopez, Brooklyn Decker, Cameron Diaz, Dennis Quaid. Pesë çifte, jetët e të cilëve janë të ndërthurura me njëra tjetrën, përjetojnë në mënyra të ndryshme gëzimet dhe ndryshimet e sjelljes në jetë të një fëmije...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-13 17:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Një romancë në Paris">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Isabella,  bën hapin e madh dhe hyn në një konkurs prestigjioz të verës në Paris. Mes pijeve, ushqimit të mirë, dhe .... njohjeve të reja, ajo mund të fitojë më shumë se një trofe...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-13 19:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Betimi">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2012. Channing Tatum, Rachel McAdams. Një çift i sapo martuar pëson një aksident me makinë dhe gruaja humbet kujtesën, duke mos mbajtur mend as bashkëshortin. I gatshëm të bëjë gjithçka, ai përpiqet të fitojë sërish zemrën e saj...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-13 21:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Vera e jetës sime">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liam James, Steve Carell. Ndërkohë që detyrohet të shkoje me pushime me nënën e tij dhe të dashurin e saj, një 14 vjeçar miqësohet me një punonjës në një park ujor. Ai, do ti mësojë djalit, sesi të notojë përmes sfidave të jetës...
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-13 22:40:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Baroni i druvarëve">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një kohë kur tregtia e drurit ishte një industri në lulëzim, një burrë kthehet në shtëpi për të shpëtuar biznesin e lakmuar të familjes, të zbulojë me tepër për vdekjen e papritur të babait të tij dhe të shmangë rrënimin financiar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-14 00:25:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Në vendin tënd">Dramë, romancë, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Amandla Stenberg. Historia e dashurisë mes një adoleshenteje me racë mikse dhe nje anëtari të organizatës 'Të rinjtë e Hitlerit' dhe përpjekja e tyre për të mbijetuar në gjermaninë naziste...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-14 02:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Sheqer kafeje">Dramë romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Taye Diggs, Sanaa Lathan. Një kritike muzike dhe një producent, miq që në fëmijëri ia dedikojnë suksesin e tyre zbulimit të Hip Hop-it, por tani edhe pse secili ka një lidhje, simpatia për njëri tjetrin po i afron gjithnjë e më shumë. </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Nje HDott">
+    <event id="0" start_time="2021-10-14 15:25:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shefi">Komedi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jon Favreau, Robert Downey Jr., Scarlett Johansson. Një kuzhinier që humbet punën në restorant, fillon t'i shesë gatimet e tij me rulot në përpjekje për të rigjetur talentin krijues në fushën e gatimit. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-10-14 17:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Dom Heminguej">Komedi, krim Sub-Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jude Law, Richard E. Grant. Pas 12 vitesh të kaluar në burg për shkak se nuk spiunoi shokët, hapësi i famshëm i kasafortave, Dom Heminguej, rikthehet në rrugët e Londrës për
+të marrë shpërblimin që i takon.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-10-14 19:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Vrasësit anonimë">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gary Oldman, Jessica Alba. Takimi i qetë mes anëtarëve të një grupi vrasësish anonimë, tensionohet kur pjesëmarrësit përpiqen të zbardhin se cili prej tyre është përgjegjës për atentatin ndaj një senatori amerikan që ka alarmur autoritetet.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-10-14 20:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Xhej Ti LeRoi">Dramë-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kristen Stewart, Laura Dern. Një histori e vërtetë bazuar në gënjeshtrën që tronditi kulturën pop. Një grua e re kalon vite duke luajtur rolin e JT LeRoy në publik, një personazh letrar enigmatik dhe i dashur, i krijuar nga kunata e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-10-14 22:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Akt trimërie">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Roselyn Sanchez. Gjatë një misioni për shpëtimin e dy agjentëve të C.I.A-s, një skuadër e forcave speciale zbulon një celulë terroriste që rrezikon gjithë botën. Ata do të rrezikojnë jetët e tyre, për të ndalur me çdo kusht këtë rrezik...  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-10-15 00:20:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Bankomati">FearFest-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alice Eve, Josh Peck, Brian Geraghty. Në përpjekje për të marrë parà, tre kolegë ndalojnë në një bankomat. Por kur bllokohen brenda kabinës së bankomatit nga një njeri misterioz, dalja prej aty do të jetë një çështje për jetë a vdekje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-10-15 01:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Shkolla më e bukur në botë">Komedi-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christian De Sica,  Rocco Papaleo. Një shkëmbim klasash, mes një shkolle të shkëlqyer nga veriu i Italisë, me një klase Afrikane shkon keq... Prej një gabimi në internet, shkëmbimi bëhet me një nga shkollat më të keqija nga Napoli...  
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-10-15 03:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Të guximshmit">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tom Knight, Simon Phillips, Christina Bellavia. Një skuadër speciale ushtarësh, përpiqet të shpëtojë vajzën e Kryeministrit, e cila është rrëmbyer nga një grup terrorist dhe mbahet e mbyllur në një ndërtesë plot kurthe e të papritura.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-10-15 05:10:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Për një klasë më të mirë ">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Maggie Gyllenhaal, Viola Davis. Bazuar në një histori të vërtetë! Dy nëna të vendosura, rrezikojnë gjithçka për të ndryshuar sistemin e dështuar shkollor në lagjet e varfra dhe për të përmirësuar edukimin dhe të ardhmen e fëmijëve të tyre. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-10-15 07:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Një vrasje si ajo">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Patrick Wilson, Jessica Biel. Arkitekti dhe shkrimtari i romaneve kriminale Uolter Stekhauz, fiksohet pas një vrasjeje të pazgjidhur që përkon me rrënimin e martesës së tij, ndërkohë që ai dëshiron një grua tjetër...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-10-15 09:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Rrëmbim i dëshpëruar">Thriller, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një shofer i pafat që bën ca para shtesë duke lëvizur nëpër qytet një tregtar droge, i rrëmben atij fëmijën pasi përballet me probleme financiare. Situata të tensionuara krijohen kur ai shoqëron tregtarin e drogës  në kërkim të fëmijës së tij...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-10-15 10:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Rënia e njerëzimit">Aksion, fantashkencë-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lee Pace, Bérénice Marlohe. Në Afrikë dhe me gjithë botën thuajse të shkatërruar nga një pushtim alien, një ushtar amerikan dhe një punonjës social francez, bashkojnë forcat për të bërë të pamundurën që të mbijetojnë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-10-15 12:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Safiret">Muzikë-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Chris O'Dowd, Deborah Mailman, Jessica Mauboy. Bazuar në historinë e vërtetë të katër motrave aborigjene, të cilat zbulohen nga një agjent talentesh në Australinë e 1968. Me një pasion të madh për muzikën Soul, ai arrin t'i bëjë të famshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-10-15 13:45:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Vriti të gjithë">Aksion, thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2017. Nga regjisori me origjinë shqiptare Peter Malota, kompozitori shqiptar Aldo Shllaku. Me J.C Van Damme. Kur një i panjohur misterioz mbërrin në spital i plagosur rëndë, një skuadër e FBI-së zbulon një komplot ndërkombëtar hakmarrjeje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-10-15 15:25:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Qëndresa e hekurt">Aksion-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>gjatëJames Purefoy, Paul Giamatti, Brian Cox. Bazuar në një ngjarje të vërtetë! Në Anglinë e shekullit të 13-të, një grup i vogël kalorësish,vendosin të mbrojnë kështjellën e 'Rochester' nga mbreti Xhon.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-10-15 17:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Jetë endacakësh">Komedi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jennifer Aniston, Paul Rudd. Papritur të papunë, Xhorxh dhe Linda detyrohen të shkojnë të jetojnë me vëllain e tij. Por kur plani nuk shkon si duhet, ata rastësisht takojnë një komunitet që ka vetëm një rregull: të jesh vetvetja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-10-15 19:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Rrëmbimi 2">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liam Neeson. Ish agjenti i C.I.A-s  Brajan Mills do të përdorë të gjithë taktikat e tij unike kur ai dhe gruaja e tij, rrëmbehen nga babai i njërit prej shqiptarëve që ai eleminoi vite më parë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-10-15 20:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Në gjak">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gina Carano, Cam Gigandet, Danny Trejo. Pasi i humbet i shoqi gjatë pushimeve në Karaibe, një grua lufton e vetme që të shkatërrojë njerëzit për të cilët mendon se janë shkaktarët e fatkeqësisë së saj.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-10-15 22:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Gruaja me të zeza">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>D.Radcliffe. Një avokat i ri, detyrohet të shkojë në një fshat të izoluar për t'u kujdesur për shtëpinë e një njeriu të pasur që sapo ka ndërruar jetë. Por ndërkohë që ndodhet i vetëm në shtëpi, ai do të zbulojë një sekret të tmerrshëm... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-10-16 00:10:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Harta e yjeve">Krim-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Julianne Moore, Mia Wasikowska. Një udhëtim në zemër të një familjeje hollivudjane gjithmonë në ndjekje të famës, njëri-tjetrit dhe fantazmave të palodhura nga e kaluara.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-10-16 02:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="T'i kthehet dërguesit">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rosamund Pike, Shiloh Fernandez. Një infermiere pranon të takohet me një të panjohur, i cili nuk është aspak ai që pretendon dhe do ta kthejë përmbys jetën e saj...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-10-16 03:45:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Mohimi">Biografi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në librin mjaft të vlerësuar 'Mohimi: Historia në gjyq'. Një ritregim i betejës ligjore për të vërtetën e Holokaustit, të Deborah E. Lipstadt e cila akuzohet për shpifje nga David Irving, pasi ajo e akuzon atë si mohues...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-10-16 05:40:00" duration="7500">
+      <short_event_descriptor lang="alb" name="90 minuta në parajsë">Drame-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hayden Christensen, Kate Bosworth. Bazuar në një histori të jashtëzakonshme dhe të vërtetë! I shpallur i vdekur pas një aksidenti me makinë, kleriku Don Pajpër zgjohet pas 90 minutash dhe thotë se gjatë kësaj kohe ndodhej në parajsë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-10-16 07:45:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Rrëmbimi i Anijes">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pilou Asbaek. Një anije mallrash nga Danimarka, rrëmbehet nga piratët Somalezë... Midis njerëzve në anije janë edhe kuzhinieri dhe inxhinieri, të cilët bashkë me ekuipazhin merren peng... Për lirimin e tyre kërkohen miliona dollarë...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-10-16 09:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kat Benk">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liam Hemsworth, Teresa Palmer. Pasi bëhen dëshimtarë të një vrasjeje, jeta e një të riu dhe të dashurës së tij merr një kthesë të rrezikshme...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-10-16 11:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Në pritje">Romancë-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Keira Knightley, Chloë Grace Moretz, Sam Rockwell. Në panik, pasi e dashuri i propozon për martesë, një 28 vjeçare largohet dhe shkon të jetojë për 1 javë me një adoleshente, të cilën sapo e ka takuar. Një javë që mund të ndryshojë gjithçka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-10-16 13:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Forcat Speciale">Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>D.Kruger, D.Hounsou. Një skuadër e forcave speciale franceze dërgohet në Afganistan, për të shpëtuar një gazetare të rrëmbyer nga talebanët. Edhe pse arrijnë ta shpëtojnë, dalja gjallë prej aty do të jetë një mision i pamundur...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-10-16 14:50:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Kërcënim për rrjetin">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Chris Hemsworth, Viola Davis. Një pirat rrjeti i talentuar, lirohet nga burgu për të ndihmuar agjentët amerikanë dhe kinezë në gjetjen e fajtorit të disa sulmeve kibernetike...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-10-16 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Të prekësh retë">Biografi-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Joseph Gordon-Levitt, Ben Kingsley. Në vitin 1974, artisti i ecjeve mbi tel Philippe Petit, mbledh një grup njerëzish për ta ndihmuar në realizimin e ëndrrës së tij: të ecë mbi një tel midis dy kullave të Qendrës Tregatre Botërore. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-10-16 19:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Rrethi">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2017. Emma Watson, Tom Hanks. Një vajzë fillon punën që kishte ëndërruar me një kompani teknologjie të quajtur Rrethi, por shumë shpejt zbulon një plan që do të prekë gjithë njerëzit e botës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-10-16 20:50:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Një superhero pa superfuqi">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aaron Taylor-Johnson, Nicolas Cage, Chloë Grace Moretz. Edhe pse nuk ka asnjë lloj superfuqie, një adoleshent vishet si superhero dhe bashkë me një vajzë dhe babain e saj, fillojnë luftën kundër një bande kriminale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-10-16 22:50:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Miku ">Thriller-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>D.Stevens, Sh.Kelley. Ende duke vajtuar vdekjen e djalit të tyre ushtar, familja Piterson gjen pak ngushëllim kur në shtëpi u vjen Dejvid, shoku i tij në ushtri. Por një sërë ngjarjesh do t'i bëjnë të dyshojnë qëllimet e tij të vërteta.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-10-17 00:35:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Miq me fëmijë">Komedi-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jennifer Westfeldt, Adam Scott. Jason dhe Julie, dy miq të ngushtë, vendosin të bëjnë sëbashku një fëmijë... Por me një kusht... Marredhënia e tyre të mbetet si më parë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-10-17 02:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Deshira te rrezikshme">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grup miqsh ndërmarrin një udhëtim në fundjavë që duhet të ishte plot aventura, por gjithçka merr një kthesë të rrezikshme kur pronari i një klubi nate (Pierce Brosnan) u jep një drogë të re.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-10-17 04:00:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Transformuesit 3: Ana e errët ">Aksion-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shia LaBeouf, Rosie Huntington. Me regji të Michael Bay vjen kapitulli i tretë i sagës 'Transformuesit'. Një sekret nga e kaluara rrezikon të fillojë një luftë aq të madhe sa edhe Tranformuesit nuk mund ta ndalin. Titra shqip-anglisht
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-10-17 06:30:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Nënëmadhja 3 ">Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Martin Lawrence, Brandon T. Jackson. Agjenti i F.B.I-së, Malkolm Tërnër rikthehet bashkë me maskimin e tij si 'nënëmadhja'. Në përpjekje për të kapur një vrasës, i ndihmuar edhe nga djali i tij i birësuar, ai futet në një shkollë për femra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-10-17 08:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kërcim i lirë">Dramë-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Edhe pse shumë ndryshë nga njëri-tjetri, një balerinë dhe një muzikant që luan në rrugë, s'mund ta mohojnë tërheqjen dhe duke lënë mënjanë diferencat, ata fillojnë të përgatiten për një garë që mund t'ju ndryshojë jetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-10-17 10:05:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Xhon Karter">Aksion-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>T.Kitsch, L.Collins. Xhon, një ish kapiten i ushtrisë, në mënyrë misterioze e gjen veten në Mars, në mes të një lufte epike. Tani fati i të gjithë banorëve të planetit është në duart e tij dhe ai duhet të përballet me ushtri të panumërta...  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-10-17 12:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Batica e errët">Thriller-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Halle Berry, Olivier Martinez. 1 vit pas një përballjeje thuajse fatale me një peshkaqen, një instruktore zhytjesh merr një ofertë të majme dhe i rikthehet profesionit. Por tmerri i thellësive është ende aty, më i urritur se kurrë më parë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-10-17 14:10:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Magjia e dashurisë">Romancë-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Alex Pettyfer, Vanessa Hudgens. Një ritregim modern i 'E bukura dhe bisha'. Një i ri simpatik dhe arrogant, mallkohet nga një shtrigë për të qenë po aq i shëmtuar sa ka shpirtin dhe ka vetëm 1 vit kohë për të gjetur dashurinë e vërtetë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-10-17 15:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Rrëmbim në Venecia">Aksion, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2017. Bruce Willis, John Goodman, Jason Momoa. Për të shpëtuar qenin e tij të dashur nga banda e pamëshirshme që e rrëmbeu, një detektiv i lodhur privat duhet të shkelë pak ligjin për llogari të kreut të bandës... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-10-17 17:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Syri i qiellit">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Helen Mirren, Alan Rickman. Një mision për të eliminuar disa terroristë ndërlikohet kur një vajzë e vogël futet në rrezen e shpërthimit të raketës nga një dron, duke filluar një debat ndërkombëtar për rreziqet dhe pasojat e luftës moderne.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-10-17 19:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Pesëdhjetë hijet e Greit">Romancë-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fenomeni mbarëbotëror Pesëdhjetë hijet e Greit, në një ekranizim mjaft të suksesshëm nën interpretimin e shkëlqyer të Dakota Johnson dhe Jamie Dornan.
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-10-17 21:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Të humbur nën diell">Thriller-Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Josh Duhamel, Josh Wiggins. Një kriminel që po përpiqet t'i shmanget të kaluarës plot gabime, krijon një lidhje të fortë me një adoleshent jetim, të cilin do ta përdorë edhe si bashkëpunëtor në një seri vjedhjesh.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-10-17 22:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Plumbin në kokë">Aksion-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një njeri që del në breg të detit dhe nuk mban mend asgjë, shërohet nga një doktoreshë e re, por e kaluara e tij do të kthehet t'i përndjekë të dy dhe hakmarrja e vrasjet nuk do të kenë të ndalur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-10-18 00:40:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Mos tradhto rininë tënde">Dramë-Sub. Ang </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thomas Jane, Rob Lowe, Jeremy Piven, Christian McKay. Katër shokë universiteti, mblidhen për të festuar 44 vjetorin e njërit prej tyre. Por gjërat do të dalin jashtë kontrollit dhe premtimet e vjetra do të thyhen...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-10-18 02:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Unë s'jam vrasës serial">Horror psikologjik-Sub.Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në romanin kult të Dan Wells. 16-vjeçari Xhon nuk është vrasës, por i ka të gjitha prirjet për të qënë i tillë. Kontrolli i këtyre instikteve bëhet gjithmonë e më i vështirë kur një vrasës serial nis të terrorizojë qytetin e fjetur ku jeton</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-10-18 05:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="  Vivo">Aventurë, Muzikal, Animacion, Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kinkazhu i vogël muzikant, niset në një udhëtimin të paharrueshëm, për ti dorëzuar Martës, një këngëtare shumë e njohur, një këngë dashurie, në emër të pronarit të tij të ndjerë Andrés.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-10-18 06:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sekreti i Kasafortës  ">Aksion, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Freddie Highmore, Astrid Bergès-Frisbey, Sam Riley. Një inxhinier gjenial dhe ekipi i tij i hajdutëve amatorë, hartojnë një skemë për të vjedhur një thesar legjendar të humbur, të fshehur në një kështjellë nën Bankën e Spanjës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-10-18 08:30:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Shpejtësi dhe çmenduri 9">Aksion, Aventurë, Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kërcënim do ta detyrojë Domin (Vin Diesel) të përballet me mëkatet e të kaluarës së tij. Bashkë me skuadrën, ai do të niset në një udhëtim për të ndaluar një komplot botëror shkatërrues, të udhëhequr nga vrasësi më i aftë dhe shoferi me performancë më të lartë që kanë hasur ndonjëherë, i cili gjithashtu është edhe vëllai i braktisur (John Cena) i Domit...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-10-18 11:00:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Vejusha e Zezë">Aksion, Aventurë, Fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Scarlett Johansson. Natasha Romanoff apo e njohur si Vejusha e Zezë, një ish spiune e KGB -së, tronditet kur zbulon se rekrutuesi i saj, Gjeneral Dreykov, është ende gjallë. Ndërsa përpiqet të shmang kapjen nga Taskmaster, ajo detyrohet të përballet me të kaluarën e saj të errët.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-10-18 13:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pa asnjë pendesë">Aksion, Thriller, Luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael B. Jordan. Ndërsa kërkonte drejtësi për vrasjen e gruas së tij shtatzënë, një ushtar elitar i Marinës Amerikane, zbulon një komplot që rrezikon të përfshijë SHBA-në dhe Rusinë, në një luftë mes tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-10-18 15:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="  Vivo">Aventurë, Muzikal, Animacion, Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kinkazhu i vogël muzikant, niset në një udhëtimin të paharrueshëm, për ti dorëzuar Martës, një këngëtare shumë e njohur, një këngë dashurie, në emër të pronarit të tij të ndjerë Andrés.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-10-18 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sekreti i Kasafortës  ">Aksion, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Freddie Highmore, Astrid Bergès-Frisbey, Sam Riley. Një inxhinier gjenial dhe ekipi i tij i hajdutëve amatorë, hartojnë një skemë për të vjedhur një thesar legjendar të humbur, të fshehur në një kështjellë nën Bankën e Spanjës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-10-18 19:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Shpejtësi dhe çmenduri 9">Aksion, Aventurë, Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kërcënim do ta detyrojë Domin (Vin Diesel) të përballet me mëkatet e të kaluarës së tij. Bashkë me skuadrën, ai do të niset në një udhëtim për të ndaluar një komplot botëror shkatërrues, të udhëhequr nga vrasësi më i aftë dhe shoferi me performancë më të lartë që kanë hasur ndonjëherë, i cili gjithashtu është edhe vëllai i braktisur (John Cena) i Domit...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-10-18 21:20:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Vejusha e Zezë">Aksion, Aventurë, Fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Scarlett Johansson. Natasha Romanoff apo e njohur si Vejusha e Zezë, një ish spiune e KGB -së, tronditet kur zbulon se rekrutuesi i saj, Gjeneral Dreykov, është ende gjallë. Ndërsa përpiqet të shmang kapjen nga Taskmaster, ajo detyrohet të përballet me të kaluarën e saj të errët.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-10-18 23:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pa asnjë pendesë">Aksion, Thriller, Luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael B. Jordan. Ndërsa kërkonte drejtësi për vrasjen e gruas së tij shtatzënë, një ushtar elitar i Marinës Amerikane, zbulon një komplot që rrezikon të përfshijë SHBA-në dhe Rusinë, në një luftë mes tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-10-19 01:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="  Vivo">Aventurë, Muzikal, Animacion, Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kinkazhu i vogël muzikant, niset në një udhëtimin të paharrueshëm, për ti dorëzuar Martës, një këngëtare shumë e njohur, një këngë dashurie, në emër të pronarit të tij të ndjerë Andrés.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

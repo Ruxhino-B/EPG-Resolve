@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?><WIDECAST_DVB>
+<channel name="E-tv">
+	<TIMEOFFSET>1</TIMEOFFSET>
+	<event id="1" start_time="2016-03-25 03:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="2" start_time="2016-03-25 07:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="3" start_time="2016-03-25 11:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="4" start_time="2016-03-25 15:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="5" start_time="2016-03-25 19:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="6" start_time="2016-03-25 23:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="7" start_time="2016-03-26 03:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="8" start_time="2016-03-26 07:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="9" start_time="2016-03-26 11:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="10" start_time="2016-03-26 15:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="11" start_time="2016-03-26 19:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="12" start_time="2016-03-26 23:00:00" duration="10800">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="13" start_time="2016-03-27 02:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="14" start_time="2016-03-27 06:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="15" start_time="2016-03-27 10:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="16" start_time="2016-03-27 14:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="17" start_time="2016-03-27 18:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="18" start_time="2016-03-27 22:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="19" start_time="2016-03-28 02:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="20" start_time="2016-03-28 06:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="21" start_time="2016-03-28 10:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="22" start_time="2016-03-28 14:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+<event id="23" start_time="2016-03-28 18:00:00" duration="14400">
+		<short_event_descriptor lang="alb" name="Muzike">Muzike</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Muzike</text>
+		</extended_event_descriptor>
+		</event>
+</channel>
+</WIDECAST_DVB>

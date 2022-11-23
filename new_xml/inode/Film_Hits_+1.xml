@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Hits +1">
+    <event id="0" start_time="2021-12-09 13:55:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Mamma Mia 2">Muzikal / Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Meryl Streep, Amanda Seyfried, Cher. Kanë kaluar 10 vjet nga ngjarjet e fundit në ishullin e magjishëm të Kalokairit. Sofia është shtatëzënë, dhe njësoj si e ëma në të shkuarën, edhe ajo do të duhet të rrezikojë pak në të tashmen.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 15:50:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Me sytë e çmendurisë">Thriller psikologjik, Horror, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Katherine Heigl. Një adoleshente që vuan nga skizofrenia, lufton me halucinacione të frikshme. Kur ajo fillon të gjejë të dhëna se fqinja e saj ka rrëmbyer një fëmijë, i vetmi person që e beson, është miku i saj Kalebi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 17:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shpejtësi maksimale">Aksion/ Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>S. Eastwood. Endrju dhe Garet Foster janë shoferë të shkëlqyer, por edhe hajdutët më të mirë të makinave. Ata grabisin një 'Bugati' të rrallë nga një bos mafioz. Bosi tenton që talentin e tyre ta përdorë kundër një rivali, por djemtë kanë tjetër plan</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 19:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Ip Man 4: Finalja">Aksion, arte marciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Donnie Yen, Scott Adkins. Pas vdekjes së gruas së tij, Ip Man udhëton në San Francisko për të lehtësuar tensionet midis mjeshtrave vendas kung fu dhe studentit të tij të shkëlqyer, Bruce Lee.
+ 
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 21:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mëkatarja">Dramë, Horror, Mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në romanin klasik gotik nga mjeshtri i zhanrit horror James Herbert. Alice, një vajzë me dëmtim të dëgjimit, është në gjendje të dëgjojë, të flasë dhe madje të shërojë të sëmurët, pas vizionit të Virgjëreshës Mari. Por kur një gazetar heton çështjen e saj, ai zbulon një komplot shumë të madh.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 22:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Ndërsimi">Aksion, thriller psikologjik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesi i çmimit Oskar, Russel Crowe në një thriller psikologjik mbi ekuilibrin e brishtë të një shoqërie të shtyrë në limite. Pas një konfrontimi me një burrë të paqëndrueshëm në trafik, një grua bëhet shënjestra e zemërimit të tij.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-10 00:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name=" Fundi i një rrugëtimi">Dramë, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lufta I Botërore. Historia e një grupi ushtarësh britanikë, të udhëhequr nga kapiteni Stanhope, i lodhur mendërisht nga lufta. Ata do të luftojnë në vijë të parë kundër forcave gjermane dhe janë në pritje të sulmit dhe fatit të tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 01:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Vrasjet e kartolinave ">Thriller, krim, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeffrey Dean Morgan, Famke Janssen. Një detektiv njujorkez heton vdekjen brutale të vajzës dhe dhëndrit të tij në Londër. Kur mëson se çifte të tjera në Europë patën të njëjtin fat me ta, ai garon me kohën për të ndalur vrasjet.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 03:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Një kufomë për mbijetesë">Komedi, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Paul Dano, Daniel Radcliffe. Një njeri i bllokuar në një ishull të shkretuar, gjen në breg kufomën e një njeriu dhe fillon bashkë me të një rrugëtim të jashtëzakonshëm për t'u rikthyer në shtëpi.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 05:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Ora e ligjit">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ficarra dhe Picone. Në një qytezë pranë Sicilisë, Kryetari i ri i Bashkisë, ka vendosur të zhdukë zakonet e këqija, duke ndryshuar gjithçka që është në kundërshtim me ligjin. Por banorët, ky fakt nuk I gëzon aspak.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 06:35:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Horizonti i thellësive">Dramë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kurt Russell, Mark Wahlberg. Një dramatzim i katastrofës në prill të vitit 2010, ku një platformë nafte në det ta hapur shpërtheu dhe krijoi derdhjen më të madhe të karburantit në historinë e Amerikës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 08:20:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Italia e Vogël">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hayden Christensen, Emma Roberts. Dikur ata ishin shokë fëmijërie. Tani, të rritur, e gjejnë veten të dashuruar dhe në mes të grindjeve shumëvjeçare të familjeve të tyre, rivalë të betuar picerish në 'Italinë e Vogël' të Torontos.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 10:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kopshti i fshehtë">Fantazi, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Colin Firth, Julie Walters. Pas vdekjes së prindërve, Meri, një vajzë e vetmuar me imagjinatë të gjallë, largohet nga India për të jetuar me xhaxhain në Angli. Atje ajo do të zbulojë një kopshti magjik, që do të ndryshojë jetën e saj përgjithmonë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 11:45:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Unë ende besoj">Dramë, romancë, muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>KJ Apa, Britt Robertson, Shania Twain. Bazuar në historinë e vërtetë dhe emocionuese të këngëtarit amerikan Jeremy Camp dhe gruas së tij të parë, Melissa Lynn Henning-Camp, e cila u diagnostikua me kancer pak para se të martoheshin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 13:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Punë shtrigash: Trashëgimia">Horror, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vazhdimi i filmit kult të viteve '90. Kur mamaja e saj vendos të transferohet në qytet, jeta e adoleshentes së vetmuar, Lili kthehet përmbys. Miqësia me disa vajza,  do ta mbushë jetën e saj me ngjarje të errëta... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 15:10:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Arkanzà">Thriller, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liam Hemsworth, Vince Vaughn, John Malkovich. Bazuar në bestsellerin me të njëjtin emër. Në një nga shtetet në hije të jugut të SHBA-ve, dy korrierë droge të nivelit të ulët bëjnë një gabim që i vendos ata nën lupën e bosit të tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 17:05:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Lufta e Yjeve 9: Ngritja e Skajos">Aksion, aventurë, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Adam Driver, Daisy Ridley. Anëtarët e mbijetuar të Rezistencës përballen edhe një herë me "Urdhërin e Parë" dhe konflikti legjendar mes Xhedait dhe Sithit arrin kulmin e tij duke i dhënë fund sagës të Skajuokerit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 19:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Klubi i vajzave që rrihen">Aksion, komedi, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Malin Akerman, Bella Thorne, Alec Baldwin. Ana po kalon periudhën me të keqe të jetës së saj. Po kur mikja e saj e prezanton me një klub të fshehtë dyluftimesh vetëm për femra, Ana vendos të marrë pjesë me shpresën për të fituar para.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ngritja e fajkoit">Aksion, dramë, histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor John Wynn. Me Robert Patrick. Viti 1241. Dy vëllezër duhet të mbrojnë shtëpitë dhe fshatin e tyre, kundër hordhisë së egër të ushtrisë më të madhe që bota ka njohur ndonjëherë, asaj Mongole.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 23:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Treni për në Busan 2: Gadishul">Aksion, horror, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tetë vjet pasi një apokalips zombish shkatërroi gadishullin Korean, një ushtar që arriti t'i mbijetonte kaosit, dërgohet përsëri në zonën e infektuar për të marrë një kamion plot me para. Por atje ai do të hasë papritur të mbijetuar.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-11 00:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Pakti i seksit">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Leslie Mann, Ike Barinholtz, John Cena. Tre prindër zbulojnë rastësisht paktin e vajzave të tyre adoleshente për të humbur virgjërinë në mbrëmjen e maturës dhe nisin një mision të fshehtë për të ndaluar që marrëveshja të realizohet.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-11 02:25:00" duration="6600">
+      <short_event_descriptor lang="alb" name=" Kriptovaluta">Thriller, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kurt Russell. Pasi një bankier i ri i talentuar i 'Wall Street' vërteton një mashtrim financiar, dërgohet të ndjekë nga afër gjurmët e vjedhjes. Hetimi që do të kryejë, do të ndikojë si në jetën e tij personale ashtu dhe në karrierën e biznesit...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-11 04:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name=" Plazhisti"> Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matthew McConaughey, Snoop Dogg, Isla Fisher, Zac Efron. Aventurat gazmore të Moondog, një poet rebel pa parime, që pavarësisht të papriturave, do ta jetojë gjithmonë jetën sipas rregullave të tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-11 06:00:00" duration="600">
+      <short_event_descriptor lang="alb" name="Pas Cak">The Uninvited</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni xhirimet e prapaskenave te filmit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-11 06:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Zoti Tolkin">Biografi, dramë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicholas Hoult, Lily Collins. Vitet e formimit të J. R. R. Tolkien, autorit të trilogjisë 'Kryezoti i Unazave'. Një rikthim në periudhën më të bukur të jetës së tij, të cilën ai e jetoi me imagjinatë dhe që u ndërpre papritmas nga lufta.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-11 08:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shtëpia me orën magjike">Fantazi, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jack Black, Cate Blanchett. Bazuar në klasikun e dashur për fëmijë të John Bellairs. Pas vdekjes së prindërve, 10-vjeçari Lewis shkon të jetojë me xhaxhain në një shtëpi të vjetër, me një tingull misterioz tik-taku, që vjen nga brenda mureve .</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-11 09:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Feniksi i zi">Aksion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sophie Turner, James McAvoy, Jennifer Lawrence. Kur Jean Grey goditet nga një forcë misterioze kozmike që e transformon atë në Feniksin e Zi, skuadra X-Men duhet të bashkohet për të përballur armikun më shkatërrues deri tani: njëri prej tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 11:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente ninxha 2">Fantashkencë, aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Breshkat adoleshente ninxha rikthehen për të shpëtuar sërish Nju Jorkun. Ndërkohë që armiku i tyre i betuar Shrederi bashkon forcat me një shkencëtar dhe 2 mutantët e tij, ata përballen me një rrezik akoma më të madh - famëkeqin Krang. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 13:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shoqëria sekrete e trashëgimtarëve të dy">Aksion, aventurë, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Samanta, një princeshë rebele, e dyta në rradhë për fronin e mbretërisë së Ilirisë, mëson se ka aftësi mbinjerëzore dhe ftohet t'i bashkohet , 'Shoqërisë Sekrete të Trashëgimtarëve të Dytë Mbretërorë', që ka mision të ruajë paqen në botë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 15:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Trashëgimtarja">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Noomi Rapace. Frymëzuar nga truproja femër më e famshme në botë, Jacquie Davis. Një trashëgimtare e pasur, ka nevojë për mbrojtje. Një truprojë dhe eksperte kundër terrorizmit, do të bëjë gjithcka për të shpëtuar klienten e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 16:35:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Kingsman 2: Rrethi i artë">Aksion, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Taron Egerton, Colin Firth. Kur shtabi i tyre shkatërrohet, agjentët e Kingsman bashkojnë forcat me një organizatë spiunimi amerikane, për të mundur një armik të përbashkët që kërcënon ata dhe gjithë botën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 18:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Bota Xhurasik: Rënia e mbretërise">Fantashkencë, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Chris Pratt, Bryce Dallas Howard. Kur vullkani i fjetur i ishullit Nublar nis të zgjohet, Ouen dhe Kler ndërrmarin një ekspeditë për të shpëtuar dinozaurët e mbetur nga një katastrofë që mund t'i zhdukë sërish...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 21:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Familjari">Dramë  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dane Jensen (Gerard Butler) është një njeri në karrierë, shumë i suksesshëm dhe po lufton që të bëhet drejtori i kompanisë ku punon dhe kalon shumicën e kohës.  Por kur djali i tij 10-vjeçar, diagnostikohet me leuçemi, Dane do të rivlerësojë prioritetet dhe do ta shoh jetën nga një këndvështrim tjetër...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 22:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Nata në shtëpinë e shokut">Aksion, komedi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi mbledhin shokët për një natë zbavitëse në shtëpinë e tyre, motër e vëlla bëjnë një zbulim tronditës: mamaja e tyre, në dukje një shtëpiake tipike, në të vërtetë është hajdute e klasit të lartë në programin e mbrojtjes së dëshmitarëve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-12 00:20:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Labirinti 3: Kura e vdekjes">Fantashkence, Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në përmbyllje të sagës, Tomas udhëheq grupin e tij drejt misionit final. Për të shpëtuar miqtë e tyre, ata duhet të gjejnë një mënyrë që të hyjnë në labirintin legjendar 'Qyteti i fundit', më i rrezikshmi nga të gjithë larbirintët! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-12 02:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ofelia ">Dramë, romancë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Daisy Ridley, Naomi Watts, Clive Owen. Një ritregim i tragjedisë klasike të Shekspirit përmes këndvështrimit të Ofelisë. Dashuria e shoqërueses së mbretëreshës me princin Hamlet të Danimarkës shkatërrohet nga tradhtia dhe çmenduria.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-12 04:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Pas Cak">Spider Man 3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni prapa skenave te xhirimeve te filmit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-12 04:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Drita e jetës sime">Dramë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Casey Affleck, Anna Pniowsky, Elisabeth Moss. Një dekadë pasi një virus fshiu gati të gjithë popullsinë femërore të botës, një baba lufton të mbrojë vajzën e tij, ndërsa lidhja e tyre dhe karakteri i njerëzimit vihet në provë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-12 07:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="10 ditë pa mamin">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fabio De Luigi. Çfarë ndodh kur një mama e përkushtuar vendos të largohet për dhjetë ditë dhe i lë të tre fëmijët me babanë, i cili nuk ka qënë shumë i pranishëm në familje deri në këtë moment?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-12 08:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Flutura e zezë">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Antonio Banderas. Ndërkohë që një qytezë malore në Kolorodo tronditet nga rastet e vrasjeve misterioze, një shkrimtar në përpjekje të rimëkëmbjes së karrierës, i ofron një të panjohuri strehim në shtepine e tij në mal... Një vendim i duhur?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-12 10:15:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Legjenda e Kolovratit">Fantazi, histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në legjendën ruse mbi pushtimin e qytetit të Rizanit. Në shekullin e 13-të një ushtar rus betohet të hakmarret ndaj ushtrisë Mongole që shkatërroi fshatin e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-12 12:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mund të bëhemi heronj">Aksion, komedi, aventurë, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur superheronjtë e Tokës rrëmbehen nga pushtuesit alien, fëmijët e tyre mbyllen në një bazë të sigurt qeveritare. Por, adoleshenten e zgjuar, Misi nuk do ta ndalë askush të shpëtojë babanë e saj superhero...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-12 13:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Një mundësi e dytë">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jennifer Lopez, Vanessa Hudgens. Maya një grua rreth të 40-ave vuan faktin që nuk ka karrierën që endërron sepse nuk është e dipllomuar. Por një mundësi e madhe do t'i trokasë në derë, pasi mikesha e saj i krijon një CV dhe referenca të rreme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-12 15:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Ava">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jessica Chastain, Colin Farrell, John Malkovich. Ava është një vrasëse e punësuar nga një organizatë misterioze për të ekzekutuar persona të profilit të lartë. Pasi një punë shkon tmerrësisht keq, shënjestra e rradhës së organizatës bëhet ajo vetë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-12 17:15:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Ushtarët me kuaj"> Luftë, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Chris Hemsworth. Pas ngjarjeve të 11 Shtatorit, një grup i Forcave Speciale Amerikane dërgohet i pari në Afganistan, i urdhëruar të sulmojë Mazarin. Për të mbijetuar, ata duhet të mësojnë taktikat primitive të ushtarëve afganë me kuaj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-12 19:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Gëzuar Ditën e Vdekjes 2">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vrasësi i maskuar i kampit kthehet në mënyre të mistershme për të terrorizuar shenjestra të reja. Tree Gelbman duhet të ripërjetojë edhe një herë vdekjen e saj, në mënyrë që të ndihmojë viktimat e tjera.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-12 21:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Jashtë perimetrit">Aksion, Adventurë, Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti 2036. Pasi nuk iu bind urdhrave, piloti i dronëve, togeri Thomas Harp, caktohet me detyrë në një zonë luftarake vdekjeprurëse në Evropën Lindore, në mënyrë që të përjetojë luftimin në vijë të parë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-12 22:50:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Sa vlen jeta">Biografi, dramë, histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Keaton, Amy Ryan, Stanley Tucci . Bazuar në ngjarje të vërteta. Një avokat në Uashington, do të ballafaqohet me detyrën më të vështirë të jetës së tij: Të vendosë se si do të llogaritet kompensimi i familjeve të prekura nga sulmet terroriste të 11 Shtatorit 2001.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-13 00:45:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Sekreti i senatorit Kenedi">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jason Clarke, Kate Mara. Historia tragjike e aksidentit të '69-ës, ku u përfshi Senatori Ted Kennedy dhe 1 vajzë që punonte në fushatën elektorale, e cila humbi jetën. Ai u largua nga vendngjarja dhe lajmëroi policinë vetëm pas 10 orësh...</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

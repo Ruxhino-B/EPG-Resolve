@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="KlanHDott">
+    <event id="0" start_time="2020-12-18 16:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Rudina ">Emision Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues dhe informativ nga Rudina Magjistari, qe shoqeron cdo pasdite familjet shqiptare me te ftuar te shumte VIP, por dhe njerez te thjeshte me historite e tyre personale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2020-12-18 17:15:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Sulejmani i Madherishem">Telenovele.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2020-12-18 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2020-12-18 19:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="STOP">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2020-12-18 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Zonë e lirë">Talk-Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tokësorë dhe tokësore! Mirëseerdhët në emisionin Zonë e Lirë, emision ku personazhet perpiqen vërtetë të jene te lirë.Politikane, artiste, shkrimtare, gazetare, autore, apo 'viktima' te ngjarjeve te ndryshme rrefejne historite e tyre duke hedhur me s</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2020-12-18 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Zonë e lirë">Talk-Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tokësorë dhe tokësore! Mirëseerdhët në emisionin Zonë e Lirë, emision ku personazhet perpiqen vërtetë të jene te lirë.Politikane, artiste, shkrimtare, gazetare, autore, apo 'viktima' te ngjarjeve te ndryshme rrefejne historite e tyre duke hedhur me s</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2020-12-19 00:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="STOP">Emision.rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje emision satiro-investigativ me probleme te ndryshme te qytetareve, te cilet kerkojne zgjidhje per hallet e tyre dhe tema sociale nga realiteti shqiptar dhe kamerat e fshehta, ku impakti eshte i padiskutueshem ne audience dhe tek organet pergjegje</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2020-12-19 00:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Sulejmani i Madherishem">Telenovele</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2020-12-19 01:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kampioni im">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2020-12-19 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Diamante dhe dashuri">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

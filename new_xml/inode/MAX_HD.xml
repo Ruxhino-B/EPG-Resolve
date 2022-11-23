@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="MAX HD">
+    <event id="0" start_time="2021-12-09 16:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Grindje dhe këngë">Dramë, muzikë, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zoe Lister-Jones, Adam Pally. Në një përpjekje të fundit për të shpëtuar martesën, një çift i kthen grindjet në këngë dhe formon një bandë muzikore me fqinjin e tyre.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 17:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Boksieri i Bejonit Roki i vërtete">Dramë, sport</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Liev Schreiber, Elisabeth Moss, Naomi Watts. Chuck Wepner ishte krenaria e Nju Xhërsit. Ai u ndesh për 15 raunde rresht me Muhamed Alinë dhe u bë frymëzim për personazhin e Rocky Balboa-s.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 19:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Furia">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicolas Cage, Rachel Nichols, Max Ryan. Kur vajza e një ish-krimineli rrëmbehet, ai mbledh bashkëpunëtorët e vjetër dhe përpiqet ta vërë vetë në vend drejtësinë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 21:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Arti i vjedhjes">Komedi, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kurt Russell. Një ish grabitës arti, që tashmë merret me realizimin e akrobacive të rrezikshme me motor, pranon t'i rikthehet profesionit të vjetër për një grabitje të fundit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 22:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shfrenimi">Horror, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ethan Hawke. Në të ardhmen e afërt në Amerikë, qeveria cakton një natë, ku për 12 orë çdo krim është i ligjshëm. Në këtë natë të mbizotëruar nga dhuna, një familje do të vihet në sprovë, kur në shtëpinë e tyre futen disa kriminelë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-10 00:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Shpimi">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Chris Evans, Mark Kassen, Vinessa Shaw. Bazuar në nje histori të vërtetë. Një avokat narkoman, merr përsipër një çështje shumë të rrezikshme, ndërkohë që duhet të përballet edhe me problemet e tij personale .
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-10 01:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pesë ">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një antologji e pesë historive të ndryshme, rreth pesë grave, secila e diagnostikuar me tumor në gji. Pasojat mbi to, familjarët e tyre dhe fuqia që duhet të gjejnë për t'u përballur me jetën në vazhdim...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 03:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dëshira e fundit">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2018. Pas vdekjes së babait, Aroni kthehet në shtëpi për t'i qëndruar pranë nënës së dëshpëruar dhe për t'u përballur me të shkuarën. Duke kontrolluar në gjërat e të atit, ai gjen një send misterioz që është shumë më tepër se sa duket...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 04:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Nusja e grabitesit">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje detektiv do te hetoje mbi zhdukjen e mistershme te nje gazetareje. Megjithese i dyshuari kryesor do te jete i dashuri i saj, mikeshat e ngushta kane motive me te forta per ta vrare.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 06:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Njeriu i përkryer">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Mark Rosman; Aktorët: Hilary Duff, Heather Locklear. Hollit i ka ardhur në majë të hundës me marrëdhëniet dështake të mamasë së saj beqare, dhe ajo do të përpunojë një plan për t'i gjetur Burrin e Përkryer. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 08:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Me një këmbë në varr">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata po vuajnë dënimin e tyre në burgun më të frikshëm në vend, 'Alkatrazi i Ri'. Problemi më i madh s'është të arratisen, por të përballen me hajdutet që sapo kanë hyrë. Një agjent dhe një i burgosur në anën e duhur të drejtesise.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 09:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Epoka e Dragonjve">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Danny Glover, Vinnie Jones. Historia klasike Mobi Dik nga Herman Melville, në një version ndryshe ku kapiteni Ahab dhe ekuipazhi i tij vihen në kërkim të një dragoi të bardhë që i vrau motrën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 11:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="I Dashur Diktator">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Caine, Katie Holmes. Kur trazirat politike detyrojnë një diktator të largohet nga ishulli i i tij, ai i kërkon strehim mikeshës së tij të letrave, të cilën e ndihmon të nisë një revolucion kundër "vajzave të keqija" të gjimnazit </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 13:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Miq përgjithmonë">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nate Parker, Jason Ritter. Pasi njëri prej tyre tenton vetëvrasjen, një grup miqsh mblidhen për një fundjave së bashku, por romancat e vjetra dhe drejtimet e ndryshme që kanë marrë në jetë, rrezikojnë t'i ndajnë përgjithmonë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 14:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Pakoja">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2013. Steve Austin, Dolph Lundgren. Vrasës profesionistë kërkojnë te ndalin me çdo kusht korrierin e besuar të një mafiozi, i cili është ngarkuar me misionin e dërgimit të një pakoje misterioze tek një kriminel që nuk njihet nga askush.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 16:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Mike për vdekje">Komedia italiane</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Claudia Gerini, Cristiana Capotondi, Sabrina Impacciatore. Në një ishull përrallor në jug të Italisë, tri gra të cilat ndajnë një sekret që i ka bërë mike për vdekje, detyrohen të bashkëpunojnë për të shpëtuar nga një hetues i policisë..
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 18:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Etje për hakmarrje">Aksion, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2019. Frank Grillo. Me shumë mundim, Nik ndërtoi një jetë të re dhe besonte se kishte shpëtuar nga e kaluara e tij kriminale. Por kur shoku i vjetër i vret gruan, ai detyrohet t'i kthehet jetës së dëshpëruar dhe të dhunshme që ai mendoi se e la pas.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 19:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Kronika    ">Fantashkencë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dane DeHaan. Tre studentë, bëjnë nje zbulim të jashtëzakonshëm, që do t'ju japë superfuqi të paimagjinueshme. Por ndërkohë që secili përpiqet të mësohet me aftësitë e reja, jetët e tyre do të marrin një kthesë të tmerrshme...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 21:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mësuesja e keqe ">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cameron Diaz, Justin Timberlake. Nje mësuese që nuk i intereson fare puna kërkon vetëm një gjë: të martohet me një njeri të pasur. Por të njëjtin qëllim ka edhe mësuesja rivale e saj. Pikërisht këtu fillon edhe aventura...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 22:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Seanca">Horror, mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Camille është studentja më e re në Akademinë prestigjoze për vajza, "Edelvine". Me të mbërritur, 6 vajza e ftojnë t'i bashkohet një rituali mistik, për të thirrur shpiritn e një studenteje të vdekur. Por kur njëra prej tyre vdes, të tjerat ngrejnë pyetjen se shpirtin e kujt mund të kenë zgjuar?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-11 00:15:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Xho">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicolas Cage. Një ish i dënuar, aspak i përshtatshëm për të shërbyer si model për t'u ndjekur, njihet me një 15 vjeçar dhe përballet me mundësinë e shpëtimit ose katastrofës. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-11 02:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Film 43">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me disa nga aktorët me të njohur të Hollivudit, vijnë historitë e shkurtra dhe të ndërthurura, ku një producent filmash që i ka kaluar koha, përpiqet të shesë ngjarjet më të bujshme të yjeve së kinemasë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-11 03:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kllouni">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2014.Kur një njeri gjen një kostum kllouni për ditëlindjen e djalit të tij, pasi e vesh ai kupton se kostumi mbart një mallkim që pak e nga pak po e shndërron në një klloun të tmerrshëm...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-11 05:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Aventurë në galaktikë">Parodi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tim Allen, Sigourney Weaver, Tony Shalhoub. Parodi e sagës "Startrek". Disa aktorë që vite më parë ishin pjesë e një serial fantastiko-shkencor, duhet të ndihmojnë një racë jashtëtokësorësh, që mendojnë se ata janë heronj të vërtetë.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-11 07:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Mirë se erdhët në xhungël">Aksion, aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>The Rock, S.William Scott, C.Walken. Një gjuetar shpërblimesh i pamëshirshëm do të pajtohet për të kthyer në shtëpi djalin e një mafiozi, i cili ndodhet në pyjet e Amazonës në kërkim të një thesari të fshehur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-11 09:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Një shans i dytë">SportLife</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Scott Elrod, Dorian Brown. Një lojtar bejsbolli që ka probleme me alkoolin, kthehet në qytezën e tij për rehabilitim dhe fillon të stërvitë një skuadër fëmijësh...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-11 10:55:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Histori policie: Të vendosësh ligjin">Kinemaja Aziatike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jackie Chan, Ye Liu. Një njeri që kërkon lirimin e një të burgosuri, merr peng një shef policie, vajzën e tij dhe një grup të panjohurish.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 12:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Familja Hollar">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2016.Një artist që mezi po ia del në Nju Jork dhe është në pritje të fëmijës së tij të parë, detyrohet të kthehet në shtëpi për nënën e tij të sëmurë dhe të përballet me familjen e tij aspak të zakontë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 14:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kodi Momentum">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Olga Kurylenko, James Purefoy. Pasi identiteti i saj i vërtetë zbulohet gjatë vjedhjes së disa diamantëve, një eksperte e misioneve të fshehta vihet nën shënjestrën e një vrasësi profesionist...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 15:50:00" duration="6300">
+      <short_event_descriptor lang="alb" name="I ringjalluri">Aksion, aventurë, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Joseph Fiennes, Cliff Curtis. Historia epike e Biblës për ditët që pasuan 'Ringjalljen', e parë përmes syve të një ushtari romak që nuk besonte...
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 17:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Nëna ime dhe unë">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Susan Sarandon, Rose Byrne. Pas vdekjes së bashkëshortit, një grua shpërngulet pranë vajzës dhe fillon të përzihet ne jetën e saj dhe të të tjerëve.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 19:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Fushat vrastare të Teksasit">Thriller, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sam Worthington, Jeffrey Dean Morgan. Bazuar në një histori të vërtetë! Dy hetues, kërkojnë dëshpërimisht një vrasës serial, i cili viktimat e tij të masakruara i hedh në një kënetë, që vendasit e quajnë 'Këneta e vdekjes'...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 21:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Platforma">Horror, fantashkencë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë, një gosti e bollshme dhe e shijshme zbret katet e një burgu vertikal. Të dënuarit e kateve të sipërme hanë me grykësi dhe egoizëm, duke i lënë të tjerët të uritur dhe të dëshpëruar. Një i burgosur i ri do të rebelohet...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 22:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Natë vajzash">Komedi e zezë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Scarlett Johansson, Kate McKinnon, Zoë Kravitz. Pesë shoqe që nga koha e universitetit bashkohen për një festë beqarie, por gjerat marrin një kthesë të paparishkuar gjatë një nate me një striptist.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-12 00:20:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Atje lart">Horror, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2018. R. Pattinson, J. Binoche. Një baba dhe vjaza e tij e vogël janë të mbijetuarit e një misioni të rrezikshëm në hapësirë. Tek zbardhet misteri i ngjarjes, ata mbështeten tek njëri-tjetri për të përballur sfidën e fundit: afrimin me një vrimë të zezë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-12 02:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Tri vrasjet">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2011. Gati një vit pas një pune të shkuar keq, një vrasës me pagesë merr një tjetër detyrë që premton t'i sjelle shumë pasuri, për tri vrasje të kryera. Por ç'ka fillon si një punë e thjeshtë, shpejt kthehet në një botë të errët e të tmerrshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-12 03:55:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Parodi vampirësh">Parodi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Parodi e sagës 'Twilight'. Historia e Belës dhe dashurisë me vampirin Eduard, dhe sigurisht në mes tyre është dhe Xhejkobi, që shndërrohet sa hap e mbyll sytë në një... çiuaua!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-12 05:20:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Hal Mendjelehti">Komedi romantike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hali dëshiron të shoqërohet vetëm me vajza të bukura, por ato s'ia hedhin as sytë. Takimi me një 'guru' e bën qe ai t'i shohe të gjitha vajzat njësoj. Kështu dashurohet me Rozmarine, por kur hipnoza zhduket, zbulon se ajo peshon dyfishin e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-12 07:15:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Thesari Kombetar 2">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2007. Ben Gejts do te vihet ne kerkim te qytetit te arte te humbur prej shekujsh, por s'do te jete i vetem dhe per me teper do t'i duhet te rrembeje vete Presidentin e Amerikes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-12 09:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Arratisje nga Rankalaja">Aksion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tri vajza udhëtojnë në botën e video lojërave për të shpëtuar vëllain e njërës prej tyre. Ato kanë vetëm tre jetë dhe një mori rreziqesh për të përballuar, para se të jetë shumë vonë për të gjithë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-12 10:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Trëndafili i verdhë">Dramë, muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një adoleshente filipinase nga Teksasi, në ndjekje të ëndrrës për t'u bërë këngetare e muzikës kauntri, vihet para një udhëkryqi: të qëndrojë pranë familjes apo të largohet nga e vetmja shtëpi që ka njohur?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-12 12:25:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Grerëza jeshile">Komedi, aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seth Rogen, Jay Chou, Cameron Diaz.; Pasi trashëgon komaninë e madhe të babait që sapo ka ndërruar jetë, një njeri bashkon forcat me shoferin e tij dhe së bashku shndërrohen në dy superheronj të maskuar që luftojnë krimin...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-12 14:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Jashtë kontrollit">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2010.Denzel Washington, Chris Pine. Një tren i ngarkuar me lëndë kimike të rrezikshme, ka dalë jashtë kontrollit dhe i është drejtuar një qyteze. Tani, një makinist i ri dhe një mekanik me eksperiencë, do të provojnë ta ndalin në lëvizje...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-12 16:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Rastësisht i gjithëpushtetshem">Komedi, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2015. Simon Pegg, Kate Beckinsale. Disa jashtëtokësorë të prapë i japin një njeriu aftësinë për të bërë gjithçka që do, dhe mënyra si ai i përdor do të vendosë edhe fatin e Tokës.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-12 17:25:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Sekretet e një gruaje  ">Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2016. Adrien Brody, Yvonne Strahovski. Kur një grua misterioze i kërkon një gazetari të zgjidhë vdekjen e burrit të saj, hetimi e zhyt në një botë tradhtie bashkëshortore, shantazhi dhe vrasjeje.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-12 19:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Brajan Benks">Biografi, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aldis Hodge, Greg Kinnear. Historia frymëzuese e Brajan Benksit, yll futbolli amerikan, jeta e të cilit përmbyset kur dënohet për një krim që nuk e ka kryer. Kjo është lufta e tij drejtësi dhe për të realizuar ëndrrën e kthimit në fushë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-12 21:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Vrasësi Amerikan">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dylan O'Brien, Michael Keaton. Një veteran i 'Luftës së Ftohtë' dhe një agjent i ri i CIA-s të cilin ai po e mëson, përpiqen të ndalin planet e një njeriu që kërkon të fillojë një lufte botërore.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-12 22:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Turni i fundit">Komedi, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2020. Richard Jenkins. Stanley ka punuar në fast food për 38 vjet. Ndërsa i afrohet moshës së pensionit, menaxheri i kërkon që të trajnojë zëvendësuesin e tij të ri. Fundjava e fundit e punës së Stanleit do të marrë një kthesë të papritur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-13 00:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Letra zinxhir">Horror, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Disa adoleshentë, marrin një letër zinxhir anonime dhe duke menduar se është një shaka nuk e pasojnë. Por kur disa prej tyre gjenden të masakruar, ata kuptojnë se dikush është gati të eliminojë këdo që nuk zbaton 'rregullin'.  
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-13 01:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Prifti">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2018. Nick Nolte, Tim Roth, Luis Guzmán. Një gjyqtar amerikan në pension dhe polici i punësuar prej tij janë në ndjekje të një mashtruesi që hiqet si prift në Kolumbi. Kërkimi ndërlikohet kur "priftit" i bashkohet një 16-vjeçare me ide të qarta.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-13 03:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mikpritës i përsosur">Thriller, Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>David Hyde Pierce, Clayne Crawford. Në arrati për vjedhjen e një banke, një kriminel arrin të futet në një festë. Por organizuesi i festës nuk është aspak ai që duket dhe kriminelin e pret një fat i tmerrshëm.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-13 05:00:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Lufta e yjeve I">Kërcënimi i fantazmës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy kalores Xhedaj duhet të ndihmojnë mbretëreshën Padme' të shpëtojë mbreterine e saj nga disa tregtare te pangopur. Ndërkohe ata do të zbulojne një djalë të vogel i cili sipas profecise mund te behet nje xhedaj i fuqishem.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-13 07:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Streetdance">Kërcim, muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për t'u përgatitur për një përballje në kërcimin e rrugës, një grup të rinjsh detyrohen të ndajnë sallën e provave me një grup baleti. Edhe pse stilet e kërcimit janë shumë ndryshe, ata fillojnë të bashkëpunojnë për të realizuar ëndrrat...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-13 08:55:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Kokëkrisuri">Aksion, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ben Affleck, Jennifer Garner, Colin Farrell. Një njeri i verbuar nga mbetje toksike të cilat shtuan dhe ndjeshmërië e shqisave të tij, lufton krimin si një superhero akrobatik i arteve marciale.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-13 11:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shenjtorë dhe ushtarë 3 Lufta e tankeve">Aksion, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fundi i Luftës II Botërore. Pasi zbulojnë se tanke gjermane janë gati për sulm, një ekip ushtarësh amerikanë të keqarmatosur, mes frikës dhe tensionit, vendosin të ndalojë me çdo kusht planin e nazistëve për të sulmuar aleatët
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-13 12:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kandidati ">Dramë, politikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicolas Cage, Sarah Paulson. Pas katastrofës së karburantit në vitin 2010 nga kompania BP, një politikan idealist por me probleme të shumta në jetën personale, rrezikon të shkatërrojë gjithçka për shkak të një lidhjeje jashtëmartesore. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-13 14:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Zgjimi i Zodiakut">Krim, mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shane West. Zodiaku, vrasësi më famëkeq i Amerikës, zhduket pa lënë gjurmë në 1968-ën. Identiteti i vrasësit mbetet mister, deri kur një çift zbulon një video të tij. Ata do të mundohen të zbardhin të vërtetën, por do të zgjojnë instiktet e tij</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-13 15:55:00" duration="6000">
+      <short_event_descriptor lang="alb" name="S'duket, edhe pse është dashuri">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Salvo Ficarra, Valentino Picone, Ambra Angiolini. Salvo dhe Valentino, jane dy miq, pronarë të një biznesi të vogël. Kur lidhja e njërit merr fund, shoku i tij hidhet në aksion për t'i gjetur një femër, që t'i rikthejë lumturinë...
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-13 17:35:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Kockë e fortë">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jean-Claude Van Damme. Agjenti Dekon do t'i japë veshkën e tij mbesës së sëmurë por, një ditë para operacionit, zgjohet dhe kupton se ka qënë viktimë e trafikantëve të organeve. Ndërsa koha e mbesës po mbaron, ai nis kërkimin e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-13 19:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Engjëlli im">Thriller, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2019.Noomi Rapace, Luke Evans. Një grua e pikëlluar për humbjen e vajzës së saj të vogël vite më parë, humbet gradualisht kontaktin me realitetin pasi fillon të besojë se vajza e saj është akoma gjallë.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Thriller">
+    <event id="0" start_time="2021-12-09 15:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Dom Heminguej">Krim, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jude Law, Richard E. Grant. Pas 12 vitesh të kaluar në burg për shkak se nuk spiunoi shokët, hapësi i famshëm i kasafortave, Dom Heminguej, rikthehet në rrugët e Londrës për
+të marrë shpërblimin që i takon.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 17:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Babaduku">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Essie Davis, Noah Wiseman, Daniel Henshall. Pas vdekjes së dhunshme të të shoqit, nje nënë duhet të merret me frikën e të birit nga një përbindësh që sipas tij gjendet në shtëpi dhe shumë shpejt zbulon një prani ligësie rreth saj.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 18:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kurthi vdekjeprurës">Thriller, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2017. Adrien Brody, John Malkovich, Antonio Banderas. Pas një vjedhjeje të guximshme, tre kriminelë në arrati mbyllen brenda një magazine me shpresën për t'ju larguar policisë, por atje brenda do të gjejnë një rrezik edhe më të madh</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 20:10:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Vrasësi Xho">Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matthew McConaughey, Emile Hirsch. Për të shlyer një borxh që rrezikon t'i marrë jetën, një i ri punëson një vrasës me pagesë për të eliminuar nënën e tij djallëzore, në mënyrë që të marrë paratë nga siguracioni për jetën e saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 21:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kurajë për të luftuar">Thriller, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në histori të vërtetë. Kur adoleshenti emigrant Colin Warner dënohet gabimisht për një krim që nuk e ka kryer, miku i tij më i mirë, Carl King, fillon një luftë 10-vjeçare për të provuar pafajësinë e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 23:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shpella">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjate eksplorimit te nje shpelle, 6 vajza mbeten te bllokuara brenda saj. Duke kerkuar neper tunelet e shumta per te gjetur nje dalje, ato ndeshen me nje rrace grabitqaresh te rrezikshem, qe jetojne ne erresire.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-10 01:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Pasqyra e thyer">Horror, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lena Headey, Ulrich Thomsen. Pas thyerjes së një pasqyre gjatë një darke familjare, një grua zbulon se dikush po imiton jetën e saj. Por akoma më i tmerrshëm është fakti se familja e saj duket se ka gisht në gjithë këtë histori.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 02:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="T'i vrasësh butë-butë">Krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Brad Pitt, Ray Liotta. Tre kriminelë amatorë, kryejnë një grabitje në një sallë pokeri të mbrojtur nga mafia... Për tu hakmarrë, pronari i lokalit, punëson një profesionist që nuk dështon kurrë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 04:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rrëfimi i një vrasësi">Krimi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kiefer Sutherland, John Hur. Një vrasës me pagesë në kërkim të paqes shpirtërore, shkon në një kishë dhe fillon të rrëfehet tek një prift, duke i treguar gjithë jetën dhe krimet e tij. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 05:10:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Zërat">Horror, mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2006. A.Bruckner, P.Clarkson. Shkolla e vajzave Falburn Academy është nga më të lakmuarat. Familje me emër sjellin bijat e tyre. Hedher Fasulo, s'është shkollarja e fundit, por e vetmja që dëgjon zera që do ta çojnë tek e vërteta që s'shihet.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 06:40:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Hani i të vdekurve">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sara Paxton, Pat Healy. Në ditët e fundit të një hoteli në prag të mbylljes, dy punëtorë përpiqen të zbulojnë të kaluarën e errët të ndërtesës dhe fillojnë të përjetojnë ngjarje të mbinatyrshme që mund t'ju marrin jetën...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 08:25:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Togeri Xhejn">Demi Moore</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një togere e ushtrisë amerikane do të përdoret si eksperiment duke u futur në radhet e skuadrës së forcave speciale të marines. Ajo do të kuptoje se e ardhmja e grave në ushtri do te varet nga suksesi apo deshtimi i saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 10:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Shpirtrat e errësirës">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael Douglas, Val Kilmer. Bazuar në një histori të vërtetë! Në Afrikën e vitit 1898, një inxhiner dhe një gjuetar përpiqen të eliminojnë dy luanë që masakruan 130 punëtorë të një hekurudhe...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 12:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Fenomeni">Thriller, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mark Wahlberg, Zooey Deschanel, John Leguizamo. Pas disa ngjarjeve misterioze që rrezikojnë zhdukjen e njerëzimit, një njeri i zakonshëm ndërmerr një udhëtim të jashtëzakonshëm, në përpjekje për të shpëtuar familjen e tij.  
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 13:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Përpara errësirës">Thriller, mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2010. Amber Heard, Odette Annable, Karl Urban. Pushimet ekzotike të dy vajzave, kthehen në makthin më të madh të jetës, kur njëra prej tyre zhduket pa asnjë gjurmë dhe tjetra duhet ta gjejë para se të ndodhë e paimagjinueshmja. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 15:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Jetë kundër rrjedhës">Mister, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Amy Seimetz, Frank Mosley. Një grua, e cila pa vetëdije përjeton një sërë eksperimentesh të çuditshëm, takon një njeri që mund të ketë kaluar të njëjtën gjë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 17:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Orët vendimtare">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2013. Paul Walker, Genesis Rodriguez. Pasi uragani Katrina shkatërron shumicën e Luizianës, një njeri mbetet i vetëm në spital me vajzën e sapolindur dhe me çdo orë vendimtare që kalon, bën të pamundurën që ajo të mbijetojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 18:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Studioja e zërit">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në vitet 1970, një inxhinier zëri britanik shkon në Itali për të punuar mbi efektet audio të një filmi horror. Puna e tij bëhet një dëshmi e frikshme e rastit kur jeta imiton artin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 20:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Fantazmat e Elisë">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një djalë i vogël që vuan nga një sëmundje e panjohur, dërgohet nga prindërit e dëshpëruar në një klinikë të izoluar ku kryhen trajtime eksperimentale. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 21:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Langojtë e dashurisë">Horror psikologjik, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas një gjykimi të nxituar, Viki Moronei bëhet viktima rastësore e një çifti të trazuar mendërisht. Ajo e ka të qartë që vrasja e saj është e pashmangshme, por nëse gjen një mënyrë si të përçajë lidhjen e tyre të fortë, ndoshta mbijeton</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 23:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Shtriga e dashurise">Horror, komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një shtrigë e kohëve moderne kërkon dëshpërimisht një burrë që ta dashurojë. Më anë të magjisë, ajo josh një varg të gjatë meshkujsh të pafat, por kur takon burrin ideal, dëshira për t'u dashur prej tij, e çon në prag të çmendurisë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-11 01:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Imuniteti i gjakut">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të vdekurit po kthehen sërish në jetë pasi një virus zombish ka pushtuar vendin. Banorët indigjen të një rezervati të izoluar, çuditërisht janë imunë ndaj tij, por u mbetet të përballen me pasojat e pandemisë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-11 03:10:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Parfumi: Historia e një vrasësi">Krim, mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ben Whishaw, Dustin Hoffman. Një i ri i lindur me dhuntinë për të nuhatur gjithçka, krijon parfumet më të mira në botë. Por puna e tij merr një kthesë vdekjeprurëse, kur në kërkim të parfumit perfekt ai fillon të ekzekutojë vajza të reja.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-11 05:35:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Vrasjet e qytezës">Krim, thriller </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Peter Stormare, Jill Hennessy. Polici i një qyteze të qetë, fsheh një të kaluar të errët, derisa një vrasje prish gjithë ekuilibrat në jetën e tij...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-11 06:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Errësira">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A.Paquin, L.Olin, G.Giannini. Një shtëpi. Një e kaluar. Një sekret. Ju a do guxonit të hynit? Një familje sapo ka ardhur të banojë aty. Por, shtëpia e tyre mbart një të kaluar të frikshme që kërcënon të shkatërrojë familjen. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-11 08:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Njerku">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Penn Badgley, Dylan Walsh. Pas disa vrasjeve misterioze në qytezë, një i ri fillon të dyshojë se i dashuri i ri i nënës së tij, fsheh një anë shumë djallëzore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-11 10:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Qendra Tregtare Boterore">Bazuar ne histori te vertete</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Oliver Stone. Aktorët: Nicolas Cage, Maggie Gyllenhaal, Michael Pena. Dy police te mberthyer nga rrenojat e 11 shtatorit perpiqen te mbajne gjalle shpresen ne pritje te skuadrave te shpetimit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 12:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Ora 11:14-Fat i pashmangshëm">Thriller, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>R.L.Cook, B.Hershey. Në Midëlltaun, dy incidente me makine në orën 11:14 të mbremjes, ndikojnë në jetën e 5 personave, fatet e të cilëve lidhen me njëri-tjetrin duke krijuar një rrjedhë historish mashtrimi e vrasjeje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 13:30:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Batica e errët">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Halle Berry, Olivier Martinez. 1 vit pas një përballjeje thuajse fatale me një peshkaqen, një instruktore zhytjesh merr një ofertë të majme dhe i rikthehet profesionit. Por tmerri i thellësive është ende aty, më i urritur se kurrë më parë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 15:25:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pengmarrja">Krim, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2011. N.Cage, N.Kidman. Një çift i pasur dhe vajza e tyre, merren peng brenda shtëpisë nga një bandë grabitësish. Ata do te bëjë gjithçka për të shpëtuar njeri-tjetrin, madje edhe kur lindin dyshime, se njëri prej tyre është pjesë e grabitjes.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 16:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Samaritani i mirë">Krim, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2014.Me Dominic Cooper, Samuel L. Jackson. Pasi përfshihet në një aksident fatal, një prokuror duhet të ndjekë penalisht një njeri të pafajshëm të akuzuar për aksidentin që ai vetë shkaktoi...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 18:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Përbindëshi">Horror, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2006. Një film nga Bong Joon Ho. Një përbindësh gjigant del nga thellësia e lumit të Seulit dhe fillon të sulmojë njerëzit. Familja e njërës prej viktimave bën të pamundurën për të shpëtuar më të voglën e tyre prej kthetrave të tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 20:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Në mes të pyllit">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ellen Page, Evan Rachel Wood. Pas një kastrofe që ndërpret energjinë elektrike kudo, dy motra detyrohen të mbijetojnë të vetme në shtëpinë e tyre në mes të pyllit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 21:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Sin City 2: Dama Vdekjeprurëse">Krim, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mickey Rourke, Jessica Alba. Bazuar në veprat e Frank Miller, dy histori klasike te tij, ndërthuren duke sjellë bashkë disa nga karakteret më të rrahur nga jeta,  me disa nga njerëzit më të pashpirt në qytetin e mëkateve ...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-11 23:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Rruga e frikës: pjesa 2 - 1978">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në qytezën e mallkuar të Shadyside, shkolla ka mbaruar dhe aktivitetet e festive janë gati të fillojnë. Por kur një tjetër banor pushtohet nga dëshira për të vrarë, argëtimi kthehet në një luftë të tmerrshme për mbijetesë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-12 01:10:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ekzorcisti">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1073. Fitues i dy çmimeve Oskar. Bazuar në romanin me të njëjtin titull, i frymëzuar nga ngjarje të vërteta. Historia tmerruese e një 12-vjeçareje e pushtuar nga një demon dhe përpjekja e nënës së saj për ta shpëtuar me ndihmën e dy priftërinjëve.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-12 03:10:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Lajmëtarët">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dylan McDermott, Penelope Ann Miller, Kristen Stewart. Një adoleshente dhe vëllai i saj i vogël, dëshpërimisht kërkojnë të paralajmërojnë prindërit e tyre për qëniet e mbinatyrshme, që mund të shihen vetëm nga fëmijët.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-12 04:40:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Ashensori">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christopher Backus, Anita Briem. 9 njerëz, bllokohen brenda një ashensori dhe njëri prej tyre fsheh një bombë. Tani 8 të tjerët do të bëjnë të pamundurën për të mbijetuar, ndërkohë që morali dhe mirësia nuk ezksitojnë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-12 05:55:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Zjarri vrasës">Mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>1991. Kurt Rusell. Dy vëllezër, nga një familje zjarrfikësish, gjithmonë në konflikt me njëri-tjetrin, do të lënë mënjanë mosmarreveshjet për të zgjidhur misterin e një serie zjarrvëniesh të qëllimshme që po terrorizojnë qytetin e Cikagos.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-12 08:10:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Të sulmuar në shtëpi">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text> Natasha Henstridge, Jason Patric. Kur nje grua dhe thjeshtri i saj sulmohen brenda shtëpisë nga 3 grabitës profesionistë, ndihma e vetme i vjen përmes telefonit nga një specialist i sistemit të sigurisë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-12 09:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Z. Holms">Mister, dramë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2015. Ian McKellen, Laura Linney. I dalë në pension prej vitesh, Sherlok Holms përballet me humbjen e kujtesës dhe me ndihmën e djalit të shtëpiakes së tij, përpiqet të zgjidhë një mister që e ka munduar për 30 vite. 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-12 11:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Robër të dimrit">Dramë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Joel Kinnaman, Tom Holland. Kur dy vëllezer bllokohen nga një stuhi dimërore sëbashku me të atin të cilin e njohin shumë pak, ata nisin të dyshojnë se personi që duhet t'i mbrojë, mund të jetë kërcënimi i tyre më i madh.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-12 12:50:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Viktor Frankenshtajni">Fantazi/Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2015. James McAvoy, Daniel Radcliffe. Kur eksperimentet e shkencëtarit Viktor Frankenshtajn kalojnë çdo parashikim, vetëm ndihmësi i tij brilant Igor Strasuman, mund ta shpëtojë nga krijesa e tmerrshme që ka shpikur....</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-12 14:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Vendi i Hijeve">Fantazi, mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me regji të Stephen Sommers. Ne një qytet të vogël kalifornian, një kuzhinier me aftësi paranormale, takon një burrë misterioz që mbart një lidhje të rrezikshme me forca të errëta dhe kërcënuese. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-12 16:10:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Atentatoret">Thriller </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seul 1933. Në Korenë e pushtuar nga japonezët, tre separatistë rebelë ngarkohen me misionin e vrasjes së një komandati të rëndësishëm armik. Por plani i tyre kërcënohet nga një tradhtar brenda grupit dhe një rrjet të ndërlikuar lojërash të dyfishta.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-12 18:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Nuk do flesh natën">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Performanca në skenë e ndihmon Biankën të arratiset nga jeta e vështirë familjare. Ndaj kur i ofrojnë të marrë pjesë në një shfaqe ku aktorët detyrohen të qëndrojnë pa fjetur deri në ekstrem, ajo pranon pa i menduar mirë pasojat...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-12 20:10:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Kodi i Da Vinçit">Mister, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tom Hanks, Audrey Tautou. Eksperti i simbologjise fetare dr. Robert Langdon-i thirret në Luver nga kapiteni Fache. Emri i tij u gjet në axhenden e drejtorit të Muzeut të famshëm, i vrarë barbarisht pranë Xhokondes së Da Vinçit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-12 22:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Vampirë dhe Likanë 2">Fantazi, horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kate Beckinsale, Scott Speedman, Tony Curran etj. Vazhdon saga e luftës midis Vampirëve dhe Likanëve. Selena, vampirja e bukur dhe Majkëlli, hibridi vampir-ujk po rreken të zbulojnë të fshehtat e prejardhjes së tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-13 00:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Mos shiko pas xhamit">Horror psikologjik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Maria, një vajzë e ndrojtur dhe e izoluar, i rrëfehet vazhdimisht imazhit të saj në pasqyrë. Jeta e saj kthehet përmbys kur papritmas, këmben vendet me pasqyrimin e saj të lig...
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-13 01:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Nata e hënës së përgjakur">Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy grupe rivale njerëzish-ujq, një që jeton duke gjuajtur dhe vrarë dhe tjetri që jeton në paqe me shoqerinë, përballen për fatin e një 13-vjeçari, i cili ka në dorë përmbushjen e një profecie të lashtë dhe fatin e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-13 03:20:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Kandidati Mançurian">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>D.Uashington. Gjatë Luftës se I-re të Gjirit Persik, një skuader zihet në prite! Rreshteri Raymond i shpëton. Majori Ben Marko kish humbur ndjenjat. I pari bëhet hero dhe synon Presidencen, kurse i dyti dyshon për atë që ndodhi ne Irak.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-13 05:25:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Më vrit tri herë">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Simon Pegg, Teresa Palmer, Alice Braga. Pasi dështon të eliminiojë një vajzë, një vrasës profesionist zbulon se ai nuk ishte i vetmi që e kishte shënjestruar dhe e gjen veten në tri histori vrasjeje, shantazhi dhe hakmarrjeje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-13 06:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Alibi e përkryer ">Mister, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Plani i një gazetari të ri (Jesse Metcalfe), për të ekspozuar mashtrimet e prokurorit të përgjithshëm (Michael Douglas), merr një kthesë të rrezikshme që rrezikon t'i shkatërrojë gjithë jetën...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-13 08:30:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Shtëpia prej xhami ">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>D. Lane. L. Sobieski. Kur prindërit e Rubit vdesin në një aksident, ajo dhe i vëllai shkojnë të jetojnë me ish fqinjët e tyre. Në fillim gjithçka shkon mirë, por më pas sjellja e prindërve kujdestarë fillon të ndryshojë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-13 10:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Oliver Sherman">Thriller, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Garret Dillahunt, Molly Parker, Donal Logue. Një veteran i luftës i përndjekur nga e kaluara, vihet në kërkim të njeriut që gjatë një beteje i shpëtoi jetën...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-13 11:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Telefonuesja">Mister</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2011. Rachelle Lefevre, Stephen Moyer, Luis Guzmán. Një vajzë që sapo është shpërngulur në një shtëpi të re për t'ju larguar jetës së mëparshme, përjeton një makth të tmerrshëm kur përpiqet t'i japë fund telefonatave të një gruaje misterioze.  
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-13 13:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Mirë se erdhe në të djeshmen">Fantashkencë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jonny Weston, Sofia Black-D'Elia. Një grup adoleshentësh zbulojnë planet për një makinë kohe dhe arrijnë ta ndërtojnë. Por shumë shpejt, gjërat fillojnë të dalin jashtë kontrollit.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-13 15:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Hajdutët e shpresës">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tre fëmijë nga lagjet e varfra të Brazilit, marrin arratinë pasi në mbeturinat e qytetit gjejnë një portofol që provon korrupsionin e një politikani të pushtetshëm.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-13 16:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Lidhja e njerëzve të ">jashtëzakonshëm</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sean Connery. Në një botë të vjetër të epokës Viktoriane një gjahtar, një luftëtar, një vampir, një njeri i padukshëm, një i pavdekshëm, një spiun e një bishë bashkohen për të shpëtuar botën kur një i çmendur i kërcënon t'u hedhë vargonjtë e Apokalip</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-13 18:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shoferi ">Krim, dramë, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ryan Gosling. Një shofer qe punon si dublant filmash, punon edhe si korrier për këdo që paguan... Por pasi ndihmon fqinjen e tij simpatike, ai do ta gjejë veten në arrati nga disa prej kriminelëve më të rrezikshëm të qytetit...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

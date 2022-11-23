@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Report TV">
+    <event id="0" start_time="2021-12-09 09:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rreze dielli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për rreth dy orë, ju shoqërojmë me receta të shijshme, si dhe me miqtë e ditës që kanë histori për të treguar a këshilla për të ndarë. 
+Kthim pas në kohë dhe zhytje mes kujtimesh në rubrikën nostalgji.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 10:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Sot live ne Shqiperi">Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Formati që sjell te ju në kohë reale, informacionet e minutës së fundit. Analiza, intervista dhe lidhje direkte nga çdo skaj i Shqipërisë. N</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajme">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 14:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 14:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pa gjurme">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pa Gjurmë" është një emision investigativ i drejtuar nga gazetarja Odeta Dume.
+Ai është i fokusuar kryesisht në kërkimin e shqiptarëve të humbur por shpeshhere trajton edhe histori ku protagonistët janë fëmijë të braktisur të cilët duan të mësojnë r</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 16:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="STUDIO LIVE REPORT">Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pasdite intensive informative, ku për tre orë do të ndiqni direkt lajmin e fundit, aktualitetin e thelluar të ditës për ngjarje, fakte dhe histori.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 19:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Speciale">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thellimet speciale mbi një temë nga redaksia
+Çdo ditë redaksia e ReportTV thellon një temë të javës përmes intervistave apo reportazheve të shkurtra, pasi detyra jonë nuk është vetëm të japim lajme, por edhe të shpjegojmë detajet dhe prapaskenat.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 19:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 19:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="EMISIONI - REPOLITIX">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I drejtuar gazetari Denis Minga me fokus të veçantë ngjarjen dhe zhvillimin e ditës. Aktualiteti politik, analiza ekonomike , drejtësia dhe investigimi , ngjarjet ekskluzive dhe krizat ndërkombëtare trajtohen gjerësisht në Repolitix </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-09 22:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-09 22:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="EMISIONI - REPOLITIX">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I drejtuar gazetari Denis Minga me fokus të veçantë ngjarjen dhe zhvillimin e ditës. Aktualiteti politik, analiza ekonomike , drejtësia dhe investigimi , ngjarjet ekskluzive dhe krizat ndërkombëtare trajtohen gjerësisht në Repolitix </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 00:30:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 03:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 05:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="SHTYPI I DITES DHE JU">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Andi Kapxhiu Titujt kryesorë të gazetave, analizat dhe komentet më interesante. Opinioni juaj në ekranin tonë. Telefonatat në studio për temën e ditës, problemet dhe shqetësimet tuaja. Qarkullimi i automjeteve me pamje të drejtëpërdrejta nga rrug</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 07:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rreze dielli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për rreth dy orë, ju shoqërojmë me receta të shijshme, si dhe me miqtë e ditës që kanë histori për të treguar a këshilla për të ndarë. 
+Kthim pas në kohë dhe zhytje mes kujtimesh në rubrikën nostalgji.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajme">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 09:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rreze dielli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për rreth dy orë, ju shoqërojmë me receta të shijshme, si dhe me miqtë e ditës që kanë histori për të treguar a këshilla për të ndarë. 
+Kthim pas në kohë dhe zhytje mes kujtimesh në rubrikën nostalgji.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 10:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Sot live ne Shqiperi">Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Formati që sjell te ju në kohë reale, informacionet e minutës së fundit. Analiza, intervista dhe lidhje direkte nga çdo skaj i Shqipërisë. N</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajme">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 14:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 14:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pa gjurme">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pa Gjurmë" është një emision investigativ i drejtuar nga gazetarja Odeta Dume.
+Ai është i fokusuar kryesisht në kërkimin e shqiptarëve të humbur por shpeshhere trajton edhe histori ku protagonistët janë fëmijë të braktisur të cilët duan të mësojnë r</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="STUDIO LIVE REPORT">Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pasdite intensive informative, ku për tre orë do të ndiqni direkt lajmin e fundit, aktualitetin e thelluar të ditës për ngjarje, fakte dhe histori.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kontrast">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kontrast"është  një mision për të dëshmuar skajet e të vërtetës. Në "Kontrast"me respekt, qetësi dhe shërbesë për të vërtetat relative dhe bashkëjetesën e më shumë se një të vërtete absolute. "Kontrast" si një hapësirë e vecantë në Report TV me gazetarët Denis Minga dhe Lorenc Vangjeli cdo të hënë dhe të premte o</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="STUDIO LIVE REPORT">Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pasdite intensive informative, ku për tre orë do të ndiqni direkt lajmin e fundit, aktualitetin e thelluar të ditës për ngjarje, fakte dhe histori.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 19:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Speciale">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thellimet speciale mbi një temë nga redaksia
+Çdo ditë redaksia e ReportTV thellon një temë të javës përmes intervistave apo reportazheve të shkurtra, pasi detyra jonë nuk është vetëm të japim lajme, por edhe të shpjegojmë detajet dhe prapaskenat
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 19:30:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 19:55:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Pa Protokoll">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Intervista dhe debate me argumente pro dhe kundër, mbi zhvillimet e politikës dhe aktualitetit.  Beteja politike, një betejë e drejtpërdrejtë në tryezën e debatit.  Askush nuk imponon, të gjithë flasin Pa Protokoll.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 22:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 22:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pa Protokoll">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Intervista dhe debate me argumente pro dhe kundër, mbi zhvillimet e politikës dhe aktualitetit.  Beteja politike, një betejë e drejtpërdrejtë në tryezën e debatit.  Askush nuk imponon, të gjithë flasin Pa Protokoll.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 00:30:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 03:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-11 05:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="SHTYPI I DITES DHE JU">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Andi Kapxhiu Titujt kryesorë të gazetave, analizat dhe komentet më interesante. Opinioni juaj në ekranin tonë. Telefonatat në studio për temën e ditës, problemet dhe shqetësimet tuaja. Qarkullimi i automjeteve me pamje të drejtëpërdrejta nga rrug</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-11 07:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-11 07:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rreze dielli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për rreth dy orë, ju shoqërojmë me receta të shijshme, si dhe me miqtë e ditës që kanë histori për të treguar a këshilla për të ndarë. 
+Kthim pas në kohë dhe zhytje mes kujtimesh në rubrikën nostalgji.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 08:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Si te gatuajme">Rubrike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në kuzhinë çdo ditë nga e hëna në të premte në  orën 09.00, për të ndarë me ju ide gatimi e receta nga më të shijshmet dhe më ekonomiket.  Të shtrojmë për familjen një drekë me aromë dhe shumë dashuri? Për këtë vijmë në ndihmë me shumë kënaqësi!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 09:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndësishme</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 09:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Rreze dielli">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për rreth dy orë, ju shoqërojmë me receta të shijshme, si dhe me miqtë e ditës që kanë histori për të treguar a këshilla për të ndarë. 
+Kthim pas në kohë dhe zhytje mes kujtimesh në rubrikën nostalgji.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Live Non Stop">Live Non Stop</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Formati që sjell te ju në kohë reale, informacionet e minutës së fundit. Analiza, intervista dhe lidhje direkte nga çdo skaj i Shqipërisë. Në Report Tv, nga e hëna ne të premte nga ora </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 12:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Speciale">Speciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thellimet speciale mbi një temë nga redaksia
+Çdo ditë redaksia e ReportTV thellon një temë të javës përmes intervistave apo reportazheve të shkurtra, pasi detyra jonë nuk është vetëm të japim lajme, por edhe të shpjegojmë detajet dhe prapaskenat
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 12:50:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Kontrast">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kontrast"është  një mision për të dëshmuar skajet e të vërtetës. Në "Kontrast"me respekt, qetësi dhe shërbesë për të vërtetat relative dhe bashkëjetesën e më shumë se një të vërtete absolute. "Kontrast" si një hapësirë e vecantë në Report TV me gazetarët Denis Minga dhe Lorenc Vangjeli cdo të hënë dhe të premte o</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lajme">Lajme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo ditë redaksia e informacionit e Report TV përgatit për ju me qindra kronika dhe raportime live nga Tirana, nga të gjitha qytetet e Shqipërisë dhe nga bota për të mbajtur të përditësuar me objektivitet dhe profesionalizëm mbi ngjarjet më të rëndës</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Top News" id="562"> </channel>
+  <channel name="TopNews" id="562"> </channel>
+  <channel name="Bang Bang" id="563"> </channel>
+  <channel name="EXP Shkence" id="564"> </channel>
+  <channel name="EXP shkence" id="564"> </channel>
+  <channel name="Film Aksion" id="565"> </channel>
+  <channel name="Film Komedi" id="566"> </channel>
+  <channel name="STINET" id="567"> </channel>
+  <channel name="stinet" id="567"> </channel>
+  <channel name="Stinet" id="567"> </channel>
+  <channel name="Ora News" id="1467"> </channel>
+  <channel name="TVSH" id="570"> </channel>
+  <channel name="News 24" id="571"> </channel>
+  <channel name="RTV 21" id="572"> </channel>
+  <channel name="KTV" id="573"> </channel>
+  <channel name="X1" id="574"> </channel>
+  <channel name="Top Channel HD" id="575"> </channel>
+  <channel name="TV Klan HD" id="576"> </channel>
+  <channel name="SuperSport 5 HD" id="577"> </channel>
+  <channel name="SS-5 HD" id="577"> </channel>
+  <channel name="SuperSport 6 HD" id="578"> </channel>
+  <channel name="SuperSport-6" id="578"> </channel>
+  <channel name="Junior TV" id="579"> </channel>
+  <channel name="Cufo Tv" id="580"> </channel>
+  <channel name="Cufo" id="580"> </channel>
+  <channel name="My Music" id="581"> </channel>
+  <channel name="EXP Natyra" id="582"> </channel>
+  <channel name="EXP natyra" id="582"> </channel>
+  <channel name="EXP Histori" id="583"> </channel>
+  <channel name="EXP histori" id="583"> </channel>
+  <channel name="T HD" id="584"> </channel>
+  <channel name="T" id="584"> </channel>
+  <channel name="Film Autor" id="586"> </channel>
+  <channel name="Film Hits" id="587"> </channel>
+  <channel name="Film Thriller" id="588"> </channel>
+  <channel name="Film Drame" id="589"> </channel>
+  <channel name="Klan Kosova" id="590"> </channel>
+  <channel name="ABC News" id="591"> </channel>
+  <channel name="Shop TV" id="592"> </channel>
+  <channel name="Music Al" id="593"> </channel>
+  <channel name="musicAl" id="593"> </channel>
+  <channel name="Film Hits 1" id="594"> </channel>
+  <channel name="Film Hits +1" id="594"> </channel>
+  <channel name="X2" id="595"> </channel>
+  <channel name="Film Nje HD" id="701"> </channel>
+  <channel name="Film Dy HD" id="702"> </channel>
+  <channel name="Plus HD" id="703"> </channel>
+  <channel name="SuperSport HD 1" id="704"> </channel>
+  <channel name="SuperSport HD 2" id="2002"> </channel>
+  <channel name="SuperSport HD 3" id="706"> </channel>
+  <channel name="SuperSport HD 4" id="707"> </channel>
+  <channel name="Travel Channel HD" id="708"> </channel>
+  <channel name="Channel One" id="709"> </channel>
+  <channel name="CITY TV" id="710"> </channel>
+  <channel name="City TV" id="710"> </channel>
+  <channel name="SCAN TV" id="711"> </channel>
+  <channel name="Scan TV" id="711"> </channel>
+  <channel name="STV Folk" id="712"> </channel>
+  <channel name="Nat Geo HD" id="716"> </channel>
+  <channel name="Discovery HD" id="717"> </channel>
+  <channel name="Eurosport HD" id="719"> </channel>
+  <channel name="EuroSport HD" id="719"> </channel>
+  <channel name="Eurosport 2 HD" id="720"> </channel>
+  <channel name="EuroSport 2 HD" id="720"> </channel>
+  <channel name="SuperSport-5" id="720"> </channel>
+  <channel name="Dorcel HD" id="721"> </channel>
+  <channel name="Nickleodeon" id="722"> </channel>
+  <channel name="Kitchen 24" id="723"> </channel>
+  <channel name="24 Kitchen" id="723"> </channel>
+  <channel name="Nat Geo Wild" id="724"> </channel>
+  <channel name="Fox Life" id="726"> </channel>
+  <channel name="Fox" id="727"> </channel>
+  <channel name="Fox Channel" id="727"> </channel>
+  <channel name="MTV Live HD" id="728"> </channel>
+  <channel name="Supersonic TV" id="729"> </channel>
+  <channel name="SuperSonic" id="729"> </channel>
+  <channel name="A1 Report" id="730"> </channel>
+  <channel name="Report TV" id="730"> </channel>
+  <channel name="X3" id="731"> </channel>
+  <channel name="Stars XXX" id="732"> </channel>
+  <channel name="Alsat M" id="733"> </channel>
+  <channel name="Alsat-M" id="733"> </channel>
+  <channel name="Folklorit" id="734"> </channel>
+  <channel name="First TV" id="735"> </channel>
+  <channel name="Era TV" id="736"> </channel>
+  <channel name="Comedy Central" id="738"> </channel>
+  <channel name="Investigation Discovery" id="739"> </channel>
+  <channel name="TLC Discovery" id="740"> </channel>
+  <channel name="TLC" id="740"> </channel>
+  <channel name="Raiuno" id="741"> </channel>
+  <channel name="RaiUno" id="741"> </channel>
+  <channel name="Raidue" id="742"> </channel>
+  <channel name="RaiDue" id="742"> </channel>
+  <channel name="Canale5" id="743"> </channel>
+  <channel name="Canale 5" id="743"> </channel>
+  <channel name="Italia 1" id="744"> </channel>
+  <channel name="Alpha TV" id="745"> </channel>
+  <channel name="Alpha" id="745"> </channel>
+  <channel name="Fashion TV" id="746"> </channel>
+  <channel name="Euronews" id="747"> </channel>
+  <channel name="EuroNews" id="747"> </channel>
+  <channel name="CNN" id="748"> </channel>
+  <channel name="CNN Int" id="748"> </channel>
+  <channel name="BBC" id="749"> </channel>
+  <channel name="BBC World" id="749"> </channel>
+  <channel name="Discovery Channel" id="750"> </channel>
+  <channel name="Food Network" id="751"> </channel>
+  <channel name="MAD TV" id="752"> </channel>
+  <channel name="RTK Sat" id="753"> </channel>
+  <channel name="Baby TV" id="754"> </channel>
+  <channel name="Big Brother1" id="1142"> </channel>
+  <channel name="Big Brother2" id="1143"> </channel>
+  <channel name="Animal Planet HD" id="1262"> </channel>
+  <channel name="Discovery science HD" id="1263"> </channel>
+  <channel name="Discovery Science HD" id="1263"> </channel>
+  <channel name="Turbo Xtra HD" id="1264"> </channel>
+  <channel name="Discovery Turbo Xtra" id="1264"> </channel>
+  <channel name="ID xtra HD" id="1265"> </channel>
+  <channel name="UTV news" id="1266"> </channel>
+  <channel name="UTV News" id="1266"> </channel>
+  <channel name="BCTV Europe" id="1267"> </channel>
+  <channel name="Bang Bangott" id="1725"> </channel>
+  <channel name="Cufoott" id="1727"> </channel>
+  <channel name="EXP Shkenceott" id="1731"> </channel>
+  <channel name="EXP shkenceott" id="1731"> </channel>
+  <channel name="EXP Natyraott" id="1730"> </channel>
+  <channel name="EXP natyraott" id="1730"> </channel>
+  <channel name="EXP Historiott" id="1729"> </channel>
+  <channel name="EXP historiott" id="1729"> </channel>
+  <channel name="Film Aksionott" id="1732"> </channel>
+  <channel name="Film Autorott" id="1733"> </channel>
+  <channel name="Film Drameott" id="1734"> </channel>
+  <channel name="Film Dy HDott" id="1735"> </channel>
+  <channel name="Film Hitsott" id="1736"> </channel>
+  <channel name="Film Komediott" id="1737"> </channel>
+  <channel name="Film Nje HDott" id="1738"> </channel>
+  <channel name="Film Thrillerott" id="1739"> </channel>
+  <channel name="Junior TVott" id="1726"> </channel>
+  <channel name="MAD TVott" id="1740"> </channel>
+  <channel name="My Musicott" id="1741"> </channel>
+  <channel name="News 24ott" id="1742"> </channel>
+  <channel name="Ora Newsott" id="1743"> </channel>
+  <channel name="Stinetott" id="1744"> </channel>
+  <channel name="SuperSport HD 1ott" id="1745"> </channel>
+  <channel name="SuperSport HD 2ott" id="1746"> </channel>
+  <channel name="T HDott" id="1747"> </channel>
+  <channel name="Tott" id="1747"> </channel>
+  <channel name="KlanHDott" id="1750"> </channel>
+  <channel name="TVSHott" id="1751"> </channel>
+  <channel name="TopNews OTT" id="1749"> </channel>
+  <channel name="A1 report OTT" id="1722"> </channel>
+  <channel name="Abc newsott" id="1723"> </channel>
+  <channel name="BABY TV OTT" id="1724"> </channel>
+  <channel name="Discovery HDott" id="1728"> </channel>
+  <channel name="TopChannelHDott" id="1748"> </channel>
+  <channel name="TDC" id="1862"> </channel>
+
+</WIDECAST_DVB>

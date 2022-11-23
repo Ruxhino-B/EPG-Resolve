@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="T +1">
+    <event id="0" start_time="2021-12-09 15:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Nje vit i gjate">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Esat Ibro; Skenari: Natasha Lako; Interpretojne: Hajrie Rondo, Vladimir Muzha, Ilia Shyti, Fatos Sela, etj. prodhim i vitit 1987.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 17:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="One Katunar Show">Regjia: Altin Basha</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Besart Kallaku vjen i vetëm në skenë për 80 minuta, me karaktere të ndyshme të frymëzuar nga jeta reale. Tematika aktuale e monologjeve dhe këndvështrimi ndryshe për Shqipërinë, Tiranën do të sjellë plot humor, të qeshura e të vërteta.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 18:25:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dopio Histori pj.9">Kastro Zizo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një tregim pak i rrëmujshëm nga një i ftuar po aq i rrëmujshëm! Kastro Zizo nga tregon historinë e dasmës së Mamicës siç nuk e keni dëgjuar kurrë! Gëzuar!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 18:55:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Dopio Histori pj.10">Oriela Nebijaj</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tradhëti, intriga, dashuri... Të gjitha këto në histonë e Myftarit dhe të 
+Frosinës. Oriela Nebiaj me shumë sharm dhe shumë verë përpara na tregon një 
+Dopio Histori që nuk pëfundon shumë mirë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 19:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Të vërtetat e Shkodrës">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrethimi i Shkodrës nga ushtritë malazeze dhe serbe në periudhën tetor 1912-prill 1913. Bazuar në një kapitull të librit 'Esat pashë Toptani' me autor Ilir Ikonomin. Dokumentari e trajton rrethimin e Shkodrës mbi bazën e një arkivi dhe literature të </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 20:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Rrëfimi i një prostitute">Sociale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga skutat më të errëta të jetës së natës, vijnë tregimet e vërteta dhe rrëqethëse të vajzave që jeta apo njerëzit i detyruan të shisnin trupin tek të panjohurit dhe të bënin seks në këmbim të parave.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="8 Femra ">Teatër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Driada Dervishi. Me Yllka Mujo, Olta Daku, Zamira Kita, Rajmonda Bulku etj. Një familje me 8 gra të mbledhura bashkë për festat e fundvitit zbulojnë se mashkulli i vetëm i shtëpisë është vrarë. Të gjitha kthehen në të dyshuara...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 23:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Vitet e para">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Fatmir Gjata; Aktorët: Piro Mani, Sander Prosi, Margarita Xhepa, Edi Luarasi, Ilia Shyti</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 00:35:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Shkelqim i perkohshem">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Vangush Saro; Regjia: Albert Xholi; Interpretojne: Xhevahir Zeneli, Rita Gjeka, Birçe Hasko, Hatiqet Bendo, etj. Prodhim i vitit 1988</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 01:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Dopio Histori pj.9">Kastro Zizo</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një tregim pak i rrëmujshëm nga një i ftuar po aq i rrëmujshëm! Kastro Zizo nga tregon historinë e dasmës së Mamicës siç nuk e keni dëgjuar kurrë! Gëzuar!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 02:20:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Dopio Histori pj.10">Oriela Nebijaj</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tradhëti, intriga, dashuri... Të gjitha këto në histonë e Myftarit dhe të 
+Frosinës. Oriela Nebiaj me shumë sharm dhe shumë verë përpara na tregon një 
+Dopio Histori që nuk pëfundon shumë mirë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 02:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Ngadhnjim mbi vdekjen">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Skenari: Peçi Dado, Gezim Erebara, Piro Milkani; Interpretojne: Eglantina Kume, Edi Luarasi, Naim Frasheri, Rikard Ljarja, etj. Prodhim i vitit 1967. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 04:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Fraktura">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Piro Milkani; Skenari: Dhimiter Anagnosti; Interpretojne: Zamira Begolli, Thimi Filipi, Andri Çili, etj. Prodhim i vitit 1983</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 05:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Dëshmoret e monumenteve">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Fehmi Oshafi; Skenari: Luan Rama; Interpretojne: Demir Hyskja, Petrit Llanaj, Kadri Roshi, Andon Qesari, etj. Prodhim i vitit 1980.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 06:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="One Katunar Show">Regjia: Altin Basha</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Besart Kallaku vjen i vetëm në skenë për 80 minuta, me karaktere të ndyshme të frymëzuar nga jeta reale. Tematika aktuale e monologjeve dhe këndvështrimi ndryshe për Shqipërinë, Tiranën do të sjellë plot humor, të qeshura e të vërteta.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 08:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Autorët e vjetër të letërsisë ">Pjesa e pare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë përmban Meshari, vepra e parë e botuar në shqip nga Gjon Buzuku? Misteri i vdekjes së Pjetër Budit... Frang Bardhi dhe pasioni i tij për fjalorin latinisht-shqip. Këto dhe shumë të tjera, në një dokumentar të Ilir Yzeirit.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 09:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Nje i trete">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Fatmir Koçi; Skenari: Fatmir Koçi, Petrit Ruka; Interpretojne: Kol Kaftalli, Audoleon Rubolino. Prodhim i vitit 1988.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 10:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Horizonte të hapura">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Dritero Agolli; Regjia: Viktor Gjika; Interpretojne: Dhimiter Orgocka, Sander Prosi, Robert Ndrenika, etj. Prodhim i vitit 1968</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 11:35:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Shkelqim i perkohshem">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Vangush Saro; Regjia: Albert Xholi; Interpretojne: Xhevahir Zeneli, Rita Gjeka, Birçe Hasko, Hatiqet Bendo, etj. Prodhim i vitit 1988</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 12:55:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kur zbardhi nje dite">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Piro Milkani; Skenari: Anastas Kondo, Ksenofon Dilo, Piro Milkani; Interpretojne: Demir Hyskja, Birçe Hasko, Timo Flloko, Rikard Ljarja, etj Prodhim i vitit 1971. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 14:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Zëvendesi i grave">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lisimaku caktohet vazhdimisht te zevendesoje grate e ndermarrjes gjate lejes se tyre te lindjes. Ai fillon te ndihet keq nga keto levizje te shpeshta te cilat se lejojne ate te formojne personalitetin e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 16:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Hije që mbeten pas">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Diana Culi, Esat Musliu Regjia: Esat Musliu Interpretojne: Xhevdet Ferri, Matilda Makoci, Ndriçim Xhepa, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 17:55:00" duration="2700">
+      <short_event_descriptor lang="alb" name="I biri i Begut">Drama Shqipe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dramë nga Milo Duçi. Regjisore: Joana Omeraj. Aktorë: Elona Hyseni, Kastriot Rramollari, Roerd Toçe, Aleksandër Kondi, Margent Caushi, Delvis Bejleri.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 18:40:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Sfida 10">Game show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prezantojnë: Ilda Bejleri, Denard Xhillari. Në 10 javë, do të ndiqni personazhet tuaj më të preferuar, në situata të papritura. Cili grup do të ketë guximin, bashkëpunimin dhe shkathtësinë e duhur, për të qënë fituesit të çmimit të madh? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 19:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Në emër të pafajsisë ">Një dokumentar nga Beti Njuma. </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kush e hodhi bombën në oborrin e ambasadës sovjetike më 19 shkurt 1951? Pse byroja politike e asaj kohe, nisi një masakër, me 22 njerëz të pushkatuar dhe dhjetra të internuar? Pse vendimi u mor pa gjyq dhe pa asnjë bazë ligjore?... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 21:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Taulanti kerkon nje moter">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Nexhati Tafa, Xhanfize Keko Regjia: Xhanfize Keko. Interpretojne: Yllka Mujo, Viktor Zhysti, Donald Kokona, Roza Anagnosti, etj. Prodhim i vitit 1984.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 22:15:00" duration="600">
+      <short_event_descriptor lang="alb" name="Ama-Teur ">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një film nga Rudi Prifti. Interpretuan: Albert Matraku. Florian Hysi
+ 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 22:25:00" duration="900">
+      <short_event_descriptor lang="alb" name="Autoportret">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Film me metrazh të shkurtër nga Dritan Mesareja. Interpretuan: Avdor Kokdhima, Julian Gjoni, Indrit Mesiti, Alis Laço etj..
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 22:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Horizonte të hapura">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Dritero Agolli; Regjia: Viktor Gjika; Interpretojne: Dhimiter Orgocka, Sander Prosi, Robert Ndrenika, etj. Prodhim i vitit 1968</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 00:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Kur zbardhi nje dite">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Piro Milkani; Skenari: Anastas Kondo, Ksenofon Dilo, Piro Milkani; Interpretojne: Demir Hyskja, Birçe Hasko, Timo Flloko, Rikard Ljarja, etj Prodhim i vitit 1971. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 02:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Hije që mbeten pas">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Diana Culi, Esat Musliu Regjia: Esat Musliu Interpretojne: Xhevdet Ferri, Matilda Makoci, Ndriçim Xhepa, etj. Prodhim i vitit 1985.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 03:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Autorët e vjetër të letërsisë ">Pjesa e pare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë përmban Meshari, vepra e parë e botuar në shqip nga Gjon Buzuku? Misteri i vdekjes së Pjetër Budit... Frang Bardhi dhe pasioni i tij për fjalorin latinisht-shqip. Këto dhe shumë të tjera, në një dokumentar të Ilir Yzeirit.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 05:10:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Shkelqim i perkohshem">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Vangush Saro; Regjia: Albert Xholi; Interpretojne: Xhevahir Zeneli, Rita Gjeka, Birçe Hasko, Hatiqet Bendo, etj. Prodhim i vitit 1988</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 06:20:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Zëvendesi i grave">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lisimaku caktohet vazhdimisht te zevendesoje grate e ndermarrjes gjate lejes se tyre te lindjes. Ai fillon te ndihet keq nga keto levizje te shpeshta te cilat se lejojne ate te formojne personalitetin e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-11 07:40:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Bashkëjetesa">Cikli: Shqiperia ne Celuloid</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje prodhim i Kinostudios Shqiperia e Re, i vitit 1981. Dokumentare te periudhes komuniste qe prekin ngjarjet kryesore te kohes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-11 08:20:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Fotografia Marubi">Dokumentar nga S.Kumbaro</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fotografia shqiptare mund të ketë vetëm një emër: Fototeka Marubi. Historia nis në vitin 1858, kur Pjeter Marubi, braktisi vëndin e tij, Italinë, dhe u vendos në Shkodër ku hapi nje studio fotografike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-11 08:50:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Plaku dhe hasmi">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Vath Koreshi; Regjia: Hysen Hakani
+Interpretojne: Sander Prosi, Vasjan Lami, Marta Burda, etj. Prodhim i vitit 1981.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 09:25:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Sinjali i dashurise">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Besnik Bisha; Skenari: Nexhati Tafaj; Interpretojne: Anila Karaj, Herion Mustafaraj. Prodhim i vitit 1988</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 10:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Zemra që nuk plaken">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Esat Ibro, Esat Musliu; Skenari: Bashkim Hoxha; Aktoret: Esat Oktrova, Violeta Manushi, Kadri Roshi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 10:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Sketerre 43'">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor: Rikard Ljarja; Skenari: Bashkim Shehu; Interpretojne: Mario Ashiku, Violeta Dede, Arian Dosti, Xhevdet Ferri, etj. Prodhim i vitit 1980.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 12:40:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Kur po xhirohej një film">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Shpresa Vreto, Xhanfize Keko; Regjia: Xhanfize Keko; Aktorët: Genti Basha, Violeta Dede, Viktor Zhusti. Prodhim i vitit 1981.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 13:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Rrethimi i vogel">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Saimir Kumbaro; Skenari: Ruzhdi Pulaha; Interpretuan: Timo Flloko, Sulejman Pitarka, Violeta Manushi, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 15:20:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Shirat e vjeshtës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Nexhati Tafa; regjisor: Spartak Pecani; interpretojne: Kastriot Caushi, Eva Alikaj, Robert Ndrenika, Vangjush Furxhi, Ilia Shyti, Reshat Arbana</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 16:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Albanian Pop Rock Duets ">Muzike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për të gjithë nostalgjikët e muzikës së lehtë shqiptare. Vijnë duetet më të njohura. Nga krijuesit e këngëve që prodhuan kujtime për breza. Mos humbisni këngët e orkestruara në pop dhe rock. Me interpretimin e këngëtarëve të ditëve tona.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 17:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kokrrat 9,10">Serial Komik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktorë: Jetmir Pjeternikaj, Bjordi Mezini, Erion Bubullima dhe shumë të ftuar. Protagonist janë 3 të rinj. Të përkëdhelur, ambiciozë, narcizistë. Të tre përballen me situata dhe probleme të përditshme, që do t'ju dhurojnë shumë humor .
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 18:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="O sa mir. III">Prodhim i Digitalb-27,28</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>''O sa mirë' seriali që po argëton të gjithë shqiptarët vjen me një sezon plot humor, plot të papritura, situata komike të papërmbajtëshme. Personazhet aq të dashur nga ju rikthehen, por nuk do të mungojnë edhe shumë të ftuar specialë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 20:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Larg duart nga Shqipëria ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pse shqipëria komuniste braktisi dhe denoncoi traktatin e Varshavës? Cili ishte reagimi i bllokut lindor dhe pse perëndimi deklaroi prerë: Larg duart nga Shqipëria.  Një dokumentar nga Monika Stafa.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 21:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Zonja nga qyteti">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Ruzhdi Pulaha; Regjizor: Pirro Milkani; Kompozitor: Agim Krajka. Interpretojne: Violeta Manushi, Rajmonda Bulku, Stavri Shkurti, Pandi Raidhi, Yllka Mujo</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-11 22:45:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Studenti: Hapat e parë në ">publicistikë dhe letërsi  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gezeta "Studenti", 1967-1994, hapesira publicistike dhe letrare ku hodhen hapat e pare shume nga penat me te njohura te medias shqiptare. Nje dokumentar nga Arben Muka mbi rolin dhe ndikimin e 'Studentit' para dhe pas vitit 1990.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-11 23:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Kur po xhirohej një film">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Shpresa Vreto, Xhanfize Keko; Regjia: Xhanfize Keko; Aktorët: Genti Basha, Violeta Dede, Viktor Zhusti. Prodhim i vitit 1981.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-12 00:25:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Shirat e vjeshtës">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Nexhati Tafa; Regjia: Spartak Pecani; Interpretojne: Kastriot Caushi, Eva Alikaj, Robert Ndrenika, Vangjush Furxhi, Ilia Shyti, Reshat Arbana. Prodhim i vitit 1984.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-12 01:45:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Rrethimi i vogel">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Saimir Kumbaro; Skenari: Ruzhdi Pulaha; Interpretojne: Timo Flloko, Sulejman Pitarka, Violeta Manushi, etj. Prodhim i vitit 1986.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-12 03:10:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Plaku dhe hasmi">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Vath Koreshi; Regjia: Hysen Hakani
+Interpretojne: Sander Prosi, Vasjan Lami, Marta Burda, etj. Prodhim i vitit 1981.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-12 03:45:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Albanian Pop Rock Duets ">Muzike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për të gjithë nostalgjikët e muzikës së lehtë shqiptare. Vijnë duetet më të njohura. Nga krijuesit e këngëve që prodhuan kujtime për breza. Mos humbisni këngët e orkestruara në pop dhe rock. Me interpretimin e këngëtarëve të ditëve tona.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-12 04:55:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Kokrrat 9,10">Serial Komik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktorë: Jetmir Pjeternikaj, Bjordi Mezini, Erion Bubullima dhe shumë të ftuar. Protagonist janë 3 të rinj. Të përkëdhelur, ambiciozë, narcizistë. Të tre përballen me situata dhe probleme të përditshme, që do t'ju dhurojnë shumë humor .
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-12 05:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Sketerre 43'">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor: Rikard Ljarja; Skenari: Bashkim Shehu; Interpretojne: Mario Ashiku, Violeta Dede, Arian Dosti, Xhevdet Ferri, etj. Prodhim i vitit 1980.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-12 07:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Rrugëtim, 20 vjet muzikë ">Koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrugëtimi artistik i instrumentistit të rrallë Gojard Kodra </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-12 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lumë drite">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Agim Cerga; Regjia: Ismail Zhabjaku' Aktorët: Yner Bala, Ilir Celia, Tinka Kurti, Zana Dema</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-12 10:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Tre veta kapercejne malin">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Naum Prifti, Valter File; Regjia: Besim Kurti; Interpretojne: Piro Malaveci, Ilia Shyti, Taulant Godaj, Petraq Xhillari, etj. Prodhim i vitit 1981</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-12 11:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Tokë e përgjakur">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari:Kiço Blushi; Regjia: Ibrahim Muço; 
+Interpretojne: Perika Gjezi, Margarita Xhepa, Pandi Raidhi, Kadri Roshi, etj. Prodhim i vitit 1976</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-12 12:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Shoku yne Tili">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Fehmi Oshafi; Skenari: Qazim Kashari, Naum Bitri, Halil Kamberi; Aktorët: Elida Janushi, Arben Latifi, Lutfi Hoxha, Vasillaq Vangjeli, etj. Prodhim i vitit 1981.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-12 13:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Mësonjtorja">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor: Muharrem Fejzo; Skenarist: Natasha Lako; Kompozitor: Limoz Dizdari. Interpretojne: Roza Anagnosti, Guljem Radoja, Robert Ndrenika, Ardian Cerga</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-12 14:55:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Çifti i lumtur">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Piro Milkani; Skenari: Kiço Blushi, Piro Milkani; Interpretojne: Bep Shiroka, Tinka Kurti, Niko Kanxheri, etj. Prodhim i vitit 1975.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-12 16:10:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Treni niset ne shtate pa pese">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Nexhati Tafa; Regjia: Spartak Pecani; kompozitor: Aleksander Lalo. Ne rolet kryesore: Eva Alikaj, Ndriçim Xhepa, Xhevdet Ferri, etj. Prodhim i vitit 1988.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-12 17:35:00" duration="4200">
+      <short_event_descriptor lang="alb" name="In  memoriam">Dokumentar-3,4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar nga Genci Gjikaj. Ndiqni ngjarjet në historinë e futbollit që nuk mund të harrohen. Me një ridimensionim të ri, për ti trajtuar në një këndvështrim ndryshe. Çfarë impakti patën në Botën e Futbollit dhe më gjerë...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-12 18:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="O sa mir. III">Prodhim i Digitalb-29,30</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>''O sa mirë' seriali që po argëton të gjithë shqiptarët vjen me një sezon plot humor, plot të papritura, situata komike të papërmbajtëshme. Personazhet aq të dashur nga ju rikthehen, por nuk do të mungojnë edhe shumë të ftuar specialë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-12 20:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Margaret Hasluck">Englezka me sy të kaltër</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ishin vitet 1923, kur 35 vjecarja me sy të kalter nga Skocia, u shpërngul në Elbasan... Por cila është e vërteta e Margaret Hezlak? A ishte ajo një spiune e Shërbimit të Inteligjencës Britanike apo erdhi këtu për të studiuar Shqipërinë? 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-12 21:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Nje djale dhe nje vajze ">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Ibrahim Muçaj, Kristaq Mitro; Skenari: Shpresa Vreto, Petrit Ruka; Interpretojne:Ema Andrea, Sokol Balza, Margarita Xhepa, Leka Bungo, etj. Prodhim i vitit 1990.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-12 22:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Pashko Vasa ">Një gjeni i kulturës shqiptare </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar nga Ilir Yzeiri. Atdhetar, publicist, politikan, diplomat, shkrimtar, por mbi të gjitha emri e tij fitoi përgjithnjë mirënjohjen e një kombi... Pashko Vasa, jeta dhe aktiviteti i këtij patritoti të shquar... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-12 23:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Tokë e përgjakur">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari:Kiço Blushi; Regjia: Ibrahim Muço; 
+Interpretojne: Perika Gjezi, Margarita Xhepa, Pandi Raidhi, Kadri Roshi, etj. Prodhim i vitit 1976</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-13 00:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mësonjtorja">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Muharrem Fejzo; Skenarist: Natasha Lako; Kompozitor: Limoz Dizdari. Interpretojne: Roza Anagnosti, Guljem Radoja, Robert Ndrenika, Ardian Cerga, etj. Prodhim i vitit 1979.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-13 01:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Treni niset ne shtate pa pese">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Nexhati Tafa; regjia: Spartak Pecani; kompozitor: Aleksander Lalo. Ne rolet kryesore: Eva Alikaj, Ndriçim Xhepa, Xhevdet Ferri</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-13 03:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lumë drite">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Agim Cerga; Regjia: Ismail Zhabjaku' Aktorët: Yner Bala, Ilir Celia, Tinka Kurti, Zana Dema</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-13 04:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Tre veta kapercejne malin">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Naum Prifti, Valter File; Regjia: Besim Kurti; Interpretojne: Piro Malaveci, Ilia Shyti, Taulant Godaj, Petraq Xhillari, etj. Prodhim i vitit 1981</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-13 05:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Shoku yne Tili">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Fehmi Oshafi; Skenari: Qazim Kashari, Naum Bitri, Halil Kamberi; Aktorët: Elida Janushi, Arben Latifi, Lutfi Hoxha, Vasillaq Vangjeli, etj. Prodhim i vitit 1981.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-13 06:30:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Cifti i lumtur">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Kiço Blushi, Pirro Milkani, Bik Pepa; regjisor: Pirro Milkani; kompozitor: Agrim Krajka</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-13 07:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Aliu i panjohur">Idea dhe skenari: Gent Hazizi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Brunilda Cami. Një dokumentar mbi një nga figurat më të rëndësishme dhe të shquara të historisë së Shqipërisë: Ali Pashë Tepelena.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-13 08:50:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Ditëlindja e një Qyteti">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lulzim Meci, kryetar i bashkisë së Memaliajt kërkon të gjejë datën e themelimit të qytezës . Nuk egziston asnjë dokument që të dokumentojë se kur është themeluar qyteti i minatorëve, ndaj misioni i tij nuk do të jetë i lehtë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-13 09:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="MIA-Made in Albania">Reportazh </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cikel reportazhesh</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-13 11:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Operacioni i zjarrit">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kushtuar heroit te popullit Pal Melyshi. Skenari: Mark Dodani, Enver Isufi, Muharrem Fejzo. Regjizor: Muharrem Fejzo. Kompozitor: Kujtim Laro. Prodhim i vitit 1973.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-13 12:40:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Dollia e dasmës sime">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sipas noveles 'Nusja e humbëtirës' te Ruzhdi Pulahes. Skenari: Ruzhdi Puhala; Regjia: Mark Topallaj; Aktorët: Majlinda Gjodede, Demir Hyskja, Viktor Zhysti, Ilia Shyti. Prodhim i vitit 1978.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-13 13:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pranverë në Gjirokastër">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Kiço Blushi; Regjia: Muharrem Fejzo; Aktorët: Ilia Shyti, Luftar Paja, Majlinda Berxolli. Prodhim i vitit 1978.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-13 15:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Besa e kuqe">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Piro Milkani; Skenari: Dhimiter Anagnosti, Vath Koreshi; Aktoret: Xhevdet Ferri, Eduard Makrija, Petrit Malaj, Ilirian Fatkoja. Prodhim i vitit 1982.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-13 16:35:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Kur hiqen maskat">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari dhe Regjia: Dhimiter Anagnosti; Interpretojne: Skender Sallaku, Skender Plasari, Dario Llukaçi, Xhemal Myftiu, etj. Prodhim i vitit 1975. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-13 17:50:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Madamë Blavatski jeton ">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur tre mikesha të vjetra njihen me një spiritualiste, jeta e tyre ndryshon në mënyrë radikale. Një vepër plot satire e humor e Xhoan Grining, e sjellë në skenë me mjeshtëri nga Universiteti i Arteve, Tiranë. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-13 19:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Prekë Cali, piramida e kufijve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Prekë Cali, një prijës popullor, i cili u kthye në armikun më të madh të fqinjëve malazezë. Jeta dhe veprimtaria e tij. Letërkëmbimi i krerëve komunistë, për kryengritjen e malësorëve. Vendimet e gjykatës ushtarake dhe dënimi me vdekje.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-13 20:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Vetmia ">Vetmitari</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si e përdori dhe si e braktisi Perëndimi Arbërinë e Skënderbeut. Diplomacia e shqiptarit më të famshëm në histori. Lidhjet e tij me më të mëdhenjtë e kohës, Vatikanin, Venedikun, Napolin. Sukseset dhe dështimet.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-13 21:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Apasionata">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Peçi Dado, Nexhati Tafa; Regjia: Ibrahim Muçaj, Kristaq Mitro; Interpretojne: Kastriot Caushi, Kadri Roshi, Matilda Makoçi, etj. Prodhim i vitit 1983.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-13 22:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Operacioni i zjarrit">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kushtuar heroit te popullit Pal Melyshi. Skenari: Mark Dodani, Enver Isufi, Muharrem Fejzo. Regjizor: Muharrem Fejzo. Kompozitor: Kujtim Laro. Prodhim i vitit 1973.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-13 23:55:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pranverë në Gjirokastër">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Kiço Blushi; Regjia: Muharrem Fejzo; Aktorët: Ilia Shyti, Luftar Paja, Majlinda Berxolli. Prodhim i vitit 1978.
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

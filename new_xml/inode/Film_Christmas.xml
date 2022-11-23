@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Christmas">
+    <event id="0" start_time="2014-12-24 02:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Dy Ronët 3">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>R.Barker, R.Corbett. Pjesët më të mira të dy aktorëve të njohur komikë anglezë, pjesë të cilat në vitet 80, priteshin çdo vit me kërshëri nga publiku. Skeçe, monologje ku marrin pjesë edhe njerëz të famshëm si Elton John, David Essex, etj.   </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2014-12-24 03:45:00" duration="6000">
+      <short_event_descriptor lang="alb" name="SOS fantazmat!">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bill Murray. Bazuar në romanin e Charles Dickens, vjen historia e një drejtori televiziv, që nuk beson shumë në festa, por në vigjilje të Krishtlindjeve merr një mësim të mirë nga fantazmat e së kaluarës, tashmes dhe të ardhmes.
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2014-12-24 05:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Ylli mbi qiellin e Betlehemit">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Luca Ward, Leo Gullotta. Historia e tre mbretërve dhe Baltazarit, tiranit që përhapi frikë në Persinë Lindore. Ky është udhëtimi i tre të urtëve mes shkretëtirës, në një botë përfshirë nga lufta mes Babilonisë e Romakëve. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2014-12-24 07:10:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Dritat e Krishtlindjeve">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur Tomasi merr vesh, se mamaja e tij rrezikon të humbasë shtëpinë pikërisht në prag të krishtlindjeve, ai vendos që talentin e tij si piktor, ta përdor për të dalë nga kjo situatë e vështirë. 
+  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2014-12-24 08:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Këpucët e krishtlindjeve">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eshtë vigjilja e Krishtlindjeve dhe Natani do të beje çmos për t'i plotësuar deshiren nënës së tij. Roberti është 1 njeri aspak familjar të cilin puna e ka larguar nga njerëzit. Te 2 do të takohen dhe do të përjetojnë krishtlindje te paharrueshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2014-12-24 10:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Krishtlindjet Magjike, Xhonata">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhonatani është zdrukthtari më i mirë i zonës. Kurse Tomasi i vogel, pas vdekjes së babait mendon se s'do jetë më i lumtur. Ata takohen gjate festave dhe Tomasi i kërkon Xhonatanit, t'i bëj disa lodra që i kanë humbur dhe që ishin i vetmi kujtim nga </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2014-12-24 12:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Kartolinë Krishtlindjesh">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>John Newton, Alice Evans. I prekur nga një kartolinë anonime që merr për krishtlindje, një ushtar në luftën e Afganistanit, vendos të niset në kërkim të njeriut që e dërgoi...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2014-12-24 13:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Krishtlindjet e Eloizës">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eloiza, është një vajzë e vogël e cila jeton në Hotel Plaza, bashkë me dadon e saj të mrekullueshme. Ajo është gjithmonë në kërkim të aventurave. Gjatë Krishtlindjeve, ajo ka një mision shumë të vështirë. Po cili është ai?
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2014-12-24 15:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Sprova e familjes">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dermot Mulroney, Sarah Jessica Parker, Claire Danes. Një grua e suksesshme në biznes dhe serioze, shkon për vizitë në shtëpinë e të dashurit të saj, por që në momentin e parë duket qartë se diferencat janë shumë të mëdha. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2014-12-24 16:45:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Krishtlindje 2000">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christian De Sica, Massimo Boldi, Carmen Electra. Tre familje, secila nga shtresa të ndryshme të shoqërisë, vendosin të festojnë ndërrimin e shekujve në të njëjtin resort. Kekuptime, mashtrime dhe shantazhe do të kthejnë gjithçka përmbys. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2014-12-24 18:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Krishtlindje me familjen Krank">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Luter Krankut i kanë ardhur në majë të hundës Krishtlindjet e zakonshme monotone. Tani që vajza e vetme e tij do të largohet, bashkë me të shoqen ai vendos të kalojë disa ditë ndryshe duke rezervuar një udhëtim me traget.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2014-12-24 20:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Treni Polar">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne vigjiljen e Krishtlindjeve, Babagjyshi i festave dergon trenin e tij Polar Ekspres ne shtepite e vogelusheve qe s'kane me besim tek ai. Kete radhe aventuren do ta perjetoje nje djale i vogel i cili vite me vone do kujtoje ate nate.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2014-12-24 22:10:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Krishtlindje në anije">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Christian De Sica, Michelle Hunziker. Paolo ka planifikuar të çojë familjen e tij dhe të dashurën me pushime në anije, me mendimin për të luajtur një lojë të dyfishtë. Eh sikur të kishte menduar telashet që do të sillte plani 'perfekt'.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2014-12-24 23:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Familjari">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nicolas Cage, Téa Leoni. Një Don Zhuan milioner në Wall Street, zgjohet një mëngjes dhe e gjen veten të martuar me ish të dashurën e tij, të cilën ai e braktisi 13 vite më parë...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2014-12-25 01:55:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Në qiellin e shtatë">Program Festiv</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gwyneth Paltrow. Kur kupton se fshati i saj i lindjes s'mund t'i ofrojë asnjë të ardhme për të qënë, Dona vendos të rrezikoje. Regjistrohet në një kurs për asistente fluturimi, por s'është e thënë që gjërat te shkojne fjollë për të.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

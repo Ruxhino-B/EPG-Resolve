@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="T Plus 1">
+    <event id="0" start_time="2014-10-14 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Qielli i kuq">Serial-148</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dashuria e pareshtur, por pothuajse e pamundur midis Almës dhe Andres. Fati e donte që ata të duheshin marrëzisht, por fati është ai që vazhdon t'i ndajë vazhdimisht. Pasion, intriga, ambicie dhe gënjeshtra, të gjitha nën 'Qiellin e kuq'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2014-10-14 07:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Charlie Jade">Seria 3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeffrey Pierce, Michael Filipowich, Michele Burgers. Çarli Xheid është një detektiv privat që heton zhdukjen e personave. Gjatë një hetimi, Çarli zbulon një sekret dhe e gjen veten rob në tre universe paralele. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2014-10-14 07:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Saving Grace 11">Sezoni III</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fituesja e çmimit Oskar, Holly Hunter në rolin e një detektiveje me një jetë personale shumë problematike, së cilës papritur i shfaqet një engjëll, që i ofron një mundësi për të korrigjuar gjithçka... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2014-10-14 08:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Strong medicine">Sezoni I</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy doktoresha me këndvështrime të ndryshëm bashkohen për të drejtuar një spital që merret vetëm me problemet e femrave. Por a mund t'i lënë mënjanë ndryshimet për të punuar për këtë kauzë të hijshme?!</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2014-10-14 09:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Gunat përmbi tela">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Duro Mustafaj, Muharrem Fejzo; Regjia: Muharrem Fejzo; Aktorët: Thimi Filipi, Fatos Sela, Stavri Shkurti, Luftar Paja. Prodhim i vitit 1977.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2014-10-14 10:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lulekuqet mbi mure">Film shqiptar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Dhimiter Anagnosti; Skenari: Petraq Qafzezi, Dhimiter Anagnosti; Interpretojne: Timo Flloko. Agim Qirjaqi, Kadri Roshi, Alfred Kote, etj. Prodhim i vitit 1976. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2014-10-14 12:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Kohë e largët">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari: Sotir Andoni Regjia: Spartak Pecani Interpretojne: Ndriçim Xhepa, Robert Ndrenika, Anila Sula, etj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2014-10-14 14:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Qielli i kuq">Serial-149</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dashuria e pareshtur, por pothuajse e pamundur midis Almës dhe Andres. Fati e donte që ata të duheshin marrëzisht, por fati është ai që vazhdon t'i ndajë vazhdimisht. Pasion, intriga, ambicie dhe gënjeshtra, të gjitha nën 'Qiellin e kuq'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2014-10-20 02:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Thurje 3">Emisioni "Thurje"</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>#Prezanton Jonida Vokshi. #Shqiptarë dhe Serbë. #Revolucion në rrjet. #Rubrika 'Du ju parlare Shqip?'nga Edmond Tupja. #Vullnetarizmi. #Kuzhina Shqiptare. #O sa mirë - Sez.III. #Art në rrugë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

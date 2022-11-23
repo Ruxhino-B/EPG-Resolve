@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Vip Shpija">
+    <event id="0" start_time="2015-03-30 17:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Attack of the big cats">Documentary</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A special show highlighting some of the wildest cats in the world.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

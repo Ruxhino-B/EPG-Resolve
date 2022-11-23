@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport-6">
+    <event id="0" start_time="2020-07-26 06:00:00" duration="32400">
+      <short_event_descriptor lang="alb" name="INFO">INFO</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione mbi programet dhe eventet e SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2020-07-26 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Chelsea-Wolves Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League 2019-2020, ndeshje e vlefshme per javen e 38-te, nga stadiumi "Stamford Bridge". Komenti: Andi Decka</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2020-07-26 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Info mbi programet e SuperSport. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2020-07-26 17:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SPAL-Torino Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2019-2020, ndeshje e vlefshme per javen e 36-te, nga stadiumi "Paolo Mazza" ne Ferrara. Komenti, Elvis Rexha. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2020-07-26 19:30:00" duration="37800">
+      <short_event_descriptor lang="alb" name="Info" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

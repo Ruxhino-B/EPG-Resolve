@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="TVSHott">
+    <event id="0" start_time="2021-03-08 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gjeniu Malkolm V">Serial-22</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjyqi i Hal-it vazhdon, ndërsa provat kundër tij sa vijnë e shtohen. Ndërkohë, në kampin stërvitor, Reese dhe ekipi i tij kapen nga armiqtë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-03-08 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-03-08 12:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Rubrika sportive">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në drejtimin e Hygerta Sakos, me Shkëlqim Muçën, Fatmir Mnerin, Fatjon Shehun dhe të ftuar specialë, hyjmë në detajet e futbollit tonë me biseda e komente pikante në studio.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-03-08 14:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="UEPA">Seria 25</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një histori dashurie plot të papritura dhe momente argëtuese. Lule dhe Claudio bien në dashuri me shikim të parë. Ata janë të dy të rinj, tërheqës dhe plot energji për jetën. Por ajo që nis si një përrallë romantike ku gjithçka shkon vaj, kalon nëpër</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-03-08 15:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-03-08 15:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pasditja ime">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>8 Marsi, dita ndërkombëtare e gruas. Është festë apo protestë? 2. "Festë për nënën" në shtëpinë e fëmijës "Zyber Hallulli". 3. Rubrika "Jashtë profesionit".</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-03-08 17:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="E hena sportive">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>8 Marsi, dita ndërkombëtare e gruas. Është festë apo protestë? 2. "Festë për nënën" në shtëpinë e fëmijës "Zyber Hallulli". 3. Rubrika "Jashtë profesionit".</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-03-08 18:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pune zyre VI">Serial-8</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael-i mërzitet pasi bëhet objekt i të gjitha shakave në zyrë. Andy dhe Pam dalin bashkë dhe të gjithë kujtojnë se ata janë një çift i martuar</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-03-08 19:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-03-08 19:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Mbreteresha e shahut">Seria 5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>E pamotivuar dhe pa shumë energji, Bethi rikthehet në Kentucky. Aty ritakon një ish-kundërshtarin e saj të hershëm, i cili ofrohet ta ndihmojë për ta trajnuar drejt kampionatit amerikan.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-03-08 20:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Artisti që interpretoi ">në kryerolin e historisë </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Skenari dhe regjia: Anxhelo Xhaçka. Karriera e tenorit Xhoni Athanas, vjen nëpërmjet një dokumentari që shoqërohet me këngët e interpretuara prej tij. Xhoni Athanas, interpretues i dhjetëra roleve, qindra shfaqjeve, koncerteve e turneve jashtë shteti</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-03-08 21:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-03-08 22:05:00" duration="600">
+      <short_event_descriptor lang="alb" name="Klasiket e Hollivudit ">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Producenti Genc Përmeti sjell për herë të parë në ekranin e RTSH-së një cikël special dedikuar filmave klasikë të Hollivudit që ndryshuan historinë e kinemasë botërore. I pari që hap siparin është një film i gjinisë muzikal "Jesus Christ Superstar", </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-03-08 22:15:00" duration="10800">
+      <short_event_descriptor lang="alb" name="EL CID">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisor: Anthony Mann. Aktorë: Charlton Heston, Sophia Loren, Raf Vallone. Biografi/ dramë/ histori. Heroi i njohur spanjoll Rodrigo Diaz de Vivar, i njohur si El Cid, arrin të mposhtë një hakmarrje familjare për të mbrojtur Spanjën e krishterë nga </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-03-09 01:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Mekanikerot e Havanes">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vështirësitë e jetës në Kubë dhe kultura e mekanikerove, si gjithçka bërës, për të jetuar më mirë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-03-09 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pasditja ime">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>8 Marsi, dita ndërkombëtare e gruas. Është festë apo protestë? 2. "Festë për nënën" në shtëpinë e fëmijës "Zyber Hallulli". 3. Rubrika "Jashtë profesionit".</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-03-09 03:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Trashegimia II">Seria 1,2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kendall-i ende nuk e ka marrë veten nga ngjarja në Angli dhe po përpiqet të gjejë një zgjidhje nëpërmjet të atit. Logan-i merr një këshillë të sinqertë nga financieri i tij personal. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-03-09 05:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pune zyre VI">Serial-8</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael-i mërzitet pasi bëhet objekt i të gjitha shakave në zyrë. Andy dhe Pam dalin bashkë dhe të gjithë kujtojnë se ata janë një çift i martuar</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-03-09 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Miremengjesi Shqiperi">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri" me Ronin dhe Orin nisin zyrtarisht programacionin e ri në RTSH1 për këtë sezon. Rrugëtim i ri, me një skenografi të re dhe rubrika e tema argëtuese për shikuesit më besnikë të Televizionit Shqiptar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-03-09 09:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-03-09 09:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Oda e gezimit II">Serial-28</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>- Plani i Xiao Xiao-s funksionoi më së miri mes Andie-t dhe Yi Fan-it. Tani ka ardhur koha që ajo të takohet më prindërit e Dr. Zhao-s.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-03-09 10:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kohe moderne">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasioni për të koleksionuar pije të ndryshme, vegla muzikore dhe sende që dikur përdoreshin në shtëpinë e çdo shqiptari, si: qilimat, mangalli, orenditë zbukuruese, etj. 2. Në këndin e specialistit: Martin Llazani, mjek veteriner. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-03-09 11:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gjeniu Malkolm VI">Serial-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Reese po përpiqet të gjejë një zgjidhje për t'u rikthyer në shtëpi. Lois-i është vënë në zbulim të Lindjes së Mesme. Nga ana tjetër, Malcolm-i dhe Dewey po organizojnë një ceremoni të mundshme mortore, duke u vënë nën petkat e Reese-it.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-03-09 12:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-03-09 12:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Gjuajtesi">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një qitës që jeton në mërgim është rikthyer përsëri në lojë pasi mëson për një atentat që po planifikohet ndaj Presidentin</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-03-09 14:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="UEPA">Seria 26</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një histori dashurie plot të papritura dhe momente argëtuese. Lule dhe Claudio bien në dashuri me shikim të parë. Ata janë të dy të rinj, tërheqës dhe plot energji për jetën. Por ajo që nis si një përrallë romantike ku gjithçka shkon vaj, kalon nëpër</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-03-09 15:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-03-09 15:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pasditja ime">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kanionet e Osumit, gati për sezonin e ri të rafting. 2. Të mësosh gjimnastikën nga kampionët që në moshë të vogël. 3. Destinacioni që sugjeroj: Erlind Pëllumbi (President i Federatës Shqiptare të Volejbollit).</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-03-09 17:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Studio Gol">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision mbi kampionatet kryesore evropiane, si italian, spanjoll, etj. Gola, informacion, analizë dhe diskutime me të ftuar specialë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-03-09 18:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pune zyre VI">Serial-9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael-i ndez më shumë zemërimin e Pam-it, kur ai ndahet me nënën e saj, pasi zbulon se ajo është 58 vjeç. Dwight-i ndërkohë përpiqet që të bëjë gjithë zyrën që t'i detyrohen atij për diçka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-03-09 19:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-03-09 19:35:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Target">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pronat që përfaqësuesit e besimeve zyrtare në Shqipëri pretendojnë, mbeten çështje e pazgjidhur. Po cilat janë pretendimet e klerit zyrtar dhe në çfarë raportesh janë me autoritetet shtetërore? Përgjigjet i gjeni në "Target".
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-03-09 20:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Perballe">Emision politik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga  gazetari Lutfi Dervishi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-03-09 21:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-03-09 22:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Biblioteka">Alda Bardhyli</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për kohën e rrëfimit të shkrimtarit, për perdet e ngritura dhe pyetjet e pranuara; për veprën, shkrimin, letërsinë, vetminë, udhëtimet, takimet. Për gratë, familjen dhe të tjerët. Për dialogun e Ismail Kadaresë, me Alda Bardhylin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-03-09 23:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Trembedhjeta">Drame</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Marrëdhënia e vajzës trembëdhjetë vjeçare me nënën e saj vihet në provë pasi zbulon drogën, seksin dhe krimin në shoqërinë e shokut më të mirë të saj i cili është një adoleshent problematik</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-03-10 00:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Studio Gol">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emision mbi kampionatet kryesore evropiane, si italian, spanjoll, etj. Gola, informacion, analizë dhe diskutime me të ftuar specialë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-03-10 02:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pasditja ime">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kanionet e Osumit, gati për sezonin e ri të rafting. 2. Të mësosh gjimnastikën nga kampionët që në moshë të vogël. 3. Destinacioni që sugjeroj: Erlind Pëllumbi (President i Federatës Shqiptare të Volejbollit).</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-03-10 03:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Trashegimia II">Seria 3.4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Roman-i nis një trajnim 6-javor për menaxhim. Logan-i dhe Kendall-i organizojnë një takim me drejtuesen e PGM-së, pasi disa polemikave të shkaktuara nga një prezantuese televizive. Shiv, Roman dhe Connor, të zhveshur nga statusi i tyre zyrtar, nisen </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-03-10 05:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Pune zyre VI">Serial-9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Michael-i ndez më shumë zemërimin e Pam-it, kur ai ndahet me nënën e saj, pasi zbulon se ajo është 58 vjeç. Dwight-i ndërkohë përpiqet që të bëjë gjithë zyrën që t'i detyrohen atij për diçka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-03-10 06:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Miremengjesi Shqiperi">Emision</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mirëmëngjes Shqipëri" me Ronin dhe Orin nisin zyrtarisht programacionin e ri në RTSH1 për këtë sezon. Rrugëtim i ri, me një skenografi të re dhe rubrika e tema argëtuese për shikuesit më besnikë të Televizionit Shqiptar. </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

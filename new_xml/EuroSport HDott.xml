@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="EuroSport HDott">
+    <event id="0" start_time="2015-12-13 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2015-12-14 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2015-12-14 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2015-12-15 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2015-12-15 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2015-12-16 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2015-12-16 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2015-12-17 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2015-12-17 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2015-12-18 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2015-12-18 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2015-12-19 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2015-12-19 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2015-12-20 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2015-12-20 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2015-12-21 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2015-12-21 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2015-12-22 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2015-12-22 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2015-12-23 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2015-12-23 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2015-12-24 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2015-12-24 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2015-12-25 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2015-12-25 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2015-12-26 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2015-12-26 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2015-12-27 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2015-12-27 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2015-12-28 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2015-12-28 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2015-12-29 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2015-12-29 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2015-12-30 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2015-12-30 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2015-12-31 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2015-12-31 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Programet e Eurosport">Programe dhe emisione</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Programet dhe emisionet e kanalit Eurosport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

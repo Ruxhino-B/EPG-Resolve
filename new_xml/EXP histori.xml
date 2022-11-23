@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="EXP histori">
+    <event id="0" start_time="2021-12-09 14:55:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Perandoria e padukshme:Rendi  ">Politikë, aktualitet-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky dokumentar përpiqet të tregojë se zyrtarët e lartë amerikanë, mes tyre edhe presidentë, po përpiqen të vendosin një rend të ri botëror do të kufizojë liritë bazë që garanton kushtetuta amerikane dhe sovranitetin kombëtar. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 16:05:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Peggy Guggenheim">E dashuruar me Artin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Rrëfimi i rrallë i një gruaje të rrallë... Jeta e një njeriu avangardë... Peggy Guggenheim, koleksionistja më e mirë në histori... Arti modern dhe jeta e trazuar... Një jetë e çmendur mes artit dhe dashurisë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 17:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Qytetërimet">Histori-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arti është histori. Ai na mundëson të shikojmë diçka të përjetshme. Arti shihet si themelues për qytetërimin, një shprehje e njerëzimit. Por ku dhe kur nisi krijimtaria njerëzore? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pozicioni i parë">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar fitues i 5 çmimeve Kinematografike. E ardhmja e 5000 balerinëve të rinj nga e gjithë bota, varet vetëm nga 1 konkurs: 'Çmimi i madh i rinisë Amerikane'. Ndiqini hap pas hapi dhe zbuloni sakrificat e tyre...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 21:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Kush e shkrepi armen">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar personal nga Travis Wilkerson. Një hetim në të shkuarën, mbi sekretet e familjes së tij. Ishte viti 1946 kur një Afrikano - Amerikan u vra. Por kush e shkrepi armën?                                                                      </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 22:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Provat e zhdukura 3">Xhek Kasapi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai është misteri më i madh në historinë e krimit britanik. Kush ishte vrasësi i njohur si Xhek Kasapi, njeriu qe bënte namin rrugëve, duke gjymtuar prostitutat? Një detektiv amator hedh dritë mbi këtë mister dhe pretendon se më në fund ka zbuluar ide</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 23:45:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Tregtia">Histori-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Kolombus, Ohaio, në Guerrero, Meksikë dhe tek të gjithë qytetet mes tyre. Epidemia e Opioidit ka shkatërruar komunitetet të tëra, në të dy anët e kufirit. Në këtë cikël dokumentar, do të njihemi me jetën e vërtetë, atë që fshihet pas Titujve të g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 00:50:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Prostitutat që shpëtojnë nga rruga">Dokumentar 1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo vit, më shumë se 100 mijë femra trafikohen për seks në Amerikë... Kjo është historia e njërës prej tyre... E cila për më shumë se një dekadë shiti trupin e saj... Si ja doli Ani Lobert  të dilte nga kjo rrugë?  Cfarë bën ajo sot...?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 01:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Analiza e betejave">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël i ri dokumentar me analiza strategjiko-taktike, mbi betejat që ndezën flakë në kënde të ndryshme të botës, gjatë shekullit të 20-të. Këto janë ballafaqimet më të mëdha luftarake të shek. të kaluar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 02:30:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Apokalipsi: Lufta e Dytë Botërore">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dëshmoni Luftën e II-të Botërore. Afrika, Paqësori, Europa. Xhiruar nga vetë protagonistët. Restauruar në HD me ngjyra. 6 seri që nuk duhen humbur.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 03:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="O.J.Simpson:Prodhuar në Amerik">Histori-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar fitues i çmimit Oskar dhe 41 çmimeve të tjera kinematografike. Regjisor Ezra Edelman. Zbuloni dy nga fiksimet më të mëdha të Amerikës: 'raca' dhe 'fama' përmes jetës së O.J.Simpson.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 04:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Pesha e kombit">Histori-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>68.8% e amerikanëve janë mbipeshë ose obezë. Obeziteti po kthehet në epidemi. Nëse kjo çështje nuk merret seriozisht, si një prioritet kombëtar emergjent, të gjithë, individualisht dhe si komb, do të paguajnë një çmim shumë të lartë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 05:45:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Arti në shekullin e 21-VI">Art, kulturë-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali i vetëm amerikan i dedikuar arteve pamore dhe ndikimit të tyre në shoqëri,
+kthehet me sezonin e ri. Artistë të tjerë do të vazhdojnë të eksplorojnë botën që i rrethon dhe të na mrekullojnë  me këndvështrimet e tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 06:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Pokahontasi dhe kapiteni Xhon Smith">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një aventurë epike në Botën e Re. Kjo është një histori 400 vjeçare e dashurisë, tradhtisë dhe vdekjes. Historia e Princeshës Pokahontas - simboli i paqes ndërmjet kulturave të ndryshme. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 07:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Historia e filmit-Lindja e kin">Një odise-11</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi historinë e filmit. Një produksion me në qendër hitorianin dhe kritikun e filmit Marc Cousins. Një udhëtim në periudhat kryesore që kanë shënuar transformime rrënjësore në konceptimin dhe realizimin e filmit artistik.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 08:45:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Princesha Margaret - Rebelja">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ajo ishte motra më e vogël e Mbretëreshës Eizabeta e II-të. Jeta dhe dashuritë e saj, patën ndikim në revolucionin social dhe seksual që transformoi Britaninë gjatë shekullit të 20-të. Ndiqni jetën e Princeshës Margaretë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 10:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Plantagjenetët ">Histori-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historiani anglez Robert Bartlett, do të na tregojë historinë mbi 300 të vjecare të Dinastisë më të gjatë në pushtet, të Anglisë: Plantagjenetët. Duke filluar me Henrin II dhe duke përfunduar me Riçard III.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 12:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name=" Amazing Grace ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në vitin 1972, në një kishë Baptiste, Aretha Franklin regjistroi albumin me muzikë gospel, më i dashuri i karrierës së saj. Ngjarja u filmua nën regjinë e Sydney Pollack, por prej problemeve teknike, nuk u shfaq kurrë... Deri tani.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 13:25:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Qyteti i padukshëm i Romës  ">histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Thellë nën kolonat madhështore të Romës gjendet një qytet sekret i  nëntokës. Le të eksplorojmë një botë të re të padukshme, të panjohur, që na zbulon se si u ndërtua fillimisht ky metropol.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-10 14:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Historia e patreguar e SHBA-ve">Dokumentar-12</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh nga regjisori Oliver Stoun,  që gërmon dhe sjell aspektet e patreguara dhe anët e panjohura të historisë së superfuqisë më të madhe të botës. Në këtë seri vjen historia e patreguar e Luftës së Dytë Botërore.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-10 15:30:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Papa, Njeriu më i fuqishëm në histori">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një nga njerëzit më të pushtetshëm në botë mban një post që ka ekzistuar për 2 mijë vite. Ndërsa bota ndryshon dhe besimi evoluon, autoriteti i tij mbetet. Ai është Papa, kreu i Kishës Katolike. Ky është rrugëtimi i tij drejt pushtetit.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 16:15:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Pikturat e Gerhard Rihterit">Histori-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një nga artistët më me influencë të shek. Gerhard Rihter. Kush është piktori gjerman me famë botërore? Si ka ndikuar realizmi socialist dhe jeta në gjermaninë Lindore. Stili i pikturës së tij dhe pse ai vet e quan 'realizem kapitalist'.
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 18:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Qytetërimet">Histori-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arti është histori. Ai na mundëson të shikojmë diçka të përjetshme. Arti shihet si themelues për qytetërimin, një shprehje e njerëzimit. Por ku dhe kur nisi krijimtaria njerëzore? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 19:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Pabarazi për të gjithë">Ekonomi, politikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Megjithëse ekonomia amerikane është dyfishuar tre dekadat e fundit, diferencimi në shpërndarjen e të ardhurave nuk ka qenë kurrë më i madh se sot. Si po ndikon kjo gjë tek shtresa e mesme dhe e ulët amerikane?
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 21:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Endrra dhe makthi Amerikanë">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e reperit rebel Suge Knight. Si u përfshi ne botën e muzikës? Ndikimi i tij në epokën e Hip Hopit dhe jetën e ndjekësve të tij. Si shkëlqeu dhe u rrënua  bashkëthemeluesi i Death Row Records.                                
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 22:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Provat e zhdukura 4">Përbindëshi i Lok Nesit </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në zemër të malësisë së Skocisë ndodhet liqeni më i famshëm në tokë: liqeni i Lok Nesi. Rrëfimet për një përbindësh i kanë përndjekur këto ujëra të errëta për gati 1,500 vjet. Por a bëhet fjalë vërtetë për një përbindësh?
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 23:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Tregtia">Histori-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Kolombus, Ohaio, në Guerrero, Meksikë dhe tek të gjithë qytetet mes tyre. Epidemia e Opioidit ka shkatërruar komunitetet të tëra, në të dy anët e kufirit. Në këtë cikël dokumentar, do të njihemi me jetën e vërtetë, atë që fshihet pas Titujve të g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 00:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Analiza e betejave">Histori-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël i ri dokumentar me analiza strategjiko-taktike, mbi betejat që ndezën flakë në kënde të ndryshme të botës, gjatë shekullit të 20-të. Këto janë ballafaqimet më të mëdha luftarake të shek. të kaluar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 01:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Apokalipsi: Lufta e Dytë Botërore">Histori-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dëshmoni Luftën e II-të Botërore. Afrika, Paqësori, Europa. Xhiruar nga vetë protagonistët. Restauruar në HD me ngjyra. 6 seri që nuk duhen humbur.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 02:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="O.J.Simpson:Prodhuar në Amerik">Histori-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar fitues i çmimit Oskar dhe 41 çmimeve të tjera kinematografike. Regjisor Ezra Edelman. Zbuloni dy nga fiksimet më të mëdha të Amerikës: 'raca' dhe 'fama' përmes jetës së O.J.Simpson.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 03:55:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Pesha e kombit">Histori-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>68.8% e amerikanëve janë mbipeshë ose obezë. Obeziteti po kthehet në epidemi. Nëse kjo çështje nuk merret seriozisht, si një prioritet kombëtar emergjent, të gjithë, individualisht dhe si komb, do të paguajnë një çmim shumë të lartë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 05:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Prostitutat që shpëtojnë nga rruga">Dokumentar 2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo vit, më shumë se 100 mijë femra trafikohen për seks në Amerikë... Kjo është historia e njërës prej tyre... E cila për më shumë se një dekadë shiti trupin e saj... Si ja doli Ani Lobert  të dilte nga kjo rrugë?  Cfarë bën ajo sot...?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 06:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Arti në shekullin e 21-IV">Art, kulturë-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali i vetëm amerikan i dedikuar arteve pamore dhe ndikimit të tyre në shoqëri,
+kthehet me sezonin e ri. Artistë të tjerë do të vazhdojnë të eksplorojnë botën që i rrethon dhe të na mrekullojnë  me këndvështrimet e tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-11 07:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Uilliam dhe Kejt: Drejt së ardhmes">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata nuk janë më studentë të dashuruar... Sot ata janë Duka dhe Dukesha e Kembrixhit.... Mbreti dhe mbretëresha e ardhshme e Anglisë... Si ka ndryshuar jeta e Uilliam dhe Kejt, pas martese? Të pathënat e jetës së një çifti mbreteror.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-11 08:10:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Historia e filmit-Lindja e kin">Një odise-12</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi historinë e filmit. Një produksion me në qendër hitorianin dhe kritikun e filmit Marc Cousins. Një udhëtim në periudhat kryesore që kanë shënuar transformime rrënjësore në konceptimin dhe realizimin e filmit artistik.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-11 09:25:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Anelka, I keqkuptuari">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vështrim mahnitës në karrierën
+dhe jetën personale të një prej yjeve të futbollit francez Nikolas Anelka. Triumfet, tradhtitë, konkurrenca, marrëdhëniet me trajnerët dhe lojtarët.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-11 11:25:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Pas në kohë">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi impaktin që pati kinematografia e ashtëquajtur 'Pas në të ardhmen' e viteve 1980-të në kulturën tone... Zbuloni cfarë nuk dini ende për trilogjinë  'Pas në të ardhmën'. Ju ftojmë të hipin sëbashku në makinën e kohës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 13:20:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Akses sekret: Vatikani ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo vit miliona njerëz dynden në kapelat dhe muzeumet e tij. Por kjo vizitë do të jetë përtej dyerve te mbyllura, atje ku hyrja është e ndaluar, në brendesi të një prej vendeve më të mistershëm dhe të fshehtë. Në brendësi të Vatikanit... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 15:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Papa, Njeriu më i fuqishëm në histori">Histori-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një nga njerëzit më të pushtetshëm në botë mban një post që ka ekzistuar për 2 mijë vite. Ndërsa bota ndryshon dhe besimi evoluon, autoriteti i tij mbetet. Ai është Papa, kreu i Kishës Katolike. Ky është rrugëtimi i tij drejt pushtetit.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 16:00:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Procedura standarte  ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vështrim mbi luftën në Irak. Sado që pamjet dhe vetë Lufta mund të të krijojnë perceptimin e kaosit, kudo ka një procedurë... Procedurat e sulmeve, e mbrojtjes, e burgjeve dhe çdo gjë që ka të bëjë me të qenit ushtarak.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 18:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Qytetërimet">Histori-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arti është histori. Ai na mundëson të shikojmë diçka të përjetshme. Arti shihet si themelues për qytetërimin, një shprehje e njerëzimit. Por ku dhe kur nisi krijimtaria njerëzore? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 19:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Politikanë të mëdhenj">Frenklin Ruzvelt</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e një prej njerëzve më të famshëm të shek të 20. Kush ishte presidenti i 32-të, I SHBA? Si nisi karriera e suksesshme politike e avokatit 27 vjecar.. Sëmundja e rëndë e poliomelitit dhe kurajoja për të mos u dorezuar...    </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 21:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="E fiksuar, një komedi futbolli">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shtator 2010. Ndeshja miqësore e futbollit Bahrein - Togo rezulton e manipuluar, pasi ekipi që perfaqëson Togon, është një ekip i rremë. Kush fshihet pas këtij mashtrimi dhe pse?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 22:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Po sikur ? Armagedon 1962">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njihuni me një prej hamendësimeve më të habitëshme të historisë. Pa drejtimin e Xhon Kenedit, një varg ngjarjesh tronditëse mund të conin drejt një katastrofe nukleare ?  
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 22:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Provat e zhdukura 5">Trekëndëshi i Sierra Nevadës</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë sekreti fshehin malet në Sierra Nevada-s. Pse kanë humbur jetën kaq shumë pilotë e shumë të tjerë janë zhdukur pa lënë asnjë gjurmë? Cila është prova që mungon e cila mund të shpjegojë gjithë këto zhdukje?
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 23:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Tregtia II">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Kolombus, Ohaio, në Guerrero, Meksikë dhe tek të gjithë qytetet mes tyre. Epidemia e Opioidit ka shkatërruar komunitetet të tëra, në të dy anët e kufirit. Në këtë cikël dokumentar, do të njihemi me jetën e vërtetë, atë që fshihet pas Titujve të g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-12 00:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Prostitutat që shpëtojnë nga rruga">Dokumentar-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo vit, më shumë se 100 mijë femra trafikohen për seks në Amerikë... Kjo është historia e njërës prej tyre... E cila për më shumë se një dekadë shiti trupin e saj... Si ja doli Ani Lobert  të dilte nga kjo rrugë?  Cfarë bën ajo sot...?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-12 01:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Analiza e betejave">Histori-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël i ri dokumentar me analiza strategjiko-taktike, mbi betejat që ndezën flakë në kënde të ndryshme të botës, gjatë shekullit të 20-të. Këto janë ballafaqimet më të mëdha luftarake të shek. të kaluar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-12 02:45:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Apokalipsi: Lufta e Dytë Botërore">Histori-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dëshmoni Luftën e II-të Botërore. Afrika, Paqësori, Europa. Xhiruar nga vetë protagonistët. Restauruar në HD me ngjyra. 6 seri që nuk duhen humbur.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-12 03:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="O.J.Simpson:Prodhuar në Amerik">Histori-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar fitues i çmimit Oskar dhe 41 çmimeve të tjera kinematografike. Regjisor Ezra Edelman. Zbuloni dy nga fiksimet më të mëdha të Amerikës: 'raca' dhe 'fama' përmes jetës së O.J.Simpson.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-12 04:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Pikaso dhe Brakue shkojnë ">në kinema</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kinematografia është një nga arritjet e bujshme të teknologjisë. Si ndikoi ky fenomen në pikturën e Pikasos dhe Brakut. Cilët ishin agjentët katalitikë që ata përdorën për të kapërcyer kufijtë e artit pamor dhe kubizmi? 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-12 06:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Arti në shekullin e 21-IV">Art, kulturë-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali i vetëm amerikan i dedikuar arteve pamore dhe ndikimit të tyre në shoqëri,
+kthehet me sezonin e ri. Artistë të tjerë do të vazhdojnë të eksplorojnë botën që i rrethon dhe të na mrekullojnë  me këndvështrimet e tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-12 07:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Wikisekretet">Dokumentar/Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në pranverën e vitit 2010 ndodhi shkelja më e rëndë në historinë e shërbimeve sekrete të Shteteve të Bashkuara, publikimi në internet për publikun i mbi 500 mijë dokumentave sekrete që u nxorën në faqen e internetit të Wikileaks. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-12 08:10:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Historia e filmit-Lindja e kin">Një odise-13</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi historinë e filmit. Një produksion me në qendër hitorianin dhe kritikun e filmit Marc Cousins. Një udhëtim në periudhat kryesore që kanë shënuar transformime rrënjësore në konceptimin dhe realizimin e filmit artistik.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-12 09:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Altea">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta e tenistes së famshme Afro-Amerikane Altea Gibson. Ulje-ngritjet e një karriere e cila kalon përmes sportit dhe luftës për zhdukjen e dallimit racor në Amerikën e viteve 50 të. Një histori komplekse racash, klasash sociale dhe lufte për barazi g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-12 11:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Pasqyra e Të Vërtetës">Histori, aktualitet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata ishin politikanët që bënë gjithçka për të ndaluar legjislacionin pro homoseksualëve dhe nismat për të përmirësuar të drejtat e tyre, ndërkohë që vetë kishin patur eksperienca të fshehta seksuale me njerëz të të njëjtit seks.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-12 13:00:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Alkool, krim dhe prohibicion">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Le të zbulojmë sekretet e kohës së 'prohibicionit' në Amerikë. Një çast vendimtar në historinë e këtij vendi. Epoka e quajtur 'vitet e zhurmshme 20'. Një kohë kontradiktash, varfërie dhe dekadence. Një periudhë ikonë e historisë amerikane.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-12 15:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Papa, Njeriu më i fuqishëm në histori">Histori-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një nga njerëzit më të pushtetshëm në botë mban një post që ka ekzistuar për 2 mijë vite. Ndërsa bota ndryshon dhe besimi evoluon, autoriteti i tij mbetet. Ai është Papa, kreu i Kishës Katolike. Ky është rrugëtimi i tij drejt pushtetit.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-12 16:00:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Anjeli          ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai ishte simboli i Rilindjes Italiane. Makinat, femrat dhe moda ishin pasionet e tij. Një portret biografik i pronariat të Fiatit, Xhani Anjeli. Pamje dhe intervista eksluzive me familjarët, miqtë, bashkëpunëtorët dhe rivalët e tij.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-12 18:10:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Qytetërimet">Histori-7</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arti është histori. Ai na mundëson të shikojmë diçka të përjetshme. Arti shihet si themelues për qytetërimin, një shprehje e njerëzimit. Por ku dhe kur nisi krijimtaria njerëzore? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-12 19:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Pagjumësia në Amerikë       ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A e dinit se mungesa e gjumit është një faktor rreziku për obezitetin. Pagjumësia lidhet edhe me çrregullime te ankthit dhe  depresionit. Apnea e gjumit është një vrasës i vërtetë. Që nga sot, ju nuk duhet ta nënvlerësoni me rëndësinë e nevojës  për </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-12 21:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ëndrrat e një jete">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e Xhojs Vinsent, e cila u gjet e vdekur pas 3 vitesh, në apartamentin e saj, në vitin 2003 në Londër. Përse trupi i saj u zbulua kaq vonë? Asnjeri nuk kishte kontakte me të?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-12 22:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Provat e zhdukura 6">Këmbëmadhi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zërat thonë se në Amerikën e Veriut endet një bishë gjigante. Me një gjatësi prej 3 metrash, dhe me peshë deri në 450 kg. Cili apo ç'është realisht i ashtuquajturi Këmbëmadh? A mund të jetë e vërtetë që një nga paraardhësit tanë jeton ende mes nesh n</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-12 23:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Tregtia II">Histori-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Kolombus, Ohaio, në Guerrero, Meksikë dhe tek të gjithë qytetet mes tyre. Epidemia e Opioidit ka shkatërruar komunitetet të tëra, në të dy anët e kufirit. Në këtë cikël dokumentar, do të njihemi me jetën e vërtetë, atë që fshihet pas Titujve të g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-13 00:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Amerika në  Romë">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim sentimental nga regjisori Gianfranco Pannone për të gjetur aktorët e tij të preferuar të kinemasë italiane 'western' të viteve 1960-të dhe 70-të.  Një udhëtim në disa nga studiot kryesore të kohës, me karaktere dikur të famshem.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-13 02:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Analiza e betejave">Histori-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël i ri dokumentar me analiza strategjiko-taktike, mbi betejat që ndezën flakë në kënde të ndryshme të botës, gjatë shekullit të 20-të. Këto janë ballafaqimet më të mëdha luftarake të shek. të kaluar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-13 03:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Apokalipsi: Lufta e Dytë Botërore">Histori-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dëshmoni Luftën e II-të Botërore. Afrika, Paqësori, Europa. Xhiruar nga vetë protagonistët. Restauruar në HD me ngjyra. 6 seri që nuk duhen humbur.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-13 04:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="O.J.Simpson:Prodhuar në Amerik">Histori-7</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar fitues i çmimit Oskar dhe 41 çmimeve të tjera kinematografike. Regjisor Ezra Edelman. Zbuloni dy nga fiksimet më të mëdha të Amerikës: 'raca' dhe 'fama' përmes jetës së O.J.Simpson.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-13 05:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Antologjia e këngës Napolitane">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një traditë e artë që ka mbërritur deri në ditët tona. Këngë të famshme Napolitane. Këngë të hershme të kënduara nëpër kafene dikur, por që morën famë përtej tymit të kafeneve, qytetit dhe Italisë....
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-13 06:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kevin Hart: Po tani?">Spektakel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Komediani Kevin Hart pas suksesit të turit të komedisë të vitit 2013-të, ngjitet në skenë përballë më shumë se 50 mijë njerëzve, duke u bërë komediani i parë që realizon një shfaqje në një stadium të mbushur plot...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-13 07:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Historia e filmit-Lindja e kin">Një odise-14</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi historinë e filmit. Një produksion me në qendër hitorianin dhe kritikun e filmit Marc Cousins. Një udhëtim në periudhat kryesore që kanë shënuar transformime rrënjësore në konceptimin dhe realizimin e filmit artistik.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-13 08:40:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Lambert dhe Stamp">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Producentët Stamp dhe Lambert po planifikonin për filmin e tyre të rradhës. Në punë e sipër ata zbulojnë një grup 'The Who' dhe vendosën ti menaxhojnë, duke i kthyer kështu në 'Fenomenin' e viteve 1960-të. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-13 10:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Karol King: Natural Woman     ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ajo është këngetarja, ajo është kompozitorja, ajo është pianistja, ajo është Karol King. Jeta e një vajze që ndoqi ëndrrën e saj. Si mësoi të luajë në piano pa mësuar notat, për t'u shndërruar në një nga kompozitorët më të famshme të shek 20të.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-13 11:45:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Lenon në Nju Jork">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vështrim në periudhën kur ish-bitëllsi, jetonte në Nju Jork. Vendi ku ai ndihej i plotësuar. Jeta e përditshme. Lidhja me qytetin, njerëzit dhe sigurisht familjen...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-13 13:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Kolombi:Të fshehta nga varri">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kristofor Kolombi njihet si themelues i një bote të re. Megjithatë ai, ruajti deri në fund një të fshehtë: identitetin e tij. Një ekip shkencëtarësh ka zhvarrosur eshtrat e tij, për të zbuluar të vërtetën.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-13 14:45:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Papa, Njeriu më i fuqishëm në histori ">Histori-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një nga njerëzit më të pushtetshëm në botë mban një post që ka ekzistuar për 2 mijë vite. Ndërsa bota ndryshon dhe besimi evoluon, autoriteti i tij mbetet. Ai është Papa, kreu i Kishës Katolike. Ky është rrugëtimi i tij drejt pushtetit.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-13 15:35:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kapitalizmi: Histori dashurie">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cili është çmimi që paguan Amerika, për dashurinë e saj ndaj kapitalizmit?
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-13 17:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Lufta e Banonit">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai ishte strategu më i lartë i presidentit Tramp. Një nacionalist i vijës së ashpër që premtoi përçarje. Kush ishte Stiv Banoni dhe si ndikoi ai ne qeverisjen e Donald Trump.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-13 18:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Qytetërimet">Histori-8</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arti është histori. Ai na mundëson të shikojmë diçka të përjetshme. Arti shihet si themelues për qytetërimin, një shprehje e njerëzimit. Por ku dhe kur nisi krijimtaria njerëzore? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-13 19:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Klubi i 27 vjeçarëve">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur vdiqën, ata ishin të rinj dhe të famshëm. Ndiqni historitë e legjendave të rrokut. Rrugëtimin e tyre muzikor dhe atë personal.                                                                                            
+                          </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-13 21:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Kanali i Panamasë ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia kanalit të Panamasë një projekt kolosal inxhinierik nga ata që bota s'kishte hasur më parë... Pse u ndërtua kanali i lundrueshëm  80 km i gjatë dhe pse u konsiderua si triumfi i teknologjisë mbi natyrën. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-13 22:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Katastrofa e kryqëzorit">Brenda Konkordias</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si ndodhi përplasja e Kryqëzorit, Kosta Konkordia, me shkëmbinjtë në brigjet e Italisë. Faktet e reja të hetimit mjeko-ligjor... Rrëfimet pikëlluese të të mbijetuarve mbi luftën pikëlluese për jetë a vdekje... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-13 23:30:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Tregtia II">Histori-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Kolombus, Ohaio, në Guerrero, Meksikë dhe tek të gjithë qytetet mes tyre. Epidemia e Opioidit ka shkatërruar komunitetet të tëra, në të dy anët e kufirit. Në këtë cikël dokumentar, do të njihemi me jetën e vërtetë, atë që fshihet pas Titujve të g</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-14 00:30:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Luis Tero">Lojerat e fatit ne Las Vegas</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një nga gazetarët më të njohur Britanik, nëpërmejt një cikli dokumentarësh shumë interesant, do të na njohë me vende, njerëz, fakte shumë të çuditshme. Ku nuk do të mungojnë edhe situata të rrezikshme.      
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-14 01:35:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Analiza e betejave">Histori-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël i ri dokumentar me analiza strategjiko-taktike, mbi betejat që ndezën flakë në kënde të ndryshme të botës, gjatë shekullit të 20-të. Këto janë ballafaqimet më të mëdha luftarake të shek. të kaluar.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-14 02:25:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Apokalipsi: Lufta e Dytë Botër">Histori-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dëshmoni Luftën e II-të Botërore. Afrika, Paqësori, Europa. Xhiruar nga vetë protagonistët. Restauruar në HD me ngjyra. 6 seri që nuk duhen humbur.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2021-12-14 03:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="O.J.Simpson:Prodhuar në Amerik">Histori-8</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar fitues i çmimit Oskar dhe 41 çmimeve të tjera kinematografike. Regjisor Ezra Edelman. Zbuloni dy nga fiksimet më të mëdha të Amerikës: 'raca' dhe 'fama' përmes jetës së O.J.Simpson.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2021-12-14 04:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kebeku: Qyteti me shtresa">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vend shumë emocionues në historinë e Kanadasë...Një vend ku arkeologët kanë gjetur më shumë se gjysmë milioni
+artefakte. Një udhëtim në qytetin e vjetër të Kebekut...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2021-12-14 05:25:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Bobi Fisher, kundër botës ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Që prej lindjes, në shekullin e 6-të, shahu ka qenë loja e mbretërve, prova e zgjuarsisë dhe loja e përsosur e luftës.. Historia e një mjeshtri botëror, kampionit: Bobi Fisher. Jeta brenda dhe jashtë fushës së shahut. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2021-12-14 07:10:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Arti në shekullin e 21-V">Art, kulturë-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seriali i vetëm amerikan i dedikuar arteve pamore dhe ndikimit të tyre në shoqëri,
+kthehet me sezonin e ri. Artistë të tjerë do të vazhdojnë të eksplorojnë botën që i rrethon dhe të na mrekullojnë  me këndvështrimet e tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2021-12-14 08:15:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Joan Miro: Shkalla e Arratisje">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Miro - një artist i cili studioi historinë, traditën dhe kulturën.  Konflikti që e ndoqi gjatë karrierës së tij 70-vjeçare, ishte përkushtimin ndaj lirisë së Katalonjës dhe dëshirës për t'u arratisur në krijimtari të pastër.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2021-12-14 08:55:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Historia e filmit-Lindja e kin">Një odise-15</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dokumentar mbi historinë e filmit. Një produksion me në qendër hitorianin dhe kritikun e filmit Marc Cousins. Një udhëtim në periudhat kryesore që kanë shënuar transformime rrënjësore në konceptimin dhe realizimin e filmit artistik.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2021-12-14 10:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Jeta dhe vepra e Xhek kardif  ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta dhe aktiviteti i Xhek Kardif, një pioner i kinemasë europiane. Kameramani i filmit të parë me ngjyra dhe inovacioni që ai solli në mënyrën e xhirimit dhe teknikën e ndricimit..
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2021-12-14 11:45:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Jeta e Li Morganit">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar kandidat  për 7 cmime kinematografike. Jeta dhe vdekja tragjike e trumpetistit të madh të jazzit Lee Morgan. Pse u akuzua gruaja e tij për vrasjen e Morgan?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2021-12-14 13:35:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Kenedi/Xhonson:Kohë për madheshti">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një histori konkurrence dhe bashkëpunimi. Kush ishte Lindon Xhonson, senatori i Texas-it emëruar si zv.presidentit Xhon Kenedi? Cilat ishin marrdhëniet mes tyre? Pse thonë se të dy bashkë krijonin një çast të rëndësishëm në historinë e Amerikës dhe s</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2021-12-14 15:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Papa, Njeriu më i fuqishëm në histori">Histori-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një nga njerëzit më të pushtetshëm në botë mban një post që ka ekzistuar për 2 mijë vite. Ndërsa bota ndryshon dhe besimi evoluon, autoriteti i tij mbetet. Ai është Papa, kreu i Kishës Katolike. Ky është rrugëtimi i tij drejt pushtetit.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2021-12-14 16:10:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Lufta që po vjen në Kinë">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentari i 60të i Xhon Pilger, tregon atë që lajmet e mbajnë të fshehtë. SHBA dhe vendi i II me ekonominë më të madhe në Botë, Kina, janë gati për luftë. Një dokumentar që vjen si një paralajmërin dhe si një histori frymëzuese për rezistencë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2021-12-14 18:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Qytetërimet">Histori-9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arti është histori. Ai na mundëson të shikojmë diçka të përjetshme. Arti shihet si themelues për qytetërimin, një shprehje e njerëzimit. Por ku dhe kur nisi krijimtaria njerëzore? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2021-12-14 19:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Koha      ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e vërtetë e Fox Rich, një luftëtare e vërtetë. Ajo për dy dekada luftoi për lirimin e burrit të saj. Ai u dënuar me 60 vjet burgim për një vjedhje, që të dy e bënë në fillim të viteve 1990, në një moment dëshpërimi.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2021-12-14 21:00:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Bi Xhis - Si mund të shërosh një zemër t">Histori-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jeta dhe karierra e vëllezërve Beri, Robin dhe Mauris Gib, apo të njohur ndryshe si Bi Xhiz. Grupi legjendar anglez i viteve 60-të. Mbi 1000 këngë të kompozuara dhe 20-të Hite të pavdekshme.
+ 
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2021-12-14 22:05:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Letra nga Bagdadi ">Histori</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e Gertrudë Bell, e rrëfyer me fjalët e saj dhe të bashkëkohësve... Të marra nga letrat e saj personale... Ajo ndikoi në fatin e Irakut pas Luftës së Parë Botërore, në mënyra që ende jehojnë edhe sot...</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Autor">
+    <event id="0" start_time="2021-12-09 13:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Lora">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një bashkëprodhim australiano-gjerman, një dramë e Luftës II Botërore, fituese e 20 çmimeve në festivale. Pasi prindërit nazistë burgosen, një vajzë dhe vëllezërit e saj do të ndihmohen nga një hebre, në udhëtimin e tyre të mbijetesës...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 15:30:00" duration="9600">
+      <short_event_descriptor lang="alb" name="Na ishte njëhere perendimi">Western </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Sergio Leone; Aktorë: Henry Fonda, Claudia Cardinale, Jason Robards, Charles Bronson. I vlerësuar si filmi më i bukur Western i realizuar ndonjëherë. Me muziken magjepsëse të Enio Morricones.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 18:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Elizabeta: Epoka e artë  ">Cate Blanchett</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>E vetëdijshme për tendencat e ndryshimeve në politikat e Evropës së fundshekullit të 16-të, Mbretëresha Elizabeta i detyrohet t'i bëjë ballë sulmeve të Filipit II të Spanjës, qe është i vendosur të rikthejë katolicizmin në Angli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 20:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Pele: Historia e një legjende">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e heroit më të madh të futbollit të të gjitha kohëve. Si arriti Pelé, një i ri nga lagjet e varfra të Sao Paolos, të shndërrohej në një legjendë të përjetshme të sportit më të përhapur në botë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 21:45:00" duration="6900">
+      <short_event_descriptor lang="alb" name=" Kapernaum">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga kinemaja libaneze vjen historia e një 12 vjeçari që ka vite i neglizhuar nga prindërit dhe kur rrezikon të dënohet për një krim të dhunshëm, i hedh në gjyq ata. Kandidat për çmimin Oskar.  Fitues i tre çmimeve në festivalin e Kanës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 23:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pas Dasmës">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2006. Mads Mikkelsen. Filmi Danez, pjesmarrës në festivalin e Torontos 2006. Kandidat për Oskar 'Filmi më i mirë i huaj' 2007. Menaxheri i një jetimoreje në Indi do të përballet me të papritura, në dasmën e vajzës së një biznesmeni të njohur. 
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-10 01:40:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Poezia">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi Korean, kandidat për 'Palmën e Artë' në festivalin e 63-të Kanës... Një grua rreth të 60-tave do të gjejë forcën për të përballuar sëmundjen e rëndë, kur zbulon pasionin për poezinë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 03:55:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Karamel">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nadine Labaki, Joanna Moukarzel, Gisèle Aouad. Në këtë komedi romantike eksplorohen jetët e përditshme dhe shqetësimet e pesë grave libaneze që jetojnë në Beirut.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 05:25:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Lindur dje">Classic Collection</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në komedinë e Garson Kanin. Regjia George Cukor. Judy Holliday  në rolin që i dhuroi cmimin Oskar,  William Holden. Historia e trafikantit Herri dhe të dashurës së tij, e cila vendos t'i kundërvihet rolit të saj prej marionete...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 07:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Amerika Tjetër">Goran Paskaljeviç</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një emigrant spanjoll dhe një emigrant ilegal malazez, përpiqen të mbijetojnë në një cep të humbur të Nju Jorkut, me shpresën se do t'ia dalin mbanë në ëndrrën e tyre amerikane, por gjërat ndryshojnë kur ballkanasit i vjen familja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 08:35:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Fjalët dhe pikturat">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Clive Owen, Juliette Binoche. Një mësues anglishteje dhe një mësuese arti përfshihen nga rivalitet që çon në organizimin e një konkursi në shkollë, ku nxënësit duhet të vendosin se cilat janë më të rëndësishme: fjalët apo pikturat</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 10:30:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kartushi">Classic Collection</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kartushi, një hajdut me famë (Jean-Paul Belmondo), bashkë me ndihmën e bukuroshes Venus (Claudia Cardinale), grabisin të pasurit, për të ndihmuar njerëzit e varfër, në Parisin e 1700-tës.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 12:25:00" duration="12600">
+      <short_event_descriptor lang="alb" name="Lorenci i Arabisë">Kinema autor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Peter O'Toole, Alec Guinnes, Anthony Quin, Omar Sharif. Fitues i 7 çmimeve Oskar. Historia e legjendarit T.E.Lawrence, njeriut që u përpoq të bashkonte Arabinë e ndarë dhe ta udhëhiqte atë në luftën për liri kundër perandorisë turke.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 15:55:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Katër martesa dhe një funeral"> Kinema Autor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hugh Grant, Andie MacDowell.  Gjatë pesë eventeve të ndryshme, një beqar i betuar për të mos u martuar, zbulon se mund të ketë gjetur dashurinë e vërtetë. Fitues i Globit të Artë 1994 dhe kandidat për dy çmime Oskar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 17:50:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Të gjithë e dinë">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Asghar Farhadi. Penélope Cruz, Javier Bardem. Laura ritkhehet në qytezën e saj të lindjes në Spanjë, për dasmën e së motrës. Por, festimet ndërpriten nga ngjarje të papritura, të cilat zbulojnë sekrete të fshehura thellë...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 20:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Shërbyeset">Fitues i çmimit Oskar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Emma Stone. Misisipi 1960-të, kohë ndryshimesh të mëdha. Një vajzë e bardhë, shkrimtare plot aspirata do të trondisë gjithë kombin. Pa marrë parasysh pasojat, ajo shkruan një libër bazuar në historitë e grave shërbëtore me ngjyrë...   
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 22:20:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Venusi me peliçe">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia Roman Polanski. Emmanuelle Seigner, Mathieu Amalric. Një aktore tenton të bindë regjisorin se është gjetja e përkryer për rolin kryesor në produksionin e tij të ri. Kandidat për Palmën e Artë, Kanë, 2013. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 23:55:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Këmbëzbathur në park">Classic Collection</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Film kandidat për çmimin Oskar. Përshtatur nga pjesa teatrale e mjeshtrit të komedisë Neil Simon. Në qëndër të filmit është marrdhënia pasionante dhe komike e një çifti të sapo martuar, interpretuar nga  Robert Redford dhe Jane Fonda.
+
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-11 01:40:00" duration="10200">
+      <short_event_descriptor lang="alb" name="Aventurierët">Bekim Fehmiu </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në romanin e Harold Robbins. Një film nga Lewis Gilbert. Me  Bekim Fehmiu, Candice Bergen, Charles Aznavour... Një histori hakmarrjeje, frymëzuar nga jeta e diplomatit dhe playboy-it domenikan Porfirio Rubirosa..
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-11 04:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Pema">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas vdekjes së të atit, një vajzë tetë vjeçe është e bindur se ai vazhdon të komunikojë me të nëpërmjet fëshfëritjeve të gjetheve të pemës gjigande në oborrin e shtëpisë së tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-11 06:05:00" duration="8700">
+      <short_event_descriptor lang="alb" name="Komediania">Classic Collection</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Omar Sharif dhe Barbra Streisand,  në rolin që i dhuroi çmimin e parë Oskar në vitin  1968. Një komedi muzikore, bazuar në jetën dhe karrierën e komedianes Fanny Brice... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-11 08:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Koha e suingut">Classic Collection</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një komedi muzikore me Fred Astaire dhe Ginger Rogers. Regjisor George Stevens.  Film fitues i cmimit Oskar për 'Këngën më të mirë' në vitin 1936 - 'The Way You Look Tonight' kompozuar nga Jerome Kern. Kërcim, këngë dhe romancë në një Klasik të paharrueshëm...
+ 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-11 10:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Festa e Funeralit">Robert Duvall </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: A.Schneider. Bill Murray, Sissy Spacek. Një plak vetmitar që s'ka kontakte me asnjeri prej 40-të vitesh, vendos të organizojë varrimin e tij, duke bërë një festë të madhe ku do ti ftojë të gjithë... Edhe pse është ende gjallë...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-11 11:50:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Na ishte një herë...">Classic Collection</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sophia Loren, Omar Sharif. Përralla e bukur e një princi spanjoll, qe duhet të zgjedhë gruan e tij mes 7 princesash italiane. Por ai bie në dashuri me Francesken, fshataren më të bukur të Napolit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-11 13:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Në Shërbimin Sekret të Madhërisë së Saj">Agjenti 007</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me George Lazenby. Në misionin e rradhës James Bondi duhet të mposhtë Blofeld, i cili hipnotizon gratë e bukura për të realizuar qëllimet e tij të liga. Ndërkohë, Bondi, bie në dashuri me vajzën e një krimineli...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-11 16:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Andreotti-Jetë e jashtëzakonshme">Paolo Sorrentino</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Me Toni Servillo. Portreti dhe historia e politikanit Italian Giulio Andreotti, i zgjedhur 7 herë kryeministër që prej vitit 1946. Jeta sociale, betejat elektorale, atentatet, akuzat dhe procesi gjyqësor mbi lidhjet e tij me mafien. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-11 17:50:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Njeriu i shiut">Dustin Hoffman</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: B.Levinson. Aktorët: D.Hoffman, T.Cruise. Fitues i 4 çmimeve Oskar dhe i 19 çmimeve të tjera kinematografike. Çarli do të përfitojë nga trashëgimia vetëm nëse kujdeset për vëllanë e tij me aftësi të kufizuara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 20:00:00" duration="8400">
+      <short_event_descriptor lang="alb" name="My Way">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Florent-Emilio Siri. Aktor: Jérémie Renier. Historia e ikonës së këngës franceze, Claude Francois, i njohur si Cloclo; mbret i skenës dhe magjistar marketingu. Ambicia e tij e ngjiti drejt e në majë, por e çoi në një fundi tragjik.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 22:20:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Forca Madhore:Tradhtia e Instiktit">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një familje pushuesish në Alpet e Francës, papritur e gjen veten përballë një orteku dhe hezitimit të babait të familjes që mendon për sigurinë e tij para jetës së fëmijëve. Fitues i çmimit të jurisë, Kanë, 2014.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-12 00:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Derisa vdekja të na ndajë">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjisori turk Fatih Akin, fitues i 'Ariut të Artë' në festivalin e 54-t të Berlinit. Drama e dy refugjatëve turq të brezit të dytë në Gjermani, që do të bashkohen në një martesë me interes...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-12 02:10:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Familje Hajdutësh">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Fitues i Palmës së Artë si filmi më i mirë në Festivalin e Kanës 2018. Jeta e një familjeje që e shtyn duke vjedhur nëpër supermarkete, ndryshon përgjithnjë kur në gjirin e tyre mirëpresin një vajzë që e gjejnë rrugëve. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-12 04:10:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Olio dhe Stenlio"> Classic Collection  </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Oliver Hardy, Stan Laurel. Dyshja klasike e aktorëve të humorit vjen me situatat komike dhe rolet e tyre e tyre më të mira që nga filmat pa zë deri tek realizimet e metrazhit të gjatë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-12 05:25:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Beteja e Britanisë">Classic Collection</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktorë: Laurence Olivier, Michael Caine, Christopher Plummer...  Beteja historike ajrore e Britanisë, për të mbrojtur vendin nga pushtimi Nazist, në 1940-tën...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-12 07:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Asi">Adriano Celentano</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Asi (Adriano Celentano) lojtari më i mirë i pokerit në gjithë qytetit, vritet pikëritsht ditën e dasmës... Tashmë, ai rikthehet në tokë si një fantazmë, për të gjetur një burrë të denjë për gruan e tij (Edwige Fenech) ...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-12 09:10:00" duration="11100">
+      <short_event_descriptor lang="alb" name="Nikson">Oliver Stone</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A.Hopkins, J.Allen, E.Harris. Kandidat për 4 çmime Oskar. Historia e presidentit më famëkeq amerikan, skandali i Watergate, kujtimet e fëmijërisë së tij dhe gjithçka që e bëri këtë njeri të urrehet me dëshirë nga vetë populli i tij.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-12 12:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Çmimi i lakmisë">Kinemaja Indipendente</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kevin Spacey, Paul Bettany, Jeremy Irons. Një vështrim nga afër i 24 orëve të nëpunësve kryesorë të një banke investimesh, në prag të krizës së madhe financiare. Kandidat për çmimin Oskar dhe kandidat për Luani i Artë, Berlin.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-12 14:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Dy dashuri ">Joaquin Phoenix</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: James Gray. Bazuar në tregimin e Dostojevskit 'Netë të Bardha'.  Filmi që bëri të dashurohej publikun e festivalit të 61-të të Kanës. Një histori moderne dashurie, mes Joaquin Phoenix, Gwyneth Paltrow
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-12 15:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Bisha pa atdhe">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Regjia: Cary Joji Fukunaga. Me Idris Elba, Abraham Attah. Bazuar në romanin e vlerësuar me të njëjtin titull. Tmerret e luftës, përmes syve të një prej viktimave më tragjike të saj, një fëmijë ushtar. Pjesmarrës në Festivalin e Venecias.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-12 18:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Jeto dhe lër të vdesin">Agjenti 007</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi i tetë në serinë e fimave 'James Bond', interpretuar për herë të parë nga Roger Moore. Bazuar në romanin me të njëjtin titull të Ian Fleming të vitit 1954. Agjenti Britanik James Bond 007, dërgohet në një mision për të hetuar vrasjen e tre agjentëve të tjerë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-12 20:00:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Bankieri">Histori e vërtetë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Anthony Mackie, Samuel L. Jackson. Në Amerikën e viteve '60, dy afaristë me ngjyrë hartojnë një plan gjenial biznesi për të luftuar racizmin në tregun e pasurive të paluajtshme, që kontrollohej kryesisht nga të bardhët</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-12 21:55:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Shije hekuri e kocke">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Marion Cotillard. Një dramë shumëdimensionale mes një luftëtari ndeshjesh të jashtëligjshme dhe një stërvitëseje balenash që tregon se jeta fillon pikërisht atëherë kur duket se gjithçka ka mbaruar.  Kandidat për Palmën e Artë, 2012. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-12 23:50:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Kali i Torinos">Film Festival</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi hungarez, fitues i çmimit 'Ariu i argjendt' në festivalin e 61 të Berlinit. Nën regjinë e Béla Tarr, Ágnes Hranitzky. Bazuar në ngjarjen, që mendohet se i shkaktoi vdekjen, filozofit gjerman Frederik Niçe...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

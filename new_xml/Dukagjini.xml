@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Dukagjini">
+    <event id="0" start_time="2018-05-20 22:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Dukagjini">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2018-05-21 06:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Dukagjini">Programe</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2018-05-21 14:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="Dukagjini" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

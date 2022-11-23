@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport HD 3">
+    <event id="0" start_time="2021-12-08 17:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gol Pas Goli">Analize-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjergji Stefa dhe te ftuarit e saj, gazetare e analiste, sjellin gjithcka per edicionin e 83-te te Abissnet Superiore si dhe zhvillimet me te fundit ne kampionatin shqiptar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-08 18:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Super Emocione">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje golave dhe momenteve me te mira te ndeshjeve te transmetuara ne Supersport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-08 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Real Madrid-Sevilla">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2021-2022. Sfide e vlefshme per javen e 15-te nga stadiumi "Santiago Bernabeu" ne Madrid. Komenti: Glenti Nallbani. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-08 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Vllaznia-Partizani">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Loro Borici" ne Shkoder. Komenti: Sokol Xhihani. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-08 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Premier League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te fundjaves se shkuar ne kampionatin anglez. Premier League, sezoni 2021-2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dortmund-Bayern">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2021-2022. Sfide e vlefshme per javen e 14-te nga stadiumi "Signal Iduna Park" ne Dortmund. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Bundesliga">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te javes se 14-te te kampionatit gjerman. Bundesliga 1, sezoni 2021-2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-09 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Villarreal-Barcelona ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2021-2022. Sfide e vlefshme per javen e 15-te nga stadiumi "Estadio de la Ceramica" ne Villarreal. Komenti: Sokol Xhihani. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="PSG-Nantes">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2021-2022. Sfide e vlefshme per javen e 14-te nga stadiumi "Parc des Princes" ne Paris. Komenti: Andi Decka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Premier League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te fundjaves se shkuar ne kampionatin anglez. Premier League, sezoni 2021-2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-09 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Skenderbeu-Egnatia">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Skenderbeu" ne Korce. Komenti: Anarildo Alia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-09 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Vllaznia-Partizani">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Loro Borici" ne Shkoder. Komenti: Sokol Xhihani. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-09 12:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gol pas Goli	">Analize-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vilma Masha dhe te ftuarit e saj, gazetare e analiste, sjellin gjithcka per edicionin e 83-te te Abissnet Superiore si dhe zhvillimet me te fundit ne kampionatin shqiptar.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-09 12:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Laci  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Air Albania" ne Tirane. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-09 14:45:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Gol Pas Goli">Analize-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vilma Masha dhe te ftuarit e saj, gazetare e analiste, sjellin gjithcka per edicionin e 83-te te Abissnet Superiore si dhe zhvillimet me te fundit ne kampionatin shqiptar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-09 15:30:00" duration="900">
+      <short_event_descriptor lang="alb" name="Super Emocione">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te Serie A te transmetuara ne SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-09 15:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Galatasaray-Lazio ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League, sezoni 2021-2022. Sfide e vlefshme per grupin E nga stadiumi "Turk Telekom" ne Stamboll. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-09 17:45:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sociedad-PSV  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League, sezoni 2021-2022. Sfide e vlefshme per grupin B nga stadiumi "Reale Arena" ne San Sebastian. Komenti: Egi Duro.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-09 19:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="Super Emocione">Permbledhje</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te ndeshjeve transmetuar ne SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-09 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Europa Conference League - Golat Direkt">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa dhe Conference League, sezoni 2021-2022. Lidhje direkte me cdo sfide te mbremjes, gola, raste, kartona, episode dhe gjithcka tjeter qe ofron ky kompeticion.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-09 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="CSKA Sofje-Roma">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Conference League, sezoni 2021-2022. Sfide e vlefshme per grupin C nga stadiumi "Vasil levski" ne Sofje. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-10 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sociedad-PSV  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League, sezoni 2021-2022. Sfide e vlefshme per grupin B nga stadiumi "Reale Arena" ne San Sebastian. Komenti: Egi Duro. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-10 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Rennes-Tottenham">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Conference League, sezoni 2021-2022. Sfide e vlefshme per grupin G nga stadiumi "Roazhon Park" ne Rennes. Komenti: Ermal Toti.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Ligue 1">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te fundjaves qe lam pas ne kampionatin francez. Ligue 1, sezoni 2021-2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lens-PSG  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2021-2022. Sfide e vlefshme per javen e 17-te nga stadiumi "Bollaert-Delelis" ne Lens. Komenti: Erdi Kerciku.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="CSKA Sofje-Roma">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Conference League, sezoni 2021-2022. Sfide e vlefshme per grupin C nga stadiumi "Vasil levski" ne Sofje. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sociedad-PSV  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League, sezoni 2021-2022. Sfide e vlefshme per grupin B nga stadiumi "Reale Arena" ne San Sebastian. Komenti: Egi Duro. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Laci  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Air Albania" ne Tirane. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dinamo-Teuta">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Elbasan Arena". Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Vllaznia-Partizani  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Loro Borici" ne Shkoder. Komenti: Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Augsburg-Bayern">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "WWK Arena" ne Augsburg. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 19:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Super emocione">Permbledhje</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te ndeshjeve te transmetuara ne Supersport.	</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-10 19:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Koln-Augsburg  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2021-2022. Sfide e vlefshm eper javen e 15-te nga stadiumi "Rhein Energie Stadion" ne Koln. Komenti: Andi Decka.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-10 21:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Super Emocione">Permbledhje</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te kampionatit spanjoll transmetuar ne SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-10 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lazio-Galatasaray  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League, sezoni 2021-2022. Sfide e vlefshme per grupin E nga stadiumi "Olimpico" ne Rome. Komenti: Glenti Nallbani. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-11 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Koln-Augsburg  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2021-2022. Sfide e vlefshm eper javen e 15-te nga stadiumi "Rhein Energie Stadion" ne Koln. Komenti: Andi Decka. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-11 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Bayern-Dortmund">Permbledhje</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e finales se Champions League te vitit 2013 zhvilluar ne stadiumin "Wembley" ne Londer. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-11 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Marseille-PSG ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1, sezoni 2021-2022. Sfide e vlefshme per javen e 11-te nga stadiumi "Orange Velodrome" ne Marseille. Komenti: Egi Duro.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Espanyol-Real Madrid  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2021-2022. Sfide e vlefshme per javen e 8-te nga stadiumi "RCDE Stadium" ne Cornella. Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Laci ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Air Albania" ne Tirane. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dinamo-Teuta">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Abissnet Superiore, sezoni 2021-2022. Sfide e vlefshme per javen e 12-te nga stadiumi "Elbasan Arena". Komenti: Glenti Nallbani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Schalke-Nurnberg  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 2, sezoni 2021-2022. Sfide e vlefshme per javen e 17-te nga stadiumi "Veltins Arena" ne Gelsenkirschen. Komenti: Anarildo Alia. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Espanyol-Levante  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2021-2022. Sfide e vlefshme per javen e 17-te nga stadiumi "RCDE stadium" ne Cornella. Komenti: Alban Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Chelsea-Leeds  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2021-2022. Sfide e vlefshme per javen e 16-te nga stadiumi "Stamford Bridge" ne Londer. Komenti: Elvis Rexha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 17:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Super Emocione">Permbledhje</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te ndeshjeve transmetuar ne SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 17:30:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Elche  Live">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2021-2022. Sfide e vlefshme per javen e 17-te nga stadiumi "Mestalla" ne Valencia. Komenti: Jurgen Zela.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 19:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Super Emocione">Permbledhje</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira ne La Liga,  transmetuar ne SuperSport kete sezon.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Man City-Wolves  ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Premier League, sezoni 2021-2022. Sfide e vlefshme per javen e 16-te nga stadiumi "Etihad" ne Manchester. Komenti: Ermal Toti.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-11 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bayern-Mainz">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bundesliga 1, sezoni 2021-2022. Sfide e vlefshme per javen e 15-te nga stadiumi "Allianz Arena" ne Munchen. Komenti: Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-12 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Espanyol-Levante">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2021-2022. Sfide e vlefshme per javen e 17-te nga stadiumi "RCDE stadium" ne Cornella. Komenti: Alban Aga. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-12 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highligts Eredivisie">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe momenteve me te mira te fundjaves qe lame pas ne kampionatin holandez. Eredivisie, sezoni 2021-2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-12 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="PSV-Utrecht ">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivisie, sezoni 2021-2022. Sfide e vlefshme per javen e 15-te nga stadiumi "Philips Stadion" ne Eindhoven. Komenti: Alban Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-12 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Elche">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>La Liga, sezoni 2021-2022. Sfide e vlefshme per javen e 17-te nga stadiumi "Mestalla" ne Valencia. Komenti: Jurgen Zela. </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

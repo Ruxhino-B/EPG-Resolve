@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="FilmBox Premium HD">
+    <event id="0" start_time="2021-12-08 11:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="NUHATESI DHE GJUETIA E PHANTOM">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lufta përfundoi dhe paqja erdhi në fshat. Por atëherë një burr i veshur në të zezën fillon të përgjon fshataret. Legjenda thotë që Fantomi fluturues është  kthyer.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-08 13:10:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Muzeu Danez">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bandës së Olsenit i është besuar kryerja e një detyre për kryeministrin. Ata duhet të vjedhin penën origjinale prej pende pate të Hans Kristian Andersenit nga Muzeu Danez i EkSportit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-08 14:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="RITMI I BOLIVUDIT">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Indiani simpatik, Raj, ndodhet në një moment të vështirë të jetës së tij. Kastingu i pasuksesshëm i rradhës në kërcim, ndarja tragjike me të dashurën dhe fakti që prindërit përpiqen ta dëbojnë atë nga shtëpia, nuk e bëjnë të ndihet mirë djaloshin. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-08 16:20:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Delikatese">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nathalie e bukur, pas vdekjës së burrit rrëmbehet nga vrulli i punës. Pas njëfarë kohe, miqësohet me Markusin, një vartës i saj. Marrdhënia thellohet. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-08 18:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="KOKO PARA SHANELIT">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një portret magjepës i legjendares Coco Chanel, diktatores revolucionare të modës.  Ishte pikërisht ajo që i lejoi gratë të mbanin flokët të prera shkurt, bizhuteri artificiale, si dhe pantallona. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-08 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kujtim">Aksion, Fantastiko-Shkencor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi tregon historinë e pushimeve të pesë shokëve në një shtëpi të humbur pranë liqenit, të cilit prisnin vetëm t'ia kalonin mirë. Ata nuk dinë ama që Toka është nën pushtimin e jashtëtokësorëve që kërkojnë të rrëmbejnë dhe skllavërojnë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-08 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="NJË VEND I QETË">Dramë, Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një botë post-apokaliptike, një familje është e detyruar të jetojë në heshtje ndërsa u fshihet përbindëshave me dëgjim ultra të ndjeshëm.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-08 23:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Te vdekurit e zgjuar">Fantazi </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dilan, djaloshi i cili punon në një ent funeral, provon ta zjedhë misterinë që ia shaktërroi jetën para 10 vitesh. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-09 00:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="I FSHEHUR: I PARËLINDUR">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Asgjë nuk është siç duket në filmin "E fshehur", ku sekretet e errëta, personat sekretë dhe fuqitë mbinatyrore përputhen në Stokholmin modern.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-09 02:00:00" duration="10200">
+      <short_event_descriptor lang="alb" name="AGULISE AMERIKANE">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në një qytet të Kalifornisë në shkretëtirë, Itan Inglenbrink është narkoman ekscentrik, agorafobik dhe është i pushtuar me kopshtin e vet. Kjo komedi e errët ndjek ditët e fundit të jetës së tij në kërkim për kuptim, para se të bëhet shumë vonë. Në prag të përjashtimit nga apartamenti, ai mbjell shpejt bima të ndryshme, duke shpresuar se do të fitojë në garën "Kopshti i vitit" dhe që do t'i fitojë 100.000 dollarë, që ta paguajë përfundimisht qiranë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-09 04:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Sekretet vdekjerurese">Thriller, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Luter Skoti shkakton telashe në shkollë duke u shitur nxënësve gjëra që nuk mund ti sigurojnë, përfshi birra, filma dhe ilaçe me recetë. Kur një nxënës e spiunon biznesin e tij të vogël, Luteri dëshiron t'ia fus frikën në koc dhe rastësisht e shtyn n</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-09 06:25:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Minierat e mbretit Solomon">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjuetari i mirënjohur i safarit Alan Kotërmen joshet të kthehet në  vendet e panjohura të xhunglës Afrikane për të gjetur një burrë i cili është zhdukur ndërsa kërkonte minierat e famshme të Mbretit Solomon, destinacion plot me pasuri legjendare nga </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-09 07:50:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Shoku i saj me i mire">Komedi, Dramë, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Kritikja cinike muzikore Mary, e cila nuk e ka marrë akoma veten nga martesa e saj e dështuar, refuzon ta hapë përsëri zemrën. Por kur ngel e bllokuar rrugës me qenushin e mamasë së vet Binky, zemra e saj fillon të zbutet dhe përfundimisht arrin të </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-09 09:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Dashuri me shikim te pare ne Jaipur">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"En, një avokate e re Pariziene është e dashuruar me Fransuanë, i cili është po aq i çmendur me Enën. Çifti planifikon një martesë ëndrrash në Xhaipur, Indi! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-09 11:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="BANDA E SHUGËR KRIK ">VËNDI SEKRET I FSHEHJES</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është e katërta e serialit "Banda e Shugër Krik". Banda është duke bërë garë në moçal kur ngec në një territor të paeksploruar më parë që i çon në mes të një misteri. Sikur zbulimet e reja të çuditshme të mos mjaftojnë, qengji i Poetrit bën dëme </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-09 12:20:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Hundaci dhe keshtjella e nemur">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bariu gjerman Snig është rritur nga Tomi. Ai e ka mësuar shumë qenin e vet dhe bashkë me të dashurën e vet përjetojnë shumë aventura interesante.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-09 13:40:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Dado per futboll">Komedi, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur Helen Hazelltoni e angazhon Odmundin, një futbollist norvegjez, të punojë si një dado për dy djemtë e saj, Odmundi sjell të qeshura në shtëpi dhe e ndan dashurinë e tij për futbollin me qytetin e vogël të Kanzasit. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-09 15:20:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Amerikani ne Kine">Komedi, Dramë, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Është koha që të zgjedh një drejtim dhe ai për në Lindjen e Larget më duket po aq i mirë sa të tjerët" - thotë David Braddock (James Snyder, She's the Man) duke ngritur supet dhe demonstruar në të njëjtën kohë mungesë qëllimi dhe interesimi për të b</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-09 16:45:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Pritje e fatit">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kush thotë se duhet të fitoni të bëheni kampioni? Slava Kolotilofi, mësuesi nga qyteti bregdetar i qetë Fingers, nis ta pushtojë Moskën, me shkrimin origjinal të romanit të tij të parë. Por, plotësisht paprimtas, ai e pushton zemrën e bukuroshes, Nadja, të cilën e luan Mila Jovovic. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-09 18:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Histori dashurie e Krishtlindj">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sharlota Marton është drejtore e re falimentuese e cila ëndërron të zgjerojë horizontet, si në fushë biznesi, ashtu edhe në fushë private. Në fund të dhjetorit, kompania jurudike e Sharlotës nga Parisi e dërgon në Suedi që ta mbyllë një kompani franc</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-09 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="ERRËSIRA">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pastaj Ishte është një thriller i ansamblit që tregon historinë e katër studentëve të kolegjit, një çifti në pritje të një fëmije dhe një eksperti të vetmuar të mbijetesës të cilët përballen me një ndërprerje globale që i detyron të durojnë më të keqen e natyrës njerëzore pasi shoqëria rreth tyre është duke u shkatërruar.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-09 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Letra e mesme">Aksion, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një kumarxhi u fut në jetë të mbushur me para dhe shansë të fitojë shpejt, por së shpejti realizon që suksesi i tij është një trukim të cilin mund ta paguajë me jetën e vet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-09 23:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Me pyet per cdo gje">Mister, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një adoleshente e humbur shkruan një blog duke zbuluar aktivitetet dhe sekretet e saj të përditshme, e këshilluar nga këshilltari i saj i shkollës së mesme në mënyrë që të kalojë në vitin e saj të parë në kolegj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-10 00:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Agimi Meksikan">Aksion, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një historii e mbështetur mbi ngjarje të vërteta. Pesë miq nisen për jashtë kufijve të vendit, për të festuar mbrëmjen e beqarisë së Rajanit në Meksikë. Gjatë rrugës për në vend, marrin vesh se planet e tyre nuk mund të realizohen ashtu siç kishin pl</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-10 02:00:00" duration="8700">
+      <short_event_descriptor lang="alb" name="I FSHEHUR: I PARËLINDUR">Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Asgjë nuk është siç duket në filmin "E fshehur", ku sekretet e errëta, personat sekretë dhe fuqitë mbinatyrore përputhen në Stokholmin modern.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-10 04:25:00" duration="6600">
+      <short_event_descriptor lang="alb" name="RITMI I BOLIVUDIT">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Indiani simpatik, Raj, ndodhet në një moment të vështirë të jetës së tij. Kastingu i pasuksesshëm i rradhës në kërcim, ndarja tragjike me të dashurën dhe fakti që prindërit përpiqen ta dëbojnë atë nga shtëpia, nuk e bëjnë të ndihet mirë djaloshin. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-10 06:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Minierat e mbretit Solomon">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjuetari i mirënjohur i safarit Alan Kotërmen joshet të kthehet në  vendet e panjohura të xhunglës Afrikane për të gjetur një burrë i cili është zhdukur ndërsa kërkonte minierat e famshme të Mbretit Solomon, destinacion plot me pasuri legjendare nga </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-10 07:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Dragoi i lumtur">Vizatimor, Familjar, Aventura</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një dragua i ri kinez dënohet nga perëndite të zbresë poshtë në tokë për të jetuar si njeri i zakonshëm. Derisa forcat e këqija të zbulojnë identitetin e tij të vërtetë, atij i duhet të kalojë nga një vend i cuditshëm. Përfytyroni një botë plot me fa</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-10 09:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Pikolo dhe Sakso">Vizatimor, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grup instrumentësh frymorë dhe atyre me tela janë mbledhur së bashku, për të formuar një orkestër të madhe simfonike. Ndërsa më pas fillojnë misionin e gjetjes së doktorit të lig, i cili ka vjedhur disa nota muzikore dhe disa prej insrumenteve të</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-10 10:35:00" duration="3900">
+      <short_event_descriptor lang="alb" name="BANDA E SHUGËR KRIK ">Telashe me mesuesin</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ky është filmi i pestë i serialit "Banda e Shugër Krik". Banda e Shugër Krik papritur bëhet e padëshiruar kur zëvendësuesi i ri, Z. Blek, vjen në qytet. Një akuzë e padrejtë e fut Billi në telashe me prindërit e tij dhe i krijon më shumë pyetje në ko</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-10 11:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="LUHATËSI DHE SHPENDI I AKULLT">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bariu gjerman Sniff është rritur nga Tomi. Ai e ka mësuar shumë qenin e vet dhe bashkë me të dashurën e vet përjetojnë shumë aventura interesante.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-10 13:00:00" duration="6600">
+      <short_event_descriptor lang="alb" name="KOKO PARA SHANELIT">Biografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një portret magjepës i legjendares Coco Chanel, diktatores revolucionare të modës.  Ishte pikërisht ajo që i lejoi gratë të mbanin flokët të prera shkurt, bizhuteri artificiale, si dhe pantallona. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-10 14:50:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Shkrimtari fantazem">Mister, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një shkrimtar fantazëm i punësuar për të përfunduar kujtimet e një ish kryeministri Britanik zbulon secret që e venë vetë jetën e tij në rrezik.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-10 16:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Princi dhe une 2: Dasma mbreterore">komedi, romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-10 18:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="IKBALI DHE FORMULA SEKRETE">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ikbali është një djalë simpatik 13 vjeçar, me imagjinatë dhe argëtues, diçka e cila, sipas babait të tij, nuk mjafton për t'i siguruar dikujt sukses në botë. Por kur Ikbali, vëllai i tij i vogël Tariku (11 vjeç) dhe shoku i tyre Sill, shpërthejnë aksidentalisht shkollën e tyre, babai i tij është problemi më i vogël. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-10 20:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Izolim">Aksion, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Filmi u frymëzua me ngjarjet e vërteta. Çiftin e martuar që bën kampim në një ishull të izoluar në Bahamet, e persekuton një grup i piratëve modernë, që dëshirojnë ta marrin identitetin dhe jetët e tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-10 21:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Vrasesi i zombive">Aksion, Horror</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Virusi misterioz i vrau miliona njerëz, dhe shumë prej tyre i shndërroi në zombi gjakpirës. Pa asnjë shans që ta ndalë, qeveria e SHBA-së e krijon një lojë video me emrin Dead Trigger", e cila pikturon mallkimin e tmerrshëm që e gjeti botën.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-10 23:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Tarifa e nates">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-11 00:25:00" duration="5400">
+      <short_event_descriptor lang="alb" name="NJË GRUA, NJË PISTOLETË, DHE NJË DYQAN ">Komedi, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vang është pronar i dëshpëruar, dinjak, lakmitar i dyqanit të nudllave në një qytet kinez në shkretëtirë. Bashkëshortja e tij e çrregullt që ka gjuhë të mprehtë është në një lidhje sekrete me Lin, një nga punëtorët e Vangut. Li i frikësuar e merr padashur pistoletën që ia bleu dashnorja për ta vrarë me të burrin e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-11 01:55:00" duration="9600">
+      <short_event_descriptor lang="alb" name="28K">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një adoleshent u vra para një klubi nate, dhe një vajzë e re humb jetë pas rrahjes së makinës, në dy raste me sa duket të palidhura. Diva Xhani kthehet në shtëpi për të dëshmuar pafajsin e vëllait të Vet Viponit, por së shpejti e zbulon një komplot m</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-11 04:35:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Udhetimi i endrrave">Dokumentar, Travel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shkurti 2017 na pa të niseshim për një udhëtim ekspeditë përmes Skocisë, Polonisë, Francës, Meksikës, Belizës, dhe kthimi. Jo vetëm që ishte aventura e parë jashtë Amerikës qëndrore, por ishte edhe hera e parë që i shtyva kufijtë e guximit tim për të</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-11 05:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Dashuri me shikim te pare ne Jaipur">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"En, një avokate e re Pariziene është e dashuruar me Fransuanë, i cili është po aq i çmendur me Enën. Çifti planifikon një martesë ëndrrash në Xhaipur, Indi! </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-11 06:45:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Dy prej nesh">Komedi, Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jean-Christian Ranu (Daniel Auteuil) është një llogaritar pak tuhaf, i cili jeton pa plane. Nga ana tjetër, Gilles Gabriel (Alain Chabat) është këngëtar i muzikës pop, i cili në kohën e vet, i  pati pesë minutat e tij. Askujt nuk do t'ia merrte mendj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-11 08:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Rikthimi ne loje">Komedi, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e vërtetë e Jasmine Plummer i cili, në moshën njëmbëdhjetë, u bë e parë femër për të luajtur në Pop Me luftëner turnir futbolli në historinë e saj 56-vjeçare.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-11 09:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Marko Polo">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Duke shoqëruar dy priftërinj drej Lindjes, në dukje me qëllimin që të konvertonin mbretërinë e Kublai Khanit ndaj krishtërimit, tregtari Venedikas Marko Polo me guxim e i vetëm vazhdon rrugën drejt zemrës së një toke për të cilën kishte dëgjuar shumë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-11 11:15:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Tre derrkuca dhe nje bebe">Animacion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur para derës së shtëpisë tre derrkuce gjejnë një këlysh ujku, të pafajshëm, vendosin ta marrin dhe ta rrisin si të ishte i tyre. Derrkucet nuk e kuptojnë se duke vepruar kështu, po veprojnë sipas një plani të hartuar që më parë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-11 12:30:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Breshka kunder lepurit">Familjar, Vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Breshka dhe lepuri e urrejnë njëri tjetrin. Shkaktojnë dëme të ndërsjellta në çdo hap. Për ta vendosur më në fund se cili prej tyre është më superior, vendosin të marrin pjesë në garën e madhe të shekullit. Nisen bashkë me fëmijet e tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-11 13:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Magji vdekjeprurese">Thriller, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në turne nëpër Britani më 1926, Hari Hudini e nis një lidhje të pasionuar me një profete që synon ta mashtrojë magjibërësin e shkëlqyer.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2021-12-11 15:20:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Me therrisni Trinity">Komedi, Western</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një luftëtar armësh dembel, joortodoks dhe vëllai i tij vjedhës kuajsh mbrojnë një vendbanim Mormon nga një Major rrëmbyes, një bandit meksikan dhe rojtarët e tyre.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2021-12-11 17:15:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Muzeu Danez">Film</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bandës së Olsenit i është besuar kryerja e një detyre për kryeministrin. Ata duhet të vjedhin penën origjinale prej pende pate të Hans Kristian Andersenit nga Muzeu Danez i EkSportit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2021-12-11 18:35:00" duration="5100">
+      <short_event_descriptor lang="alb" name="IKBALI DHE SUPERÇIPI">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ikbali dhe Sill janë miq të ngushtë dhe kanë jetuar gjithmonë pranë njëri-tjetrit. Rrugët duhet tu nënshtrohen rigjenerimit urban dhe Esalmani dhe Suaini fatkeqsisht do të jenë në krye të këtij projekti.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2021-12-11 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="The Last Heist">Aksion, Horror, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një grabitje e bankës merr të keqen kur del që një nga pengjet është vrasës i kërkuar serial.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2021-12-11 21:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="ASHER">Aksion, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Asher (Ron Perlman) është vrasës i paguar i cili kaloi pjesën më të madhe të jetës duke vrarë njerëzit sipas urdhrit të Avit (Riçard Drajfus). Jeton i vetmuar, miqtë e tij janë verëra të mira dhe ushqim i mirë dhe përçmon praktikantin e vet Uzi (Piter Fasineli), i cili ia rrëmben punët se është më i ri dhe më i aftë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2021-12-11 23:10:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Te braktisur">Aventura, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Më 1989 trimaran Rouz Neol ngre vela dhe niset nga Piktoni, Zelanda e Re, në Tongë, me katër anëtarë të ekuipazhit. Kur një valë e madhe e përbys anijen, vijojnë 119 ditë në detin e hapur, para se t'i nxjerr uji në ishullin Grejt Barier.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2021-12-12 00:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Xhejk ne katror">Komedi, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rejisor e nis një projekt të ri filmik, që do t'i ndihmojë të zbulojë si e shkatërroi çdo lidhje në të cilën ishte.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2021-12-12 02:15:00" duration="6600">
+      <short_event_descriptor lang="alb" name="E shitur">Aksion, Western</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Kanzasin e viteve 1880, dikur qitës ndërsa sot fermer, Klej Travis, nga një baba i lumtur i dy fëmijëve, kthehet në njeriun me detyrën e hakmarrjes së djalit të tij dhe gjetjen e vajzës së zhdukur. I vendosur për ta sjellë vajzën të sigurt në shtëpi dhe të mbrojë anëtarët e tjerë të familjes, Klej e lë fermën e tij të qetë dhe del në Viçita, pastaj në Doxh Siti, duke ndjekur pronarin e keq të bordellos, Lavoje.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2021-12-12 04:05:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Princi dhe une 2: Dasma mbreterore">komedi, romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2021-12-12 05:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Ishulli i pershperitjeve">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Katërmbëdhjetëvjeçarja Sam Dalton merr vendim për të shpëtuar shtëpinë e saj të vetme, të shkatërruar dhe të mbuluar me hi, rancho Princesha Romake. Sami i shkruan një kushëriri të largët të tezes (hallës) së saj, Kristinës, me shpresën se ai do ta n</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2021-12-12 07:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Pritje e fatit">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kush thotë se duhet të fitoni të bëheni kampioni? Slava Kolotilofi, mësuesi nga qyteti bregdetar i qetë Fingers, nis ta pushtojë Moskën, me shkrimin origjinal të romanit të tij të parë. Por, plotësisht paprimtas, ai e pushton zemrën e bukuroshes, Nadja, të cilën e luan Mila Jovovic. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2021-12-12 08:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Delikatese">Komedi, Romantik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nathalie e bukur, pas vdekjës së burrit rrëmbehet nga vrulli i punës. Pas njëfarë kohe, miqësohet me Markusin, një vartës i saj. Marrdhënia thellohet. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2021-12-12 10:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Marko Polo">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Duke shoqëruar dy priftërinj drej Lindjes, në dukje me qëllimin që të konvertonin mbretërinë e Kublai Khanit ndaj krishtërimit, tregtari Venedikas Marko Polo me guxim e i vetëm vazhdon rrugën drejt zemrës së një toke për të cilën kishte dëgjuar shumë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2021-12-12 11:55:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Flokearta dhe tre Mediqet">Vizatimor, Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një yll televizioni, me flokë bjonde, bie dakort të marrë pjesë në një reality show. Vajza është e detyruar të banojë me tre arinj të pabindur. Kur biondja e kupton se për të fituar duhet të jetojë në harmoni me banorët e shtëpisë së përbashkët, vajz</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2021-12-12 13:15:00" duration="6900">
+      <short_event_descriptor lang="alb" name="MË QUAJNË ENDE TRINITI">Komedi, Western</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Jean-Christian Ranu (Daniel Auteuil) është një llogaritar pak tuhaf, i cili jeton pa plane. Nga ana tjetër, Gilles Gabriel (Alain Chabat) është këngëtar i muzikës pop, i cili në kohën e vet, i  pati pesë minutat e tij. Askujt nuk do t'ia merrte mendja se fatet e jetës së këtyre dy meshkujve të ndryshëm do të bashkoheshin papritmas njëri me tjetrin. Ylli i muzikës tani po përgatitet për rikthimin e madh në skenë, por planet e tij ndalen papritmas, kur aksidenton me makinë Ranu. Pasi i dëmtuari fi</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2021-12-12 15:10:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Kampioni ">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në botën super të ngarkuar të garave të pistave, një gabim i vetëm bën që jeta e dy burrave të ndryshojë përgjithmonë. Njëri duhet të luftojë për familjen e tij, tjetri duhet të luftojë për të falur.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2021-12-12 17:05:00" duration="4500">
+      <short_event_descriptor lang="alb" name="IKBAL DHE XHEVAHIRI I INDISË">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ikbali zgjohet një mëngjes nga lajmi se halla Fatua u shpall Gardiane e Xhevahireve - i cili është një titull nderi indian. Duke pritur me padurim të lërë shkollën Ikbali e bind të atin që të sjelli të gjithë familjen në Indi për të marrë pjesë në një festë me hallë Fatuan.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2021-12-12 18:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Bernie">Komedi, Kriminal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Bernie"është një komedi e zezë mbi lidhjen pedante, por të pëlqyer prej të gjithëve, të asistentit të një agjensie funeralesh (Jack Black) me  të zonjën e shtëpisë, me karakter dominues (Shirley MacLaine). </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2021-12-12 20:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="BROKEN VOWS">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një burrë simpatik por i shqetësuar shpirtërisht bie pre e urrejtjes pasi u refuzua nga gruaja që fillimisht joshi.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2021-12-12 21:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="C'ke bere biri im">Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>I frymëzuar me një krim të vërtetë, një njeri fillon të përjetojë gjërat që do ta bëjnë ta vrasë nënën e tij me shpatë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2021-12-12 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="KRIMINELË TË PAEDUKUAR">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Takohemi me Xhon Megillin, studioz, me besim tek vetja ndërsa fillon shkollën e mesme, ku ai pret të vazhdojë karierën e tij akademike deri më tani të shkëlqyer. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2021-12-13 01:00:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Rruge te largeta">Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pronari i një klubi nate të viteve 1930, humbet kontrollin mbi jetën e tij midis trekëndëshit të dashurisë dhe borxhit të madh.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2021-12-13 02:25:00" duration="8400">
+      <short_event_descriptor lang="alb" name="7 minuta">Kriminal, Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shtatë minuta është një histori mbi tre miq, Semin, Majklin dhe Ovenin, që u detyruan ta fillojnë një grabitje me armë për shkak të rrethanave të paparashikuara. Ajo që filloi si plan i thjeshtë, "hyjmë dhe dalim për shtatë minuta", së shpejti bëhet </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2021-12-13 04:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Projekt Dinozaur">Aventurë, Melodramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Projekti Dinozaur tregon historinë e ekspeditës të një ati e një biri në Kongo, të cilët ndiqen nga një ekip dokumentarësh televizivë. Pasi që të gjithë pjesëmarrësit humbasin, regjistrimet e mbetura shfaqin imazhe befasuese të dinozaurëve që mendohe</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2021-12-13 06:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Te rinj ne zemer">Dokumentar, Muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumenton historinë e vërtetë të javëve të fundit të provave për të rinj në Chorus Heart në Northampton, MA, mosha mesatare e të cilit është 81, dhe shumë prej të cilëve duhet të kapërcejnë pasoja shëndetësore për të marrë pjesë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2021-12-13 07:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ajnshtajn">Komedi, Kriminal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Feliks Vinterberg është stërnip i Albert Ajnshtajnit të famshëm dhe gjeni për fizikë, si edhe gjyshi i tij. Për shkak të sëmundjes së trashëguar vdekjeprurëse, ky shkencëtar gjenial i ri i ka vetëm edhe pesë vjet të jetës, të cilat dëshiron t'i kaloj</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2021-12-13 09:30:00" duration="4200">
+      <short_event_descriptor lang="alb" name="BANDA E SHUGËR KRIK ">Hajduti i mocalit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zbulimi i papritur i hartës sekrete në kënetë e çon bandën e Shugër Krikut në një aventurë të egër, ndërsa përpiqen t'ja hedhin një hajduti, në një garë që të le pa frymë për të zbuluar një thesar të fshehur.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2021-12-13 10:40:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Mjederat magjike">Dramë, Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e Monikës 11-vjeçare, e cila e fajëson veten e saj për problemet në shtëpi. Vajza e vogël mendon se, kur do të fitojë konkursin shkencor, babai i saj do të kthehet në shtëpi, ndërsa mamaja do t'ia dalë mbanë me problemet emocionale dhe depre</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2021-12-13 12:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Diku pertej">Jeta reale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy policë partnerë, të cilët janë gjithashtu shokë të ngushtë i përgjigjen një shqetësimi familjar, vetëm se njëri aksidentalisht plagos tjetrin në mënyrë kritike. Pjesa tjetër e forcave të policisë dyshojnë që mund të mos ketë qënë një aksident.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2021-12-13 13:30:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Druri kombetar">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur Rock ka zgjedhur  Sitka bredhin  si pema kombëtare e tij, ai dhe babai i tij ngurrojnë të vendosur jashtë në një udhëtim emocionuese ndër-vend nëpër zemër të Amerikës.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2021-12-13 14:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Zoteri Barington">Dramë, Thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lila, që vuan nga fobia e ndenjies në vende të hapura, banon bashkë me burrin e saj Samuelin, i cili është I ndërgjegjshëm për sëmundjen e saj. Një ditë ndodh diçka që e largon atë nga bashkëshorti dhe e përkeqëson gjendjen e saj.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2021-12-13 16:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="LIBRI MAGJIK SPAIDERUIK">Aksion, Aventura, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sapo u transferuan në një godinë të shkatërruar në pronësi të familjes Spaideruik, dy vëllezërit binjakë Xhered dhe Simon Greis, së bashku me nënën dhe motrën e tyre Mellori, e gjejnë veten të tërhequr në një botë alternative plot me zana dhe krijesa të tjera.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2021-12-13 18:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="SUPER 8">Aksion, Aventura</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjatë verës së vitit 1979, një grup miqsh dëshmon një përplasje treni dhe heton ngjarjet pasuese të kësaj përplasje të pasqaruara në qytetin e tyre të vogël.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2021-12-13 20:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Fire with fire">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur zjarrfikës, Xheremi Kolman, i veshur si civil, rastësisht sheh një vrasje gangsterash, pranon të dëshmojë në gjykim për vrasje. Por kur program për mbrojtje të dëshimtarit tregohet si i padobishëm, Xheremi niset në gjuatje në kryetarin e bandës, për të mbrojtur gruan që do.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2021-12-13 21:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="KUNG-FU VDEKJEPRURËS">Aksion, Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Instrikturi i arteve luftarake pranë policisë, është në burg pas vrasjes së rastësishme të një njeriu. Por kur një vrasës i çmendur fillon të ndjekë vetëm luftëtarët me shumë përvojë, instruktori i ofron ndihmë policisë në shkëmbim për liri.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2021-12-13 23:15:00" duration="6000">
+      <short_event_descriptor lang="alb" name="E zhdukura">Dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kjo është historia e një gruaje që zhduket një të shtunë në mëngjes. Emri i saj është Beti, dhe zhdukja e saj është po aq egnimatike sa është e mistershme. Ia mbathi? Edhe pse nuk ishte e lumtur me martesën e saj, Beti nuk do t'i kishte braktisur kurrë dy fëmijët e saj. E vranë? Nuk ka shenja beteje, dhe trupi i saj nuk është gjetur. Kush do ta kishte vrarë Betin, Si? Dhe pse? Është e vështirë të gjendet e vërteta që fshihet në paqartësitë e tre figurave të cilat kthejnë përmbys çdo gjë që mendo</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2021-12-14 00:55:00" duration="12900">
+      <short_event_descriptor lang="alb" name="Rezistent ndaj plumbave">Aksion, Kriminal</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>"Seria ndjek dy policë, Bishop dhe Pajk, në ndjekje për kriminelët më të rrezikshëm në Ist End të Londrës. Duket që Bishop dhe Pajk kanë shumë gjëra të përbashkëta. Ata janë të fortë, të mençur, të aftë dhe të ashpër, lidhja mes tyre është e fortë dh</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2021-12-14 04:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Udhetimi i endrrave">Dokumentar, Travel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shkurti 2017 na pa të niseshim për një udhëtim ekspeditë përmes Skocisë, Polonisë, Francës, Meksikës, Belizës, dhe kthimi. Jo vetëm që ishte aventura e parë jashtë Amerikës qëndrore, por ishte edhe hera e parë që i shtyva kufijtë e guximit tim për të</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

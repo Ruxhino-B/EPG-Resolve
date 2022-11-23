@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport HD 3ott">
+    <event id="0" start_time="2018-02-11 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Skenderbeu-Flamurtari">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2017-2018, ndeshje e vlefshme per javen e 19-te, nga stadiumi "Skenderbeu" ne Korce. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2018-02-11 19:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Highlights Seria A">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e golave dhe e momenteve me te mira ne te gjitha sfidat e javes se 24-te ne futbollin italian</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2018-02-11 19:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Levante">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "de Mestalla" ne Valencia.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2018-02-11 21:40:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2018-02-11 22:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Kamza">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2017-2018, ndeshje e vlefshme per javen e 19-te, nga stadiumi "Zeqir Ymeri" ne Kukes. Komenti, Ylli Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2018-02-12 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Levante">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "de Mestalla" ne Valencia.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2018-02-12 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lyon-Rennes">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1 2017-2018, ndeshje e vlefshme per javen e 25-te, nga stadiumi "Groupama" ne Lyon. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2018-02-12 04:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Ligue 1">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 25-te ne kampionatin francez.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2018-02-12 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sassuolo-Cagliari">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "MAPEI" ne Reggio Emilia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2018-02-12 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sevilla-Girona">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "Ramon Sanchez Pizjuan" ne Sevilje. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2018-02-12 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ajax-Twente">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivise 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "Johan Cruyf Arena" ne Amsterdam. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2018-02-12 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Roma-Benevento">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "Olimpico" ne Rome. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2018-02-12 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Kamza">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2017-2018, ndeshje e vlefshme per javen e 19-te, nga stadiumi "Zeqir Ymeri" ne Kukes. Komenti, Ylli Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2018-02-12 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Skenderbeu-Flamurtari">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2017-2018, ndeshje e vlefshme per javen e 1-re, nga stadiumi "Skenderbeu" ne Korce. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2018-02-12 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SPAL-Milan">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "Paolo Mazza" ne Ferrara. Komenti, Olsi Coku.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2018-02-12 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Napoli-Lazio">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "San Paolo" ne Napoli. Komenti, Dritan Shakohoxha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2018-02-12 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Napoli-Lazio">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "San Paolo" ne Napoli. Komenti, Dritan Shakohoxha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2018-02-12 23:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Ligue 1">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e golave dhe e momenteve me te mira te javes se 25-te ne kampionatin francez.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2018-02-13 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Malaga-Atl.Madrid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018 ndeshje e vlefshme per javen e 23-te, nga stadiumi "La Rosaleda" ne Málaga. Komenti, Alban Xhihani.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2018-02-13 02:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Eredivise">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhjave e golave dhe e momenteve me te mira te ndeshjeve ne javen e 24-te te kampionatit holandez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2018-02-13 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Vitesse-Feyenoord">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Eredivise 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "Gelre Dome" ne Arnhem. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2018-02-13 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crotone-Atalanta">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "Ezio Scida" ne Crotone. Komenti, Elvi Luzi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2018-02-13 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sassuolo-Cagliari">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "MAPEI" ne Reggio Emilia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2018-02-13 09:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Eredivise">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhjave e golave dhe e momenteve me te mira te ndeshjeve ne javen e 23-te te kampionatit holandez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2018-02-13 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sigal Prishtina-Ylli">Basketboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kampionati i basketbollit ne Kosove 2017-2018, nga pallati i sportit ne Prishtine vjen dueli me i rendesishem i javes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2018-02-13 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sevilla-Girona">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "Ramon Sanchez Pizjuan" ne Sevilje. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2018-02-13 14:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Primera ">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e golave dhe e rasteve me te mira ne te gjitha ndeshjet e javes se 26-te ne kampionatin spanjoll.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2018-02-13 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Partizani-Laci">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2017-2018, ndeshje e vlefshme per javen e 19-te, nga stadiumi "Selman Stermasi" ne Tirane. Komenti, Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2018-02-13 17:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Kamza">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2017-2018, ndeshje e vlefshme per javen e 19-te, nga stadiumi "Zeqir Ymeri" ne Kukes. Komenti, Ylli Aga.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2018-02-13 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Skenderbeu-Flamurtari">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kategoria Superiore 2017-2018, ndeshje e vlefshme per javen e 19-te, nga stadiumi "Skenderbeu" ne Korce. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2018-02-13 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Barcelona-Getafe">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "Camp Nou" ne Barcelone. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2018-02-13 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Roma-Benevento">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "Olimpico" ne Rome. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2018-02-14 01:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Malaga-Atl.Madrid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018 ndeshje e vlefshme per javen e 23-te, nga stadiumi "La Rosaleda" ne Málaga. Komenti, Dritan Shakohoxha.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2018-02-14 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crotone-Atalanta">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "Ezio Scida" ne Crotone. Komenti, Elvi Luzi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2018-02-14 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="SPAL-Milan">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "Paolo Mazza" ne Ferrara. Komenti, Olsi Coku.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2018-02-14 07:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Eredivise">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhjave e golave dhe e momenteve me te mira te ndeshjeve ne javen e 23-te te kampionatit holandez. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2018-02-14 08:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Tirana-Kukesi">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per raundin e 1/4 finale, nga stadiumi "Selman Stermasi" ne Tirane. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2018-02-14 10:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Flamurtari-Partizani">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per raundin e 1/4 finale, nga stadiumi "Flamurtari" ne Vlore. Komenti, Sokol Xhihani.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2018-02-14 12:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gol pas Goli ">Analize-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vilma Masha dhe te ftuarit e saj, gazetare e analiste, sjellin gjithcka per Kupen e Shqiperise, me lidhje direkte dhe protagonistet e javes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2018-02-14 12:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Tirana">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per raundin e 1/4 finale, nga stadiumi "Zeqir Ymeri" ne Kukes. Komenti, Ylli Aga. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2018-02-14 14:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gol pas Goli ">Analize-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vilma Masha dhe te ftuarit e saj, gazetare e analiste, sjellin gjithcka per Kupen e Shqiperise, me lidhje direkte dhe protagonistet e javes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2018-02-14 15:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Partizani-Flamurtari">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per raunidn e 1/4 finale, nga stadiumi "Selman Stermasi" ne Tirane. Komenti, Dritan Shakohoxha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2018-02-14 17:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Gol pas Goli ">Analize-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vilma Masha dhe te ftuarit e saj, gazetare e analiste, sjellin gjithcka per Kupen e Shqiperise, me lidhje direkte dhe protagonistet e javes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2018-02-14 19:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Partizani-Flamurtari">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per raunidn e 1/4 finale, nga stadiumi "Selman Stermasi" ne Tirane. Komenti, Dritan Shakohoxha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2018-02-14 21:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kukesi-Tirana">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per raundin e 1/4 finale, nga stadiumi "Zeqir Ymeri" ne Kukes. Komenti, Ylli Aga. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2018-02-14 23:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Malaga-Atl.Madrid">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018 ndeshje e vlefshme per javen e 23-te, nga stadiumi "La Rosaleda" ne Málaga. Komenti, Alban Xhihani.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2018-02-15 01:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lyon-Rennes">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1 2017-2018, ndeshje e vlefshme per javen e 25-te, nga stadiumi "Groupama" ne Lyon. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2018-02-15 03:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Levante">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "de Mestalla" ne Valencia.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2018-02-15 05:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Sassuolo-Cagliari">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "MAPEI" ne Reggio Emilia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2018-02-15 07:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Crotone-Atalanta">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "Ezio Scida" ne Crotone. Komenti, Elvi Luzi. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2018-02-15 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Valencia-Levante">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "de Mestalla" ne Valencia.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2018-02-15 11:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lyon-Rennes">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1 2017-2018, ndeshje e vlefshme per javen e 25-te, nga stadiumi "Groupama" ne Lyon. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2018-02-15 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Barcelona-Getafe">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Primera Division 2017-2018, ndeshje e vlefshme per javen e 23-te, nga stadiumi "Camp Nou" ne Barcelone. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2018-02-15 15:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Primera ">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e golave dhe e rasteve me te mira ne te gjitha ndeshjet e javes se 25-te ne kampionatin spanjoll.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2018-02-15 16:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Napoli-Lazio">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Seria A 2017-2018, ndeshje e vlefshme per javen e 24-te, nga stadiumi "San Paolo" ne Napoli. Komenti, Dritan Shakohoxha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2018-02-15 18:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dortmund-Atalanta">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, ndeshje e vlefshme per raundin e 1/16, nga stadiumi "Signal Iduna Park" ne Dortmund. Komenti, Blendi Resnja. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2018-02-15 20:00:00" duration="300">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2018-02-15 20:05:00" duration="7200">
+      <short_event_descriptor lang="alb" name="FCSB-Lazio">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, ndeshje e vlefshme per raundin e 1/16, nga stadiumi "Arena Nationala" ne Bukuresht. Komenti, Ermal Toti. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2018-02-15 22:05:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Eurogol">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e te gjithe golave te javes nga kampionati gjerman, spanjoll, italian, francez, anglez dhe ai hollandez me nje analize te gazetareve te SuperSport nen drejtimin e Sidorela Gjonit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2018-02-15 23:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Highlights Seria A">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e golave dhe e momenteve me te mira ne te gjitha sfidat e javes se 23-te ne futbollin italian</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2018-02-16 00:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="FCSB-Lazio">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, ndeshje e vlefshme per raundin e 1/16, nga stadiumi "Arena Nationala" ne Bukuresht. Komenti, Ermal Toti. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2018-02-16 02:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dortmund-Atalanta">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, ndeshje e vlefshme per raundin e 1/16, nga stadiumi "Signal Iduna Park" ne Dortmund. Komenti, Blendi Resnja. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2018-02-16 04:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="AEK-Dinamo Kiev">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, ndeshje e vlefshme per raundin e 1/16, nga stadiumi "Olympiako Stadio Spyros Louis" ne Athine. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2018-02-16 06:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Highlights Primera ">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhja e golave dhe e rasteve me te mira ne te gjitha ndeshjet e javes se 23-te ne kampionatin spanjoll.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,941 @@
+<?xml version="1.0" encoding="iso-8859-1"?><WIDECAST_DVB>
+<channel name="Klan Kosovaott">
+	<TIMEOFFSET>1</TIMEOFFSET>
+	<event id="1" start_time="2018-02-15 00:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Info Magazine">Ritransmetim. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste,</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste,</text>
+		</extended_event_descriptor>
+		</event>
+<event id="2" start_time="2018-02-15 01:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</text>
+		</extended_event_descriptor>
+		</event>
+<event id="3" start_time="2018-02-15 02:00:00" duration="1980">
+		<short_event_descriptor lang="alb" name="LAJMET">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="4" start_time="2018-02-15 02:33:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="5" start_time="2018-02-15 02:40:00" duration="600">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Ritransmetim. Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</text>
+		</extended_event_descriptor>
+		</event>
+<event id="6" start_time="2018-02-15 02:50:00" duration="4800">
+		<short_event_descriptor lang="alb" name="Zona B">Ritransmetim</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim</text>
+		</extended_event_descriptor>
+		</event>
+<event id="7" start_time="2018-02-15 04:10:00" duration="3000">
+		<short_event_descriptor lang="alb" name="NIN">NIN</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>NIN</text>
+		</extended_event_descriptor>
+		</event>
+<event id="8" start_time="2018-02-15 05:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="The Good Wife">Episodi 6</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Episodi 6</text>
+		</extended_event_descriptor>
+		</event>
+<event id="9" start_time="2018-02-15 06:00:00" duration="8400">
+		<short_event_descriptor lang="alb" name="Ora 7">Live. Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 f</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 f</text>
+		</extended_event_descriptor>
+		</event>
+<event id="10" start_time="2018-02-15 08:20:00" duration="600">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="11" start_time="2018-02-15 08:30:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="12" start_time="2018-02-15 08:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="13" start_time="2018-02-15 09:00:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Mesimet e Dioles">Ritransmetim</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim</text>
+		</extended_event_descriptor>
+		</event>
+<event id="14" start_time="2018-02-15 09:50:00" duration="3900">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</text>
+		</extended_event_descriptor>
+		</event>
+<event id="15" start_time="2018-02-15 10:55:00" duration="2100">
+		<short_event_descriptor lang="alb" name="The Good Wife">Episodi 6</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Episodi 6</text>
+		</extended_event_descriptor>
+		</event>
+<event id="16" start_time="2018-02-15 11:30:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="17" start_time="2018-02-15 11:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="18" start_time="2018-02-15 12:00:00" duration="1920">
+		<short_event_descriptor lang="alb" name="Lajme 13/00">Edicioni informativ i ores 13:00</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni informativ i ores 13:00</text>
+		</extended_event_descriptor>
+		</event>
+<event id="19" start_time="2018-02-15 12:32:00" duration="180">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="20" start_time="2018-02-15 12:35:00" duration="2100">
+		<short_event_descriptor lang="alb" name="Zona B">Emision Politik</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision Politik</text>
+		</extended_event_descriptor>
+		</event>
+<event id="21" start_time="2018-02-15 13:10:00" duration="3000">
+		<short_event_descriptor lang="alb" name="NIN">Dokumentar</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Dokumentar</text>
+		</extended_event_descriptor>
+		</event>
+<event id="22" start_time="2018-02-15 14:00:00" duration="900">
+		<short_event_descriptor lang="alb" name="Lajme Flash">Edicion i shkurter informativ</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicion i shkurter informativ</text>
+		</extended_event_descriptor>
+		</event>
+<event id="23" start_time="2018-02-15 14:15:00" duration="2100">
+		<short_event_descriptor lang="alb" name="Te shijosh jeten cdo dite">Emision religjioz. Te mbash pergjegjesi per udhetimin tend. Joyce Meyer dhe Charles Stanley jane angazhuar per te mesuar te vertetat praktike te Bibles dhe plotesimin e nevojave te njerezve ne mbare</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision religjioz. Te mbash pergjegjesi per udhetimin tend. Joyce Meyer dhe Charles Stanley jane angazhuar per te mesuar te vertetat praktike te Bibles dhe plotesimin e nevojave te njerezve ne mbare</text>
+		</extended_event_descriptor>
+		</event>
+<event id="24" start_time="2018-02-15 14:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="25" start_time="2018-02-15 15:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Wazzup">Live. Emision per te rinj. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete nje pasqy</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emision per te rinj. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete nje pasqy</text>
+		</extended_event_descriptor>
+		</event>
+<event id="26" start_time="2018-02-15 16:00:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="27" start_time="2018-02-15 16:15:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="28" start_time="2018-02-15 16:30:00" duration="3900">
+		<short_event_descriptor lang="alb" name="Info Magazine">Live. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste, gazetar</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste, gazetar</text>
+		</extended_event_descriptor>
+		</event>
+<event id="29" start_time="2018-02-15 17:35:00" duration="300">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="30" start_time="2018-02-15 17:40:00" duration="4200">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Live. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqerine dhe</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqerine dhe</text>
+		</extended_event_descriptor>
+		</event>
+<event id="31" start_time="2018-02-15 18:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="32" start_time="2018-02-15 19:00:00" duration="1800">
+		<short_event_descriptor lang="alb" name="LAJME 20/00">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="33" start_time="2018-02-15 19:30:00" duration="180">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="34" start_time="2018-02-15 19:33:00" duration="720">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="35" start_time="2018-02-15 19:45:00" duration="300">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</text>
+		</extended_event_descriptor>
+		</event>
+<event id="36" start_time="2018-02-15 19:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="37" start_time="2018-02-15 20:00:00" duration="4800">
+		<short_event_descriptor lang="alb" name="Zona e Debatit">Zona e Debatit</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Zona e Debatit</text>
+		</extended_event_descriptor>
+		</event>
+<event id="38" start_time="2018-02-15 21:20:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="39" start_time="2018-02-15 21:30:00" duration="1800">
+		<short_event_descriptor lang="alb" name="LAJME 22/30">Edicioni informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="40" start_time="2018-02-15 22:00:00" duration="180">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="41" start_time="2018-02-15 22:03:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit</text>
+		</extended_event_descriptor>
+		</event>
+<event id="42" start_time="2018-02-15 22:10:00" duration="3000">
+		<short_event_descriptor lang="alb" name="The Good Wife">Episodi 7</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Episodi 7</text>
+		</extended_event_descriptor>
+		</event>
+<event id="43" start_time="2018-02-15 23:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Wazzup">Ritransmetim. Emision per te rinjte. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision per te rinjte. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete</text>
+		</extended_event_descriptor>
+		</event>
+<event id="44" start_time="2018-02-16 00:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Info Magazine">Ritransmetim. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste,</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste,</text>
+		</extended_event_descriptor>
+		</event>
+<event id="45" start_time="2018-02-16 01:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</text>
+		</extended_event_descriptor>
+		</event>
+<event id="46" start_time="2018-02-16 02:00:00" duration="1980">
+		<short_event_descriptor lang="alb" name="LAJMET">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="47" start_time="2018-02-16 02:33:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="48" start_time="2018-02-16 02:40:00" duration="600">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Ritransmetim. Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</text>
+		</extended_event_descriptor>
+		</event>
+<event id="49" start_time="2018-02-16 02:50:00" duration="4800">
+		<short_event_descriptor lang="alb" name="Zona e Debatit">Ritransmetim</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim</text>
+		</extended_event_descriptor>
+		</event>
+<event id="50" start_time="2018-02-16 04:10:00" duration="3000">
+		<short_event_descriptor lang="alb" name="The Good Wife">Episodi 7</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Episodi 7</text>
+		</extended_event_descriptor>
+		</event>
+<event id="51" start_time="2018-02-16 05:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Mesimet e Dioles">Mesimet e Dioles</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Mesimet e Dioles</text>
+		</extended_event_descriptor>
+		</event>
+<event id="52" start_time="2018-02-16 06:00:00" duration="8400">
+		<short_event_descriptor lang="alb" name="Ora 7">Live. Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 f</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 f</text>
+		</extended_event_descriptor>
+		</event>
+<event id="53" start_time="2018-02-16 08:20:00" duration="600">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="54" start_time="2018-02-16 08:30:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="55" start_time="2018-02-16 08:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="56" start_time="2018-02-16 09:00:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Ritransmetim.Emision argetues/kulturor</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim.Emision argetues/kulturor</text>
+		</extended_event_descriptor>
+		</event>
+<event id="57" start_time="2018-02-16 09:50:00" duration="6000">
+		<short_event_descriptor lang="alb" name="n'Trip Liste">Ritransmetim</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim</text>
+		</extended_event_descriptor>
+		</event>
+<event id="58" start_time="2018-02-16 11:30:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="59" start_time="2018-02-16 11:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="60" start_time="2018-02-16 12:00:00" duration="1920">
+		<short_event_descriptor lang="alb" name="Lajme 13/00">Edicioni informativ i ores 13:00</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni informativ i ores 13:00</text>
+		</extended_event_descriptor>
+		</event>
+<event id="61" start_time="2018-02-16 12:32:00" duration="180">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="62" start_time="2018-02-16 12:35:00" duration="5100">
+		<short_event_descriptor lang="alb" name="Zona e Debatit">Ritransmetim. Emision Politik</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision Politik</text>
+		</extended_event_descriptor>
+		</event>
+<event id="63" start_time="2018-02-16 14:00:00" duration="900">
+		<short_event_descriptor lang="alb" name="Lajme Flash">Edicion i shkurter informativ</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicion i shkurter informativ</text>
+		</extended_event_descriptor>
+		</event>
+<event id="64" start_time="2018-02-16 14:15:00" duration="2100">
+		<short_event_descriptor lang="alb" name="Te shijosh jeten cdo dite">Emision religjioz. Te mbash pergjegjesi per udhetimin tend. Joyce Meyer dhe Charles Stanley jane angazhuar per te mesuar te vertetat praktike te Bibles dhe plotesimin e nevojave te njerezve ne mbare</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision religjioz. Te mbash pergjegjesi per udhetimin tend. Joyce Meyer dhe Charles Stanley jane angazhuar per te mesuar te vertetat praktike te Bibles dhe plotesimin e nevojave te njerezve ne mbare</text>
+		</extended_event_descriptor>
+		</event>
+<event id="65" start_time="2018-02-16 14:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="66" start_time="2018-02-16 15:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Wazzup">Live. Emision per te rinj. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete nje pasqy</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emision per te rinj. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete nje pasqy</text>
+		</extended_event_descriptor>
+		</event>
+<event id="67" start_time="2018-02-16 16:00:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="68" start_time="2018-02-16 16:15:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="69" start_time="2018-02-16 16:30:00" duration="3900">
+		<short_event_descriptor lang="alb" name="Info Magazine">Live. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste, gazetar</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste, gazetar</text>
+		</extended_event_descriptor>
+		</event>
+<event id="70" start_time="2018-02-16 17:35:00" duration="300">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="71" start_time="2018-02-16 17:40:00" duration="4200">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Live. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqerine dhe</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Live. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqerine dhe</text>
+		</extended_event_descriptor>
+		</event>
+<event id="72" start_time="2018-02-16 18:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="73" start_time="2018-02-16 19:00:00" duration="1800">
+		<short_event_descriptor lang="alb" name="LAJME 20/00">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="74" start_time="2018-02-16 19:30:00" duration="180">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="75" start_time="2018-02-16 19:33:00" duration="720">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="76" start_time="2018-02-16 19:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Minuta e fundit</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Minuta e fundit</text>
+		</extended_event_descriptor>
+		</event>
+<event id="77" start_time="2018-02-16 20:00:00" duration="5400">
+		<short_event_descriptor lang="alb" name="Champion Quiz">Sezoni i ri i Champion Quiz. Episodi 3</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Sezoni i ri i Champion Quiz. Episodi 3</text>
+		</extended_event_descriptor>
+		</event>
+<event id="78" start_time="2018-02-16 21:30:00" duration="1800">
+		<short_event_descriptor lang="alb" name="LAJME 22/30">LAJME 22/30</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>LAJME 22/30</text>
+		</extended_event_descriptor>
+		</event>
+<event id="79" start_time="2018-02-16 22:00:00" duration="180">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="80" start_time="2018-02-16 22:03:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="81" start_time="2018-02-16 22:10:00" duration="3000">
+		<short_event_descriptor lang="alb" name="The Good Wife">Episodi 8</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Episodi 8</text>
+		</extended_event_descriptor>
+		</event>
+<event id="82" start_time="2018-02-16 23:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Wazzup">Ritransmetim. Emision per te rinjte. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision per te rinjte. Wazzup eshte program i cili bazohet mbi informacionin, te rejat dhe gjithcka qe eshte terheqese per te rinjte e sotem. Wazzup permes prezantuesve te rinje do jete</text>
+		</extended_event_descriptor>
+		</event>
+<event id="83" start_time="2018-02-17 00:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Info Magazine">Ritransmetim. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste,</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision informativ. Emision i perditshem i cili shperfaq te rejat e fundit nga rrafshi politik, ekonomik dhe social. Debatohet tema e dites me te ftuarit e veCante politikane, analiste,</text>
+		</extended_event_descriptor>
+		</event>
+<event id="84" start_time="2018-02-17 01:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</text>
+		</extended_event_descriptor>
+		</event>
+<event id="85" start_time="2018-02-17 02:00:00" duration="1980">
+		<short_event_descriptor lang="alb" name="LAJME">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="86" start_time="2018-02-17 02:33:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="87" start_time="2018-02-17 02:40:00" duration="600">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Ritransmetim. Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision sportiv. Analizat e futbollit kosovar, permbledhjet e ligave elitare evropiane. Fakte interesante e informacione mbi skuadrat me te suksesshme boterore</text>
+		</extended_event_descriptor>
+		</event>
+<event id="88" start_time="2018-02-17 02:50:00" duration="4800">
+		<short_event_descriptor lang="alb" name="Champion Quiz">Sezoni i ri i Champion Quiz. Episodi 3</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Sezoni i ri i Champion Quiz. Episodi 3</text>
+		</extended_event_descriptor>
+		</event>
+<event id="89" start_time="2018-02-17 04:10:00" duration="3000">
+		<short_event_descriptor lang="alb" name="The Good Wife">Episodi 8</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Episodi 8</text>
+		</extended_event_descriptor>
+		</event>
+<event id="90" start_time="2018-02-17 05:00:00" duration="7200">
+		<short_event_descriptor lang="alb" name="Prive">Prive. Emision shoubizi</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Prive. Emision shoubizi</text>
+		</extended_event_descriptor>
+		</event>
+<event id="91" start_time="2018-02-17 07:00:00" duration="4800">
+		<short_event_descriptor lang="alb" name="Ora 7">Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 fillon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 fillon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="92" start_time="2018-02-17 08:20:00" duration="600">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="93" start_time="2018-02-17 08:30:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="94" start_time="2018-02-17 08:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="95" start_time="2018-02-17 09:00:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Klan Kids">Hapesire dedikuar femijeve. Aventurat ne Odise / Pink Panther</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Hapesire dedikuar femijeve. Aventurat ne Odise / Pink Panther</text>
+		</extended_event_descriptor>
+		</event>
+<event id="96" start_time="2018-02-17 09:50:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Familja ime">Emision familjar</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision familjar</text>
+		</extended_event_descriptor>
+		</event>
+<event id="97" start_time="2018-02-17 10:50:00" duration="2400">
+		<short_event_descriptor lang="alb" name="Ora e Pasdites">Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision argetues/kulturor. Ora e Pasdites  me Njomeza Aliu, emision i perditshem qellimi i te cilit eshte per te zbuluar dhe kuptuar ngjarjet, dukurite dhe tendencat qe formesojne shoqe</text>
+		</extended_event_descriptor>
+		</event>
+<event id="98" start_time="2018-02-17 11:30:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="99" start_time="2018-02-17 11:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="100" start_time="2018-02-17 12:00:00" duration="1920">
+		<short_event_descriptor lang="alb" name="LAJME 13/00">Edicioni informativ i ores 13:00</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni informativ i ores 13:00</text>
+		</extended_event_descriptor>
+		</event>
+<event id="101" start_time="2018-02-17 12:32:00" duration="180">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="102" start_time="2018-02-17 12:35:00" duration="5100">
+		<short_event_descriptor lang="alb" name="Champion Quiz">Ritransmetim</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim</text>
+		</extended_event_descriptor>
+		</event>
+<event id="103" start_time="2018-02-17 14:00:00" duration="600">
+		<short_event_descriptor lang="alb" name="LAJME FLASH">LAJME FLASH</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>LAJME FLASH</text>
+		</extended_event_descriptor>
+		</event>
+<event id="104" start_time="2018-02-17 14:10:00" duration="300">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="105" start_time="2018-02-17 14:15:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="106" start_time="2018-02-17 14:30:00" duration="1800">
+		<short_event_descriptor lang="alb" name="Pet Show">Emision kushtuar kafsheve</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision kushtuar kafsheve</text>
+		</extended_event_descriptor>
+		</event>
+<event id="107" start_time="2018-02-17 15:00:00" duration="3600">
+		<short_event_descriptor lang="alb" name="O sa mire">Serial</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Serial</text>
+		</extended_event_descriptor>
+		</event>
+<event id="108" start_time="2018-02-17 16:00:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Mesimet e Dioles">Emision edukativ . Emision televiziv nga Diola Dosti Baftiu kushtuar jeteses se shendetshme. Mireqenja jone varet nga ajo se si e trajtojme mendjen dhe trupin tone, per kete arsye vemendja eshte drej</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision edukativ . Emision televiziv nga Diola Dosti Baftiu kushtuar jeteses se shendetshme. Mireqenja jone varet nga ajo se si e trajtojme mendjen dhe trupin tone, per kete arsye vemendja eshte drej</text>
+		</extended_event_descriptor>
+		</event>
+<event id="109" start_time="2018-02-17 16:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="110" start_time="2018-02-17 17:00:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Ju Flet Prishtina">Ju Flet Prishtina</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ju Flet Prishtina</text>
+		</extended_event_descriptor>
+		</event>
+<event id="111" start_time="2018-02-17 17:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="112" start_time="2018-02-17 18:00:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Prive">Emision showbizi. Sezoni i nente i programit me te ndjekur te showbizit ne vend.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision showbizi. Sezoni i nente i programit me te ndjekur te showbizit ne vend.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="113" start_time="2018-02-17 18:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="114" start_time="2018-02-17 19:00:00" duration="1800">
+		<short_event_descriptor lang="alb" name="LAJME 20/00">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="115" start_time="2018-02-17 19:30:00" duration="180">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="116" start_time="2018-02-17 19:33:00" duration="300">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="117" start_time="2018-02-17 19:38:00" duration="420">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="118" start_time="2018-02-17 19:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Minuta e fundit">Emision i sportit Përmbledhje e ngjarjeve sportive gjatë fundjavës</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision i sportit Përmbledhje e ngjarjeve sportive gjatë fundjavës</text>
+		</extended_event_descriptor>
+		</event>
+<event id="119" start_time="2018-02-17 20:00:00" duration="4800">
+		<short_event_descriptor lang="alb" name="50 vjetori i Sabri Fejzullahut">Koncert</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Koncert</text>
+		</extended_event_descriptor>
+		</event>
+<event id="120" start_time="2018-02-17 21:20:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="121" start_time="2018-02-17 21:30:00" duration="1800">
+		<short_event_descriptor lang="alb" name="LAJME 22/30">LAJME 22/30</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>LAJME 22/30</text>
+		</extended_event_descriptor>
+		</event>
+<event id="122" start_time="2018-02-17 22:00:00" duration="180">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="123" start_time="2018-02-17 22:03:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="124" start_time="2018-02-17 22:10:00" duration="13800">
+		<short_event_descriptor lang="alb" name="Zone e Lire">Emision argetues/informues</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision argetues/informues</text>
+		</extended_event_descriptor>
+		</event>
+<event id="125" start_time="2018-02-18 02:00:00" duration="1980">
+		<short_event_descriptor lang="alb" name="LAJME">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="126" start_time="2018-02-18 02:33:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="127" start_time="2018-02-18 02:40:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Prive">Ritransmetim. Emision showbizi. Sezoni i nente i programit me te ndjekur te showbizit ne vend</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision showbizi. Sezoni i nente i programit me te ndjekur te showbizit ne vend</text>
+		</extended_event_descriptor>
+		</event>
+<event id="128" start_time="2018-02-18 03:30:00" duration="1800">
+		<short_event_descriptor lang="alb" name="n'Trip Liste">Ritransmetim.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="129" start_time="2018-02-18 04:00:00" duration="10800">
+		<short_event_descriptor lang="alb" name="Xing me Ermalin">Ritransmetim. Emision argetues</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision argetues</text>
+		</extended_event_descriptor>
+		</event>
+<event id="130" start_time="2018-02-18 07:00:00" duration="4800">
+		<short_event_descriptor lang="alb" name="Ora 7">Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 fillon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emisioni i mengjesit. Ora Shtate synon qe cdo mengjes te jete pjese e familjeve kosovare duke sjell reportazhe te ndryshme, personalite interesante dhe ngjarje te rendesishme. Dita me ORA-n 7 fillon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="131" start_time="2018-02-18 08:20:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision i sportit. Permbledhje e ngjarjeve sportive gjate fundjaves.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="132" start_time="2018-02-18 08:35:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="133" start_time="2018-02-18 08:50:00" duration="3600">
+		<short_event_descriptor lang="alb" name="Klan Kids">Hapesire dedikuar femijeve. Aventurat ne Odise / Pink Panther</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Hapesire dedikuar femijeve. Aventurat ne Odise / Pink Panther</text>
+		</extended_event_descriptor>
+		</event>
+<event id="134" start_time="2018-02-18 09:50:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Familja ime">Emision edukativ</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision edukativ</text>
+		</extended_event_descriptor>
+		</event>
+<event id="135" start_time="2018-02-18 10:40:00" duration="3000">
+		<short_event_descriptor lang="alb" name="Prive">Ritransmetim</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim</text>
+		</extended_event_descriptor>
+		</event>
+<event id="136" start_time="2018-02-18 11:30:00" duration="900">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="137" start_time="2018-02-18 11:45:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="138" start_time="2018-02-18 12:00:00" duration="1920">
+		<short_event_descriptor lang="alb" name="LAJME 13/00">Edicioni informativ i ores 13:00</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni informativ i ores 13:00</text>
+		</extended_event_descriptor>
+		</event>
+<event id="139" start_time="2018-02-18 12:32:00" duration="480">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="140" start_time="2018-02-18 12:40:00" duration="4800">
+		<short_event_descriptor lang="alb" name="Sabri Fejzullahu">Koncerti: Ritransmetim</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Koncerti: Ritransmetim</text>
+		</extended_event_descriptor>
+		</event>
+<event id="141" start_time="2018-02-18 14:00:00" duration="600">
+		<short_event_descriptor lang="alb" name="LAJME FLASH">LAJME FLASH</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>LAJME FLASH</text>
+		</extended_event_descriptor>
+		</event>
+<event id="142" start_time="2018-02-18 14:10:00" duration="300">
+		<short_event_descriptor lang="alb" name="Comodita">Comodita</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Comodita</text>
+		</extended_event_descriptor>
+		</event>
+<event id="143" start_time="2018-02-18 14:15:00" duration="900">
+		<short_event_descriptor lang="alb" name="Top Shop">Top Shop</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Top Shop</text>
+		</extended_event_descriptor>
+		</event>
+<event id="144" start_time="2018-02-18 14:30:00" duration="2400">
+		<short_event_descriptor lang="alb" name="Pet Show">Emision kushtuar kafsheve</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision kushtuar kafsheve</text>
+		</extended_event_descriptor>
+		</event>
+<event id="145" start_time="2018-02-18 15:10:00" duration="7800">
+		<short_event_descriptor lang="alb" name="Xing me Ermalin">Ritransmetim. Emision argetues</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Ritransmetim. Emision argetues</text>
+		</extended_event_descriptor>
+		</event>
+<event id="146" start_time="2018-02-18 17:20:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="147" start_time="2018-02-18 17:30:00" duration="4800">
+		<short_event_descriptor lang="alb" name="n'Trip Liste">Emision muzikor. Top 20 kenget me te votuara te javes</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision muzikor. Top 20 kenget me te votuara te javes</text>
+		</extended_event_descriptor>
+		</event>
+<event id="148" start_time="2018-02-18 18:50:00" duration="600">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="149" start_time="2018-02-18 19:00:00" duration="1800">
+		<short_event_descriptor lang="alb" name="LAJME 20/00">Edicioni qendror informativ ne Klan Kosova</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Edicioni qendror informativ ne Klan Kosova</text>
+		</extended_event_descriptor>
+		</event>
+<event id="150" start_time="2018-02-18 19:30:00" duration="180">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="151" start_time="2018-02-18 19:33:00" duration="420">
+		<short_event_descriptor lang="alb" name="Parashikimi i motit">Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Parashikimi i motit per ditet vijuese ne Kosove dhe Rajon</text>
+		</extended_event_descriptor>
+		</event>
+<event id="152" start_time="2018-02-18 19:40:00" duration="1200">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="153" start_time="2018-02-18 20:00:00" duration="3300">
+		<short_event_descriptor lang="alb" name="O sa mire">Serial vendor .Seriali vendor me i suksesshem i momentit vjen me sezonin e ri.</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Serial vendor .Seriali vendor me i suksesshem i momentit vjen me sezonin e ri.</text>
+		</extended_event_descriptor>
+		</event>
+<event id="154" start_time="2018-02-18 20:55:00" duration="300">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+<event id="155" start_time="2018-02-18 21:00:00" duration="6900">
+		<short_event_descriptor lang="alb" name="Sports Show">Emision i sportit. Ngjarjet me interesante javore ne boten e sportit, debat, lojera dhe materiale interesante shpalosen ne kete emision kushtuar sportit</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Emision i sportit. Ngjarjet me interesante javore ne boten e sportit, debat, lojera dhe materiale interesante shpalosen ne kete emision kushtuar sportit</text>
+		</extended_event_descriptor>
+		</event>
+<event id="156" start_time="2018-02-18 22:55:00" duration="300">
+		<short_event_descriptor lang="alb" name="Publicitet">Publicitet</short_event_descriptor>
+		<extended_event_descriptor lang="alb">
+			<text>Publicitet</text>
+		</extended_event_descriptor>
+		</event>
+</channel>
+</WIDECAST_DVB>

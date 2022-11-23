@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport HD 4ott">
+    <event id="0" start_time="2018-02-11 17:15:00" duration="9900">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2018-02-11 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Lyon-Rennes">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ligue 1 2017-2018, ndeshje e vlefshme per javen e 25-te, nga stadiumi "Groupama" ne Lyon. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2018-02-11 22:00:00" duration="32400">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2018-02-12 07:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2018-02-12 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2018-02-13 07:00:00" duration="16200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2018-02-13 11:30:00" duration="36000">
+      <short_event_descriptor lang="alb" name="ATP World Tour Roterdam">Tenis-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>ATP World Tour 2018, nga Roterdami i Holandes vjen Masters 500 me pjesemarrjen e Federer, Wawrinka, Dimitrov, Tsonga etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2018-02-13 21:30:00" duration="34200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2018-02-14 07:00:00" duration="21600">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2018-02-14 13:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Luftetari-Laci">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per fazen e 1/4 finale, nga stadiumi "Luftetari" ne Gjirokaster. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2018-02-14 15:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2018-02-14 15:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Skenderbeu-Teuta">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kupa e Shqiperise 2017-2018, ndeshje e vlefshme per raundin e 1/4 finale, nga stadiumi "Skenderbeu" ne Korce. Komenti, Blendi Resnja.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2018-02-14 17:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2018-02-14 19:00:00" duration="43200">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2018-02-15 07:00:00" duration="10800">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2018-02-15 10:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="ATP World Tour Roterdam">Tenis-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>ATP World Tour 2018, nga Roterdami i Holandes vjen Masters 500 me pjesemarrjen e Federer, Wawrinka, Dimitrov, Tsonga etj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2018-02-15 18:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Osterunds-Arsenal">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, ndeshje e vlefshme per raundin e 1/16, nga stadiumi "Jämtkraft Arena" ne Osterunds. Komenti, Elvis Rexha. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2018-02-15 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Kopenhagen-Atl.Madrid">Futboll-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Europa League 2017-2018, ndeshje e vlefshme per fazen e 1/16, nga stadiumi "Telia Parken" ne Kopenhagen. Komenti, Olsi Coku. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2018-02-15 22:00:00" duration="32400">
+      <short_event_descriptor lang="alb" name="Info">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gjithcka mbi programet dhe emisionet e paketes me te madhe sportive ne vend, SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Film Aksion">
+    <event id="0" start_time="2021-12-09 16:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Mythica: Kurora e hekurt">Aksion, Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Melanie Stone, Adam Johnson. Një magjistare e re dhe guximtare, shtie në dorë pjesën e fundit ë Darksporit më të fuqishëm dhe bën gjithçka për ta mbajtur larg nga një magjistar djallëzor.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 18:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Arratisje nga Dankirku">Aksion, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në Francën e pushtuar nga nazistët, një kampion boksi i kapur rob, detyrohet të luftojë me një kundërshtar gjerman po aq të fortë, për të argëtuar pushtuesit. Për të dhe shokët e tij, kjo mund të shndërrohet në mundësinë e vetme për një arratisje të guximshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 20:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Gjithë njerëzit e djallit"> Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2018. Një ish-ushtarak i kthyer në mercenar detyrohet të shkojë në Londër për 'gjuetinë'  e një ish-agjenti të CIA-s. Misioni i ri e çon atë drejt një beteje vdekjeprurëse me një ish koleg, që po përpiqet të bëje lojë të dyfishtë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 21:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Toka e krimit">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matt Dillon, Willem Dafoe, Neal McDonough. Pasi arreston një vrasës me pagesë, një detektiv i Luizianës, përpiqet ta bindë që të bashkëpunojë me drejtësinë për të vënë përpara ligjit organizatën kriminale më të madhe të jugut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 23:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Vrasje me mënyrën e vjetër">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ian Ogilvy, Alison Doody. Pasi disa kriminelë vrasin një ish mafioz, vëllai i tij i ndihmuar edhe nga kolegët, fillon një hakmarrje të pamëshirshmesipas mënyrës së vjetër. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-10 00:50:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Përtej detyrës">Luftë, aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bazuar në kujtimet e kapitenit Ernest Gordon, vjen historia e katër të burgosurve të Luftës II Botërore dhe e mbijetesës së tyre në kampin japonez, ndërsa detyroheshin të punonin në "Hekurudhën e Vdekjes"</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-10 02:50:00" duration="6900">
+      <short_event_descriptor lang="alb" name="14 shpatat">Kinemaja Aziatike</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Donnie Yen, Wei Zhao. Në kohën e dinasitsë Ming, një mjeshtër i arteve marciale, agjent në oborrin mbretëror, vihet nën shënjestrën e ish shokëve të tij që e akuzojnë padrejtësisht për tradhti...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2021-12-10 04:45:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Gjeneza">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Viti 2067. Të mbijetuarit e ndotjes globale jetojnë nën tokë në kushte të ç'njerëzore, ndërsa janë rob të pushtetit. Një android krijohet për të ndihmuar me ndotjen, por ai që u ideua si shpresë e njërëzimit, tani, do t'i gjykojë ata.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2021-12-10 06:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Heroi">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shume kohe perpara mbreterimit te Perandorit te Pare, grupe kundershtaresh ane e mbane Mbreterise se te Gjashteve, thurnin komplote per te vrare sundimtarin me te fuqishem. Vetem Nje Hero do ta sfidoje Perandorine e do bashkoje kombin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2021-12-10 08:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Lara Kroft-Tomb Raider 1">Action Superheroes</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Angelina Jolie, Jon Voight. Arkeologe bukuroshe dhe e rrezikshme, Lara Croft gjen më në fund një instrument të lashtë e misterioz që ia ka lënë i ati.Tani ajo duhet të gjejë pjesën që mungon e të shpëtojë botën nga një sekt sekret vrasësish.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2021-12-10 09:50:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Legjioni i fundit">Epik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Colin Firth, Ben Kingsley, Aishwarya Bachchan. Në ditët e fundit të perandorise romake, një djalosh 12 vjeçar niset në kërkim të legjionit të fundit, i shoqëruar edhe nga një kalorës dhe një plak i mistershëm...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2021-12-10 11:30:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Misioni: Hong Kong">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>ackie Chan, Johnny Knoxville. Detektivi më i mirë i Hong Kongut, bashkon forcat me një kumarxhi amerikan, për të luftuar kundër një krimineli shumë të rrezikshëm.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2021-12-10 13:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Profesionisti">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vrasës me pagesë krijon një aleancë të paparashikuar me një nga objektivat e tij: një vajzë e re që kërkon të hakmarret për vrasjen e familjes së saj.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2021-12-10 14:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Qiell i kuq">Action War</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Cam Gigandet, Shane West. Një pilot avioni i përzënë nga ushtria për diçka që nuk ishte faji i tij, vihet në krye të një skuadre që duhet me çdo kusht të gjejë një armë të shkatërrimit në masë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2021-12-10 16:30:00" duration="6900">
+      <short_event_descriptor lang="alb" name="Mythica:Beteja e Zotave">Aksion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në përpjekje të dëshpëruar për të shpëtuar botën nga zombit, një magjistare e re dhe e mallkuar fillon udhëtimin e vështirë për të marrë ndihmën nga perënditë, por armën e vërtetë për të fituar luftën e ka patur gjithmonë me vete.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2021-12-10 18:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Ninxha II: Hakmarrja">Arte marciale</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Scott Adkins. Kur gruaja e tij shtatzënë vritet në mënyrë çnjerëzore, mjeshtri i arteve marciale, Casey Bowman bashkon forcat me një mik të vjetër për të përsosur aftësitë e tij të dyluftimit dhe për të marrë hak.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2021-12-10 20:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Sabotazhi">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Arnold Schwarzenegger, Sam Worthington, Terrence Howard. Anëtarët e një grupi special të departamentit amerikan të antidrogës, fillojnë të vriten një nga një pasi shkatërrojnë një bazë të një karteli droge. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2021-12-10 21:45:00" duration="6900">
+      <short_event_descriptor lang="alb" name="I forti i Roud Hauzit">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>P.Swayze. Xhejms Dalton drejton punën e truprojave në klube. Ai shpejt pranon një punë dhe transferohet në Roud Hauz. Tentativat e tij për të rregulluar gjerat e fusin në konflikt me pasanikun dhe të fortin e qytetit, Bred Uesli.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2021-12-10 23:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Maks Still">Fantashkencë, aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ben Winchell, Maria Bello. Aventurat e Maks Mekgreth dhe shokut te tij jashtëtokësor Still, që duhet të bashkojnë forcat e tyre të jashtëzakonshme për t'u kthyer në superheroin Maks Still...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2021-12-11 01:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="I forti mbi ligjin 2">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Danny Trejo, Danny Glover. Veterani i luftës së Vietnamit, Frenk Vega i ndihmuar edhe nga shoku tij, vendos të luftojë krimin në rrugët e Los Anxhelosit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2021-12-11 02:45:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Loja e vdekjes">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2010. Me Wesley Snipes, Robert Davi . Agjenti sekret Markus është dërguar në Detroit, për të eliminuar një tregtar armësh... Por kolegu i tij, ka plane të tjera.. Tani midis dy agjentëve, do të nisë një luftë e ashpër, për mbijetesë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2021-12-11 04:10:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Agresioni">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dana Ashbrook, Derek Mears. Një adoleshent me një të kaluar të dhunshme, është mëse i gatshëm të përballet me kriminelët që janë futur në shtëpinë e tij dhe t'iu përgjigjet me të njëjtën mënyrë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2021-12-11 05:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Armiq të betuar">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>James McAvoy. Ish krimineli Sternud, detyrohet të braktisë fshehjen e tij dhe të kthehet ne Londër, për të vizituar djalin e plagosur. Kjo është edhe mundësia e fundit për detektivin Levinski, që të kapë njeriun që e kërkon prej vitesh. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2021-12-11 07:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Tomb Raider 2-Djepi i jetes">Action Superheroes</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Angelina Jolie, Gerard Butler, Ciaran Hinds. Aventurierja Lara Croft, me ndihmën e një ish marinsi, përpiqet të gjejë kutinë e Pandorës, përpara se ta gjejë një shkncëtar keqbërës, që kërkon dominimin e botës..</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2021-12-11 09:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Hajdutët e makinave">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndërsa enden në botën e rrezikshme të vjedhjes së makinave në Los Anxhelos, dy shokë të ngushtë guxojnë të ringrejnë karrierën e tyre pas burgut, duke u kthyer nga hajdutë të vegjël në lojtarë të rëndësishëm të tregut ndërkombëtar të makinave</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2021-12-11 10:35:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Porta e Yjeve             ">Fantashkence                                                    </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kurt Russell, James Spader. Një portë misterioze i zbuluar në Egjipt, e çon një shkencëtar dhe disa ushtarë me në krye komandantin e tyre të sertë, në një planet të ngjashëm me Tokën, të sunduar nga alienë të pashpirt.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2021-12-11 12:40:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Pushtimi: Fundi i kohës">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vite pas rënies së një anije aliene në Tokë, jeta e një gruaje të re nga Moska ndryshoi rrënjësisht. Fuqitë e saj të reja e kanë bërë atë objekt studimi në Tokë, por interesi më i madh, vjen nga format e jetës përtej planetit, të cilët e shohin atë si kërcënim... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2021-12-11 14:40:00" duration="5700">
+      <short_event_descriptor lang="alb" name="I lindur për të jetuar">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2002.S.Stallone. I traumatizuar nga vdekja e së shoqes, një agjent i FBI-së bashkohet me 9 oficerë të tjerë në një klinikë rehabilitimi. Një stuhi e fortë shkëput lidhjet me botën e jashtme dhe ai zbulon se partnerët e tij po vriten një e nga një. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2021-12-11 16:15:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Në detyrë">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aaron Eckhart. Pas vret aksidentalisht rrëmbyesin e një vajze të vogël, një polic përpqiet të gjejë vendin ku është mbyllur viktima, ndërkohë që ajo i ka minutat e numëruara...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2021-12-11 17:50:00" duration="7800">
+      <short_event_descriptor lang="alb" name=" Lojërat e urisë: Grifsha-Pj 2">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2015. Jennifer Lawrence, Josh Hutcherson. Në kapitullin e fundit të një prej filmave më të pëlqyer, Katnis dhe miqtë e saj më të ngushtë do të luftojnë jo vetëm për mbijetesë, por edhe për të ardhmen e tyre dhe të qytetarëve të Panemit.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2021-12-11 20:00:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Epërsia Born">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Matt Damon. Ka dy vjet që Jason Bourne i bie botës përqark me të dashuren e tij Marie. Kujtesa s'i është kthyer kurrë, porse jeton me shpresen për ta hedhur pas kraheve te shkuaren e tij te dhunshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2021-12-11 21:45:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Njerëzit X: Gjenerata e Parë">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>James McAvoy, Michael Fassbender, Jennifer Lawrence, Kevin Bacon. Kjo është historia e gjeneratës se parë të mutantëve dhe problemeve që sollën luftën a pandalshme midis Profesor X dhe Magnetos... Viti i prodhimit 2011
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2021-12-11 23:50:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Motrat vrasëse ">Aksion </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Q.Shu, W.Zhao, K.Mok. Nga regjisori i suksesshëm aksion Corey Yuen. Në botën e egër të biznesit të madh, për këto dy motra profesioni është: vrasëse. Askush s'ua kalon dot, askush s'i ndal dot, vetëm një police mund t'i shtjerë në dorë. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2021-12-12 01:40:00" duration="5100">
+      <short_event_descriptor lang="alb" name="I forti mbi ligjin 3">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Danny Trejo, Danny Glover. Frenk Vega dhe Berni Pop, këtë herë ndodhen në Luiziana në përpjekje për të shpëtuar një mik të rrëmbyer.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2021-12-12 03:05:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Beteja e të mallkuarve">Fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dolph Lundgren, Matt Doran, Lydia Look. Pas një virusi që i kthen njerëzit në zombi, një ushtar privat vihet në krye të disa të mbijetuarve dhe disa robotëve, në përpjekje për të eliminuar rrezikun...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2021-12-12 04:30:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Pushtimi i fundit">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas rrëzimit të një anijeje jashtëtokësore ne vitin 1947, një skuadër e specialzuar krijohet për të mbrojtur njerëzit. Por jashtëtokësorët sulmojnë 66 vjet më pasdhe pjestarët e skuadrës të dalë në pension, janë shpresa e vetme për shpëtim.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2021-12-12 05:55:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Vëllezërit  Njuton">Aksion, krim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>M.McConaughey, E.Hawke. Viti 1920. Vëllezërit Njuton vijnë nga një familje e varfër. Vëllai i madh jep idenë se ata duhet të bëhen grabitës bankash. Ata bëhen të famshëm dhe kryejnë grabitjen më famëkeqe të një treni në historinë e SHBA-s.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2021-12-12 07:55:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Gjuha e kodeve">Aksion, luftë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>N.Cage. Dy marinsa Amerikanë gjatë Luftës II Botërore caktohen si truproja të ushtarëve indianë Navajo, gjuha e të cilëve përdoret si kod i padeshifrueshëm komunikimi. Ata do të bëjnë të çmos që indianët të mos bien në duart e armikut.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2021-12-12 10:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Zhdukja">Aksion, fantashkencë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2018. Michael Peña, Lizzy Caplan. I përndjekur nga ëndrrat e një pushtimi alien, një burrë familjar përballet me makthin e tij më të keq kur një forcë jashtëtokësore fillon të shfarosë banorët e Tokës.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2021-12-12 11:35:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Musketieri">Aksion, aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>J.Chambers. Ne Parisin e shek. të 17, D'Artanjani e gjen veten përballë forcave të errëta që duan të marrin Francën nën kontroll. Ai kërkon të hakmerret për vrasjen e prindërve të tij. Zemra e tij zbutet vetëm nga një vajze e re fshatare.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2021-12-12 13:15:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Misioni: Hakmarrja">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Scott Adkins. I vendosur në kurth nga personi që besonte më shumë, një i dënuar i regjur arratiset nga burgu për t'u hakmarrë ndaj atyre që e kthyen atë në vrasës. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2021-12-12 14:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kundërsulmi">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Bruce Willis, Frank Grillo. Një menaxher banke i tronditur nga një vjedhje në punën e tij, kërkon ndihmën e fqinjit ish-polic për të ndëshkuar sulmuesin, por nxit një kundërsulm që do t'i çojë të tre burrat në pikën kritike</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2021-12-12 16:10:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Gjithë njerëzit e djallit"> Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2018. Një ish-ushtarak i kthyer në mercenar detyrohet të shkojë në Londër për 'gjuetinë'  e një ish-agjenti të CIA-s. Misioni i ri e çon atë drejt një beteje vdekjeprurëse me një ish koleg, që po përpiqet të bëje lojë të dyfishtë</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2021-12-12 17:45:00" duration="8100">
+      <short_event_descriptor lang="alb" name="Njeriu i Jashtëzakonshëm Merimange">Aksion, aventurë, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Andrew Garfield, Rhys Ifans, Emma Stone. Kjo është historia e patreguar e 'Njeriut Merimangë'... Pasi gjen nje valixhe të lënë nga babai i tij, Piter Parker do të kërkojë me ngulm të zbulojë arsyen e zhdukjes së prindërve të tij..
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2021-12-12 20:00:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Pompei">Aksion, aventurë, dramë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kit Harington, Emily Browning. Ndërsa vullkani i Vezuvit shpërthen dhe shkaterron qytetin e Pompeit, një skllav gladiator e gjen veten në garë me kohën për të shpëtuar të dashurën që është fejuar me një senator të korruptuar romak.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2021-12-12 21:40:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Njerëzit X: Ditët e së ardhmes se shkuar">Aksion </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Patrick Stewartm Ian McKellen, Hugh Jackman. Njerëzit X kthejnë dikë pas në kohe, për të ndryshuar historinë dhe për të parandaluar një ngjarje që do të sillte fundin si për njerëzit ashtu edhe për mutantët. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2021-12-12 23:45:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Rrezik në Bahamas">Aksion, thriller</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>2015. Bazuar në ngjarje të vërteta. Një çift planifikon pushimet ideale në një ishull të izoluar në Bahamas, por do ta gjejnë veten pre të një grup piratësh modern, që kërkojnë më shumë se sa pasuritë e tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2021-12-13 01:20:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Out of sight">Aksion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>George Clooney, Jennifer Lopez. Kandidat për dy çmime Oskar. Një grabitës bankash që sapo është arratisur nga burgu, ka në plan të kryejë një 'punë' të madhe, por romanca e filluar me një agjente federale do të rrezikojë gjithçka. </text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="T1">
+    <event id="0" start_time="2018-02-14 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2018-02-14 11:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Top Show ">Top Show </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tema te nxehta e te lehta, aktualitet dhe politike, histori te fshatit dhe qytetit, apo te botes, personazhe te njohur dhe te panjohur.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2018-02-14 13:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amerikanet IV">Seria 9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pejxhi mëson të ngasë makinën me babain e saj, dhe i kërkon që të shfaqen të bashkuar para pastorit Tim. Elizabeta has vështirësi me misionin e saj të ri, "Peti", ndërkohë që pastori Tim shqetësohet për gjendjen mendore të Pejxhit. Filmi "The Day Aft</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2018-02-14 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2018-02-14 14:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2018-02-14 15:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="BCTV" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2018-02-14 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="E zhdukura">Seria 76</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Gastoni zbulon të vërtetën mbi të ëmën, dhe i jep 24 orë kohë që të arratiset para se të njoftojë policinë. Feliksi arratiset nga burgu dhe shkon në spital te Marsela.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2018-02-14 17:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pasdite ne Tch">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje pasdite interaktive me 'miqte' tane qe jane ne nevoje, me ata qe ia kane dale mbane apo qe nuk rreshtin se perpjekuri... Nje pasdite me argetim e risi... nje pasdite qe te na vere ne mendime dhe te buzeqeshim plot shprese..
+
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2018-02-14 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2018-02-14 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2018-02-14 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Top Show Magazine">Top show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>C'doni te dini? Kurioziteti juaj shuhet LIVE neTop Show Magazine, revisten e perjaveshme televizive, ku mund te mesoni me shume mbi ngjarje e aktivitete te reja, thashetheme, etj.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2018-02-14 21:00:00" duration="900">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2018-02-14 21:15:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Top Show Magazine">Top show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>C'doni te dini? Kurioziteti juaj shuhet LIVE neTop Show Magazine, revisten e perjaveshme televizive, ku mund te mesoni me shume mbi ngjarje e aktivitete te reja, thashetheme, etj.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2018-02-14 23:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajmet, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2018-02-14 23:40:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2018-02-15 00:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2018-02-15 02:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2018-02-15 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Shpëtimtari i shpirtrave">Pjesa 2,3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shelbesa e prokurorit mund te jete ne duart e nje njeriu qe ai ka denuar. Klienti i dyte i Morgan Pym eshte prokurori Carter Anderson, marreveshja e te cilit me djallin e ka lejuar ate te fitoje te gjitha rastet ne 10 vitet e fundit</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2018-02-15 04:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Pasdite ne Tch">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje pasdite interaktive me 'miqte' tane qe jane ne nevoje, me ata qe ia kane dale mbane apo qe nuk rreshtin se perpjekuri... Nje pasdite me argetim e risi... nje pasdite qe te na vere ne mendime dhe te buzeqeshim plot shprese..
+
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2018-02-15 05:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2018-02-15 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Wake Up">Program argetues</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2018-02-15 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2018-02-15 08:30:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Ne shtepine tone">Programi i Mengjesit </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program qe sugjeron zgjidhje per problemet e vogla e te medha te familjeve qe hasen cdo dite ne shtepi. Eksperte dhe profesioniste te cdo sektori ndihmojne qe te jemi konsumatore te pergjegjshem dhe te kenaqur.
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2018-02-15 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2018-02-15 11:20:00" duration="9600">
+      <short_event_descriptor lang="alb" name="Top Show Magazine">Top show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>C'doni te dini? Kurioziteti juaj shuhet LIVE neTop Show Magazine, revisten e perjaveshme televizive, ku mund te mesoni me shume mbi ngjarje e aktivitete te reja, thashetheme, etj.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2018-02-15 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2018-02-15 14:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2018-02-15 15:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="BCTV" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2018-02-15 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="E zhdukura">Seria 77</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Olivia i kërkon Kristinës të marrë atë si peng në vend të Markos. Kristina  e pranon me kënaqësi, se kështu ka mundësi të hakmerret ndaj refuzimit që i bëri babai i Olivias.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2018-02-15 17:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pasdite ne Tch">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje pasdite interaktive me 'miqte' tane qe jane ne nevoje, me ata qe ia kane dale mbane apo qe nuk rreshtin se perpjekuri... Nje pasdite me argetim e risi... nje pasdite qe te na vere ne mendime dhe te buzeqeshim plot shprese..
+
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2018-02-15 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2018-02-15 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2018-02-15 20:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Te Paekspozuarit">Talk Show </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çfarë po ndodh me qendrën e Tiranës? Tirana e italianëve të Musolinit dhe ajo e italianëve të Edi Ramës...Oligarkët e kullave dhe kullat e oligarkëve...Varianti inteligjent i Erion Veliajt për qendrën e Tiranës?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2018-02-15 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Luther">Pjesa 2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Luteri duhet të kapë një vrasës të stërvitur, i cili ka si mision të vrasë oficerë policie. Me shtimin e viktimave, ai duhet të zbulojë arsyet e vërteta të vrasësit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2018-02-15 23:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2018-02-15 23:40:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2018-02-16 00:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2018-02-16 02:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2018-02-16 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Shpetimtari i shpirtrave">Pjesa 4,5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pas 650 vjet te sherbeses ndaj shpirtrave te njerezve te cilet kane bere marreveshje me Djallin, Morgan Pym boll ka duruar. Ai i kerkon Djallit t'i jape fuqine te shpetoje klientet e tij ne 48 oret e tyre te fundit te jetes.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2018-02-16 04:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Pasdite ne Tch">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje pasdite interaktive me 'miqte' tane qe jane ne nevoje, me ata qe ia kane dale mbane apo qe nuk rreshtin se perpjekuri... Nje pasdite me argetim e risi... nje pasdite qe te na vere ne mendime dhe te buzeqeshim plot shprese..
+
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2018-02-16 05:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2018-02-16 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Wake Up">Program argetues</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2018-02-16 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2018-02-16 08:30:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Ne shtepine tone">Programi i Mengjesit </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program qe sugjeron zgjidhje per problemet e vogla e te medha te familjeve qe hasen cdo dite ne shtepi. Eksperte dhe profesioniste te cdo sektori ndihmojne qe te jemi konsumatore te pergjegjshem dhe te kenaqur.
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2018-02-16 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2018-02-16 11:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Rrathë">Reportazh-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje konkurs me nje cikel reportazhesh, nga reportere te rinj per fate njerezish 
+te harruar, probleme te sotme e te shkuara, endrra te lena pezull, copeza jete...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2018-02-16 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Te Paekspozuarit">Talk Show </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje talk show i debatit fokusuar ne temat me te nxehta te dites ne Shqiperi apo pertej kufijve por qe kane impakt ne vend. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2018-02-16 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2018-02-16 14:40:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2018-02-16 15:45:00" duration="900">
+      <short_event_descriptor lang="alb" name="BCTV" />
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2018-02-16 16:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="E zhdukura">Seria 78</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zhdukja e nje gruaje dhe nene hap kutine e Pandores ne nje familje me sekrete</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2018-02-16 17:00:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Pasdite ne Tch">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje pasdite interaktive me 'miqte' tane qe jane ne nevoje, me ata qe ia kane dale mbane apo qe nuk rreshtin se perpjekuri... Nje pasdite me argetim e risi... nje pasdite qe te na vere ne mendime dhe te buzeqeshim plot shprese..
+
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2018-02-16 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2018-02-16 19:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2018-02-16 20:00:00" duration="7800">
+      <short_event_descriptor lang="alb" name="The Voice Kids Albania II">Show-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje kompeticion i pakrahasueshem, me një kastë të mrekullueshëm artistesh, bashkë për të përzgjedhur vokalin me te mire shqiptar mes femijeve te talentuar</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2018-02-16 22:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mikeshat III">Pjesa 2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Keti, Trudi, Xhesika e Shiboha mblidhen, po gjerat kane ndryshuar, krijohet tension ne dhome e pershendetje miqesore. C'ka ndodhur qe i ka cuar ato deri ketu?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2018-02-16 23:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2018-02-16 23:40:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2018-02-17 00:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2018-02-17 02:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2018-02-17 02:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Shpëtimtari i Shpirtrave">Seria 6,7</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2018-02-17 04:00:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Pasdite ne Tch">Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje pasdite interaktive me 'miqte' tane qe jane ne nevoje, me ata qe ia kane dale mbane apo qe nuk rreshtin se perpjekuri... Nje pasdite me argetim e risi... nje pasdite qe te na vere ne mendime dhe te buzeqeshim plot shprese..
+
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2018-02-17 05:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Fiks fare">Prodhim i Top Channel</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program i cili jo vetem ka trajtuar ceshtjet me te nxehta e te debatuara (sociale, kulturore, politike juridike etj.) por edhe u ka dhene zgjidhje nje pjese te mire te tyre.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2018-02-17 06:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2018-02-17 06:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Të dyshuar II">Seria 6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Luka vazhdon hetimet duke arritur të zbulojë dhe të arrestojë të gjithë personat 
+e përfshirë. Ai zbulon që s'është i dashuruar me Monikën e që zemra e tij është diku tjetër. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2018-02-17 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2018-02-17 08:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente Ninxha">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato u krijuan rastesisht. Ato u mbajten te fshehura. Ato u sterviten per beteja te medha.
+Dhe tani qe qyteti i tyre eshte nen sulm dhe i rrethuar, fati i njerezimit eshte ne duart e ketyre 4 breshkave...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2018-02-17 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Ne shtepine tone">Programi i Mengjesit </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program qe sugjeron zgjidhje per problemet e vogla e te medha te familjeve qe hasen cdo dite ne shtepi. Eksperte dhe profesioniste te cdo sektori ndihmojne qe te jemi konsumatore te pergjegjshem dhe te kenaqur.
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2018-02-17 11:00:00" duration="1200">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2018-02-17 11:20:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Shpella e lotit">Cikli: Arkeologjia</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e lotit dhe e shkaterrimit te Sodomes dhe Gomozes eshte nje histori e jashtezakonshme.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2018-02-17 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="The Voice Kids Albania II">Show-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje kompeticion i pakrahasueshem, me një kastë të mrekullueshëm artistesh, bashkë për të përzgjedhur vokalin me te mire shqiptar mes femijeve te talentuar</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2018-02-17 14:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2018-02-17 14:35:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2018-02-17 15:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gratë e futbollisteve">Pjesa 32</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A do ta perdore Keti armen kur Dariusi te zgjohet dhe ta gjeje veten ne meshiren e saj? Noah eshte shume i lumtur, ai e ka bere me nje vajze dhe ajo e do akoma.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2018-02-17 16:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Vrasje enigmatike 19,20">Sezoni I</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aktorët: Mimi Kuzyk, Joel S.Keller, Jeremy Ratchfod. Skena vrasjeje, hetimi, jetë të këputura dhe një skuadër që çon gjithçka përpara.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2018-02-17 18:30:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2018-02-17 19:10:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Gjurmët Shqiptare IV">Pjesa 23</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si matej koha ne lashtesi? Cilat ishin civilizimet e hershme qe u perpoqen ta kuptonin? Misteri dhe saktesia e njesive te para matese...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2018-02-17 19:50:00" duration="7800">
+      <short_event_descriptor lang="alb" name="Dua të të bëj të lumtur II">Show familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show per te bere njerezit te lumtur, me histori te verteta nga njerez te vertete, te thjeshte, qe duan te bejne te lumtur njerezit e zemres, ose te plotesojne nje enderr te parealizuar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2018-02-17 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mikeshat III">Pjesa 3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Keti, Trudi, Xhesika e Shiboha mblidhen, po gjerat kane ndryshuar, krijohet tension ne dhome e pershendetje miqesore. C'ka ndodhur qe i ka cuar ato deri ketu?</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2018-02-17 23:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2018-02-17 23:40:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Pop Culture">Emision </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pop Culture, nje program me informacionet me te fundit nga showbizz-i  dhe intervista ekskluzive me personazhe me interesante te momentit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2018-02-18 02:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2018-02-18 02:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shpëtimtari i shpirtrave">Pjesa 8,9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ahneel Subrami eshte nje klerik Hindu i cili arriti te fitonte besimin e njerezve duke bere çudira nga nje marreveshje qe beri me djallin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2018-02-18 04:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ishte vellai im">Pjesa 1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy vellezer, bije te nje kapoje te klanit 'Ndrangheta, te cilet detyrohen te ndahen ne moshe te njome, do te jetojne jetet e tyre te ndryshme: njeri ndjek gjurmet e te atit, tjetri i adoptuar nga nje karabinier, do te rritet larg krimit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2018-02-18 06:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2018-02-18 06:30:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Të dyshuar III">Seria 1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pasi bëhet kryeprokuror, Luka Bartoli duhet të mbështesë akuzat kundër Katerinë Fisherit, e cila rrëfen se ka vrarë dashnorin e saj. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2018-02-18 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2018-02-18 08:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Breshkat adoleshente Ninxha">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato u krijuan rastesisht. Ato u mbajten te fshehura. Ato u sterviten per beteja te medha.
+Dhe tani qe qyteti i tyre eshte nen sulm dhe i rrethuar, fati i njerezimit eshte ne duart e ketyre 4 breshkave...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2018-02-18 09:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Top List">Show muzikor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues muzikor qe te con drejt eventit te madh te vitit, ne garen e muzikes shqiptare "Top Awards". Cdo te diel do te ndiqni klsifikimin e 20 hiteve muzikore me te suksesshme te javes. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2018-02-18 11:00:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2018-02-18 11:25:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Gjurmët Shqiptare IV">Pjesa 23</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2018-02-18 12:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Dua të të bëj të lumtur II">Show familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show per te bere njerezit te lumtur, me histori te verteta nga njerez te vertete, te thjeshte, qe duan te bejne te lumtur njerezit e zemres, ose te plotesojne nje enderr te parealizuar. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2018-02-18 14:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2018-02-18 14:40:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Downton Abbey IV">Pjesa 3,4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Krolit organizojnë një festë fundjave, e para që nga lufta. Por një krizë e papritur krijon situata të pakëndshme.Entoni Gillingam kthehet në Dounton që t'i propozojë Merit. Edna përpiqet ta detyrojë Tomin që të martohet me të, ndërkohë që Ana s'i tr</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2018-02-18 16:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="100 Milione">Game Show</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show qe i kalon permasat e nje loje...Nje nderthurje e quiz-it te dijes me lojen e fatit. Midis nje cifti konkurentesh e 100 milione Leke, qendrojne vetem 8 pyetje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2018-02-18 18:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2018-02-18 19:05:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Exclusive">Reportazh</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2018-02-18 19:45:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Keshtjella e Fundit">Aksion, drame</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur ushtaret thyejne ligjin, ata vuajne denimin ne keshtjelle. Karriera e tij e kthehu ate ne nje legjende. Nje gabim i vetem i kushtoi atij lirine.
+Nje gjeneral i denuar nga gjyqi ushtarak behet bashke me 200 te burgosur te tjere per t'u ngritur ku</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2018-02-18 22:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Coupling">Serial</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text />
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2018-02-18 23:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="Lajme, moti ">Redaksia e Informacionit.</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2018-02-18 23:40:00" duration="8400">
+      <short_event_descriptor lang="alb" name="Top List">Show muzikor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje show argetues muzikor qe te con drejt eventit te madh te vitit, ne garen e muzikes shqiptare "Top Awards". Cdo te diel do te ndiqni klsifikimin e 20 hiteve muzikore me te suksesshme te javes</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2018-02-19 02:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2018-02-19 02:30:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Shpëtimtari i shpirtrave">Seria 10,11</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Morgan e mbysin vizione te vdekjes ndersa perpiqet te shpetoje shpirtin e nje shkrimtari te famshem librash per femije.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2018-02-19 04:10:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Ishte vellai im">Pjesa 2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dy vellezer, bije te nje kapoje te klanit 'Ndrangheta, te cilet detyrohen te ndahen ne moshe te njome, do te jetojne jetet e tyre te ndryshme: njeri ndjek gjurmet e te atit, tjetri i adoptuar nga nje karabinier, do te rritet larg krimit. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2018-02-19 06:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Wake Up">Program argetues</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Program i njëkohshëm radio-televiziv në Top Channel dhe Top Albania Radio, që në thelb ka përcjelljen e informacionit më të nevojshëm për mëngjesin. Tema utilitare dhe të ftuar nga aktualiteti, jeta e përditshme urbane, arti e spektakli.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2018-02-19 08:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Lajme, moti">Redaksia e Informacionit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet kryesore te dites nga vendi dhe bota.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2018-02-19 08:30:00" duration="9000">
+      <short_event_descriptor lang="alb" name="Ne shtepine tone">Programi i Mengjesit </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje program qe sugjeron zgjidhje per problemet e vogla e te medha te familjeve qe hasen cdo dite ne shtepi. Eksperte dhe profesioniste te cdo sektori ndihmojne qe te jemi konsumatore te pergjegjshem dhe te kenaqur.
+
+ 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

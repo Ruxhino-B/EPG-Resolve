@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="SuperSport-5">
+    <event id="0" start_time="2021-08-24 04:00:00" duration="28800">
+      <short_event_descriptor lang="alb" name="INFO">Info</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Informacione rreth programeve te SuperSport.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

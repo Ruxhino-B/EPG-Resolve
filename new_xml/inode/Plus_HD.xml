@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="Plus HD">
+    <event id="0" start_time="2017-06-01 12:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Transformimi i shtëpisë">Reality Show </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo shtëpi sado e vogël apo e vjetër të jetë, ka mundësi të jetë e bukur. George Clarke, në bashkëpunim me arkitektët më të mirë, do të transformojë shtëpitë tuaja, në mënyra që nuk i kishit meduar kurrë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2017-06-01 13:30:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Inteligjenca kolektive">Tregimet e ilustruara-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Koleksionistët do të na mirepresin në botën e tyre. Do të na mësojnë se çfarë duhet bërë me objektet e koleksionuara. Nëse doni të kuptoni nga ekspertët tanë sekretet e koleksionimit, më parë duhet të dini historinë e tyre.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2017-06-01 14:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Zogjte e parajses">Natyre, shkence</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne thellesi te pyjeve tropikale, te Guinese se re, plot me ushqim dhe pa grabitqare te rrezikshem, jetojne Zogjte e parajses, qeniet me te bukura ne bote. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2017-06-01 15:05:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Pinguini Mbreteror">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhorxhia e Jugut është një ishull që rrihet nga moti i Antarktidës. Por është gjithashtu një strehë ku vijnë lloj-lloj krijesash... Mes tyre janë dhe Pinguinët Mbretërorë... Ju ftojmë të njiheni me Qytetin e Pinguinëve...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2017-06-01 16:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Zambezia ">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një skifter i ri, shkon në qytetin e magjishëm ku jetojnë zogj të çdo lloji... Por me të mbëritur atje, ai zbulon një sekret, që rrezikon të shkatërrojë gjithçka...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2017-06-01 18:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kung Fu Panda 3">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventurat legjendare të pandës më të shkathët që keni parë ndonjëherë vazhdojnë ende... Këtë herë Po-ja duhet të përballet me dy rreziqe njëherësh: njëri mbinatyror e tjetri fare afër tij...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2017-06-01 19:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Telashe me duzinë 2">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Zoti Bejker donte të kalonte disa ditë pushimesh me familjen. Tani 1 kundërshtar i vjetër do t'ju sjellë telashe të reja. 2 baballarë do të përballen me njëri-tjetrin dhe familja Bejker do të zbuloje ç'do të thotë të jesh një familje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="7" start_time="2017-06-01 21:05:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Gjiri i delfineve ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Taixhi, Japoni, një qytet i vogël që fsheh një sekret shumë të madh... Pse ky vend dhe brigjet e tij konsiderohen si makthi më i keq i delfinëve? </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="8" start_time="2017-06-01 22:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Planeti Tokë 1">Gjeografi, evolucion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nga Poli ne Pol. Para 100 vitesh, në Tokë jetonin 1.5 miliard njerëz. Sot, në planetin tonë të brishtë jetojnë mbi 6 milionë bashkëtokësorë. E megjithatë, ende ka vende thuajse të pashkelura nga këmba e njeriut.  </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="9" start_time="2017-06-01 23:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Udhetim</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="10" start_time="2017-06-02 00:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="11" start_time="2017-06-02 01:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Hapësirat Ultra">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë shtëpitë më të bukura, më të çuditëshmë, më të mëdhaja në botë... Të dizenjuara nga arkitektët më në zë... Na ndiqni çdo javë për tu njohur se përsë këto shtëpi, janë ndërtuar në një mënyrë të tillë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="12" start_time="2017-06-02 02:15:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Inteligjenca kolektive">Tregimet e ilustruara-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Koleksionistët do të na mirepresin në botën e tyre. Do të na mësojnë se çfarë duhet bërë me objektet e koleksionuara. Nëse doni të kuptoni nga ekspertët tanë sekretet e koleksionimit, më parë duhet të dini historinë e tyre.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="13" start_time="2017-06-02 02:50:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Zogjtë e parajsës">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Imagjinoni krijesa aq të bukura sa njerëzit kanë menduar se kanë zbritur drejt e nga parajsa. Krijesa aq të mrekullueshme, sa evropianët e parë që i panë menduan se ato mund t'ia kishin mbathur nga kopshti i Edenit. Njihuni me zogjte e parajsës...</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="14" start_time="2017-06-02 03:45:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="15" start_time="2017-06-02 05:05:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Udhetim-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="16" start_time="2017-06-02 06:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="17" start_time="2017-06-02 06:50:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hapësirat Ultra">Dokumentar-3,4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë shtëpitë më të bukura, më të çuditëshmë, më të mëdhaja në botë... Të dizenjuara nga arkitektët më në zë... Na ndiqni çdo javë për tu njohur se përsë këto shtëpi, janë ndërtuar në një mënyrë të tillë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="18" start_time="2017-06-02 07:55:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Gatim pa kufij">Kulinari-3,4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me kuzhinierë dhe gatime nga e gjithë bota, do të shohim plot risi dhe mëyra nga më të ndryshme të të gatuarit me pasion, për të gjithë adhuruesit e artit të kulinarisë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="19" start_time="2017-06-02 08:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Kronikat e Spiderwick">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Binjakët Xhared, Simon dhe motra e tyre Malori, janë shumë të lumtur që do trasferohen për të jetuar në pyjet e Bostonit, me mamanë e tyre. Atjet ata gjejnë një libër të mistershëm, që do ti çojë në një botë magjike dhe plot aventura.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="20" start_time="2017-06-02 10:30:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Dy vëllezërit">Film artistik</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ngjarjet zhvillohen në Azi. Eshtë historia e nje gjahtari kafshesh dhe antikash dhe një djali të vogel dhe dy vellezerve Tigra.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="21" start_time="2017-06-02 12:20:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Transformimi i shtëpisë">Reality Show-3,4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo shtëpi sado e vogël apo e vjetër të jetë, ka mundësi të jetë e bukur. George Clarke, në bashkëpunim me arkitektët më të mirë, do të transformojë shtëpitë tuaja, në mënyra që nuk i kishit meduar kurrë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="22" start_time="2017-06-02 14:00:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Të ruajmë botën e gjelbër">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Synimi dhe Qëllimi: Të ruajmë botën e gjelbër. Realizuesit: Jeni pikërisht ju... Doni të dini si të përfshiheni në këtë iniciativë? Na ndiqni dhe do të frymëzoheni...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="23" start_time="2017-06-02 14:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Sekrete Kopshtarie">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si arrijnë specialistët e muzeut të famshëm Smithsonian të krijojnë dhe mbajnë kopshte kaq të bukura, duke i kthyer në një mikrounivers të mahnitshëm, pavarësisht temperaturave të ulëta? Këto janë sekretet e kopshteve të famshme muzeale. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="24" start_time="2017-06-02 15:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Duhet t'i duash macet 5">Bota e kafsheve</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhon Fullton, një adhurues i çmendur i maceve, ndërmerr një aventurë në zemër të Amerikës
+në kërkim të felinëve më fantastikë dhe adhuruesve më të çmendur të maceve që ka parë ndonjëherë ky vend.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="25" start_time="2017-06-02 15:50:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Maçoku me çizme">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Të gjithë i njohim bëmat e tij në filmat e Shrek-ut, por tani Fama e 'Maçokut me çizme' merr dhenë. I ndihmuar nga Hampi Dampi dhe Macja putërbutë, ai do të fillojë aventurën e nëntë jetëve të tij, për të shpëtuar qytetin nga e keqja... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="26" start_time="2017-06-02 17:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Udhëtimi i dinosaurit Arlo">Sub. Ang</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë aventurë, një dinozaur i quajtur Arlo miqësohet me një njeri. Ndërkohë që së bashku udhëtojnë përmes një toke misterioze dhe të rrezikshme, Arlo mëson si të përballet me frikën dhe se ç'është i aftë të bëjë kur ai jep gjithçka...
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="27" start_time="2017-06-02 18:45:00" duration="1800">
+      <short_event_descriptor lang="alb" name=" Planeti i Dinosaurëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim nga Arktiku në Afrikë, nga Amerika e Jugut në Azi, për t'u njohur me zbulimet më të fundit mbi dinosaurët. Kërkime që hedhin dritë mbi një brez krejt të ri dinosaurësh, që nga gjigantët më të mëdhenj deri te vrasësit më të zotë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="28" start_time="2017-06-02 19:15:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Udhëtimi i njeriut">Cirku i diellit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje varietet i mrekullueshem ne te cilen shkrihen ne menyre harmonike te gjitha dimensionet e artit: teater, balet, numra akrobatike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="29" start_time="2017-06-02 20:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Mrekullitë e jetës">Dokumentar-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Për mijëra vjet njerëzit janë përpjekur të shpjegojnë çfarë do të thotë të jesh gjallë. Por së fundmi shkenca ka nisur t'i japë përgjigje këtyre pyetjeve: Ç'e bën diçka të gjallë? Cili është ndryshimi mes diçkaje të gjallë e diçkaje të vdekur?
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="30" start_time="2017-06-02 21:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="The Late Late Show ">Talk Show-31</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë episod në studion e James Corden, është e ftuar aktorja Connie Britton, Mark Cuban, pronar i skuadrës së basktbollit Dallas Mavericks dhe në performancën muzikore, Cameron Esposito.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="31" start_time="2017-06-02 21:40:00" duration="2700">
+      <short_event_descriptor lang="alb" name="The Late Late Show ">Talk Show-32</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në studion e James Corden, janë të ftuar aktorët Amanda Peet, Max Greenfield dhe grupi muzikor, Panic! At The Disco.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="32" start_time="2017-06-02 22:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Kafshët fluturuese">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ju prezantojmë me disa nga kafshët më të famshme, të cilat kanë hyrë në histori sepse i kanë shërbyer atdheut, në disa mënyra të pazakonta... 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="33" start_time="2017-06-02 23:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Udhetim-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="34" start_time="2017-06-03 00:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="35" start_time="2017-06-03 01:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hapësirat Ultra">Dokumentar-3, 4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë shtëpitë më të bukura, më të çuditëshmë, më të mëdhaja në botë... Të dizenjuara nga arkitektët më në zë... Na ndiqni çdo javë për tu njohur se përsë këto shtëpi, janë ndërtuar në një mënyrë të tillë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="36" start_time="2017-06-03 02:10:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Inteligjenca kolektive">Disqet-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Koleksionistët do të na mirepresin në botën e tyre. Do të na mësojnë se çfarë duhet bërë me objektet e koleksionuara. Nëse doni të kuptoni nga ekspertët tanë sekretet e koleksionimit, më parë duhet të dini historinë e tyre.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="37" start_time="2017-06-03 02:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Luanët e shkretëtirës">Bota e kafsheve</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Namibia, e eger dhe e pameshirshme, ajo eshte shkretetira me e vjeter e botes. Dikur ketu jetonin luanet, por ata u zhduken krejtesisht. Lajmi se luanet mund te jene kthyer terhoqi ketu nje shkencetar qe po ndjek gjurmet.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="38" start_time="2017-06-03 03:40:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="39" start_time="2017-06-03 04:35:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Të ruajmë botën e gjelbër">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Synimi dhe Qëllimi: Të ruajmë botën e gjelbër. Realizuesit: Jeni pikërisht ju... Doni të dini si të përfshiheni në këtë iniciativë? Na ndiqni dhe do të frymëzoheni...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="40" start_time="2017-06-03 05:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Natyrë-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përtej qyteteve të zhurmshme dhe botës së ndërtuar nga dora njeriut gjendet natyra e pazbutur e kontinentit të Amerikës së Veriut, me të gjitha veçoritë e saj unike, gjallesat, bimësinë dhe formacionet e veçanta gjeologjike. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="41" start_time="2017-06-03 06:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="42" start_time="2017-06-03 06:55:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Hapësirat Ultra">Dokumentar-5,6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë shtëpitë më të bukura, më të çuditëshmë, më të mëdhaja në botë... Të dizenjuara nga arkitektët më në zë... Na ndiqni çdo javë për tu njohur se përsë këto shtëpi, janë ndërtuar në një mënyrë të tillë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="43" start_time="2017-06-03 08:05:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Gatim pa kufij">Kulinari-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me kuzhinierë dhe gatime nga e gjithë bota, do të shohim plot risi dhe mëyra nga më të ndryshme të të gatuarit me pasion, për të gjithë adhuruesit e artit të kulinarisë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="44" start_time="2017-06-03 08:40:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Kampi i baballareve">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Baballaret me shembullore te qytetit do te vendosin te blejne nje kamp veror nga ku do te zene fill edhe aventurat e reja te femijeve te kopshtit te tyre. Gara me nje kamp kundershtar do te vere perballe proves edhe prinderit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="45" start_time="2017-06-03 10:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Ishulli i Nimit">Aventure, fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Vogelushja Nim jeton me te atin ne nje ishull te larget te Paqesorit. Kur babai I saj zhduket papritur Nimi I kerkon ndihme autores se romaneve te saj. Por shkrimtarja eshte ne te vertete nje njeri i pasigurte qe s'ka dale kurre nga shtepia.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="46" start_time="2017-06-03 11:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="47" start_time="2017-06-03 12:20:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Jackie Evancho">Enderro me mua ne koncert</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>11 vjecarja Xheki Evancho ne koncert</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="48" start_time="2017-06-03 13:35:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Vila Vicosa-Aromë Tregu">Natyre-15</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në disa nga tregjet ushqimore më të famshme. Si të përshtatemi me kulturën kulinare të vendeve të ndryshme... Kultura, shija dhe një mënyrë fantastike në eksplorimin e përgatitjes së një pjate të shijshme.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="49" start_time="2017-06-03 14:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Transformimi i shtëpisë">Reality Show </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo shtëpi sado e vogël apo e vjetër të jetë, ka mundësi të jetë e bukur. George Clarke, në bashkëpunim me arkitektët më të mirë, do të transformojë shtëpitë tuaja, në mënyra që nuk i kishit meduar kurrë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="50" start_time="2017-06-03 15:05:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Këmbë të lumtura ">Film per femije</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në tokën e ftohtë të Antarktidës, pinguinët perandorë e gjejnë njëri-tjetrin me anë të një kënge të veçantë dhe zërit të mrekullueshëm. Por për çudinë e të gjithëve, Mabëlli i vogël s'mund të këndojë, por ka një talent të veçante për të kërcyer! Titr</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="51" start_time="2017-06-03 16:45:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Pinguini Mbreteror">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhorxhia e Jugut është një ishull që rrihet nga moti i Antarktidës. Por është gjithashtu një strehë ku vijnë lloj-lloj krijesash... Mes tyre janë dhe Pinguinët Mbretërorë... Ju ftojmë të njiheni me Qytetin e Pinguinëve...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="52" start_time="2017-06-03 18:05:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Delfini Uinter 2-Historia e pa">Familjar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Morgan Freeman. Historia e mrekullueshme dhe e vërtetë e delfinit Uinter. Pasi nëna e tij birësuese ndërron jetë, Uinteri pa dëshirën e tij, do t'i jepet një akuariumi tjetër. Tani ai duhet të gjejë një zgjidhje para se të jetë vonë.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="53" start_time="2017-06-03 19:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Shansi i fundit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ata konsiderohen si 'kafsha besnike e njeriut'... Por sot për Qentë në Botë, shumë pak njerëz interesohen. Ndiqni përpjekjet titanike të disa njerëzve, për të shpëtuar jetën e qenve... 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="54" start_time="2017-06-03 20:40:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Jeta-Sfidat e jetes">Natyre-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ne zbulim te shumellojshmerise se jetes mbi Toke dhe taktikat spektakolare dhe te jashtezakonshme qe kafshet dhe bimet kane zhvilluar per te mbijetuar.  Ky eshte evolucioni ne veprim, krijesat nen presion te madh per te perballuar sfidat me kundersht</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="55" start_time="2017-06-03 21:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kalabria">Italia e mrekullueshme</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Italia e parë nga lart - Xhirime spektakolare nga qielli. Një shëtitje e rrallë për të shijuar artin, natyrën dhe traditën gastronomike! Një rrugëtim në historinë e lashtë të saj dhe civilizimin modern. 
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="56" start_time="2017-06-03 22:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Natyrë-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përtej qyteteve të zhurmshme dhe botës së ndërtuar nga dora njeriut gjendet natyra e pazbutur e kontinentit të Amerikës së Veriut, me të gjitha veçoritë e saj unike, gjallesat, bimësinë dhe formacionet e veçanta gjeologjike. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="57" start_time="2017-06-03 23:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="58" start_time="2017-06-04 00:20:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Hapësirat Ultra">Dokumentar-5, 6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ato janë shtëpitë më të bukura, më të çuditëshmë, më të mëdhaja në botë... Të dizenjuara nga arkitektët më në zë... Na ndiqni çdo javë për tu njohur se përsë këto shtëpi, janë ndërtuar në një mënyrë të tillë...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="59" start_time="2017-06-04 01:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Transformimi i shtëpisë">Reality Show </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Çdo shtëpi sado e vogël apo e vjetër të jetë, ka mundësi të jetë e bukur. George Clarke, në bashkëpunim me arkitektët më të mirë, do të transformojë shtëpitë tuaja, në mënyra që nuk i kishit meduar kurrë.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="60" start_time="2017-06-04 02:15:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Qentë e xhunglës">gjahtari i fshehur i Brazilit</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qentë e xhunglës, rriten mes vështirësive në pyjet e dendura të Brazilit. Për një kohë të gjatë është menduar se kjo specie ishte zhdukur, por krijesa e rrallë u shfaq sërish.  Një tentativë për të shumuar këtë racë të rrallë qensh...
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="61" start_time="2017-06-04 03:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="62" start_time="2017-06-04 04:10:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Sekrete Kopshtarie">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Si arrijnë specialistët e muzeut të famshëm Smithsonian të krijojnë dhe mbajnë kopshte kaq të bukura, duke i kthyer në një mikrounivers të mahnitshëm, pavarësisht temperaturave të ulëta? Këto janë sekretet e kopshteve të famshme muzeale. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="63" start_time="2017-06-04 04:45:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Udhetim-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="64" start_time="2017-06-04 05:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-4</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="65" start_time="2017-06-04 06:30:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Aperture pj.1,2">Fotografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njerez te famshem intervistojne fotografe te njohur te cilet japin kendveshtrimin personal mbi artin qe krijojne, duke eksploruar nga afer dhe tekniken e tyre.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="66" start_time="2017-06-04 07:40:00" duration="4200">
+      <short_event_descriptor lang="alb" name="Gatim pa kufij">Kulinari-7,8</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me kuzhinierë dhe gatime nga e gjithë bota, do të shohim plot risi dhe mëyra nga më të ndryshme të të gatuarit me pasion, për të gjithë adhuruesit e artit të kulinarisë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="67" start_time="2017-06-04 08:50:00" duration="7800">
+      <short_event_descriptor lang="alb" name="I madhi dhe i fuqishmi Oz">Aventurë/Fantazi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Aventura e jashtëzakonshme e 'I madhi dhe i fuqishmi Oz' imagjinon origjinën e magjistarit në librat e L. Frank Baum...Nën regjinë e Sam Raimi.... Me aktorët James Franco, Rachel Weisz, Mila Kunis, Michelle Williams, Bill Cobbs, etj. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="68" start_time="2017-06-04 11:00:00" duration="4800">
+      <short_event_descriptor lang="alb" name="Little Chicken">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje zog i vogel pule duket ndryshe nga te tjeret. Te gjithe e kujtojne deshtak. Nje ngjarje e pazakonte do ta beje Zogun e vogel hero.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="69" start_time="2017-06-04 12:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="70" start_time="2017-06-04 13:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Gatime mbresëlënëse">Gatim-13</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sigurisht, disave iu duket zbavitëse të gatuajnë për familjen, miqtë, të darkojnë së bashku, të hanë, të argëtohen dhe ta shijojnë ushqimin. Por disa mund të mos jenë aq të zellshëm... Atëhere na ndiqni për të mësuar menu të mrekullueshme dhe super t</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="71" start_time="2017-06-04 14:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Të ruajmë botën e gjelbër">Natyre-2,3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Synimi dhe Qëllimi: Të ruajmë botën e gjelbër. Realizuesit: Jeni pikërisht ju... Doni të dini si të përfshiheni në këtë iniciativë? Na ndiqni dhe do të frymëzoheni...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="72" start_time="2017-06-04 15:00:00" duration="2400">
+      <short_event_descriptor lang="alb" name="The Late Late Show ">Talk Show-31</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë episod në studion e James Corden, është e ftuar aktorja Connie Britton, Mark Cuban, pronar i skuadrës së basktbollit Dallas Mavericks dhe në performancën muzikore, Cameron Esposito.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="73" start_time="2017-06-04 15:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="The Late Late Show ">Talk Show-32</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në studion e James Corden, janë të ftuar aktorët Amanda Peet, Max Greenfield dhe grupi muzikor, Panic! At The Disco.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="74" start_time="2017-06-04 16:30:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Xhastin Bibër-Besoj">Muzikë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një pamje nga afër e fenomenit më të ri muzikor të popit amerikan, ngjitja e tij drejt suksesit dhe njerëzit me të cilët punoi për ta arritur këtë, si dhe disa nga performancat më spektakolare të këngëtarit.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="75" start_time="2017-06-04 18:05:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Inkheart-Zemra prej boje">Aventure</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Kur Mo Folchart lexon nje histori, papritur personazhet fillojne e shfaqen. Mo dhe e bija e tij, Megi do te perpiqen te kthejne çdo gje si me pare e nderkohe do te hasen me nje sere aventurash e krijesash magjike.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="76" start_time="2017-06-04 19:55:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Macet e Afrikës ">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Historia e vërtetë dhe e jashtëzakonshme e dy familjeje maçokësh, në përpjekje për të ndërtuar dhe mbrojtur strehën e tyre. Për të mësuar të vegjëlit e tyre sesi të mbijetojnë në vendin me të egër të botës. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="77" start_time="2017-06-04 21:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Jeta-Bimet ">Bimet</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Drama e botes se bimeve s'eshte e mundur te vezhdogohet me sy te lire, por duke perdorur teknologjine me te fundit, te gjitha tregohen. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="78" start_time="2017-06-04 22:25:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Planeti Tokë 4">Gjeografi, evolucion</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Shpellat. Nën këmbët tona, ka kilometra të tera me zgavra shpellash. Shpellën Gllabëruese në Meksikë, 400 m e thellë, sa mund të përpijë një grataçele 200 katëshe, njeriu guxoi ta shkelë vetëm 2 vjet para se të shkonte në hënë.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="79" start_time="2017-06-04 23:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Natyrë-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përtej qyteteve të zhurmshme dhe botës së ndërtuar nga dora njeriut gjendet natyra e pazbutur e kontinentit të Amerikës së Veriut, me të gjitha veçoritë e saj unike, gjallesat, bimësinë dhe formacionet e veçanta gjeologjike. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="80" start_time="2017-06-05 00:15:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="81" start_time="2017-06-05 01:10:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Aperture pj.1">Fotografi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Njerez te famshem intervistojne fotografe te njohur te cilet japin kendveshtrimin personal mbi artin qe krijojne, duke eksploruar nga afer dhe tekniken e tyre.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="82" start_time="2017-06-05 01:40:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Sulmi i milingonave">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mund te quhet vrasesi me i afte ne toke, nje ushtri milingonash afrikane. Nje force luftarake elite, 20 milione motra dhe pak meshkuj, qe veprojne si nje trup i vetem, familja me e madhe e planetit.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="83" start_time="2017-06-05 02:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Guida turistike e planetëve 1">Jupiteri</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në planetet e sistemit tonë diellor. Për të ndjekur gjurmët e robotëve. Për të zbuluar planete, ku njeriu nuk ka shkelur kurrë më parë. Një vizitë për të eksploruar fqinjët tanë.
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="84" start_time="2017-06-05 03:25:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="85" start_time="2017-06-05 04:25:00" duration="1500">
+      <short_event_descriptor lang="alb" name="Të ruajmë botën e gjelbër">Natyre-2,3</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Synimi dhe Qëllimi: Të ruajmë botën e gjelbër. Realizuesit: Jeni pikërisht ju... Doni të dini si të përfshiheni në këtë iniciativë? Na ndiqni dhe do të frymëzoheni...
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="86" start_time="2017-06-05 05:00:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Natyrë-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përtej qyteteve të zhurmshme dhe botës së ndërtuar nga dora njeriut gjendet natyra e pazbutur e kontinentit të Amerikës së Veriut, me të gjitha veçoritë e saj unike, gjallesat, bimësinë dhe formacionet e veçanta gjeologjike. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="87" start_time="2017-06-05 05:55:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="88" start_time="2017-06-05 06:50:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Kina: Perëndimi takohet me lin">Muzetë e medhenj</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nuk ka metodë më të mirë për të kuptuar mentalitetin kinez sesa përmes artit.... Kina: Perëndimi takohet me Lindjen, në muzeun metropolitan të artit - aty do të gjeni mënyrën e jetesës, praktikat sociale dhe filozofinë kineze.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="89" start_time="2017-06-05 07:50:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mbretëreshat e Maturës">Reality</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mbrëmja e maturës është ceremoni e shenjtë për çdo vajzë, pasi aty përballen egot, fustanet e shtrenjtë dhe rivalitetet. Në këtë cikël, një grup specialistësh do t'i ndihmojë vajzat që të fitojnë titullin e mbretëreshës.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="90" start_time="2017-06-05 08:40:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Gatim pa kufij">Kulinari-9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me kuzhinierë dhe gatime nga e gjithë bota, do të shohim plot risi dhe mëyra nga më të ndryshme të të gatuarit me pasion, për të gjithë adhuruesit e artit të kulinarisë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="91" start_time="2017-06-05 09:15:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Zogjtë e Stuhise              ">Një skuadër speciale                                            </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhef Trejsi ka punen me te rrezikshme dhe me te rendesishme. Atij i duhet te shpetoje boten çdo dite. Por kete e ben ne saje te anijeve te tij hapesinore fantastike te quajtura Zogjte e Stuhise. Por kjo organizate eshte teper sekrete.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="92" start_time="2017-06-05 10:45:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Shrek 1">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ndiqni vazhdimin e historise se Shrekut dhe Fiones. Viziten e tyre ne shtepine e Fiones dhe veshtiresite qe do te hasin ata atje.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="93" start_time="2017-06-05 12:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Taylor Swift">Journey to fearless</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Koncerti Live i kantautores amerikane të muzikës Country Pop, Taylor Swift, për promovimin e albumit të saj të dytë Fearless. Por nuk do të mungojnë dhe shumë të ftuar Kellie Pickler,  Gloriana, Molo Eight si dhe  Justin Bieber.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="94" start_time="2017-06-05 13:05:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Një idiot nëpër botë">Egjipti-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ai është një Homer Simpson i jetës reale: i trashë dhe idiot... Ai është Karl Pilkinton, i cili do të nis një xhiro në mrekullitë e botës dhe do të raportojë sipas këndvështrimit të tij, gjithcka që sheh, duke hapur një minierë komedie...
+
+
+
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="95" start_time="2017-06-05 13:55:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Mrekullitë e universit">Fati-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pse jemi këtu? Nga vijmë? Këto janë pyetjet që nuk rreshtin kurrë. Dëshira për të gjetur përgjigjet është pjesë esenciale e natyrës së njeriut. Historia jonë fillon me fillimin e universit dhe ky serial tenton të tregoj këtë histori. 
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="96" start_time="2017-06-05 15:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Pandat gjigante ">Natyre-2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pandat gjigante kanë jetuar në pyjet e Kinës Qendrore prej mijëra vjetësh. Por ariu më i preferuar në botë është në telazhe serioze. Kanë mbetur më pak se 2 mijë. Për të mbrojtur, në këtë qendër po zhvillohet një eksperiment i guximshëm.
+ </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="97" start_time="2017-06-05 15:35:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Natyra e jetës">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Sa po e ndryshojnë klimen e Tokës, mënyrat tona moderne të të jetuarit? Pse shkencëtarët lëshojnë alarmin se mbijetesa po bëhet e pamundur?Cilat janë zgjidhjet që do të revolucionarizojnë të ardhmen e species sonë.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="98" start_time="2017-06-05 16:35:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Udhëtari i oqeanit">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Notimi i parë i një balene të sapolindur, përkrah nënës së tij gjigjande. Kultura e veçantë, në të cilën balenat rriten dhe rreziqet e muajve të parë të jetës. Mënyrat impresionuese të komunikimit dhe si arrijnë të mësojnë këngën e tyre.  
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="99" start_time="2017-06-05 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="100" start_time="2017-06-05 18:00:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Pinguinët e z. Poper">Komedi familjare</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>J.Carrey, C.Gugino. Tomi ka braktisur miqtë, veten, madje edhe familjen me qëllimin e vetëm që të bëhet një nga biznesmenët më të suksesshëm. Por jeta e tij do të ndryshojë përgjithmonë kur ai merr një pako misterioze nga babai i tij.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="101" start_time="2017-06-05 19:35:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Naço Luftetari">Komedi</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Naço ishte rritur jetim dhe askush me mire se ai s'e dinte se sa nevoje kishin femijet e jetimores ku punonte si kuzhinier per nje hero.Keshtu, vendosi te luftonte per ta dhe per te fituar simpatine e te bukures 'moter Enkarnasion'.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="102" start_time="2017-06-05 21:05:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Amazona - Shtigje panoramike ">nëpër botë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një lundrim në Amazon, lumin më të madh në botë, për të  eksploruar territoret e brendshme shumë të pasura të vendit.ishullin Marajo, qytetit e madh Manaus, që dikur quhej "Parisi i Tropikut".</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="103" start_time="2017-06-05 22:05:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Nëpër botë                    ">Nju Jork</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim për të eksploruar qytetet më të mëdhenj të botës: Singapor, Kili, Nju Jork, Meksik, Malajzi, Buenos Aries në mënyrë ekologjike. Do takojmë banorët vendas për të mësuar mënyra të reja për të mbrojtur planetin tonë.     
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="104" start_time="2017-06-05 22:40:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Natyrë-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Përtej qyteteve të zhurmshme dhe botës së ndërtuar nga dora njeriut gjendet natyra e pazbutur e kontinentit të Amerikës së Veriut, me të gjitha veçoritë e saj unike, gjallesat, bimësinë dhe formacionet e veçanta gjeologjike. 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="105" start_time="2017-06-05 23:35:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Aventurieri Frenk në Brazil">Aventure-5</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një rrugëtim i rrezikshëm, zbavitës dhe emocionues. Një udhëtim në xhunglën më të madhe në botë, në Amazonë. Ku do të na shoqërojë Franku.Sepse pasioni i tij për jetën e egër, i mund të gjitha.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="106" start_time="2017-06-06 00:25:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Kina: Perëndimi takohet me lin">Muzetë e medhenj</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nuk ka metodë më të mirë për të kuptuar mentalitetin kinez sesa përmes artit.... Kina: Perëndimi takohet me Lindjen, në muzeun metropolitan të artit - aty do të gjeni mënyrën e jetesës, praktikat sociale dhe filozofinë kineze.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="107" start_time="2017-06-06 01:30:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mbretëreshat e Maturës">Reality</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mbrëmja e maturës është ceremoni e shenjtë për çdo vajzë, pasi aty përballen egot, fustanet e shtrenjtë dhe rivalitetet. Në këtë cikël, një grup specialistësh do t'i ndihmojë vajzat që të fitojnë titullin e mbretëreshës.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="108" start_time="2017-06-06 02:20:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Gatim pa kufij">Kulinari-9</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me kuzhinierë dhe gatime nga e gjithë bota, do të shohim plot risi dhe mëyra nga më të ndryshme të të gatuarit me pasion, për të gjithë adhuruesit e artit të kulinarisë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="109" start_time="2017-06-06 02:55:00" duration="5100">
+      <short_event_descriptor lang="alb" name="Zogjtë e Stuhise              ">Një skuadër speciale                                            </short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Xhef Trejsi ka punen me te rrezikshme dhe me te rendesishme. Atij i duhet te shpetoje boten çdo dite. Por kete e ben ne saje te anijeve te tij hapesinore fantastike te quajtura Zogjte e Stuhise. Por kjo organizate eshte teper sekrete.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="110" start_time="2017-06-06 04:25:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Pas kuintave-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="111" start_time="2017-06-06 05:15:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Gorillat e malit  Ep.1">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qëndresa e fundit e mbretit kurriz-argjend. Titusi, kurriz-argjendi i vjetër në Virunga, përballet me fatin e tij në një përleshje brutale me një mashkull rival për të mbrojtur familjen e tij...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="112" start_time="2017-06-06 06:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Macet">Natyrë-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh për mikeshat tona më dredharake, macet. Ato janë me ngjyra e tipare nga më të ndryshmet, por çfarë i motivon më shumë ato në jetën e përditshme?
+Gjithçka që duhet të dimë për macet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="113" start_time="2017-06-06 07:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mbretëreshat e Maturës">Reality</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mbrëmja e maturës është ceremoni e shenjtë për çdo vajzë, pasi aty përballen egot, fustanet e shtrenjtë dhe rivalitetet. Në këtë cikël, një grup specialistësh do t'i ndihmojë vajzat që të fitojnë titullin e mbretëreshës.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="114" start_time="2017-06-06 08:00:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Gatim pa kufij">Kulinari-10</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me kuzhinierë dhe gatime nga e gjithë bota, do të shohim plot risi dhe mëyra nga më të ndryshme të të gatuarit me pasion, për të gjithë adhuruesit e artit të kulinarisë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="115" start_time="2017-06-06 08:35:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Vajza rebele">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje adoleshente me karakter te padisiplinuar, qe jetonte mes luksit ne L.A. dergohet nga I ati ne nje kolegj te rrepte ne Angli. Aty do te perballet me nje realitet krejt te ndryshem qe do ta detyroje te nxjerre ne pah ane te tjera te karakterit te s</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="116" start_time="2017-06-06 10:10:00" duration="6000">
+      <short_event_descriptor lang="alb" name="Rapanzëll">Film vizatimor</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Hajduti më i kërkuar i mbretërisë, Flynn Rider fshihet në një kullë misterioze dhe aty takon Rapanzëll, një princeshë me flokë të gjatë, që kanë edhe veti magjike. Ajo pranon të dalë jashtë dhe të dy do të nisin një udhëtim të mrekullueshëm, plot nga</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="117" start_time="2017-06-06 11:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Atlasi i kafshëve">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>A jeni gati të pushtojmë mbretërinë e kafshëve? Të njiheni me jetën e egër?  Një eksplorim i rrallë i botës së kafshëve anë e mbanë globit, në xhungë, në shkretetirë, në savanë, nën ujë, në Arktik, kudo, në çdo vend ku jetojnë kafshët. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="118" start_time="2017-06-06 12:20:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Taylor Swift 2">Journey to fearless</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Koncerti Live i kantautores amerikane të muzikës Country Pop, Taylor Swift, për promovimin e albumit të saj të dytë Fearless. Por nuk do të mungojnë dhe shumë të ftuar Kellie Pickler,  Gloriana, Molo Eight si dhe  Justin Bieber.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="119" start_time="2017-06-06 13:10:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Tibeti">Cikli: Kina e pazbuluar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Tibeti, edhe pse nje province e Kines per me shume se 50 vjet, ai ka nje karakter te veçante, te formuar prej me shume se 1 mije vitesh budizem. Nje tradite e gjate bashkejetese paqesore me gjallesat dhe mjedisin.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="120" start_time="2017-06-06 14:05:00" duration="2100">
+      <short_event_descriptor lang="alb" name="Arratisje ne Karaibe">Aruba</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ujera te kaltra, diell i ngrohte, kultura te ndryshme. Udhetimi do te preke brigjet e Venezueles ne Aruba, me pas ne jug, ne vendin e virgjer, ne Kuraçao dhe rezortet e tij te shumta te njohur si ishujt hollandeze.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="121" start_time="2017-06-06 14:40:00" duration="6600">
+      <short_event_descriptor lang="alb" name="Carli/fabrika e çokollatave">Willie Wonka</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Pese femijet më me fat ne gjithe boten do te fitojne bileten per te vizituar fabriken e çokollatave me te mrekullueshme ne bote. Uilli Uonka ka nje plan. Ai do te zgjedhe vetem njerin prej tyre qe ta beje trashegimtarin e tij.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="122" start_time="2017-06-06 16:30:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Modern family">Sezoni I</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vështrim satirik i tri familjeve dhe ideve të secilit se kush është familja moderne. Secila nga familjet ka diçka të veçantë, që i bën situatat e tyre sa komike aq edhe dramatike...
+
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="123" start_time="2017-06-06 17:25:00" duration="5700">
+      <short_event_descriptor lang="alb" name="Once Upon a Time">Serial 1,2</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Ginnifer Goodwin, Jennifer Morrison. Kandidat për 3 çmime Emmy dhe 17 çmime të tjera televizive. Nga krijuesit e 'Lost' vjen një serial me një imagjinatë të jashtëzakonshme, ku bota e përrallave dhe ajo reale, bëhen një... </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="124" start_time="2017-06-06 19:00:00" duration="7500">
+      <short_event_descriptor lang="alb" name="Xhurasik Park II">Bota e humbur</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Katër vjet pas dështimit të Parkut Xhurasik, Xhon Hambond i beson shkencëtarit Ian një sekret. Ekzistonte edhe një ishull tjetër ku rriteshin dinosauret. Dhe tani ky ishull rrezikohej të bëhej pre e njerëzve të etur për para. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="125" start_time="2017-06-06 21:05:00" duration="4500">
+      <short_event_descriptor lang="alb" name="Përbindësha fluturues         ">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një udhëtim në të shkuarën, për të zbuluar se kush ishin zvarranikë e parë që fluturuan? Ata që me një fluturim, mund të përshkonin gjysmën e botës? Por pse u ngritën në ajër?
+Si fluturuan?  Dhe përse u zhdukën më pas? 
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="126" start_time="2017-06-06 22:20:00" duration="3300">
+      <short_event_descriptor lang="alb" name="Krishtlindje në Jellouston">Natyre</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një vend i egër e i pastër si dëbora. Jelloustoni në dimër në çdo drejtim të lë pa fjalë. Bukuria e atij vendi ka një fuqi aq imponuese sa vizitorët tërhiqen nga madhështia e tij. Një vizitë në Jellouston për Krishtlindje...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="127" start_time="2017-06-06 23:15:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Amerika e Veriut">Pas kuintave-6</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentar mbi mrekullitë që fsheh Amerika e Veriut. Pas 5 vitesh xhirime, vjen një ngjarje epike e paharrushme televizive. Aty ku civilizimi përplaset me shkretëtirën e egër. Pyje të pafundme, male të pashkelura, brigje të virgjëra. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="128" start_time="2017-06-07 00:05:00" duration="3900">
+      <short_event_descriptor lang="alb" name="Gorillat e malit  Ep.1">Dokumentar</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Qëndresa e fundit e mbretit kurriz-argjend. Titusi, kurriz-argjendi i vjetër në Virunga, përballet me fatin e tij në një përleshje brutale me një mashkull rival për të mbrojtur familjen e tij...
+
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="129" start_time="2017-06-07 01:10:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Macet">Natyrë-1</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Një cikël dokumentarësh për mikeshat tona më dredharake, macet. Ato janë me ngjyra e tipare nga më të ndryshmet, por çfarë i motivon më shumë ato në jetën e përditshme?
+Gjithçka që duhet të dimë për macet.
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="130" start_time="2017-06-07 02:00:00" duration="3000">
+      <short_event_descriptor lang="alb" name="Mbretëreshat e Maturës">Reality</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Mbrëmja e maturës është ceremoni e shenjtë për çdo vajzë, pasi aty përballen egot, fustanet e shtrenjtë dhe rivalitetet. Në këtë cikël, një grup specialistësh do t'i ndihmojë vajzat që të fitojnë titullin e mbretëreshës.
+ 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="131" start_time="2017-06-07 02:50:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Gatim pa kufij">Kulinari-10</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Në këtë cikël dokumentarësh me kuzhinierë dhe gatime nga e gjithë bota, do të shohim plot risi dhe mëyra nga më të ndryshme të të gatuarit me pasion, për të gjithë adhuruesit e artit të kulinarisë. 
+</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="132" start_time="2017-06-07 03:20:00" duration="5400">
+      <short_event_descriptor lang="alb" name="Vajza rebele">Aventurë</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Nje adoleshente me karakter te padisiplinuar, qe jetonte mes luksit ne L.A. dergohet nga I ati ne nje kolegj te rrepte ne Angli. Aty do te perballet me nje realitet krejt te ndryshem qe do ta detyroje te nxjerre ne pah ane te tjera te karakterit te s</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>

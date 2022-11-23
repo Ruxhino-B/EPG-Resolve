@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<WIDECAST_DVB>
+  <channel name="RTSH Sport">
+    <event id="0" start_time="2021-12-09 15:00:00" duration="7200">
+      <short_event_descriptor lang="alb" name="Bayern-Barcelona">Futboll-Rts</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Champions League, sezoni 2021-2022.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="1" start_time="2021-12-09 17:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League">Futboll</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e ndeshjeve te te dites se 6-te ne fazen e grupeve te CHL. </text>
+      </extended_event_descriptor>
+    </event>
+    <event id="2" start_time="2021-12-09 18:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="3" start_time="2021-12-09 19:00:00" duration="2700">
+      <short_event_descriptor lang="alb" name="Kujtesa e Sportit">Futboll-Nostalgji</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Dokumentar per figuren e Ali Memes. Gjithcka per jeten dhe karrieren e shquar sportive te ish lojtarit bardhe e blu dhe te perfaqesueses.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="4" start_time="2021-12-09 19:45:00" duration="6300">
+      <short_event_descriptor lang="alb" name="Rukbrika Sportive">Emision-Live</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Analiza dhe diskutime per javen e 12-te ne Abissnet Superiore.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="5" start_time="2021-12-09 21:30:00" duration="1800">
+      <short_event_descriptor lang="alb" name="Champions League">Permbledhje golash</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Permbledhje e ndeshjeve te te dites se 6-te ne fazen e grupeve te CHL.</text>
+      </extended_event_descriptor>
+    </event>
+    <event id="6" start_time="2021-12-09 22:00:00" duration="3600">
+      <short_event_descriptor lang="alb" name="Rtsh Sport Lajme">Lajme sportive</short_event_descriptor>
+      <extended_event_descriptor lang="alb">
+        <text>Lajmet me te rendesishme sportive te dites.</text>
+      </extended_event_descriptor>
+    </event>
+  </channel>
+</WIDECAST_DVB>
